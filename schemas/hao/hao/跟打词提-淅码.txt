@@ -32556,7 +32556,7 @@
 𡆭	ufkg
 𡆮	umf
 𡆯	udsk
-𡆰	uoup
+𡆰	urp
 𡆱	ublc
 𡆲	uxc
 𡆳	udup
@@ -36293,7 +36293,7 @@
 𢁟	xuwk
 𢁠	uod
 𢁡	uwjo
-𢁢	urp
+𢁢	urpv
 𢁣	uxcp
 𢁤	ukgc
 𢁥	vku
@@ -43123,7 +43123,7 @@
 𣬘	hhyw
 𣬙	yih
 𣬚	zhhz
-𣬛	cou
+𣬛	crp
 𣬜	oah
 𣬝	ofuk
 𣬞	okgc
@@ -43163,7 +43163,7 @@
 𣭀	sdou
 𣭁	lhou
 𣭂	ioou
-𣭃	coup
+𣭃	cou
 𣭄	swou
 𣭅	mcou
 𣭆	oniq
@@ -79702,7 +79702,7 @@
 𬬦	tmhn
 𬬧	clrk
 ⼓	sncp
-𬬨	crp
+𬬨	crpv
 𬬪	ciq
 ⼔	hscp
 𬬬	cqhk
@@ -131636,7 +131636,7 @@
 𡆭	ufkg
 𡆮	umff
 𡆯	udsk
-𡆰	uoup
+𡆰	urpv
 𡆱	ublc
 𡆲	uxcp
 𡆳	udup
@@ -142203,7 +142203,7 @@
 𣬘	hhyw
 𣬙	yiha
 𣬚	zhhz
-𣬛	coup
+𣬛	crpv
 𣬜	oahp
 𣬝	ofuk
 𣬞	okgc

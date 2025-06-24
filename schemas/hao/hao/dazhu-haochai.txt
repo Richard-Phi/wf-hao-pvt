@@ -32955,7 +32955,7 @@
 囗一,UdFhKg	𡆭
 囗士,UdMf	𡆮
 囗山,UdDs	𡆯
-囗,UdOu	𡆰
+囗二乚,UdRlPv	𡆰
 囗彡,UdBl	𡆱
 囗亡,UdXc	𡆲
 囗巳,UdDu	𡆳
@@ -37952,8 +37952,8 @@
 彳田,JbFmSl	𢔲
 彳又丶丶虫,JbWiOeJw	𢔳
 彳五口阝,JbJiIqTj	𢔴
-彳井龶冂,JbBzZhZv	𢔵
 彳井王冂,JbBzGiZv	𢔵
+彳井龶冂,JbBzZhZv	𢔵
 彳見寸,JbScLw	𢔶
 彳犭屮王,JbLeIaGi	𢔷
 彳鬲,JbPw	𢔸
@@ -43559,7 +43559,7 @@
 匕罒匕火廾,HsHsYtWh	𣬘
 立口匕立口儿,YqIqHsAh	𣬙
 匕匕兔兔,ZhHsHsZh	𣬚
-丿,CkOu	𣬛
+丿二乚,CkRlPv	𣬛
 毛儿,OuAh	𣬜
 毛了,OuFu	𣬝
 毛刀,OuKg	𣬞
@@ -52059,8 +52059,8 @@
 ⺮亻丨矢,ZiKjKsEu	𥱌
 ⺮車几丶,ZiJlPsOe	𥱍
 ⺮廿㇗冂土,ZiXkPvBm	𥱎
-⺮井王冂,ZiBzGiZv	𥱏
 ⺮井龶冂,ZiBzZhZv	𥱏
+⺮井王冂,ZiBzGiZv	𥱏
 ⺮口里,ZiIqDn	𥱐
 ⺮⺷儿厶,ZiIdAhNd	𥱑
 ⺮氵工人人,ZiHgNvSi	𥱒

@@ -32556,7 +32556,7 @@ unvf	𡆬
 ufkg	𡆭
 umf	𡆮
 udsk	𡆯
-uoup	𡆰
+urp	𡆰
 ublc	𡆱
 uxc	𡆲
 udup	𡆳
@@ -36293,7 +36293,7 @@ ukgc	𢁞
 xuwk	𢁟
 uod	𢁠
 uwjo	𢁡
-urp	𢁢
+urpv	𢁢
 uxcp	𢁣
 ukgc	𢁤
 vku	𢁥
@@ -43123,7 +43123,7 @@ hhsw	𣬗
 hhyw	𣬘
 yih	𣬙
 zhhz	𣬚
-cou	𣬛
+crp	𣬛
 oah	𣬜
 ofuk	𣬝
 okgc	𣬞
@@ -43163,7 +43163,7 @@ oelf	𣬿
 sdou	𣭀
 lhou	𣭁
 ioou	𣭂
-coup	𣭃
+cou	𣭃
 swou	𣭄
 mcou	𣭅
 oniq	𣭆
@@ -79702,7 +79702,7 @@ tgio	𬬥
 tmhn	𬬦
 clrk	𬬧
 sncp	⼓
-crp	𬬨
+crpv	𬬨
 ciq	𬬪
 hscp	⼔
 cqhk	𬬬
@@ -131636,7 +131636,7 @@ unvf	𡆬
 ufkg	𡆭
 umff	𡆮
 udsk	𡆯
-uoup	𡆰
+urpv	𡆰
 ublc	𡆱
 uxcp	𡆲
 udup	𡆳
@@ -142203,7 +142203,7 @@ hhsw	𣬗
 hhyw	𣬘
 yiha	𣬙
 zhhz	𣬚
-coup	𣬛
+crpv	𣬛
 oahp	𣬜
 ofuk	𣬝
 okgc	𣬞

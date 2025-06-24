@@ -298,7 +298,6 @@ Ot	小
 Ot	⺌
 Ot	
 Ou	毛
-Ou	
 Oy	厂
 Oy	⺁
 Oz	食

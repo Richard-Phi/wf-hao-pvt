@@ -298,7 +298,6 @@ Flr	小
 Flr	
 Flr	⺌
 Gye	毛
-Gye	
 Zkr	厂
 Zkr	⺁
 Nai	食
