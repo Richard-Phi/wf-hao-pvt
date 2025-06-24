@@ -84,7 +84,6 @@ Lsi	戶
 Lsi	戸
 Lsi	
 Syr	卯
-Syr	丣
 Syr	
 Syr	
 Tjr	饣

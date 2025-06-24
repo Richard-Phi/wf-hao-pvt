@@ -84,7 +84,6 @@ Fk	戶
 Fk	戸
 Fk	
 Fm	卯
-Fm	丣
 Fm	
 Fm	
 Fn	饣

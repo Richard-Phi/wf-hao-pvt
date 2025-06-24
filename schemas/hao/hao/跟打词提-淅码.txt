@@ -10581,7 +10581,7 @@
 丗	fhff
 丠	nhfh
 両	fzd
-丣	fmff
+丣	fke
 丩	htpk
 丮	ppck
 丯	zhck
@@ -13683,7 +13683,7 @@
 桳	anx
 桵	atsm
 桸	aogu
-桺	afmf
+桺	afke
 桻	ajzh
 桼	ashg
 桽	assb
@@ -20651,7 +20651,7 @@
 駲	gjj
 駳	gclv
 駴	giwh
-駵	gfmf
+駵	gfke
 駶	gmpi
 駷	guho
 駸	gse
@@ -27719,7 +27719,7 @@
 䱓	xcmv
 䱔	xkkr
 䱕	xlqt
-䱖	xfmf
+䱖	xfke
 䱗	qwxl
 䱘	zkxl
 䱙	xdfw
@@ -29312,7 +29312,7 @@
 𠓱	xbbx
 𠓲	xxga
 𠓳	sgfm
-𠓴	sgfm
+𠓴	sgfe
 𠓵	xxoo
 𠓶	deux
 𠓷	xxoo
@@ -33685,7 +33685,7 @@
 𡘠	czlx
 𡘡	dxio
 𡘢	zaes
-𡘣	xfmf
+𡘣	xfke
 𡘤	xvjp
 𡘥	byx
 𡘦	zxjz
@@ -42849,7 +42849,7 @@
 𣨄	qtiq
 𣨅	qtlw
 𣨆	qdah
-𣨇	qfmf
+𣨇	qfke
 𣨈	qgno
 𣨉	qwfu
 𣨊	qpn
@@ -46751,7 +46751,7 @@
 𤥔	pqgo
 𤥕	grow
 𤥖	gusp
-𤥗	gfmf
+𤥗	gfke
 𤥘	gsow
 𤥙	gfyw
 𤥚	gjlr
@@ -48561,7 +48561,7 @@
 𥁳	hvkb
 𥁴	isbb
 𥁵	hikb
-𥁶	fbkf
+𥁶	fkeb
 𥁷	hcdb
 𥁸	vswb
 𥁹	aabk
@@ -50859,7 +50859,7 @@
 𥥵	zidk
 𥥶	zcmv
 𥥸	zszp
-𥥹	zfmf
+𥥹	zfke
 𥥺	zpee
 𥥻	zfjn
 𥥼	zjzf
@@ -53922,7 +53922,7 @@
 𦕹	qegn
 𦕺	wqgf
 𦕻	qclw
-𦕼	qfmf
+𦕼	qfke
 𦕽	qkjk
 𦕾	qqiq
 𦕿	qqpv
@@ -55524,7 +55524,7 @@
 𦯁	wufi
 𦯂	wowj
 𦯃	wmpi
-𦯄	wfmf
+𦯄	wfke
 𦯅	wgma
 𦯆	wpe
 𦯇	wwah
@@ -63165,7 +63165,7 @@
 𨦭	telz
 𨦮	hktk
 𨦯	tjqi
-𨦰	tfmf
+𨦰	tfke
 𨦱	tclw
 𨦲	tbna
 𨦳	tzsi
@@ -67447,7 +67447,7 @@
 𩩲	fjsx
 𩩳	fhdn
 𩩴	fufi
-𩩵	fke
+𩩵	fkee
 𩩶	fozo
 𩩷	fyob
 𩩸	fgo
@@ -70230,7 +70230,7 @@
 𪕗	sqk
 𪕘	qqkp
 𪕙	qzfi
-𪕚	qfmf
+𪕚	qfke
 𪕛	qtpi
 𪕜	qipx
 𪕝	quzo
@@ -109661,7 +109661,7 @@
 丗	fhff
 丠	nhfh
 両	fzds
-丣	fmff
+丣	fkee
 丩	htpk
 丮	ppck
 丯	zhck
@@ -112763,7 +112763,7 @@
 桳	anxg
 桵	atsm
 桸	aogu
-桺	afmf
+桺	afke
 桻	ajzh
 桼	ashg
 桽	assb
@@ -119731,7 +119731,7 @@
 駲	gjjv
 駳	gclv
 駴	giwh
-駵	gfmf
+駵	gfke
 駶	gmpi
 駷	guho
 駸	gsew
@@ -126799,7 +126799,7 @@
 䱓	xcmv
 䱔	xkkr
 䱕	xlqt
-䱖	xfmf
+䱖	xfke
 䱗	qwxl
 䱘	zkxl
 䱙	xdfw
@@ -128392,7 +128392,7 @@
 𠓱	xbbx
 𠓲	xxga
 𠓳	sgfm
-𠓴	sgfm
+𠓴	sgfe
 𠓵	xxoo
 𠓶	deux
 𠓷	xxoo
@@ -132765,7 +132765,7 @@
 𡘠	czlx
 𡘡	dxio
 𡘢	zaes
-𡘣	xfmf
+𡘣	xfke
 𡘤	xvjp
 𡘥	byxi
 𡘦	zxjz
@@ -141929,7 +141929,7 @@
 𣨄	qtiq
 𣨅	qtlw
 𣨆	qdah
-𣨇	qfmf
+𣨇	qfke
 𣨈	qgno
 𣨉	qwfu
 𣨊	qpnb
@@ -145831,7 +145831,7 @@
 𤥔	pqgo
 𤥕	grow
 𤥖	gusp
-𤥗	gfmf
+𤥗	gfke
 𤥘	gsow
 𤥙	gfyw
 𤥚	gjlr
@@ -147641,7 +147641,7 @@
 𥁳	hvkb
 𥁴	isbb
 𥁵	hikb
-𥁶	fbkf
+𥁶	fkeb
 𥁷	hcdb
 𥁸	vswb
 𥁹	aabk
@@ -149939,7 +149939,7 @@
 𥥵	zidk
 𥥶	zcmv
 𥥸	zszp
-𥥹	zfmf
+𥥹	zfke
 𥥺	zpee
 𥥻	zfjn
 𥥼	zjzf
@@ -153002,7 +153002,7 @@
 𦕹	qegn
 𦕺	wqgf
 𦕻	qclw
-𦕼	qfmf
+𦕼	qfke
 𦕽	qkjk
 𦕾	qqiq
 𦕿	qqpv
@@ -154604,7 +154604,7 @@
 𦯁	wufi
 𦯂	wowj
 𦯃	wmpi
-𦯄	wfmf
+𦯄	wfke
 𦯅	wgma
 𦯆	wpee
 𦯇	wwah
@@ -162245,7 +162245,7 @@
 𨦭	telz
 𨦮	hktk
 𨦯	tjqi
-𨦰	tfmf
+𨦰	tfke
 𨦱	tclw
 𨦲	tbna
 𨦳	tzsi
@@ -169310,7 +169310,7 @@
 𪕗	sqkp
 𪕘	qqkp
 𪕙	qzfi
-𪕚	qfmf
+𪕚	qfke
 𪕛	qtpi
 𪕜	qipx
 𪕝	quzo
