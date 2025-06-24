@@ -12145,7 +12145,7 @@
 户乙,FkJg	戹
 户巳,FkDu	戺
 户大,FkXi	戻
-フ匚厂コ,PvEhOyEh	戼
+フ匚一丨コ,PvEhFhEh	戼
 户斗,FkPf	戽
 户犬,FkLe	戾
 户方,FkMx	房
@@ -41159,7 +41159,7 @@
 彐日コ又,SiJeEhWi	𣆸
 日冖且,JeErRh	𣆹
 日⺌⺼,JeOtMd	𣆺
-日フ匚厂コ,JePvEhEh	𣆻
+日フ匚一丨コ,JePvEhEh	𣆻
 日コ廾,NgJeEhWh	𣆼
 日一牜丁,JeFhLzUe	𣆽
 欠日,NgFyJe	𣆾
@@ -51334,7 +51334,7 @@
 穴豆,ZiEi	𥥷
 穴人禾,ZiSiZp	𥥸
 穴一匚コ,ZiFhKgEh	𥥹
-穴フ匚厂コ,ZiPvEhEh	𥥺
+穴フ匚一丨コ,ZiPvEhEh	𥥺
 穴一巛工,ZiFhJvNv	𥥻
 穴冊,ZiJz	𥥼
 穴一氺丶,ZiFhHgOe	𥥽
@@ -52059,8 +52059,8 @@
 ⺮亻丨矢,ZiKjKsEu	𥱌
 ⺮車几丶,ZiJlPsOe	𥱍
 ⺮廿㇗冂土,ZiXkPvBm	𥱎
-⺮井龶冂,ZiBzZhZv	𥱏
 ⺮井王冂,ZiBzGiZv	𥱏
+⺮井龶冂,ZiBzZhZv	𥱏
 ⺮口里,ZiIqDn	𥱐
 ⺮⺷儿厶,ZiIdAhNd	𥱑
 ⺮氵工人人,ZiHgNvSi	𥱒
@@ -56019,7 +56019,7 @@
 ⺿尸𠃌口,WhMzPvIq	𦯃
 ⺿一匚コ,WhFhKgEh	𦯄
 ⺿广予,WhGpMa	𦯅
-⺿フ匚厂コ,WhPvEhEh	𦯆
+⺿フ匚一丨コ,WhPvEhEh	𦯆
 ⺿儿,WhWnAh	𦯇
 ⺿冖又,WhSiErWi	𦯈
 ⺿亻白,WhKjDy	𦯉
@@ -56662,7 +56662,7 @@
 艹一丨口八丷土,WhFhKsBm	𦹆
 艹人人土辶,WhSiSiLt	𦹇
 ⺿氵小丿,WhHgOtWh	𦹈
-⺿フ匚厂コ,WhPvEhWh	𦹉
+⺿フ匚一丨コ,WhPvEhWh	𦹉
 ⺿五口,WhJiIqWh	𦹊
 卝罒亻戈,WhYtKjIe	𦹋
 ⺿龱虫,WhLwJw	𦹌
@@ -60617,7 +60617,7 @@
 貝⺊貝,IcDhIc	𧶸
 貝貝几,IcIcPs	𧶹
 貝丁,IcWnUe	𧶺
-ヿ匚厂コ貝,PvEhOyIc	𧶻
+ヿ匚一丨コ貝,PvEhFhIc	𧶻
 宀龷八貝,ErXkVyIc	𧶼
 貝日一勹,IcJeFhBl	𧶽
 貝⺷大,IcIdXi	𧶾
@@ -61999,7 +61999,7 @@
 車土厶卩,JlBmNdWj	𨌞
 車广木,JlGpAj	𨌟
 車彑氺,JlSiHg	𨌠
-車ヿ匚厂コ,JlPvEhEh	𨌡
+車ヿ匚一丨コ,JlPvEhEh	𨌡
 車爫,JlToUa	𨌢
 車艹冂人,JlWhZvSi	𨌣
 亠夕㐄車,UeXuGjJl	𨌤
@@ -63171,7 +63171,7 @@
 馬阝,PcGbTj	𨞲
 自田丌阝,CjSlWhTj	𨞳
 火火囗口阝,YvYvUdTj	𨞴
-ヿ匚厂コ貝阝,PvEhOyTj	𨞵
+ヿ匚一丨コ貝阝,PvEhFhTj	𨞵
 自田木阝,CjSlAjTj	𨞶
 丿大丿大虫阝,CkXiCkTj	𨞷
 口巴白口巴,IqEwDyEw	𨞸
@@ -64357,8 +64357,8 @@
 钅丷酉寸,CjVyTiLw	𨱔
 钅⺈用刀牛,CjRlQlLz	𨱕
 钅{微框}几,CjYaPs	𨱖
-一丨亼,FhKsTuOr	𨱗
-一丨丷一八,FhKsVyVy	𨱘
+一丨人,FhKsSiOr	𨱗
+一丨丷八,FhKsVyVy	𨱘
 镸几,SiPs	𨱙
 镸殳,SiQi	𨱚
 镸厶,SiVyNd	𨱛
@@ -67107,7 +67107,7 @@
 乃⺷,ViIdOz	𩜒
 爫木,OzToAj	𩜓
 彳皮,JbEmOz	𩜔
-ヿ匚厂コ,PvEhOyOz	𩜕
+ヿ匚一丨コ,PvEhFhOz	𩜕
 山⺈小,OzDsRlOt	𩜖
 夂田,OzJtSl	𩜗
 飠亠人人十,OzUeSiGl	𩜘
@@ -89436,7 +89436,7 @@
 卯,FmTp	卿
 卯白,FmDyHs	卿
 ⺁匕,OyHs	𠨬
-厂火,OyYv	灰
+𠂇火,GlYv	灰
 及,Kd	及
 日丨又,JeKsWi	叟
 又,SiKtWi	𠭣

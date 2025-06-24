@@ -12949,7 +12949,7 @@ fkf	戸
 fjgj	戹
 fdu	戺
 fxio	戻
-peoe	戼
+pef	戼
 fczi	扄
 pdp	扏
 pauc	扐
@@ -13256,7 +13256,7 @@ ojmp	擪
 pojl	擫
 pwvw	擭
 pgiv	擮
-pef	擯
+pefi	擯
 pvtt	擲
 pztw	擳
 popc	擵
@@ -60114,7 +60114,7 @@ flzi	𧶷
 idic	𧶸
 iips	𧶹
 iwue	𧶺
-peoi	𧶻
+pefi	𧶻
 exvi	𧶼
 ijfb	𧶽
 iixi	𧶾
@@ -62659,7 +62659,7 @@ ixbt	𨞱
 pgtj	𨞲
 cswt	𨞳
 yyut	𨞴
-peot	𨞵
+peft	𨞵
 csat	𨞶
 cxct	𨞷
 iede	𨞸
@@ -63837,7 +63837,7 @@ cufy	𨱒
 cvyv	𨱓
 crq	𨱕
 cyp	𨱖
-fkto	𨱗
+fkso	𨱗
 fkv	𨱘
 spsj	𨱙
 sqio	𨱚
@@ -66584,7 +66584,7 @@ ovhf	𩜑
 vio	𩜒
 otaj	𩜓
 jeoz	𩜔
-peoo	𩜕
+pefo	𩜕
 odr	𩜖
 ojsl	𩜗
 ousg	𩜘
@@ -81278,7 +81278,7 @@ kufn	𬿯
 kgwv	𬿰
 ohsp	𠨬
 kxpy	𬿱
-oyvo	灰
+gyvo	灰
 skgo	𬿲
 kluo	𬿳
 kdco	及
@@ -112029,7 +112029,7 @@ fkfc	戸
 fjgj	戹
 fdup	戺
 fxio	戻
-peoe	戼
+pefe	戼
 fczi	扄
 pdpj	扏
 pauc	扐
@@ -159194,7 +159194,7 @@ flzi	𧶷
 idic	𧶸
 iips	𧶹
 iwue	𧶺
-peoi	𧶻
+pefi	𧶻
 exvi	𧶼
 ijfb	𧶽
 iixi	𧶾
@@ -161739,7 +161739,7 @@ ixbt	𨞱
 pgtj	𨞲
 cswt	𨞳
 yyut	𨞴
-peot	𨞵
+peft	𨞵
 csat	𨞶
 cxct	𨞷
 iede	𨞸
@@ -162917,7 +162917,7 @@ cufy	𨱒
 cvyv	𨱓
 crql	𨱕
 cyps	𨱖
-fkto	𨱗
+fkso	𨱗
 fkvv	𨱘
 spsj	𨱙
 sqio	𨱚
@@ -165664,7 +165664,7 @@ ovhf	𩜑
 vioz	𩜒
 otaj	𩜓
 jeoz	𩜔
-peoo	𩜕
+pefo	𩜕
 odro	𩜖
 ojsl	𩜗
 ousg	𩜘
@@ -180358,7 +180358,7 @@ kufn	𬿯
 kgwv	𬿰
 ohsp	𠨬
 kxpy	𬿱
-oyvo	灰
+gyvo	灰
 skgo	𬿲
 kluo	𬿳
 kdco	及

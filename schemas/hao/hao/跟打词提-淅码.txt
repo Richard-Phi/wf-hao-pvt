@@ -12949,7 +12949,7 @@
 戹	fjgj
 戺	fdu
 戻	fxio
-戼	peoe
+戼	pef
 扄	fczi
 扏	pdp
 扐	pauc
@@ -13256,7 +13256,7 @@
 擫	pojl
 擭	pwvw
 擮	pgiv
-擯	pef
+擯	pefi
 擲	pvtt
 擳	pztw
 擵	popc
@@ -60114,7 +60114,7 @@
 𧶸	idic
 𧶹	iips
 𧶺	iwue
-𧶻	peoi
+𧶻	pefi
 𧶼	exvi
 𧶽	ijfb
 𧶾	iixi
@@ -62659,7 +62659,7 @@
 𨞲	pgtj
 𨞳	cswt
 𨞴	yyut
-𨞵	peot
+𨞵	peft
 𨞶	csat
 𨞷	cxct
 𨞸	iede
@@ -63837,7 +63837,7 @@
 𨱓	cvyv
 𨱕	crq
 𨱖	cyp
-𨱗	fkto
+𨱗	fkso
 𨱘	fkv
 𨱙	spsj
 𨱚	sqio
@@ -66584,7 +66584,7 @@
 𩜒	vio
 𩜓	otaj
 𩜔	jeoz
-𩜕	peoo
+𩜕	pefo
 𩜖	odr
 𩜗	ojsl
 𩜘	ousg
@@ -81278,7 +81278,7 @@
 𬿰	kgwv
 𠨬	ohsp
 𬿱	kxpy
-灰	oyvo
+灰	gyvo
 𬿲	skgo
 𬿳	kluo
 及	kdco
@@ -112029,7 +112029,7 @@
 戹	fjgj
 戺	fdup
 戻	fxio
-戼	peoe
+戼	pefe
 扄	fczi
 扏	pdpj
 扐	pauc
@@ -159194,7 +159194,7 @@
 𧶸	idic
 𧶹	iips
 𧶺	iwue
-𧶻	peoi
+𧶻	pefi
 𧶼	exvi
 𧶽	ijfb
 𧶾	iixi
@@ -161739,7 +161739,7 @@
 𨞲	pgtj
 𨞳	cswt
 𨞴	yyut
-𨞵	peot
+𨞵	peft
 𨞶	csat
 𨞷	cxct
 𨞸	iede
@@ -162917,7 +162917,7 @@
 𨱓	cvyv
 𨱕	crql
 𨱖	cyps
-𨱗	fkto
+𨱗	fkso
 𨱘	fkvv
 𨱙	spsj
 𨱚	sqio
@@ -165664,7 +165664,7 @@
 𩜒	vioz
 𩜓	otaj
 𩜔	jeoz
-𩜕	peoo
+𩜕	pefo
 𩜖	odro
 𩜗	ojsl
 𩜘	ousg
@@ -180358,7 +180358,7 @@
 𬿰	kgwv
 𠨬	ohsp
 𬿱	kxpy
-灰	oyvo
+灰	gyvo
 𬿲	skgo
 𬿳	kluo
 及	kdco

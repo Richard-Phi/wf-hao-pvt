@@ -13724,7 +13724,7 @@ lsi	戸
 lsjr	戹
 lskvi	戺
 lsydi	戻
-xpzpg	戼
+xplpg	戼
 lssdk	扄
 ksgmr	扏
 kssle	扐
@@ -60889,7 +60889,7 @@ ldmzy	𧶷
 zyfzy	𧶸
 zyzan	𧶹
 zydlf	𧶺
-xpzzy	𧶻
+xplzy	𧶻
 gkajz	𧶼
 zyvlf	𧶽
 zytyd	𧶾
@@ -63434,7 +63434,7 @@ kdnpl	𨞱
 ksalw	𨞲
 fzclw	𨞳
 cmczl	𨞴
-xpzlw	𨞵
+xpllw	𨞵
 fztlw	𨞶
 syslw	𨞷
 kdfdf	𨞸
@@ -64612,7 +64612,7 @@ qjndl	𨱒
 qjhcm	𨱓
 qjfam	𨱕
 qjyan	𨱖
-lfcyr	𨱗
+lfayr	𨱗
 lfjjd	𨱘
 ysanw	𨱙
 ysldu	𨱚
@@ -67359,7 +67359,7 @@ nahqo	𩜑
 fntna	𩜒
 nahtl	𩜓
 fhdna	𩜔
-xpzna	𩜕
+xplna	𩜕
 namff	𩜖
 namzh	𩜗
 najaa	𩜘
@@ -82053,8 +82053,8 @@ jklhd	𬿯
 jgar	𬿰
 zkvke	𠨬
 jaxcm	𬿱
+akcme	灰
 apanr	𬿲
-zkcme	灰
 jdkfl	𬿳
 syw	及
 jmksj	𬿴
