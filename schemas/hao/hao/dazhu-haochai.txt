@@ -12145,7 +12145,7 @@
 户乙,FkJg	戹
 户巳,FkDu	戺
 户大,FkXi	戻
-フ匚戶,PvEhFk	戼
+フ匚厂コ,PvEhOyEh	戼
 户斗,FkPf	戽
 户犬,FkLe	戾
 户方,FkMx	房
@@ -31035,7 +31035,7 @@
 厂,OyPc	𠨭
 厂ㄥ大,OyPvXi	𠨮
 厂子,OyYd	𠨯
-戶乚,FkPv	𠨰
+厂コ乚,OyEhPv	𠨰
 厂也,OyHe	𠨱
 屮厂,IaOy	𠨲
 厂卪,OyWj	𠨳
@@ -39273,7 +39273,7 @@
 户𠕁𠃌一口,FkJzPvIq	𢩚
 户工貝,FkNvIc	𢩛
 户方𠂉矢,FkMxLdEu	𢩜
-户口戶戶,FkIqFkFk	𢩝
+戶口戶戶,FkIqFkFk	𢩝
 户辛爪,FkJtTo	𢩞
 大人人户𠕁,XiSiSiJz	𢩟
 戶罒一口𧘇,FkYtFhOr	𢩠
@@ -41159,7 +41159,7 @@
 彐日コ又,SiJeEhWi	𣆸
 日冖且,JeErRh	𣆹
 日⺌⺼,JeOtMd	𣆺
-日戶戶,JeFkFk	𣆻
+日フ匚厂コ,JePvEhEh	𣆻
 日コ廾,NgJeEhWh	𣆼
 日一牜丁,JeFhLzUe	𣆽
 欠日,NgFyJe	𣆾
@@ -41512,7 +41512,7 @@
 日門工耳攵,JeAcNvRy	𣌙
 日一言日小,JeFhMeOt	𣌚
 日一又又又木頁,JeFhWiWv	𣌛
-戶攴聿厂禾禾止,FkRyUaLd	𣌜
+日生厂禾禾止,JeDhOyLd	𣌜
 日日亠吅井一𧘇,JeJeUeOr	𣌝
 䒑业日⺶㇏丶艮,VyOqJeTp	𣌞
 日口吅工人人,JeTfIqSi	𣌟
@@ -51334,7 +51334,7 @@
 穴豆,ZiEi	𥥷
 穴人禾,ZiSiZp	𥥸
 穴丣,ZiFm	𥥹
-穴戶戶,ZiFkFk	𥥺
+穴フ匚厂コ,ZiPvEhEh	𥥺
 穴一巛工,ZiFhJvNv	𥥻
 穴冊,ZiJz	𥥼
 穴一氺丶,ZiFhHgOe	𥥽
@@ -52059,8 +52059,8 @@
 ⺮亻丨矢,ZiKjKsEu	𥱌
 ⺮車几丶,ZiJlPsOe	𥱍
 ⺮廿㇗冂土,ZiXkPvBm	𥱎
-⺮井龶冂,ZiBzZhZv	𥱏
 ⺮井王冂,ZiBzGiZv	𥱏
+⺮井龶冂,ZiBzZhZv	𥱏
 ⺮口里,ZiIqDn	𥱐
 ⺮⺷儿厶,ZiIdAhNd	𥱑
 ⺮氵工人人,ZiHgNvSi	𥱒
@@ -56019,7 +56019,7 @@
 ⺿尸𠃌口,WhMzPvIq	𦯃
 ⺿丣,WhFm	𦯄
 ⺿广予,WhGpMa	𦯅
-⺿戶戶,WhFkFk	𦯆
+⺿フ匚厂コ,WhPvEhEh	𦯆
 ⺿儿,WhWnAh	𦯇
 ⺿冖又,WhSiErWi	𦯈
 ⺿亻白,WhKjDy	𦯉
@@ -56662,7 +56662,7 @@
 艹一丨口八丷土,WhFhKsBm	𦹆
 艹人人土辶,WhSiSiLt	𦹇
 ⺿氵小丿,WhHgOtWh	𦹈
-⺿戶戶,WhFkFkWh	𦹉
+⺿フ匚厂コ,WhPvEhWh	𦹉
 ⺿五口,WhJiIqWh	𦹊
 卝罒亻戈,WhYtKjIe	𦹋
 ⺿龱虫,WhLwJw	𦹌
@@ -60617,7 +60617,7 @@
 貝⺊貝,IcDhIc	𧶸
 貝貝几,IcIcPs	𧶹
 貝丁,IcWnUe	𧶺
-戶戶貝,FkFkIc	𧶻
+ヿ匚厂コ貝,PvEhOyIc	𧶻
 宀龷八貝,ErXkVyIc	𧶼
 貝日一勹,IcJeFhBl	𧶽
 貝⺷大,IcIdXi	𧶾
@@ -61999,7 +61999,7 @@
 車土厶卩,JlBmNdWj	𨌞
 車广木,JlGpAj	𨌟
 車彑氺,JlSiHg	𨌠
-車戶戶,JlFkFk	𨌡
+車ヿ匚厂コ,JlPvEhEh	𨌡
 車爫,JlToUa	𨌢
 車艹冂人,JlWhZvSi	𨌣
 亠夕㐄車,UeXuGjJl	𨌤
@@ -63171,7 +63171,7 @@
 馬阝,PcGbTj	𨞲
 自田丌阝,CjSlWhTj	𨞳
 火火囗口阝,YvYvUdTj	𨞴
-戶戶貝阝,FkFkIcTj	𨞵
+ヿ匚厂コ貝阝,PvEhOyTj	𨞵
 自田木阝,CjSlAjTj	𨞶
 丿大丿大虫阝,CkXiCkTj	𨞷
 口巴白口巴,IqEwDyEw	𨞸
@@ -67107,7 +67107,7 @@
 乃⺷,ViIdOz	𩜒
 爫木,OzToAj	𩜓
 彳皮,JbEmOz	𩜔
-戶戶,FkFkOz	𩜕
+ヿ匚厂コ,PvEhOyOz	𩜕
 山⺈小,OzDsRlOt	𩜖
 夂田,OzJtSl	𩜗
 飠亠人人十,OzUeSiGl	𩜘
@@ -75761,7 +75761,7 @@
 亻谷艮辶,KjPuTpLt	𫤈
 亻頁口丿口,KjHsWvIq	𫤉
 一口田亻一口田,FhIqSlSl	𫤊
-言五口亻卯,MeJiIqFm	𫤋
+言五口亻卩,MeJiIqWj	𫤋
 亻一厂工耳攵,KjFhYvRy	𫤌
 人王言侖,SiGiMeSy	𫤍
 亻頁彳一止,KjHsWvLd	𫤎

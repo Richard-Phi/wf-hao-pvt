@@ -12949,7 +12949,7 @@
 戹	fjgj
 戺	fdu
 戻	fxio
-戼	pef
+戼	peoe
 扄	fczi
 扏	pdp
 扐	pauc
@@ -13256,7 +13256,7 @@
 擫	pojl
 擭	pwvw
 擮	pgiv
-擯	pefi
+擯	pef
 擲	pvtt
 擳	pztw
 擵	popc
@@ -30648,7 +30648,7 @@
 𠨭	opc
 𠨮	opx
 𠨯	oydf
-𠨰	fpvp
+𠨰	oepv
 𠨱	ohep
 𠨲	ioy
 𠨳	owjo
@@ -40727,7 +40727,7 @@
 𣆸	sjew
 𣆹	jerh
 𣆺	jomd
-𣆻	jffk
+𣆻	jpe
 𣆼	njew
 𣆽	jflu
 𣆾	nfje
@@ -40815,7 +40815,7 @@
 𣈐	jxbm
 𣈑	jbid
 𣈒	jmvy
-𣈓	jpe
+𣈓	jpem
 𣈔	jgd
 𣈕	jary
 𣈖	jzis
@@ -41080,7 +41080,7 @@
 𣌙	janr
 𣌚	jfmo
 𣌛	jfww
-𣌜	frul
+𣌜	jdol
 𣌝	jjuo
 𣌞	vojt
 𣌟	jtis
@@ -50860,7 +50860,7 @@
 𥥶	zcmv
 𥥸	zszp
 𥥹	zfmf
-𥥺	zffk
+𥥺	zpee
 𥥻	zfjn
 𥥼	zjzf
 𥥽	zfho
@@ -55526,7 +55526,7 @@
 𦯃	wmpi
 𦯄	wfmf
 𦯅	wgma
-𦯆	wffk
+𦯆	wpe
 𦯇	wwah
 𦯈	wsew
 𦯉	wkdy
@@ -55643,7 +55643,7 @@
 𦰺	wcug
 𦰻	wafy
 𦰼	wtel
-𦰽	wpe
+𦰽	wpem
 𦰾	wssd
 𦰿	wkx
 𦱀	wpm
@@ -56167,7 +56167,7 @@
 𦹆	wfkb
 𦹇	wssl
 𦹈	whow
-𦹉	wffw
+𦹉	wpew
 𦹊	wjiw
 𦹋	wyki
 𦹌	wljw
@@ -60114,7 +60114,7 @@
 𧶸	idic
 𧶹	iips
 𧶺	iwue
-𧶻	ffic
+𧶻	peoi
 𧶼	exvi
 𧶽	ijfb
 𧶾	iixi
@@ -61493,7 +61493,7 @@
 𨌞	jbnw
 𨌟	jgaj
 𨌠	jshg
-𨌡	jffk
+𨌡	jpee
 𨌢	jtua
 𨌣	jwzs
 𨌤	uxgj
@@ -62659,7 +62659,7 @@
 𨞲	pgtj
 𨞳	cswt
 𨞴	yyut
-𨞵	ffit
+𨞵	peot
 𨞶	csat
 𨞷	cxct
 𨞸	iede
@@ -66584,7 +66584,7 @@
 𩜒	vio
 𩜓	otaj
 𩜔	jeoz
-𩜕	ffoz
+𩜕	peoo
 𩜖	odr
 𩜗	ojsl
 𩜘	ousg
@@ -75130,7 +75130,7 @@
 𫤈	kptl
 𫤉	khwi
 𫤊	fiss
-𫤋	mjif
+𫤋	mjiw
 𫤌	kfyr
 𫤍	sgms
 𫤎	khwl
@@ -112029,7 +112029,7 @@
 戹	fjgj
 戺	fdup
 戻	fxio
-戼	pefk
+戼	peoe
 扄	fczi
 扏	pdpj
 扐	pauc
@@ -129728,7 +129728,7 @@
 𠨭	opck
 𠨮	opxi
 𠨯	oydf
-𠨰	fpvp
+𠨰	oepv
 𠨱	ohep
 𠨲	ioyc
 𠨳	owjo
@@ -139807,7 +139807,7 @@
 𣆸	sjew
 𣆹	jerh
 𣆺	jomd
-𣆻	jffk
+𣆻	jpee
 𣆼	njew
 𣆽	jflu
 𣆾	nfje
@@ -140160,7 +140160,7 @@
 𣌙	janr
 𣌚	jfmo
 𣌛	jfww
-𣌜	frul
+𣌜	jdol
 𣌝	jjuo
 𣌞	vojt
 𣌟	jtis
@@ -149940,7 +149940,7 @@
 𥥶	zcmv
 𥥸	zszp
 𥥹	zfmf
-𥥺	zffk
+𥥺	zpee
 𥥻	zfjn
 𥥼	zjzf
 𥥽	zfho
@@ -154606,7 +154606,7 @@
 𦯃	wmpi
 𦯄	wfmf
 𦯅	wgma
-𦯆	wffk
+𦯆	wpee
 𦯇	wwah
 𦯈	wsew
 𦯉	wkdy
@@ -155247,7 +155247,7 @@
 𦹆	wfkb
 𦹇	wssl
 𦹈	whow
-𦹉	wffw
+𦹉	wpew
 𦹊	wjiw
 𦹋	wyki
 𦹌	wljw
@@ -159194,7 +159194,7 @@
 𧶸	idic
 𧶹	iips
 𧶺	iwue
-𧶻	ffic
+𧶻	peoi
 𧶼	exvi
 𧶽	ijfb
 𧶾	iixi
@@ -160573,7 +160573,7 @@
 𨌞	jbnw
 𨌟	jgaj
 𨌠	jshg
-𨌡	jffk
+𨌡	jpee
 𨌢	jtua
 𨌣	jwzs
 𨌤	uxgj
@@ -161739,7 +161739,7 @@
 𨞲	pgtj
 𨞳	cswt
 𨞴	yyut
-𨞵	ffit
+𨞵	peot
 𨞶	csat
 𨞷	cxct
 𨞸	iede
@@ -165664,7 +165664,7 @@
 𩜒	vioz
 𩜓	otaj
 𩜔	jeoz
-𩜕	ffoz
+𩜕	peoo
 𩜖	odro
 𩜗	ojsl
 𩜘	ousg
@@ -174210,7 +174210,7 @@
 𫤈	kptl
 𫤉	khwi
 𫤊	fiss
-𫤋	mjif
+𫤋	mjiw
 𫤌	kfyr
 𫤍	sgms
 𫤎	khwl

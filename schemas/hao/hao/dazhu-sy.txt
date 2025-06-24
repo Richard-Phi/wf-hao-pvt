@@ -13724,7 +13724,7 @@ lsi	戸
 lsjr	戹
 lskvi	戺
 lsydi	戻
-xplsi	戼
+xpzpg	戼
 lssdk	扄
 ksgmr	扏
 kssle	扐
@@ -31423,7 +31423,7 @@ zkvke	𠨬
 zkksu	𠨭
 zkxyd	𠨮
 zkqi	𠨯
-lsxi	𠨰
+zkpxi	𠨰
 zkkw	𠨱
 gyzkr	𠨲
 zklgi	𠨳
@@ -41502,7 +41502,7 @@ vppxi	𣆷
 alvpb	𣆸
 vgsye	𣆹
 vfcu	𣆺
-vllsi	𣆻
+vxppg	𣆻
 jsvpc	𣆼
 vlmlf	𣆽
 jsdvo	𣆾
@@ -41855,7 +41855,7 @@ vdvhf	𣌘
 vyjhf	𣌙
 vldfl	𣌚
 vlbar	𣌛
-lshdd	𣌜
+vjzdi	𣌜
 vvjyr	𣌝
 jdsvf	𣌞
 vkkau	𣌟
@@ -51635,7 +51635,7 @@ vkto	𥥵
 vkslh	𥥶
 vkams	𥥸
 vksyr	𥥹
-vklls	𥥺
+vkxpp	𥥺
 vkldj	𥥻
 vkfhr	𥥼
 vklhn	𥥽
@@ -56301,7 +56301,7 @@ clncd	𦯂
 clmxk	𦯃
 clsyr	𦯄
 clfbi	𦯅
-cllls	𦯆
+clxpp	𦯆
 cldlr	𦯇
 clagb	𦯈
 cljdl	𦯉
@@ -56942,7 +56942,7 @@ clggl	𦹅
 cllfp	𦹆
 claan	𦹇
 clhfc	𦹈
-clllc	𦹉
+clxpc	𦹉
 clqkc	𦹊
 clajf	𦹋
 clngj	𦹌
@@ -60889,7 +60889,7 @@ ldmzy	𧶷
 zyfzy	𧶸
 zyzan	𧶹
 zydlf	𧶺
-lslzy	𧶻
+xpzzy	𧶻
 gkajz	𧶼
 zyvlf	𧶽
 zytyd	𧶾
@@ -62268,7 +62268,7 @@ qnzsc	𨌝
 qnpbl	𨌞
 qnftl	𨌟
 qnahs	𨌠
-qnlls	𨌡
+qnxpp	𨌡
 qnhdo	𨌢
 qncda	𨌣
 jvxkq	𨌤
@@ -63434,7 +63434,7 @@ kdnpl	𨞱
 ksalw	𨞲
 fzclw	𨞳
 cmczl	𨞴
-lslzl	𨞵
+xpzlw	𨞵
 fztlw	𨞶
 syslw	𨞷
 kdfdf	𨞸
@@ -67359,7 +67359,7 @@ nahqo	𩜑
 fntna	𩜒
 nahtl	𩜓
 fhdna	𩜔
-lslna	𩜕
+xpzna	𩜕
 namff	𩜖
 namzh	𩜗
 najaa	𩜘
@@ -75905,7 +75905,7 @@ jalnd	𫤇
 jffnd	𫤈
 jvakd	𫤉
 lkzzh	𫤊
-dqksy	𫤋
+dqklg	𫤋
 jlchf	𫤌
 agdmq	𫤍
 jvadi	𫤎
