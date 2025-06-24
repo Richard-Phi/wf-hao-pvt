@@ -134,9 +134,9 @@ gen_schema() {
         cat div_sy.txt | sed "s/(/[/g" | sed "s/)/]/g" >>"leosy_chaifen.dict.yaml"
     popd
 
-    realpath ${HAO}
-    ls -alh ${HAO}/
-    head -n5 ${HAO}/div_xi.txt
+    #realpath ${HAO}
+    #ls -alh ${HAO}/
+    #head -n5 ${HAO}/div_xi.txt
 
     # 生成简码
     log "生成简码..."
@@ -201,8 +201,29 @@ gen_schema() {
     # 打包发布
     log "打包发布文件..."
     pushd "${SCHEMAS}" || error "无法切换到发布目录"
-        tar -cf - --exclude="*userdb" --exclude="sync" --exclude="*.custom.yaml" --exclude="installation.yaml" --exclude="user.yaml" --exclude="squirrel.yaml" --exclude="weasel.yaml" --exclude="leoxi.txt" "./${NAME}" | zstd -9 -T0 -c > "releases/${NAME}-${REF_NAME}.tar.zst" || error "打包失败"
-        #tar -cf - --exclude="wanxiang-lts-zh-hans.gram" "./${NAME}" | zstd -9 -T0 --long=31 -c > "releases/${NAME}-${REF_NAME}.tar.zst" || error "打包失败"
+        #tar -cf - \
+        #    --exclude="*userdb" \
+        #    --exclude="sync" \
+        #    --exclude="*.custom.yaml" \
+        #    --exclude="installation.yaml" \
+        #    --exclude="user.yaml" \
+        #    --exclude="squirrel.yaml" \
+        #    --exclude="weasel.yaml" \
+        #    --exclude="leoxi.txt" \
+        #    "./${NAME}" | \
+        #    zstd -9 -T0 -c \
+        #    > "releases/${NAME}-${REF_NAME}.tar.zst" \
+        #    || error "打包失败"
+        zip -9 -r -q "releases/${NAME}-${REF_NAME}.zip" "./${NAME}" \
+            -x "*/*userdb*" \
+            -x "*/sync/**" \
+            -x "*.custom.yaml" \
+            -x "*installation.yaml" \
+            -x "*user.yaml" \
+            -x "*squirrel.yaml" \
+            -x "*weasel.yaml" \
+            -x "*leoxi.txt" \
+            || error "打包失败"
     popd
     log "方案 ${NAME} 生成完成"
 }

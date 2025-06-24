@@ -62,5 +62,5 @@ jobs:
       - name: Release
         uses: softprops/action-gh-release@v2
         with:
-          files: schemas/releases/hao-${{ github.ref_name }}.tar.zst
+          files: schemas/releases/hao-${{ github.ref_name }}.zip
           make_latest: 'true'
