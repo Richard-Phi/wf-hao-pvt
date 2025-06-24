@@ -24191,7 +24191,7 @@
 㸼	ljzh
 㸽	lico
 㸾	lkon
-㸿	lmep
+㸿	lmea
 㹀	lge
 㹁	lwot
 㹂	dwlz
@@ -25735,7 +25735,7 @@
 䑫	lvwh
 䑬	lall
 䑭	lhn
-䑮	lpaj
+䑮	lvaj
 䑯	lvu
 䑰	llld
 䑱	lex
@@ -25802,7 +25802,7 @@
 䒰	wegi
 䒱	wphf
 䒲	wscl
-䒳	wpaj
+䒳	wva
 䒴	wgmd
 䒵	wsyd
 䒶	wjpc
@@ -29191,7 +29191,7 @@
 𠑸	fpp
 𠑹	aeeh
 𠑺	fea
-𠑻	pfup
+𠑻	pfua
 𠑼	neah
 𠑽	wahp
 𠑾	rmah
@@ -29206,7 +29206,7 @@
 𠒇	cuva
 𠒈	gera
 𠒉	rapb
-𠒊	knnp
+𠒊	knna
 𠒋	uoza
 𠒌	wbah
 𠒍	wcjg
@@ -32212,7 +32212,7 @@
 𡁔	imzm
 𡁕	ieys
 𡁖	iwvj
-𡁗	cxio
+𡁗	cxif
 𡁘	rswg
 𡁙	intu
 𡁚	ihx
@@ -39106,7 +39106,7 @@
 𢭢	pke
 𢭣	pcuk
 𢭤	nppp
-𢭥	ppps
+𢭥	pppf
 𢭦	pryd
 𢭧	pxiz
 𢭨	pefn
@@ -42785,7 +42785,7 @@
 𣧄	jqmo
 𣧅	qbmf
 𣧆	qndo
-𣧇	qpoe
+𣧇	qaoe
 𣧈	qdsk
 𣧉	qkdo
 𣧊	qpbm
@@ -43123,7 +43123,7 @@
 𣬘	hhyw
 𣬙	yih
 𣬚	zhhz
-𣬛	oucp
+𣬛	cou
 𣬜	oah
 𣬝	ofuk
 𣬞	okgc
@@ -43163,7 +43163,7 @@
 𣭀	sdou
 𣭁	lhou
 𣭂	ioou
-𣭃	cou
+𣭃	coup
 𣭄	swou
 𣭅	mcou
 𣭆	oniq
@@ -48273,7 +48273,7 @@
 𤽒	dfhk
 𤽓	ddrl
 𤽔	dofh
-𤽕	dups
+𤽕	duah
 𤽖	dgbl
 𤽗	dfpf
 𤽘	dxa
@@ -51553,7 +51553,7 @@
 𥰰	znsw
 𥰱	zwoj
 𥰲	zyxv
-𥰳	zjpo
+𥰳	zjtk
 𥰴	zsjp
 𥰵	zyik
 𥰶	zezi
@@ -55395,7 +55395,7 @@
 𦬿	wqmo
 𦭀	wmps
 𦭁	wuwi
-𦭂	wepf
+𦭂	weaf
 𦭃	wfap
 𦭄	wfuc
 𦭅	whgo
@@ -56274,7 +56274,7 @@
 𦺱	wlhi
 𦺲	wxwi
 𦺳	wyii
-𦺴	wva
+𦺴	wvaj
 𦺵	wqwa
 𦺶	woyk
 𦺷	wlaa
@@ -63680,7 +63680,7 @@
 𨮱	tzuq
 𨮲	ubbt
 𨮳	tnmy
-𨮴	tvep
+𨮴	tvea
 𨮵	twek
 𨮶	thqd
 𨮷	tlsf
@@ -69325,7 +69325,7 @@
 𪇌	trqn
 𪇍	tfil
 𪇎	aadt
-𪇏	jvvt
+𪇏	fsft
 𪇐	tvix
 𪇑	hutl
 𪇒	mzmt
@@ -71371,8 +71371,8 @@
 𪧵	eezs
 𪧶	euvj
 𪧷	xlwo
-𪧸	ltil
-𪧹	snpl
+𪧸	blkm
+𪧹	ltil
 𪧺	jklw
 𪧻	llvp
 𪧼	zslw
@@ -86935,7 +86935,7 @@
 𮐭	wmzj
 𮐮	wszr
 𮐯	wtij
-𮐰	whdp
+𮐰	whda
 𮐱	wezq
 𮐲	wkjb
 𮐳	wlgn
@@ -87498,7 +87498,7 @@
 𮙦	lieo
 𮙧	leps
 𮙨	lklw
-𮙩	leps
+𮙩	leah
 𮙪	ldhs
 𮙫	lyeu
 𮙬	lydn
@@ -91540,7 +91540,7 @@
 𱆖	pbyo
 𰣇	pojs
 𰐽	pong
-𰤴	pbkf
+𰤴	cpbk
 𲋑	posh
 𱃝	popo
 𱃗	poni
@@ -92556,7 +92556,7 @@
 𱂮	dcgk
 𲁴	mfst
 𱞡	dson
-𱏫	dnhp
+𱏫	dnha
 𰤖	djgl
 𱘻	dhux
 𱉝	dhwl
@@ -123271,7 +123271,7 @@
 㸼	ljzh
 㸽	lico
 㸾	lkon
-㸿	lmep
+㸿	lmea
 㹀	lgey
 㹁	lwot
 㹂	dwlz
@@ -124815,7 +124815,7 @@
 䑫	lvwh
 䑬	lall
 䑭	lhnv
-䑮	lpaj
+䑮	lvaj
 䑯	lvuv
 䑰	llld
 䑱	lexw
@@ -124882,7 +124882,7 @@
 䒰	wegi
 䒱	wphf
 䒲	wscl
-䒳	wpaj
+䒳	wvaj
 䒴	wgmd
 䒵	wsyd
 䒶	wjpc
@@ -128271,7 +128271,7 @@
 𠑸	fppa
 𠑹	aeeh
 𠑺	feah
-𠑻	pfup
+𠑻	pfua
 𠑼	neah
 𠑽	wahp
 𠑾	rmah
@@ -128286,7 +128286,7 @@
 𠒇	cuva
 𠒈	gera
 𠒉	rapb
-𠒊	knnp
+𠒊	knna
 𠒋	uoza
 𠒌	wbah
 𠒍	wcjg
@@ -131292,7 +131292,7 @@
 𡁔	imzm
 𡁕	ieys
 𡁖	iwvj
-𡁗	cxio
+𡁗	cxif
 𡁘	rswg
 𡁙	intu
 𡁚	ihxs
@@ -138186,7 +138186,7 @@
 𢭢	pkel
 𢭣	pcuk
 𢭤	nppp
-𢭥	ppps
+𢭥	pppf
 𢭦	pryd
 𢭧	pxiz
 𢭨	pefn
@@ -141865,7 +141865,7 @@
 𣧄	jqmo
 𣧅	qbmf
 𣧆	qndo
-𣧇	qpoe
+𣧇	qaoe
 𣧈	qdsk
 𣧉	qkdo
 𣧊	qpbm
@@ -142203,7 +142203,7 @@
 𣬘	hhyw
 𣬙	yiha
 𣬚	zhhz
-𣬛	oucp
+𣬛	coup
 𣬜	oahp
 𣬝	ofuk
 𣬞	okgc
@@ -147353,7 +147353,7 @@
 𤽒	dfhk
 𤽓	ddrl
 𤽔	dofh
-𤽕	dups
+𤽕	duah
 𤽖	dgbl
 𤽗	dfpf
 𤽘	dxau
@@ -150633,7 +150633,7 @@
 𥰰	znsw
 𥰱	zwoj
 𥰲	zyxv
-𥰳	zjpo
+𥰳	zjtk
 𥰴	zsjp
 𥰵	zyik
 𥰶	zezi
@@ -154475,7 +154475,7 @@
 𦬿	wqmo
 𦭀	wmps
 𦭁	wuwi
-𦭂	wepf
+𦭂	weaf
 𦭃	wfap
 𦭄	wfuc
 𦭅	whgo
@@ -162760,7 +162760,7 @@
 𨮱	tzuq
 𨮲	ubbt
 𨮳	tnmy
-𨮴	tvep
+𨮴	tvea
 𨮵	twek
 𨮶	thqd
 𨮷	tlsf
@@ -168405,7 +168405,7 @@
 𪇌	trqn
 𪇍	tfil
 𪇎	aadt
-𪇏	jvvt
+𪇏	fsft
 𪇐	tvix
 𪇑	hutl
 𪇒	mzmt
@@ -170451,8 +170451,8 @@
 𪧵	eezs
 𪧶	euvj
 𪧷	xlwo
-𪧸	ltil
-𪧹	snpl
+𪧸	blkm
+𪧹	ltil
 𪧺	jklw
 𪧻	llvp
 𪧼	zslw
@@ -186015,7 +186015,7 @@
 𮐭	wmzj
 𮐮	wszr
 𮐯	wtij
-𮐰	whdp
+𮐰	whda
 𮐱	wezq
 𮐲	wkjb
 𮐳	wlgn
@@ -186578,7 +186578,7 @@
 𮙦	lieo
 𮙧	leps
 𮙨	lklw
-𮙩	leps
+𮙩	leah
 𮙪	ldhs
 𮙫	lyeu
 𮙬	lydn
@@ -190620,7 +190620,7 @@
 𱆖	pbyo
 𰣇	pojs
 𰐽	pong
-𰤴	pbkf
+𰤴	cpbk
 𲋑	posh
 𱃝	popo
 𱃗	poni
@@ -191636,7 +191636,7 @@
 𱂮	dcgk
 𲁴	mfst
 𱞡	dson
-𱏫	dnhp
+𱏫	dnha
 𰤖	djgl
 𱘻	dhux
 𱉝	dhwl

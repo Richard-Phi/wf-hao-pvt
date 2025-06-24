@@ -24926,7 +24926,7 @@ Ciallo～(∠・ω< )⌒★	cle
 㸼	mdmmv
 㸽	mdzye
 㸾	mdvnh
-㸿	mdlga
+㸿	mdlgl
 㹀	mdagq
 㹁	mddfl
 㹂	qhbmd
@@ -26470,7 +26470,7 @@ Ciallo～(∠・ω< )⌒★	cle
 䑫	mjclr
 䑬	mlggh
 䑭	mhjti
-䑮	matlr
+䑮	mftlr
 䑯	mjamr
 䑰	mddi
 䑱	mgxlg
@@ -26537,7 +26537,7 @@ Ciallo～(∠・ω< )⌒★	cle
 䒰	clpgu
 䒱	clxhl
 䒲	clgsf
-䒳	clatl
+䒳	clftl
 䒴	clacu
 䒵	clgqi
 䒶	clvxs
@@ -29926,7 +29926,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𠑸	lxxlr
 𠑹	lppgo
 𠑺	lglr
-𠑻	xljan
+𠑻	xljlr
 𠑼	jsplr
 𠑽	dhlr
 𠑾	fmmlr
@@ -29941,7 +29941,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𠒇	szjlr
 𠒈	akgzl
 𠒉	zlxps
-𠒊	fbban
+𠒊	fbblr
 𠒋	jvsdl
 𠒌	clplr
 𠒍	jzsjr
@@ -32947,7 +32947,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𡁔	kdkmc
 𡁕	kdzjg
 𡁖	kdzjc
-𡁗	syknr
+𡁗	sykle
 𡁘	lfzca
 𡁙	kdhfg
 𡁚	kdhaj
@@ -39841,7 +39841,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𢭢	ksjvi
 𢭣	ksszf
 𢭤	jtxkk
-𢭥	kskan
+𢭥	ksakl
 𢭦	ksfqi
 𢭧	kszgd
 𢭨	ksgpr
@@ -43520,7 +43520,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𣧄	dycke
 𣧅	ckpsu
 𣧆	ckqo
-𣧇	ckanr
+𣧇	cklnr
 𣧈	ckmgi
 𣧉	cksyw
 𣧊	ckxps
@@ -43858,7 +43858,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𣬘	vkvac
 𣬙	jskvl
 𣬚	dsvvd
-𣬛	gye
+𣬛	sgye
 𣬜	gylr
 𣬝	gydmw
 𣬞	gyvje
@@ -49008,7 +49008,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𤽒	dldko
 𤽓	dlfzo
 𤽔	dlfle
-𤽕	dljan
+𤽕	dljlr
 𤽖	dlafy
 𤽗	dllxl
 𤽘	dlysl
@@ -52288,7 +52288,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𥰰	pjacl
 𥰱	pbngj
 𥰲	pcajd
-𥰳	pqanr
+𥰳	pqye
 𥰴	psvxi
 𥰵	pjkvj
 𥰶	pgmkd
@@ -56130,7 +56130,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𦬿	clcke
 𦭀	clman
 𦭁	clzbu
-𦭂	clgal
+𦭂	clgll
 𦭃	clllx
 𦭄	clljs
 𦭅	clhsu
@@ -64415,7 +64415,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𨮱	tmpzs
 𨮲	jvppt
 𨮳	tmbcc
-𨮴	tmjka
+𨮴	tmjkl
 𨮵	tmcgd
 𨮶	tmhds
 𨮷	tmdal
@@ -70060,7 +70060,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𪇌	blkhg
 𪇍	blnkn
 𪇎	tltsb
-𪇏	gjhhb
+𪇏	lzlbl
 𪇐	bljgy
 𪇑	kcmbl
 𪇒	kamcb
@@ -72106,8 +72106,8 @@ Ciallo～(∠・ω< )⌒★	cle
 𪧵	gkgmg
 𪧶	gknjv
 𪧷	xkjfo
-𪧸	ghckj
-𪧹	aljaj
+𪧸	psjjl
+𪧹	ghckj
 𪧺	vjjfo
 𪧻	kfjjk
 𪧼	vkyjf
@@ -87670,7 +87670,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𮐭	clkdm
 𮐮	clamh
 𮐯	clckf
-𮐰	clvda
+𮐰	clvdl
 𮐱	clgml
 𮐲	cljvf
 𮐳	clmsp
@@ -88233,7 +88233,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𮙦	qfjw
 𮙧	qganw
 𮙨	qjjfo
-𮙩	qganw
+𮙩	qglr
 𮙪	qdvke
 𮙫	qjgjf
 𮙬	qjjgo
@@ -92275,7 +92275,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𱆖	ankci
 𰣇	anndz
 𰐽	annhd
-𰤴	anpdi
+𰤴	sxpdi
 𲋑	ansah
 𱃝	ansas
 𱃗	ansbk
@@ -93291,7 +93291,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𱂮	dlsap
 𲁴	dlsfh
 𱞡	dlsnh
-𱏫	dlsva
+𱏫	dlsvl
 𰤖	dlvak
 𱘻	dlvgy
 𱉝	dlvjb
