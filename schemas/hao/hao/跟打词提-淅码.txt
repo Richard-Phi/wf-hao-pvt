@@ -28888,7 +28888,7 @@
 𠍈	kzhr
 𠍉	kubl
 𠍊	kekd
-𠍋	kooj
+𠍋	kopj
 𠍌	kenn
 𠍍	kqxn
 𠍎	kfni
@@ -127968,7 +127968,7 @@
 𠍈	kzhr
 𠍉	kubl
 𠍊	kekd
-𠍋	kooj
+𠍋	kopj
 𠍌	kenn
 𠍍	kqxn
 𠍎	kfni
