@@ -28532,7 +28532,7 @@
 囗儿,UdAh	𠁤
 入人丨,XjSiKs	𠁥
 口丨二,IqKsRl	𠁦
-口𠃑一丨,IqFhKs	𠁧
+口㇞一丨,IqPvFhKs	𠁧
 习口丨,FzIqKs	𠁨
 二口丨二,RlIqKsRl	𠁩
 丿士口丨,CkMfIqKs	𠁪
@@ -28588,8 +28588,8 @@
 丿口丨,CkIqKs	𠂝
 丿八一ㄅ,CkVyFhPv	𠂞
 丿丷𠂇,CkVyGl	𠂟
-丿⺌一ㄅ,CkOtFhPv	𠂠
 丿䒑ㄅ,CkVyPv	𠂠
+丿⺌一ㄅ,CkOtFhPv	𠂠
 ⺇,PsPc	𠂡
 ⺁,OyOr	𠂢
 戶一ㄅ,FkFhPv	𠂣
@@ -52060,8 +52060,8 @@
 ⺮亻丨矢,ZiKjKsEu	𥱌
 ⺮車几丶,ZiJlPsOe	𥱍
 ⺮廿㇗冂土,ZiXkPvBm	𥱎
-⺮井王冂,ZiBzGiZv	𥱏
 ⺮井龶冂,ZiBzZhZv	𥱏
+⺮井王冂,ZiBzGiZv	𥱏
 ⺮口里,ZiIqDn	𥱐
 ⺮⺷儿厶,ZiIdAhNd	𥱑
 ⺮氵工人人,ZiHgNvSi	𥱒
@@ -59848,8 +59848,8 @@
 甘言斤,MzMeOz	𧪷
 言廿一冂土,MeXkFhBm	𧪸
 言宀辛,MeErJt	𧪹
-言亼冂卅,MeTuZvFh	𧪺
 言亼〣井,MeTuJvBz	𧪺
+言亼冂卅,MeTuZvFh	𧪺
 言立立,MeYqYq	𧪻
 言口貝,MeIqIc	𧪼
 言一业日,MeFhOqJe	𧪽
@@ -83285,7 +83285,7 @@
 广阝夂一生,GpTjJtDh	𭙹
 广廿廿冖巾,GpXkXkUw	𭙺
 广歹刂衣,GpQmKgOr	𭙻
-广巳灬,GpDzDuYv	𭙼
+广臣巳灬,GpDzDuYv	𭙼
 麻土厶,OnBmNd	𭙽
 广十罒衣,GpGlYtOr	𭙾
 广艹田⽱,GpWhSlFj	𭙿

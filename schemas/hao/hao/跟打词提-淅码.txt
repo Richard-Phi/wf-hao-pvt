@@ -28158,7 +28158,7 @@
 𠁤	uah
 𠁥	xsks
 𠁦	ikr
-𠁧	ifk
+𠁧	ipfk
 𠁨	fiks
 𠁩	rik
 𠁪	cmik
@@ -31066,7 +31066,7 @@
 𠯓	oiqf
 𠯔	ieah
 𠯕	ieah
-𠯖	ifkc
+𠯖	ifk
 𠯗	ifuw
 𠯘	iowi
 𠯙	iooe
@@ -127239,7 +127239,7 @@
 𠁤	uahp
 𠁥	xsks
 𠁦	ikrl
-𠁧	ifks
+𠁧	ipfk
 𠁨	fiks
 𠁩	rikr
 𠁪	cmik
