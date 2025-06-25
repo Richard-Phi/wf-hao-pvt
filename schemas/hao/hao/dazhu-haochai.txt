@@ -38929,7 +38929,7 @@
 禾人氺心,ZpKgSiNg	𢤂
 日匚⺿𠂇口心,JeEhWhNg	𢤃
 忄⺿丿心,NgWhCkNg	𢤄
-歹冖巾心,QmDsErNg	𢤅
+歺冖巾心,QmDsErNg	𢤅
 忄厂⺿田⽱,NgOyWhFj	𢤆
 忄罒馬,NgYtGb	𢤇
 忄日⺸,NgWnJeId	𢤈
@@ -59847,8 +59847,8 @@
 甘言斤,MzMeOz	𧪷
 言廿一冂土,MeXkFhBm	𧪸
 言宀辛,MeErJt	𧪹
-言亼〣井,MeTuJvBz	𧪺
 言亼冂卅,MeTuZvFh	𧪺
+言亼〣井,MeTuJvBz	𧪺
 言立立,MeYqYq	𧪻
 言口貝,MeIqIc	𧪼
 言一业日,MeFhOqJe	𧪽
@@ -81306,7 +81306,7 @@
 一口卜,FhIqDh	𬺿
 艹艹,WhWh	𬻀
 一卜土,FhDhBm	𬻁
-卌,Ds	𬻂
+卌一,DsFh	𬻂
 一丿⺇〢,FhCkPsKg	𬻃
 丁丁丁,UeUeUe	𬻄
 丁六,UeCa	𬻅
