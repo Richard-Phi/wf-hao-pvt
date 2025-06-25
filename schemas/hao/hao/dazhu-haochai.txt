@@ -28588,8 +28588,8 @@
 丿口丨,CkIqKs	𠂝
 丿八一ㄅ,CkVyFhPv	𠂞
 丿丷𠂇,CkVyGl	𠂟
-丿䒑ㄅ,CkVyPv	𠂠
 丿⺌一ㄅ,CkOtFhPv	𠂠
+丿䒑ㄅ,CkVyPv	𠂠
 ⺇,PsPc	𠂡
 ⺁,OyOr	𠂢
 戶一ㄅ,FkFhPv	𠂣
@@ -37953,8 +37953,8 @@
 彳ㅠ匚コ田,JbWhEhSl	𢔲
 彳又丶丶虫,JbWiOeJw	𢔳
 彳五口阝,JbJiIqTj	𢔴
-彳井龶冂,JbBzZhZv	𢔵
 彳井王冂,JbBzGiZv	𢔵
+彳井龶冂,JbBzZhZv	𢔵
 彳見寸,JbScLw	𢔶
 彳犭屮王,JbLeIaGi	𢔷
 彳鬲,JbPw	𢔸
@@ -43922,7 +43922,7 @@
 巛水,JvHg	𣲂
 氵丿七,HgCkLn	𣲃
 氵ㄥ人,HgPvSi	𣲄
-氵工,HgNv	𣲅
+氵一ㄣ一,HgFhPvFh	𣲅
 氵己,HgJc	𣲆
 氵亍,HgJb	𣲇
 丶水刂,OeHgKg	𣲈
@@ -52060,8 +52060,8 @@
 ⺮亻丨矢,ZiKjKsEu	𥱌
 ⺮車几丶,ZiJlPsOe	𥱍
 ⺮廿㇗冂土,ZiXkPvBm	𥱎
-⺮井龶冂,ZiBzZhZv	𥱏
 ⺮井王冂,ZiBzGiZv	𥱏
+⺮井龶冂,ZiBzZhZv	𥱏
 ⺮口里,ZiIqDn	𥱐
 ⺮⺷儿厶,ZiIdAhNd	𥱑
 ⺮氵工人人,ZiHgNvSi	𥱒
@@ -59848,8 +59848,8 @@
 甘言斤,MzMeOz	𧪷
 言廿一冂土,MeXkFhBm	𧪸
 言宀辛,MeErJt	𧪹
-言亼〣井,MeTuJvBz	𧪺
 言亼冂卅,MeTuZvFh	𧪺
+言亼〣井,MeTuJvBz	𧪺
 言立立,MeYqYq	𧪻
 言口貝,MeIqIc	𧪼
 言一业日,MeFhOqJe	𧪽

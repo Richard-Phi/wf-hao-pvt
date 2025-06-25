@@ -43483,7 +43483,7 @@ hdjg	𣲁
 jhgo	𣲂
 hcln	𣲃
 hpsi	𣲄
-hnvf	𣲅
+hfpf	𣲅
 hjcp	𣲆
 hjbk	𣲇
 ohkg	𣲈
@@ -142564,7 +142564,7 @@ hdjg	𣲁
 jhgo	𣲂
 hcln	𣲃
 hpsi	𣲄
-hnvf	𣲅
+hfpf	𣲅
 hjcp	𣲆
 hjbk	𣲇
 ohkg	𣲈
