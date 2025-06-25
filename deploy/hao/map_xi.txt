@@ -152,7 +152,6 @@ Id	芈
 Id	
 Ie	戈
 Ie	
-Ie	
 Iq	口
 Iq	〇
 Iq	

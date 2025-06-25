@@ -31235,7 +31235,7 @@
 𠱾	imlw
 𠱿	iaaa
 𠲀	fioi
-𠲁	nieo
+𠲁	npco
 𠲂	iix
 𠲃	infw
 𠲄	ixt
@@ -58091,7 +58091,7 @@
 𧗏	cbji
 𧗐	cbnr
 𧗑	xirb
-𧗒	bbxi
+𧗒	bbib
 𧗓	bbib
 𧗔	cbvz
 𧗕	wclb
@@ -130315,7 +130315,7 @@
 𠱾	imlw
 𠱿	iaaa
 𠲀	fioi
-𠲁	nieo
+𠲁	npco
 𠲂	iixi
 𠲃	infw
 𠲄	ixtj
@@ -157171,7 +157171,7 @@
 𧗏	cbji
 𧗐	cbnr
 𧗑	xirb
-𧗒	bbxi
+𧗒	bbib
 𧗓	bbib
 𧗔	cbvz
 𧗕	wclb
