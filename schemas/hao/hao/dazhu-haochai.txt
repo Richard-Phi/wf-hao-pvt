@@ -6603,7 +6603,7 @@
 魚丿士廴,XlCkMfVv	䱓
 魚亻丨攵,XlKjKsRy	䱔
 魚𠂉母,XlLdQt	䱕
-魚一匚コ,XlFhKgEh	䱖
+魚丌匚コ,XlWhEhEh	䱖
 歺又魚,QmWiXl	䱗
 禾刂魚,ZpKgXl	䱘
 魚⺊一小又,XlDhFhWi	䱙
@@ -7000,7 +7000,7 @@
 匕一,NbHsFh	丠
 一冂山,FhZvDs	両
 丿土厶,CkBmNd	丢
-一匚コ,FhKgEhEh	丣
+丌匚コ,WhEhEh	丣
 两,Am	两
 一厂,FhYvOy	严
 䒑业,VyOq	並
@@ -13743,7 +13743,7 @@
 木⺈用,AjRlQl	桷
 木㐅𠂇巾,AjOsGlUw	桸
 木丶艮,AjOeTp	桹
-木一匚コ,AjFhKgEh	桺
+木丌匚コ,AjWhEhEh	桺
 木夂丰,AjJtZh	桻
 木人氺,AjSiHg	桼
 木人人土,AjSiSiBm	桽
@@ -26410,7 +26410,7 @@
 馬川,GbJvJv	駲
 馬丿止廴,GbCkLdVv	駳
 馬戈廾,GbIeWh	駴
-馬一匚コ,GbFhKgEh	駵
+馬丌匚コ,GbWhEhEh	駵
 馬尸𠃌口,GbMzPvIq	駶
 馬束,GbUh	駷
 馬彐冖又,GbSiErWi	駸
@@ -29695,7 +29695,7 @@
 入幺幺大,XjBlBlXi	𠓱
 入夕㐄木,XjXuGjAj	𠓲
 人王卯,SiGiFm	𠓳
-人王一匚コ,SiGiFhEh	𠓴
+人王丌匚コ,SiGiWhEh	𠓴
 入大乂乂乂乂,XjXiOsOs	𠓵
 冖巾入,DsErUwXj	𠓶
 入大乂乂乂乂,XjXiOsOs	𠓷
@@ -34094,7 +34094,7 @@
 丿冂牛大,CkZvLzXi	𡘠
 大,DzXi	𡘡
 丰力人,ZhAuEhSi	𡘢
-大一匚コ,XiFhKgEh	𡘣
+大丌匚コ,XiWhEhEh	𡘣
 大丷日乚,XiVyJePv	𡘤
 土大,BmYvXi	𡘥
 冂大𠕁,ZvXiJz	𡘦
@@ -43283,7 +43283,7 @@
 歺亼口,QmTuIq	𣨄
 歹爫寸,QmToLw	𣨅
 歹白儿,QmDyAh	𣨆
-歹一匚コ,QmFhKgEh	𣨇
+歹丌匚コ,QmWhEhEh	𣨇
 歹甫,QmGn	𣨈
 歹了,QmWnFu	𣨉
 歹扌片,QmPcNb	𣨊
@@ -47203,7 +47203,7 @@
 ⺇歹王丶,PsQmGiOe	𤥔
 王⺈厂⺋,GiRlOyWj	𤥕
 王𦈢,GiUs	𤥖
-王一匚コ,GiFhKgEh	𤥗
+王丌匚コ,GiWhEhEh	𤥗
 王勹乂㇗又,GiSnOsWi	𤥘
 王一火又,GiFhYvWi	𤥙
 王日干,GiJeLr	𤥚
@@ -49026,7 +49026,7 @@
 氵八刀皿,HgVyKgBk	𥁳
 口勹皿,IqSnBlBk	𥁴
 氵口丨皿,HgIqKsBk	𥁵
-一匚コ皿,FhKgEhBk	𥁶
+丌匚コ皿,WhEhEhBk	𥁶
 氵丿之皿,HgCkDoBk	𥁷
 丷夫⺋皿,VySvWjBk	𥁸
 木木皿,AjAjBk	𥁹
@@ -51333,7 +51333,7 @@
 穴丿士廴,ZiCkMfVv	𥥶
 穴豆,ZiEi	𥥷
 穴人禾,ZiSiZp	𥥸
-穴一匚コ,ZiFhKgEh	𥥹
+穴丌匚コ,ZiWhEhEh	𥥹
 穴フ匚一丨コ,ZiPvEhEh	𥥺
 穴一巛工,ZiFhJvNv	𥥻
 穴冊,ZiJz	𥥼
@@ -52059,8 +52059,8 @@
 ⺮亻丨矢,ZiKjKsEu	𥱌
 ⺮車几丶,ZiJlPsOe	𥱍
 ⺮廿㇗冂土,ZiXkPvBm	𥱎
-⺮井王冂,ZiBzGiZv	𥱏
 ⺮井龶冂,ZiBzZhZv	𥱏
+⺮井王冂,ZiBzGiZv	𥱏
 ⺮口里,ZiIqDn	𥱐
 ⺮⺷儿厶,ZiIdAhNd	𥱑
 ⺮氵工人人,ZiHgNvSi	𥱒
@@ -54409,7 +54409,7 @@
 耳宀𠂇厶,QgErGlNd	𦕹
 耳,WnQg	𦕺
 耳丿,QgCkLw	𦕻
-耳一匚コ,QgFhKgEh	𦕼
+耳丌匚コ,QgWhEhEh	𦕼
 耳亻日丨,QgKjJeKs	𦕽
 耳氏口,QgQuIq	𦕾
 耳耳乚,QgQgPv	𦕿
@@ -56017,7 +56017,7 @@
 ⺿囗一,WhUdFhIa	𦯁
 艹丶廾,WhOeWhJv	𦯂
 ⺿尸𠃌口,WhMzPvIq	𦯃
-⺿一匚コ,WhFhKgEh	𦯄
+⺿丌匚コ,WhWhEhEh	𦯄
 ⺿广予,WhGpMa	𦯅
 ⺿フ匚一丨コ,WhPvEhEh	𦯆
 ⺿儿,WhWnAh	𦯇
@@ -63678,7 +63678,7 @@
 金宀牛,TkErLz	𨦭
 氵及金,HgKdTk	𨦮
 金彳殳,TkJbQi	𨦯
-金一匚コ,TkFhKgEh	𨦰
+金丌匚コ,TkWhEhEh	𨦰
 金丿,TkCkLw	𨦱
 金土厶力,TkBmNdAu	𨦲
 金冂人口,TkZvSiIq	𨦳
@@ -70760,7 +70760,7 @@
 光鼠,SjQk	𪕗
 各鼠,QyQk	𪕘
 鼠冂一口,QkZvFhIq	𪕙
-鼠一匚コ,QkFhKgEh	𪕚
+鼠丌匚コ,QkWhEhEh	𪕚
 鼠亼乛口,QkTuPvIq	𪕛
 鼠口㇞大,QkIqPvXi	𪕜
 鼠足,QkUz	𪕝

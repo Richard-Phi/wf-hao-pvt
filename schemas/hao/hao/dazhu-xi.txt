@@ -10581,7 +10581,7 @@ kof	丒
 fhff	丗
 nhfh	丠
 fzd	両
-fke	丣
+weeh	丣
 htpk	丩
 ppck	丮
 zhck	丯
@@ -13683,7 +13683,7 @@ afjn	桱
 anx	桳
 atsm	桵
 aogu	桸
-afke	桺
+awee	桺
 ajzh	桻
 ashg	桼
 assb	桽
@@ -20651,7 +20651,7 @@ guxi	駰
 gjj	駲
 gclv	駳
 giwh	駴
-gfke	駵
+gwee	駵
 gmpi	駶
 guho	駷
 gse	駸
@@ -27719,7 +27719,7 @@ xiew	䱒
 xcmv	䱓
 xkkr	䱔
 xlqt	䱕
-xfke	䱖
+xwee	䱖
 qwxl	䱗
 zkxl	䱘
 xdfw	䱙
@@ -29312,7 +29312,7 @@ xgww	𠓰
 xbbx	𠓱
 xxga	𠓲
 sgfm	𠓳
-sgfe	𠓴
+sgwe	𠓴
 xxoo	𠓵
 deux	𠓶
 xxoo	𠓷
@@ -33685,7 +33685,7 @@ xfz	𡘟
 czlx	𡘠
 dxio	𡘡
 zaes	𡘢
-xfke	𡘣
+xwee	𡘣
 xvjp	𡘤
 byx	𡘥
 zxjz	𡘦
@@ -42849,7 +42849,7 @@ qjdh	𣨃
 qtiq	𣨄
 qtlw	𣨅
 qdah	𣨆
-qfke	𣨇
+qwee	𣨇
 qgno	𣨈
 qwfu	𣨉
 qpn	𣨊
@@ -46751,7 +46751,7 @@ tigo	𤥓
 pqgo	𤥔
 grow	𤥕
 gusp	𤥖
-gfke	𤥗
+gwee	𤥗
 gsow	𤥘
 gfyw	𤥙
 gjlr	𤥚
@@ -48561,7 +48561,7 @@ hocb	𥁲
 hvkb	𥁳
 isbb	𥁴
 hikb	𥁵
-fkeb	𥁶
+weeb	𥁶
 hcdb	𥁷
 vswb	𥁸
 aabk	𥁹
@@ -50859,7 +50859,7 @@ zoro	𥥴
 zidk	𥥵
 zcmv	𥥶
 zszp	𥥸
-zfke	𥥹
+zwee	𥥹
 zpee	𥥺
 zfjn	𥥻
 zjzf	𥥼
@@ -53922,7 +53922,7 @@ qdnf	𦕸
 qegn	𦕹
 wqgf	𦕺
 qclw	𦕻
-qfke	𦕼
+qwee	𦕼
 qkjk	𦕽
 qqiq	𦕾
 qqpv	𦕿
@@ -55524,7 +55524,7 @@ wvkb	𦯀
 wufi	𦯁
 wowj	𦯂
 wmpi	𦯃
-wfke	𦯄
+wwe	𦯄
 wgma	𦯅
 wpe	𦯆
 wwah	𦯇
@@ -55845,7 +55845,7 @@ wfeh	𦴃
 wuvj	𦴄
 wnnj	𦴅
 wrt	𦴆
-wwe	𦴇
+wwea	𦴇
 wwg	𦴈
 wyqj	𦴉
 wqzx	𦴊
@@ -63165,7 +63165,7 @@ tpoz	𨦬
 telz	𨦭
 hktk	𨦮
 tjqi	𨦯
-tfke	𨦰
+twee	𨦰
 tclw	𨦱
 tbna	𨦲
 tzsi	𨦳
@@ -67447,7 +67447,7 @@ fmr	𩩱
 fjsx	𩩲
 fhdn	𩩳
 fufi	𩩴
-fkee	𩩵
+fke	𩩵
 fozo	𩩶
 fyob	𩩷
 fgo	𩩸
@@ -70230,7 +70230,7 @@ qmiq	𪕖
 sqk	𪕗
 qqkp	𪕘
 qzfi	𪕙
-qfke	𪕚
+qwee	𪕚
 qtpi	𪕛
 qipx	𪕜
 quzo	𪕝
@@ -109661,7 +109661,7 @@ kofh	丒
 fhff	丗
 nhfh	丠
 fzds	両
-fkee	丣
+weeh	丣
 htpk	丩
 ppck	丮
 zhck	丯
@@ -112763,7 +112763,7 @@ afjn	桱
 anxg	桳
 atsm	桵
 aogu	桸
-afke	桺
+awee	桺
 ajzh	桻
 ashg	桼
 assb	桽
@@ -119731,7 +119731,7 @@ guxi	駰
 gjjv	駲
 gclv	駳
 giwh	駴
-gfke	駵
+gwee	駵
 gmpi	駶
 guho	駷
 gsew	駸
@@ -126799,7 +126799,7 @@ xiew	䱒
 xcmv	䱓
 xkkr	䱔
 xlqt	䱕
-xfke	䱖
+xwee	䱖
 qwxl	䱗
 zkxl	䱘
 xdfw	䱙
@@ -128392,7 +128392,7 @@ xgww	𠓰
 xbbx	𠓱
 xxga	𠓲
 sgfm	𠓳
-sgfe	𠓴
+sgwe	𠓴
 xxoo	𠓵
 deux	𠓶
 xxoo	𠓷
@@ -132765,7 +132765,7 @@ xfzf	𡘟
 czlx	𡘠
 dxio	𡘡
 zaes	𡘢
-xfke	𡘣
+xwee	𡘣
 xvjp	𡘤
 byxi	𡘥
 zxjz	𡘦
@@ -141929,7 +141929,7 @@ qjdh	𣨃
 qtiq	𣨄
 qtlw	𣨅
 qdah	𣨆
-qfke	𣨇
+qwee	𣨇
 qgno	𣨈
 qwfu	𣨉
 qpnb	𣨊
@@ -145831,7 +145831,7 @@ tigo	𤥓
 pqgo	𤥔
 grow	𤥕
 gusp	𤥖
-gfke	𤥗
+gwee	𤥗
 gsow	𤥘
 gfyw	𤥙
 gjlr	𤥚
@@ -147641,7 +147641,7 @@ hocb	𥁲
 hvkb	𥁳
 isbb	𥁴
 hikb	𥁵
-fkeb	𥁶
+weeb	𥁶
 hcdb	𥁷
 vswb	𥁸
 aabk	𥁹
@@ -149939,7 +149939,7 @@ zoro	𥥴
 zidk	𥥵
 zcmv	𥥶
 zszp	𥥸
-zfke	𥥹
+zwee	𥥹
 zpee	𥥺
 zfjn	𥥻
 zjzf	𥥼
@@ -153002,7 +153002,7 @@ qdnf	𦕸
 qegn	𦕹
 wqgf	𦕺
 qclw	𦕻
-qfke	𦕼
+qwee	𦕼
 qkjk	𦕽
 qqiq	𦕾
 qqpv	𦕿
@@ -154604,7 +154604,7 @@ wvkb	𦯀
 wufi	𦯁
 wowj	𦯂
 wmpi	𦯃
-wfke	𦯄
+wwee	𦯄
 wgma	𦯅
 wpee	𦯆
 wwah	𦯇
@@ -162245,7 +162245,7 @@ tpoz	𨦬
 telz	𨦭
 hktk	𨦮
 tjqi	𨦯
-tfke	𨦰
+twee	𨦰
 tclw	𨦱
 tbna	𨦲
 tzsi	𨦳
@@ -169310,7 +169310,7 @@ qmiq	𪕖
 sqkp	𪕗
 qqkp	𪕘
 qzfi	𪕙
-qfke	𪕚
+qwee	𪕚
 qtpi	𪕛
 qipx	𪕜
 quzo	𪕝
