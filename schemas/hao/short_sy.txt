@@ -6,6 +6,7 @@
 了	o
 在	w
 ，	ae
+。	te
 当	sw
 中	ki
 啊	ji
@@ -73,7 +74,6 @@ Ciallo～(∠・ω< )⌒★	cle
 种	mu
 法	hr
 学	hi
-本	te
 外	xr
 物	mw
 比	ve
@@ -189,7 +189,7 @@ Ciallo～(∠・ω< )⌒★	cle
 转	alr
 边	slu
 收	msi
-根	tle
+本	tle
 每	kfe
 据	ksr
 确	fji
@@ -254,6 +254,7 @@ Ciallo～(∠・ω< )⌒★	cle
 相	tldw
 头	ghyi
 性	hdju
+根	tlfe
 重	kcjo
 给	tkci
 真	akdo

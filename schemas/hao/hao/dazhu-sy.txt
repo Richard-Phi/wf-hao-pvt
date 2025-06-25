@@ -45,6 +45,7 @@ r	不
 o	了
 w	在
 ae	，
+te	。
 sw	当
 ki	中
 ji	啊
@@ -110,7 +111,6 @@ ce	然
 mu	种
 hr	法
 hi	学
-te	本
 xr	外
 mw	物
 ve	比
@@ -224,7 +224,7 @@ zhu	思
 alr	转
 slu	边
 msi	收
-tle	根
+tle	本
 kfe	每
 ksr	据
 fji	确
@@ -287,6 +287,7 @@ jdyi	关
 tldw	相
 ghyi	头
 hdju	性
+tlfe	根
 kcjo	重
 tkci	给
 akdo	真
@@ -450,6 +451,7 @@ avr	风景
 vfr	景色
 vpo	景区
 sfu	翻译
+fqo	之间
 gz;	如果
 jv;	但是
 ka;	哪个
@@ -654,6 +656,9 @@ gq;	女子
 zq;	男子
 my;	表达
 mn;	期望
+mt;	基本
+cj;	合作
+gm;	发展
 njs;	为什么
 jjg;	你们好
 azh;	输入法
