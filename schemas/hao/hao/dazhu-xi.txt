@@ -28155,10 +28155,10 @@ rrr	𠁠
 dhko	𠁡
 kpv	𠁢
 mzkf	𠁣
-iahp	𠁤
-xxk	𠁥
+uah	𠁤
+xsks	𠁥
 ikr	𠁦
-iksk	𠁧
+ifk	𠁧
 fiks	𠁨
 rik	𠁩
 cmik	𠁪
@@ -28168,7 +28168,7 @@ sks	𠁭
 sssk	𠁮
 ikni	𠁯
 pssi	𠁰
-fifh	𠁱
+fiff	𠁱
 ubzk	𠁲
 dzzh	𠁳
 uook	𠁴
@@ -28182,10 +28182,10 @@ nkq	𠁻
 oooe	𠁼
 poeo	𠁽
 ppo	𠁾
-zuef	𠁿
+zfoe	𠁿
 wuef	𠂀
-zuef	𠂁
-ewhk	𠂂
+kfue	𠂁
+eff	𠂂
 fhot	𠂃
 zujx	𠂄
 ufvt	𠂅
@@ -28212,7 +28212,8 @@ cldf	𠂜
 ciks	𠂝
 cvf	𠂞
 cvgl	𠂟
-kvpv	𠂠
+cofp	𠂠
+cvp	𠂠
 ppck	𠂡
 ooro	𠂢
 ffp	𠂣
@@ -28233,7 +28234,7 @@ lhvi	𠂱
 cjvy	𠂲
 ozbk	𠂳
 zzvy	𠂴
-ckb	𠂵
+kbp	𠂵
 tfc	𠂶
 cxid	𠂷
 cpbw	𠂸
@@ -28275,7 +28276,7 @@ joto	𠃝
 fjp	𠃞
 xpvp	𠃟
 sooe	𠃠
-pnjg	𠃡
+jnp	𠃡
 zwh	𠃢
 jock	𠃣
 pjvp	𠃤
@@ -29199,7 +29200,7 @@ pfah	𠑿
 bvah	𠒀
 vmah	𠒁
 neah	𠒂
-xxka	𠒃
+xxk	𠒃
 izfa	𠒄
 eez	𠒅
 clah	𠒆
@@ -31065,7 +31066,7 @@ khiq	𠯒
 oiqf	𠯓
 ieah	𠯔
 ieah	𠯕
-ifk	𠯖
+ifkc	𠯖
 ifuw	𠯗
 iowi	𠯘
 iooe	𠯙
@@ -61179,7 +61180,7 @@ udzs	𨇣
 uxid	𨇤
 ueb	𨇥
 ussf	𨇦
-uah	𨇧
+uahw	𨇧
 uwcj	𨇨
 uzhz	𨇩
 uvwv	𨇪
@@ -94517,7 +94518,7 @@ vuoh	𰝉
 vste	𰗀
 vuoj	𰗃
 josi	𱎄
-kbp	𱏍
+kbps	𱏍
 ugsn	𱜵
 uwkt	𱜸
 uwot	𱜬
@@ -96903,7 +96904,7 @@ cdhf	𰽫
 cnhg	𰾁
 ckl	𰽮
 cydn	𲈛
-cvp	𰽰
+cvpc	𰽰
 cnwj	𲇳
 cvfx	𰾥
 cllt	𰽾
@@ -127235,10 +127236,10 @@ rrrr	𠁠
 dhko	𠁡
 kpvp	𠁢
 mzkf	𠁣
-iahp	𠁤
-xxks	𠁥
+uahp	𠁤
+xsks	𠁥
 ikrl	𠁦
-iksk	𠁧
+ifks	𠁧
 fiks	𠁨
 rikr	𠁩
 cmik	𠁪
@@ -127248,7 +127249,7 @@ sksk	𠁭
 sssk	𠁮
 ikni	𠁯
 pssi	𠁰
-fifh	𠁱
+fiff	𠁱
 ubzk	𠁲
 dzzh	𠁳
 uook	𠁴
@@ -127262,10 +127263,10 @@ nkqq	𠁻
 oooe	𠁼
 poeo	𠁽
 ppoe	𠁾
-zuef	𠁿
+zfoe	𠁿
 wuef	𠂀
-zuef	𠂁
-ewhk	𠂂
+kfue	𠂁
+effw	𠂂
 fhot	𠂃
 zujx	𠂄
 ufvt	𠂅
@@ -127292,7 +127293,8 @@ cldf	𠂜
 ciks	𠂝
 cvfp	𠂞
 cvgl	𠂟
-kvpv	𠂠
+cofp	𠂠
+cvpv	𠂠
 ppck	𠂡
 ooro	𠂢
 ffpv	𠂣
@@ -127313,7 +127315,7 @@ lhvi	𠂱
 cjvy	𠂲
 ozbk	𠂳
 zzvy	𠂴
-ckbp	𠂵
+kbpc	𠂵
 tfck	𠂶
 cxid	𠂷
 cpbw	𠂸
@@ -127355,7 +127357,7 @@ joto	𠃝
 fjpv	𠃞
 xpvp	𠃟
 sooe	𠃠
-pnjg	𠃡
+jnpv	𠃡
 zwhf	𠃢
 jock	𠃣
 pjvp	𠃤

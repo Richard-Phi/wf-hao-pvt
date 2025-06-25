@@ -28935,10 +28935,10 @@ sysss	𠁠
 fjr	𠁡
 fxi	𠁢
 mfu	𠁣
-kdlr	𠁤
-zzfu	𠁥
+zlr	𠁤
+zafu	𠁥
 kdfzo	𠁦
-kdfu	𠁧
+0.009997_8'7	𠁧
 shkfu	𠁨
 zkfzo	𠁩
 slkfu	𠁪
@@ -28948,7 +28948,7 @@ afafu	𠁭
 aaafu	𠁮
 kdfbk	𠁯
 ksaal	𠁰
-lklhs	𠁱
+lklle	𠁱
 nlfo	𠁲
 mgmmv	𠁳
 zssfu	𠁴
@@ -28962,10 +28962,10 @@ amfff	𠁻
 nnnr	𠁼
 annr	𠁽
 xxnr	𠁾
-djjvu	𠁿
+djlnr	𠁿
 cljvu	𠂀
-djjvu	𠂁
-gkclr	𠂂
+vjljv	𠂁
+gkllc	𠂂
 lhnye	𠂃
 djjvn	𠂄
 jvdhy	𠂅
@@ -28992,7 +28992,8 @@ sdi	𠂜
 skfu	𠂝
 sjlxi	𠂞
 sjakw	𠂟
-jjxi	𠂠
+sjxi	𠂠
+sflxi	𠂠
 anksu	𠂡
 zkyr	𠂢
 lslxi	𠂣
@@ -29013,7 +29014,7 @@ dvfnw	𠂱
 scjdo	𠂲
 sdlfu	𠂳
 mvdjd	𠂴
-sfpks	𠂵
+vjpks	𠂵
 ylsi	𠂶
 syto	𠂷
 sapcl	𠂸
@@ -29055,7 +29056,7 @@ jflr	𠃝
 ldxi	𠃞
 akxi	𠃟
 alnnr	𠃠
-xsjr	𠃡
+jsxi	𠃡
 djclr	𠃢
 jfsi	𠃣
 ksdyw	𠃤

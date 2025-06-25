@@ -28529,10 +28529,10 @@
 卜,Dh	𠁡
 丨㇅,KsPv	𠁢
 𠁣,Mz	𠁣
-口儿,IqAh	𠁤
-入入丨,XjXjKs	𠁥
+囗儿,UdAh	𠁤
+入人丨,XjSiKs	𠁥
 口丨二,IqKsRl	𠁦
-口丨,IqKs	𠁧
+口𠃑一丨,IqFhKs	𠁧
 习口丨,FzIqKs	𠁨
 二口丨二,RlIqKsRl	𠁩
 丿士口丨,CkMfIqKs	𠁪
@@ -28542,7 +28542,7 @@
 人人人一ㄅ丨,SiSiSiKs	𠁮
 口丨厶口,IqKsNdIq	𠁯
 彐ㅌ,PcSiSi	𠁰
-一口一水,FhIqFhHg	𠁱
+一口一水一,FhIqFhFh	𠁱
 井,UsBz	𠁲
 山丰丰,DsZhZh	𠁳
 囗乂乂乂乂丨,UdOsOsKs	𠁴
@@ -28556,10 +28556,10 @@
 丶丶丶,OeOeOe	𠁼
 几丶,PsOe	𠁽
 ㇗ヿ丶,PvPvOe	𠁾
-⺆亠,ZvUe	𠁿
+凵一丶,ZvFhOe	𠁿
 艹亠,WhUe	𠂀
-⺆亠,ZvUe	𠂁
-宀廾,ErWh	𠂂
+一亠,KgFhUe	𠂁
+宀一一廾,ErFhFhWh	𠂂
 一氺丶丸,FhHgOeTk	𠂃
 ⺆亠日勹亾,ZvUeJeXc	𠂄
 亠乡隹丸,UeFfVhTk	𠂅
@@ -28588,7 +28588,8 @@
 丿口丨,CkIqKs	𠂝
 丿八一ㄅ,CkVyFhPv	𠂞
 丿丷𠂇,CkVyGl	𠂟
-亻䒑ㄅ,KjVyPv	𠂠
+丿⺌一ㄅ,CkOtFhPv	𠂠
+丿䒑ㄅ,CkVyPv	𠂠
 ⺇,PsPc	𠂡
 ⺁,OyOr	𠂢
 戶一ㄅ,FkFhPv	𠂣
@@ -28609,7 +28610,7 @@
 丿未丷,CkJxVy	𠂲
 㐅凵幺丨,OsZvBlKs	𠂳
 丰冂䒑,ZhZvVy	𠂴
-丿丨土,CkKsBmPc	𠂵
+土,KgBmPc	𠂵
 󰁞一丿,TzFhCk	𠂶
 丿大,CkXiId	𠂷
 丿⺇土廾,CkPsBmWh	𠂸
@@ -28652,7 +28653,7 @@
 一巛乚,FhJvPv	𠃞
 廿乚,XkPv	𠃟
 丶丶,SiOeOe	𠃠
-乚丬乙,PvNbJg	𠃡
+乙丬乚,JgNbPv	𠃡
 冂卝,ZvWh	𠃢
 乙小丿,JgOtCk	𠃣
 ,PcJv	𠃤
@@ -59847,8 +59848,8 @@
 甘言斤,MzMeOz	𧪷
 言廿一冂土,MeXkFhBm	𧪸
 言宀辛,MeErJt	𧪹
-言亼〣井,MeTuJvBz	𧪺
 言亼冂卅,MeTuZvFh	𧪺
+言亼〣井,MeTuJvBz	𧪺
 言立立,MeYqYq	𧪻
 言口貝,MeIqIc	𧪼
 言一业日,MeFhOqJe	𧪽
@@ -64357,8 +64358,8 @@
 钅丷酉寸,CjVyTiLw	𨱔
 钅⺈用刀牛,CjRlQlLz	𨱕
 钅{微框}几,CjYaPs	𨱖
-一丨人,FhKsSiOr	𨱗
-一丨丷八,FhKsVyVy	𨱘
+一丨人一,FhKsSiOr	𨱗
+一丨丷一八,FhKsVyVy	𨱘
 镸几,SiPs	𨱙
 镸殳,SiQi	𨱚
 镸厶,SiVyNd	𨱛
