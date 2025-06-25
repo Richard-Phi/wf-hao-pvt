@@ -988,7 +988,7 @@
 土虍丿丷𬺰,BmQbCkGl	㙤
 土六厶𧘇,BmCaNdOr	㙥
 人禾斗土,SiZpPfBm	㙦
-土田,BmFmSl	㙧
+土ㅠ匚コ田,BmWhEhSl	㙧
 土幺幺戈人,BmBlBlSi	㙨
 土大丷日小,BmXiVyOt	㙩
 土士冖豆,BmMfErEi	㙪
@@ -1978,7 +1978,7 @@
 扌⺈用斗,PcRlQlPf	㩂
 扌宀井゛,PcErBzLv	㩃
 扌山田心,PcDsSlNg	㩄
-扌田,PcFmSl	㩅
+扌ㅠ匚コ田,PcWhEhSl	㩅
 扌小尤,PcWnOtGh	㩆
 扌田一,PcUaSlFh	㩇
 扌穴丿口,PcZiSiIq	㩈
@@ -14207,7 +14207,7 @@
 木毛毛毛,AjOuOuOu	橇
 木土土土一儿,AjBmBmAh	橈
 木米夕㐄,AjMgXuGj	橉
-木田,AjFmSl	橊
+木ㅠ匚コ田,AjWhEhSl	橊
 木丿大口冂口,AjCkXiIq	橋
 木門月,AjAcMd	橌
 木門王,AjAcGi	橍
@@ -15558,7 +15558,7 @@
 氵壴彡,HgHsBl	澎
 氵口吅山,HgIqRuDs	澏
 氵⻗云,HgTfPd	澐
-氵田,HgFmSl	澑
+氵ㅠ匚コ田,HgWhEhSl	澑
 氵工頁,HgNvWv	澒
 氵彳𠂉日夂,HgJbLdJt	澓
 氵白⺧口,HgDyLzIq	澔
@@ -16855,7 +16855,7 @@
 王日小,GiJeWnOt	璟
 王丿米田,GiCkMgSl	璠
 王隹辶,GiVhLt	璡
-王田,GiFmSl	璢
+王ㅠ匚コ田,GiWhEhSl	璢
 王幺幺戈人,GiBlBlSi	璣
 王十田心,GiGlSlNg	璤
 王艹句攵,GiWhTqRy	璥
@@ -17062,7 +17062,7 @@
 田𠂉母,SlLdQt	畮
 田厶八夂,SlNdVyJt	畯
 田龷八,SlXkVy	異
-田,FmSl	畱
+ㅠ匚コ田,WhEhEhSl	畱
 人示田,SiDdSl	畲
 田冖且,SlErRh	畳
 田寸,SlZhLw	畴
@@ -17274,7 +17274,7 @@
 疒大丷日小,XuXiVyOt	療
 疒阝夂一生,XuTjJtDh	癃
 疒隹灬,XuVhYv	癄
-疒田,XuFmSl	癅
+疒ㅠ匚コ田,XuWhEhSl	癅
 疒火火冖力,XuYvYvAu	癆
 疒門月,XuAcMd	癇
 疒癶弓殳,XuVyOdQi	癈
@@ -18823,7 +18823,7 @@
 ⺮方𠂉,ZiMxLdVy	籏
 ⺮月丷夫氺,ZiMdVyHg	籐
 ⺮目大丶艮,ZiGyXiTp	籑
-⺮扌田,ZiPcFmSl	籒
+⺮扌ㅠ匚コ田,ZiPcWhSl	籒
 ⺮氵丿米田,ZiHgCkSl	籓
 ⺮口女攵,ZiSfIqRy	籔
 ⺮木卯田,ZiAjFmSl	籕
@@ -19637,7 +19637,7 @@
 罒厂火火刂,YtOyYvKg	罽
 罒丷囗⺌日,YtVyUdJe	罾
 罒立里,YtYqDn	罿
-冂乂乂田,ZvOsOsSl	羀
+冂乂乂ㅠ匚コ田,ZvOsOsSl	羀
 罒革马,YtGoXh	羁
 罒糹口⺝,YtHtIqMd	羂
 罒艹日大巾,YtWhJeUw	羃
@@ -24887,7 +24887,7 @@
 釒木,TkXyAj	鏿
 釒虫貝,TkJwIc	鐀
 釒斤,TkMzVyOz	鐁
-釒田,TkFmSl	鐂
+釒ㅠ匚コ田,TkWhEhSl	鐂
 釒土土土一儿,TkBmBmAh	鐃
 釒黄,TkBx	鐄
 㡀攵金,KtRyTk	鐅
@@ -26106,7 +26106,7 @@
 風羽人彡,UyEhSiBl	飂
 風覀示,UyQpDd	飃
 覀示風,QpDdUy	飄
-風田,UyFmSl	飅
+風ㅠ匚コ田,UyWhEhSl	飅
 犬犬犬風,LeLeLeUy	飆
 風犬犬犬,UyLeLeLe	飇
 風火火火,UyYvYvYv	飈
@@ -26502,7 +26502,7 @@
 馬米夕㐄,GbMgXuGj	驎
 馬尸子子子,GbMzYdYd	驏
 馬子攵,GbWnYdRy	驐
-馬田,GbFmSl	驑
+馬ㅠ匚コ田,GbWhEhSl	驑
 馬吅田十,GbRuSlGl	驒
 馬丷囗⺌日,GbVyUdJe	驓
 馬覀日十,GbQpJeGl	驔
@@ -29194,7 +29194,7 @@
 亻囗五口,KjUdJiIq	𠋼
 亻大丿士廴,KjXiCkVv	𠋽
 亻王龴木,KjGiNdAj	𠋾
-亻土,KjFmBm	𠋿
+亻ㅠ匚コ土,KjWhEhBm	𠋿
 亻爫予八,KjToMaVy	𠌀
 亻㐅𠂇口丸,KjOsGlTk	𠌁
 人乂乂乂乂十,SiOsOsGl	𠌂
@@ -30363,7 +30363,7 @@
 吅勹刂,RuSnBlKg	𠞍
 夕夕灬刂,XuXuYvKg	𠞎
 生生刂,DhDhKg	𠞏
-土刂,FmBmKg	𠞐
+ㅠ匚コ土刂,WhEhEhKg	𠞐
 文金刂,WmTkKg	𠞑
 大丷日乚刂,XiVyJeKg	𠞒
 龶糸刂,ZhHtKg	𠞓
@@ -33277,7 +33277,7 @@
 土十冖子,BmGlErYd	𡋯
 土儿土儿,BmAhBmAh	𡋰
 土王廾,BmGiWh	𡋱
-土,FmBm	𡋲
+ㅠ匚コ土,WhEhEhBm	𡋲
 土目,BmGyHs	𡋳
 阝⺁又土,TjOyWiBm	𡋴
 日大土,JeXiBm	𡋵
@@ -34568,7 +34568,7 @@
 女一自夂,SmFhCjJt	𡟺
 女艹囗大,SmWhUdXi	𡟻
 女彑豕丶,SmSiKtOe	𡟼
-女土,SmFmBm	𡟽
+女ㅠ匚コ土,SmWhEhBm	𡟽
 女广丿士廴,SmGpCkVv	𡟾
 ⺷女五,IdSmJi	𡟿
 女高,SmWn	𡠀
@@ -37317,7 +37317,7 @@
 广㇏貝,GpZhOeIc	𢊷
 广囗禾,GpUdIqZp	𢊸
 广厶大貝,GpNdXiIc	𢊹
-广田,GpFmSl	𢊺
+广ㅠ匚コ田,GpWhEhSl	𢊺
 广人小,GpWiSiOt	𢊻
 广彡頁,GpBlWv	𢊼
 广火火火,GpYvYvYv	𢊽
@@ -37949,7 +37949,7 @@
 彳束刂,JbUhKg	𢔯
 彳目,JbMzGy	𢔰
 彳谷卩,JbPuWj	𢔱
-彳田,JbFmSl	𢔲
+彳ㅠ匚コ田,JbWhEhSl	𢔲
 彳又丶丶虫,JbWiOeJw	𢔳
 彳五口阝,JbJiIqTj	𢔴
 彳井王冂,JbBzGiZv	𢔵
@@ -39001,7 +39001,7 @@
 忄臣𠂉一見,NgDzLdSc	𢥊
 忄匕匕儿,NgZhHsAh	𢥋
 忄魚羊,NgXlId	𢥌
-金刂心,FmTkKgNg	𢥍
+ㅠ匚コ金刂心,WhEhEhNg	𢥍
 忄古口冖貝,NgQmIqIc	𢥎
 忄火火冖口丿口,NgYvYvIq	𢥏
 忄鹿米,NgCuMg	𢥐
@@ -39842,7 +39842,7 @@
 臼大手,WiXiPc	𢲓
 扌王王,PcGiKgGi	𢲔
 扌癶矢,PcVyEu	𢲕
-扌土,PcFmBm	𢲖
+扌ㅠ匚コ土,PcWhEhBm	𢲖
 扌罒示,PcYtDd	𢲗
 扌穴大丷,PcZiXiVy	𢲘
 扌户衣,PcFkOr	𢲙
@@ -45077,7 +45077,7 @@
 氵厂⺿田⽱力,HgOyWhAu	𤄆
 氵門冖巾,HgAcYqUw	𤄇
 臣𠂉口吅水,DzLdIqHg	𤄈
-氵金刂,HgFmTkKg	𤄉
+氵ㅠ匚コ金刂,HgWhEhKg	𤄉
 氵厂黑土,HgOyUcBm	𤄊
 氵糹丿心,HgHtCkNg	𤄋
 扌斤氵戊一火,PcOzHgYv	𤄌
@@ -46984,7 +46984,7 @@
 犭馬十,LeGbGl	𤡹
 犭宀心冂土,LeErNgBm	𤡺
 犭木日欠,LeAjJeFy	𤡻
-犭田,LeFmSl	𤡼
+犭ㅠ匚コ田,LeWhEhSl	𤡼
 丷酉大犬,VyTiXiLe	𤡽
 一心犬,FhWuNgLe	𤡾
 ⺮亼口犬,ZiTuIqLe	𤡿
@@ -47811,7 +47811,7 @@
 艹吅隹瓦,WhRuVhFn	𤮴
 而大瓦壴,UaXiFnHs	𤮵
 言火火火瓦,MeYvYvFn	𤮶
-⻗田瓦,TfFmSlFn	𤮷
+⻗ㅠ匚コ田瓦,TfWhEhFn	𤮷
 ⻗口吅田瓦,TfIqRuFn	𤮸
 口吅工人人瓦,TfIqRuFn	𤮹
 甘,Mz	𤮺
@@ -50697,7 +50697,7 @@
 礻匕十目,DdHsGlVy	𥛺
 礻壴彡,DdHsBl	𥛻
 礻艹日曰,DdWhJeRl	𥛼
-礻田,DdFmSl	𥛽
+礻ㅠ匚コ田,DdWhEhSl	𥛽
 礻人人人人日,DdSiSiJe	𥛾
 礻弓土,DdOdLwBm	𥛿
 尸毛礻且,MzOuDdRh	𥜀
@@ -51095,7 +51095,7 @@
 禾一自戈,ZpFhCjIe	𥢈
 士冖禾木冂,MfErZpZv	𥢉
 禾十艹貝,ZpGlWhIc	𥢊
-禾田,ZpFmSl	𥢋
+禾ㅠ匚コ田,ZpWhEhSl	𥢋
 禾丿米田,ZpCkMgSl	𥢌
 禾古辛,ZpQmJt	𥢍
 禾丷酉寸,ZpVyTiLw	𥢎
@@ -51480,7 +51480,7 @@
 穴爿言,ZiNbMe	𥨉
 穴爿冖又,ZiNbSiWi	𥨊
 穴牙王廾,ZiYbGiWh	𥨋
-穴田,ZiFmSl	𥨌
+穴ㅠ匚コ田,ZiWhEhSl	𥨌
 穴彳𠂉日夂,ZiJbLdJt	𥨍
 穴覀日十,ZiQpJeGl	𥨎
 匕穴厶八夂,NbHsZiJt	𥨏
@@ -52059,8 +52059,8 @@
 ⺮亻丨矢,ZiKjKsEu	𥱌
 ⺮車几丶,ZiJlPsOe	𥱍
 ⺮廿㇗冂土,ZiXkPvBm	𥱎
-⺮井龶冂,ZiBzZhZv	𥱏
 ⺮井王冂,ZiBzGiZv	𥱏
+⺮井龶冂,ZiBzZhZv	𥱏
 ⺮口里,ZiIqDn	𥱐
 ⺮⺷儿厶,ZiIdAhNd	𥱑
 ⺮氵工人人,ZiHgNvSi	𥱒
@@ -52370,7 +52370,7 @@
 ⺮夕夕,ZiMzVyXu	𥶂
 ⺮艹罒冖夕,ZiWhYtXu	𥶃
 ⺮女束攵,ZiSmUhRy	𥶄
-⺮氵田,ZiHgFmSl	𥶅
+⺮氵ㅠ匚コ田,ZiHgWhSl	𥶅
 ⺮門口丿口,ZiAcIqIq	𥶆
 ⺮魚日,ZiXlJe	𥶇
 ⺮勹勹皮,ZiSnIaEm	𥶈
@@ -52463,7 +52463,7 @@
 ⺮水水欠皿,ZiHgHgBk	𥷟
 ⺮⺊囗,ZiDhUdMg	𥷠
 ⺮火僉,ZiYvOr	𥷡
-⺮金刂,ZiFmTkKg	𥷢
+⺮ㅠ匚コ金刂,ZiWhEhKg	𥷢
 ⺮工人人吅又,ZiNvSiWi	𥷣
 ⺮大勹言,ZiXiIdMe	𥷤
 ⺮革勹米,ZiGoSnMg	𥷥
@@ -53708,7 +53708,7 @@
 罒口丿口,YtIqCkIq	𦊼
 罒豕,YtKt	𦊽
 罒不口,YtCiIq	𦊾
-罒,YtFm	𦊿
+罒ㅠ匚コ,YtWhEhEh	𦊿
 冂人口⺝,ZvSiIqMd	𦋀
 罒日干,YtJeLr	𦋁
 罒日寸,YtJeLw	𦋂
@@ -55082,7 +55082,7 @@
 ⺼丿大口冂口,MdCkXiIq	𦠚
 月夫夫日,MdSvSvJe	𦠛
 月艹艹,MdWhPcWh	𦠜
-月田,MdFmSl	𦠝
+月ㅠ匚コ田,MdWhEhSl	𦠝
 㡀攵⺼,KtRyMd	𦠞
 月山二巾斤,MdDsRlOz	𦠟
 月山二斤,MdDsRlOz	𦠠
@@ -59847,8 +59847,8 @@
 甘言斤,MzMeOz	𧪷
 言廿一冂土,MeXkFhBm	𧪸
 言宀辛,MeErJt	𧪹
-言亼冂卅,MeTuZvFh	𧪺
 言亼〣井,MeTuJvBz	𧪺
+言亼冂卅,MeTuZvFh	𧪺
 言立立,MeYqYq	𧪻
 言口貝,MeIqIc	𧪼
 言一业日,MeFhOqJe	𧪽
@@ -60587,7 +60587,7 @@
 十⺿一貝,GlWhFhIc	𧶚
 貝木人人,IcAjSiSi	𧶛
 冖八貝,YqErVyIc	𧶜
-貝,FmIc	𧶝
+ㅠ匚コ貝,WhEhEhIc	𧶝
 貝囗禾,IcUdZp	𧶞
 貝人,IcSiVl	𧶟
 士罒貝,MfYtIc	𧶠
@@ -62665,7 +62665,7 @@
 止日辶,LdJeLdLt	𨖸
 至至辶,CyCyLt	𨖹
 ⺮而辶,ZiUaLt	𨖺
-田辶,FmSlLt	𨖻
+ㅠ匚コ田辶,WhEhEhLt	𨖻
 丿皿丿辶,CkBkCkLt	𨖼
 臼人土辶,WiSiBmLt	𨖽
 糹糸辶,HtHtLt	𨖾
@@ -65670,7 +65670,7 @@
 ⻗氵尸至,TfHgMzCy	𩅵
 戶戶戶,TfFkFkFk	𩅶
 ㇗,TfSiMzPv	𩅷
-⻗田,TfFmSl	𩅸
+⻗ㅠ匚コ田,TfWhEhSl	𩅸
 ⻗氵目,TfHgMzGy	𩅹
 ⻗彡頁,TfBlWv	𩅺
 ⻗氵耂日,TfHgRiJe	𩅻
@@ -67269,7 +67269,7 @@
 飠十艹冖八十,OzGlWhGl	𩞴
 士冖,OzMfErWu	𩞵
 飠艹阝厶夫,OzWhTjSv	𩞶
-田,OzFmSl	𩞷
+ㅠ匚コ田,OzWhEhSl	𩞷
 飠覀米,OzQpMg	𩞸
 日月犬食,JeMdLeOz	𩞹
 ⺆土口欠,ZvBmIqOz	𩞺
@@ -68272,7 +68272,7 @@
 髟千人人口,BeHcSiIq	𩮟
 髟宀谷,BeErPu	𩮠
 髟冖一豕,BeErFhKt	𩮡
-髟土,BeFmBm	𩮢
+髟ㅠ匚コ土,BeWhEhBm	𩮢
 髟止舟,BeLdLk	𩮣
 髟予丿𠂇又丶,BeMaCkOe	𩮤
 髟大丷氺,BeXiVyHg	𩮥
@@ -69761,7 +69761,7 @@
 人予鳥,SiVlMaTl	𪅰
 尸丿口⽱鳥,MzCkIqTl	𪅱
 亼口羽鳥,TuIqEhTl	𪅲
-田鳥,FmSlTl	𪅳
+ㅠ匚コ田鳥,WhEhEhTl	𪅳
 一心鳥,FhWuNgTl	𪅴
 虫二欠鳥,JwRlFyTl	𪅵
 尚攵鳥,XyRyTl	𪅶
@@ -70768,7 +70768,7 @@
 鼠亻犬,QkKjLe	𪕟
 鼠彐火,QkSiYv	𪕠
 五口鼠,JiIqQk	𪕡
-鼠,FmQk	𪕢
+ㅠ匚コ鼠,WhEhEhQk	𪕢
 鼠一巛工,QkFhJvNv	𪕣
 鼠日女,QkJeSm	𪕤
 鼠冂八口,QkZvVyIq	𪕥
@@ -86386,7 +86386,7 @@
 冂八巛田木,ZvVyJvAj	𮊗
 冂乂乂尸示寸,ZvOsOsLw	𮊘
 罒羽白,YtEhDy	𮊙
-罒田,YtFmSl	𮊚
+罒ㅠ匚コ田,YtWhEhSl	𮊚
 罒火火毛,YtYvYvOu	𮊛
 冂㐅冖十目力,ZvOsErAu	𮊜
 罒厂火火毛,YtOyYvOu	𮊝
@@ -92230,7 +92230,7 @@
 疒吅田,XuRuSl	𰣾
 疒虫宀匕,XuJwErHs	𰣿
 疒月丷口儿,XuMdVyAh	𰤀
-一爿田,FhNbFmSl	𰤁
+一爿ㅠ匚コ田,FhNbWhSl	𰤁
 疒十日十月,XuGlJeMd	𰤂
 疒隹火,XuVhYv	𰤃
 疒人人人人日,XuSiSiJe	𰤄
@@ -92454,7 +92454,7 @@
 石⺈田日,QqRlSlJe	𰧞
 石言辶,QqMeLt	𰧟
 尸示寸石,MzDdLwQq	𰧠
-石田,QqFmSl	𰧡
+石ㅠ匚コ田,QqWhEhSl	𰧡
 石夫夫日,QqSvSvJe	𰧢
 斤石,MzVyOzQq	𰧣
 石⺮聿,QqZiUa	𰧤
@@ -93414,7 +93414,7 @@
 豆十戈木,EiGlIeAj	𰶞
 士殳豆,MfMzQiEi	𰶟
 豆耂日阝,EiRiJeTj	𰶠
-豆田,EiFmSl	𰶡
+豆ㅠ匚コ田,EiWhEhSl	𰶡
 豆木目心,EiAjGyNg	𰶢
 曲豆巛口巴,RwEiJvEw	𰶣
 豕匕,KtHs	𰶤
@@ -93609,7 +93609,7 @@
 車彑氺刂,JlSiHgKg	𰹡
 車予丿示,JlMaCkDd	𰹢
 車⺈丨日心,JlRlKsNg	𰹣
-車田,JlFmSl	𰹤
+車ㅠ匚コ田,JlWhEhSl	𰹤
 車日罒一,JlJeYtKg	𰹥
 車卯貝,JlFmIc	𰹦
 車肀片爿一,JlUaNbFh	𰹧

@@ -503,6 +503,7 @@ Jdo	{变}
 Clr	艹
 Clr	⺿
 Clr	丌
+Clr	ㅠ
 Clr	丱
 Clr	卄
 Clr	卝

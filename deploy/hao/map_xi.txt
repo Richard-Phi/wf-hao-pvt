@@ -503,6 +503,7 @@ Vy	{变}
 Wh	艹
 Wh	⺿
 Wh	丌
+Wh	ㅠ
 Wh	丱
 Wh	卄
 Wh	卝
