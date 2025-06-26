@@ -26493,7 +26493,7 @@ qhstn	䑑
 kvnr	䑒
 mtgkr	䑓
 jzljf	䑔
-gmw	䑕
+jzaks	䑕
 jzlad	䑖
 jzvlf	䑗
 jztjt	䑘
@@ -31331,7 +31331,7 @@ jdaja	𠧆
 fjvac	𠧇
 sklza	𠧈
 sklza	𠧉
-snafy	𠧊
+saafy	𠧊
 akakm	𠧋
 sclxc	𠧌
 kgscl	𠧍
@@ -40343,7 +40343,7 @@ ksqzz	𢴧
 ksjgk	𢴨
 kspdo	𢴩
 kslsd	𢴪
-ksdgm	𢴫
+ksddk	𢴫
 ksgxg	𢴬
 yfffk	𢴭
 ksvzo	𢴮
@@ -46075,7 +46075,7 @@ mgcvc	𤎚
 cmhhl	𤎛
 cmnfc	𤎜
 zkjhc	𤎝
-cmdgm	𤎞
+cmddk	𤎞
 gkdpc	𤎟
 cmddd	𤎠
 ccfjz	𤎡
@@ -47182,7 +47182,7 @@ lqtgl	𤟲
 lqtjv	𤟳
 lqgqn	𤟴
 lsdlq	𤟵
-nclqu	𤟶
+pgfpl	𤟶
 lqkld	𤟷
 lqvfh	𤟸
 lqzgw	𤟹
@@ -51394,7 +51394,7 @@ msknk	𥡺
 dlffm	𥡻
 msllg	𥡼
 msfdm	𥡽
-msfgm	𥡾
+msfdk	𥡾
 msfay	𥡿
 mskty	𥢀
 msfjd	𥢁
@@ -51814,7 +51814,7 @@ vkfvf	𥨡
 vkmgb	𥨢
 vkhdj	𥨣
 vkyjc	𥨤
-vkgmw	𥨥
+vkjac	𥨥
 vklhb	𥨦
 vkkgh	𥨧
 vkjjz	𥨨
@@ -54534,7 +54534,7 @@ msgkf	𦓌
 fkvlz	𦓍
 gvje	𦓎
 gmgo	𦓏
-sdffu	𦓐
+sdvje	𦓐
 ggmr	𦓑
 cmgo	𦓒
 pgo	𦓓
@@ -55407,7 +55407,7 @@ cjxyr	𦠸
 ccccm	𦠹
 ccvvk	𦠺
 cazye	𦠻
-cdgmw	𦠼
+cddks	𦠼
 chscm	𦠽
 ckhfj	𦠾
 cyahs	𦡀
@@ -55574,7 +55574,7 @@ qhsps	𦣠
 qhjvj	𦣡
 qhljf	𦣢
 qhfjw	𦣣
-qhnw	𦣤
+qhpfp	𦣤
 qhhsi	𦣥
 qhqhe	𦣦
 qhfhr	𦣧
@@ -64410,7 +64410,7 @@ tmtts	𨭺
 lhntm	𨭻
 tmyjc	𨭼
 tmmhf	𨭽
-tmgmw	𨭾
+tmjah	𨭾
 tmgmw	𨭿
 tmhfj	𨮀
 tmszx	𨮁
@@ -68507,7 +68507,7 @@ flzvj	𩮆
 flvhf	𩮇
 fljse	𩮈
 fldxs	𩮉
-flgmw	𩮊
+ysfdk	𩮊
 flsr	𩮋
 fltdk	𩮌
 flnai	𩮍
@@ -68516,7 +68516,7 @@ flklk	𩮏
 flzgw	𩮐
 flnkd	𩮑
 flahf	𩮒
-flgmw	𩮓
+fldak	𩮓
 flgqn	𩮔
 fljab	𩮕
 flmkq	𩮖
@@ -68580,7 +68580,7 @@ flstn	𩯏
 flclv	𩯐
 flbbh	𩯑
 fljjs	𩯒
-fldgm	𩯓
+flddk	𩯓
 flgmd	𩯔
 fljhd	𩯕
 fltgs	𩯖
@@ -74662,7 +74662,7 @@ xspdn	𫏢
 xlzle	𫏣
 xfjcu	𫏤
 xdyxi	𫏥
-xdgmw	𫏦
+xddks	𫏦
 xkgo	𫏧
 xbto	𫏨
 xgznd	𫏩
@@ -91303,7 +91303,7 @@ djso	⺱
 ahe	⺲
 gkjdo	⺳
 gklr	⺴
-djffu	⺵
+djvje	⺵
 to	⺶
 to	⺷
 to	⺸
@@ -98241,7 +98241,7 @@ smzlr	𰷡
 snaak	𱀝
 snaau	𱀅
 snahq	𱀜
-snajf	𱀠
+nagjf	𱀠
 snakc	𱀁
 snamw	𱀖
 snaqi	𱀂

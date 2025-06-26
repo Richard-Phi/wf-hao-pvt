@@ -353,7 +353,6 @@ Pw	韦
 Ldu	殳
 Mti	瓜
 Gmw	鼠
-Gmw	䑕
 Gmw	鼡
 Gmw	
 Gmw	
@@ -471,6 +470,7 @@ Nsu	束
 Ayr	缶
 Ayr	𦈢
 Nw	㠯
+Nw	𤕪
 Nw	
 Nw	𮍌
 Amr	弗

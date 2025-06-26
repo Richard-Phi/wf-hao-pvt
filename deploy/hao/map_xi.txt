@@ -353,7 +353,6 @@ Qh	韦
 Qi	殳
 Qj	瓜
 Qk	鼠
-Qk	䑕
 Qk	鼡
 Qk	
 Qk	
@@ -471,6 +470,7 @@ Uh	束
 Us	缶
 Us	𦈢
 Us	㠯
+Us	𤕪
 Us	
 Us	𮍌
 Uv	弗
