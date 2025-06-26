@@ -2519,7 +2519,7 @@ vvvke	昆
 yggal	辉
 lykdi	吞
 mdjfu	牲
-jvkyr	哀
+dhyr	哀
 vjw	昌
 zklqu	厌
 vvvo	晶
@@ -2588,7 +2588,7 @@ vjbsm	贤
 cjxsm	贪
 hssdy	澳
 flcvj	削
-jvkly	衰
+dhlyr	衰
 ksfnw	扔
 fjvak	卓
 hsvsu	湿
@@ -3120,7 +3120,7 @@ gkvgm	冥
 kskcu	捐
 fcndy	谎
 hdkci	愧
-jvkfy	衷
+dhfyr	衷
 jfmlq	倏
 lqpky	猿
 kdpps	哇
@@ -5238,7 +5238,7 @@ kdajg	噙
 mddhe	犒
 tjtxp	馐
 qskvi	孢
-cljky	蓑
+cldly	蓑
 lcclw	郦
 kqjgo	霾
 jbgvk	鸵
@@ -6664,7 +6664,7 @@ qjhfo	钫
 qjdzh	锱
 hdlto	悱
 ksllq	捩
-tljky	榱
+tldly	榱
 hsfzc	濞
 ghgbu	瑷
 fjcso	砹
@@ -6784,7 +6784,7 @@ qjqlr	钔
 qjysk	锜
 bkkcm	炱
 clgso	茭
-qjjky	锿
+qjdyr	锿
 fysnh	骢
 jkjr	仡
 psjsd	垴
@@ -8519,7 +8519,7 @@ kdajf	㖊
 kdkda	㖞
 kdkld	㗏
 kdklm	㗑
-kdjky	㗒
+kddyr	㗒
 kdtah	㘄
 kdqxh	㘎
 kdddh	㘗
@@ -10158,7 +10158,7 @@ pjftl	篠
 plams	篨
 pmxxk	簃
 pmknd	簉
-pjkyr	簑
+pdlyr	簑
 pnsle	簕
 pkxkf	簖
 pyjfl	簝
@@ -10197,7 +10197,7 @@ tkfmw	绤
 tksay	绹
 tkvpd	缊
 tkdhs	缐
-tkjky	缞
+tkdly	缞
 ayjsj	罇
 aynks	罉
 zhzza	罍
@@ -10441,7 +10441,7 @@ ygale	裈
 ykqo	裋
 yyaau	裌
 ykfi	裑
-jvkfy	裛
+dhfyr	裛
 fjlfy	裻
 ymjdo	褀
 jvkmy	褎
@@ -11589,7 +11589,7 @@ jfzye	偩
 jlkzh	偪
 jfpjf	偫
 jkhe	偮
-jjkyr	偯
+jdyr	偯
 jzadk	偱
 jmgo	偳
 jfzye	偵
@@ -15315,7 +15315,7 @@ hsjft	滌
 cmcgh	滎
 hsxkt	滐
 hsssk	滒
-hsjky	滖
+hsdly	滖
 hshay	滛
 hsdya	滜
 hshgu	滝
@@ -17494,7 +17494,7 @@ yfzdf	縓
 yfbbt	縔
 yffpd	縕
 yfgmk	縖
-yfjky	縗
+yfdly	縗
 yfhly	縘
 yfche	縙
 yfhjz	縚
@@ -20526,7 +20526,7 @@ tmdlz	鍿
 tmjff	鎀
 tmhlw	鎁
 tmhzy	鎃
-tmjky	鎄
+tmdyr	鎄
 tmzav	鎅
 tmjcv	鎆
 tmmdk	鎇
@@ -24577,7 +24577,7 @@ chgye	㲠
 tlsgy	㲡
 lsfgy	㲢
 jzfbg	㲣
-jvklg	㲤
+dhlyg	㲤
 fkdkg	㲥
 akvag	㲦
 gybng	㲧
@@ -26982,7 +26982,7 @@ yjdi	䙍
 yhlyd	䙎
 ysjfo	䙏
 yqmw	䙐
-yjkyr	䙑
+ydlyr	䙑
 yjlzh	䙒
 yapbk	䙓
 ypklf	䙔
@@ -29163,9 +29163,9 @@ jvcme	𠅆
 jdne	𠅇
 jvlda	𠅈
 jvdjd	𠅉
-jvkak	𠅊
+dhakw	𠅊
 jvlak	𠅋
-jvkyd	𠅌
+dhydi	𠅌
 ltne	𠅍
 nsjgi	𠅎
 dhmfu	𠅏
@@ -29173,7 +29173,7 @@ sjne	𠅐
 jvlsy	𠅑
 nltlr	𠅒
 jvzaa	𠅓
-jvkfy	𠅔
+dhfyr	𠅔
 gmsyr	𠅕
 dhkak	𠅖
 lfjjc	𠅗
@@ -30341,7 +30341,7 @@ ghfcl	𠗦
 ghzvj	𠗧
 ghaxt	𠗨
 ghvfn	𠗩
-ghjky	𠗪
+ghdyr	𠗪
 ghfdy	𠗫
 ghlai	𠗬
 ghplj	𠗭
@@ -33132,7 +33132,7 @@ kddtb	𡃛
 kdfgh	𡃜
 kddmq	𡃝
 kdqkv	𡃞
-psljy	𡃟
+psldy	𡃟
 kqdjk	𡃠
 jsckk	𡃡
 kdfgl	𡃢
@@ -34896,7 +34896,7 @@ glzgj	𡟏
 glkxu	𡟐
 gljph	𡟑
 gljjg	𡟒
-gljky	𡟓
+gldyr	𡟓
 glzdk	𡟔
 hfkkg	𡟕
 hsggg	𡟖
@@ -35623,7 +35623,7 @@ gkppl	𡪩
 gkgfy	𡪪
 gkjvx	𡪫
 gkhxl	𡪬
-gkkjy	𡪭
+gkkdy	𡪭
 gklhc	𡪮
 gkxhh	𡪯
 gkffk	𡪰
@@ -38826,7 +38826,7 @@ hdgcb	𢜶
 spvhd	𢜷
 hdbst	𢜸
 zachd	𢜹
-hdjky	𢜺
+hddyr	𢜺
 hdhdp	𢜻
 hdmak	𢜼
 hdjly	𢜽
@@ -44787,7 +44787,7 @@ hscks	𣺏
 hsdsj	𣺐
 hsvsm	𣺑
 hsxyr	𣺒
-hsjky	𣺓
+hsdjy	𣺓
 hsykq	𣺔
 hsqlv	𣺕
 hsajh	𣺖
@@ -45222,7 +45222,7 @@ hsglz	𤁂
 hsajm	𤁃
 hszjp	𤁄
 hslkk	𤁅
-hsajy	𤁆
+hsady	𤁆
 hscgf	𤁇
 hsptm	𤁈
 hsakp	𤁉
@@ -47198,7 +47198,7 @@ lqcbk	𤠂
 lqlds	𤠃
 lqhsk	𤠄
 lqkpd	𤠅
-lqjky	𤠆
+lqdyr	𤠆
 lqnfi	𤠇
 lqjcl	𤠈
 lqcdy	𤠉
@@ -47224,7 +47224,7 @@ lqfsh	𤠜
 lqtjt	𤠝
 lqsnv	𤠞
 lqcck	𤠟
-lqjky	𤠠
+lqdly	𤠠
 lqpbp	𤠡
 kdglq	𤠢
 lqjfh	𤠣
@@ -48739,7 +48739,7 @@ qkzgw	𤸒
 qkkhf	𤸓
 qkklf	𤸔
 qkkdn	𤸕
-qkjky	𤸖
+qkdyr	𤸖
 qkjjl	𤸗
 qkfzy	𤸘
 qkynp	𤸙
@@ -48761,7 +48761,7 @@ qklgf	𤸨
 qkdls	𤸩
 qkmvk	𤸪
 qkkzy	𤸫
-qkjky	𤸬
+qkdly	𤸬
 qkfao	𤸭
 qkmfc	𤸮
 qkbbt	𤸯
@@ -55834,7 +55834,7 @@ hvatl	𦧤
 hsjhv	𦧥
 hvhgb	𦧦
 hvvjg	𦧧
-jvksh	𦧨
+dhskh	𦧨
 hvklk	𦧩
 vjhvu	𦧪
 hvadn	𦧫
@@ -67703,7 +67703,7 @@ msvxh	𩡡
 msvmc	𩡢
 msvhm	𩡣
 msvcp	𩡤
-msvjf	𩡥
+msvdf	𩡥
 msvat	𩡦
 fykau	𩡧
 saje	𩡨
@@ -73090,7 +73090,7 @@ hsjam	𪶢
 hsszc	𪶣
 hsjtn	𪶤
 hshfl	𪶥
-hsjky	𪶦
+hsdyr	𪶦
 hsjcq	𪶧
 hsgbh	𪶨
 hsbkh	𪶩
@@ -74237,7 +74237,7 @@ cljvt	𫈪
 clhdl	𫈫
 clglx	𫈬
 clhto	𫈭
-cljky	𫈮
+cldyr	𫈮
 cltln	𫈯
 clhck	𫈰
 clxzf	𫈱
@@ -75855,7 +75855,7 @@ jtxbk	𫣌
 ajscu	𫣍
 jgdjd	𫣎
 jhgu	𫣏
-jjkyr	𫣐
+jdlyr	𫣐
 jqdlw	𫣑
 jmdi	𫣒
 jfvjf	𫣓
@@ -76187,7 +76187,7 @@ zkhlz	𫨙
 zkjkl	𫨚
 zkydk	𫨛
 zkndl	𫨜
-zkjkj	𫨝
+zkdyj	𫨝
 zkdzd	𫨞
 zkqqv	𫨟
 zkpfa	𫨠
@@ -76461,7 +76461,7 @@ xzsxi	𫬯
 lfgdj	𫬰
 kdczn	𫬱
 lfvlf	𫬲
-msjkk	𫬳
+msdyk	𫬳
 jzttk	𫬴
 kdhjz	𫬵
 kdkdg	𫬶
@@ -79022,7 +79022,7 @@ pklgl	𬕚
 paskr	𬕛
 pkqi	𬕜
 pssle	𬕝
-pjkyr	𬕞
+pdyr	𬕞
 pljnd	𬕟
 phfle	𬕠
 pyjti	𬕡
@@ -80156,7 +80156,7 @@ kfzgn	𬧩
 kfvnt	𬧪
 kffah	𬧫
 kfhpd	𬧬
-kfjky	𬧭
+kfdly	𬧭
 kfyda	𬧮
 kfdsj	𬧯
 kfcsk	𬧰
@@ -83501,7 +83501,7 @@ psmqi	𭎰
 psknd	𭎱
 jvjcp	𭎲
 ktllv	𪊑
-psjky	𭎳
+psdyr	𭎳
 hau	麻
 lldps	𭎴
 ksmvp	𭎵
@@ -83546,7 +83546,7 @@ jblnr	𭏓
 psjsx	𭏔
 psgzz	𭏕
 psfaj	𭏖
-psjky	𭏗
+psdly	𭏗
 psjyn	𭏘
 bkcvp	𭏙
 lamps	𭏚
@@ -85322,8 +85322,8 @@ tllgj	𭫆
 stjvi	𭫇
 caaau	𭫈
 tljsm	𭫉
-tljky	𭫊
-jvkft	𭫋
+tldyr	𭫊
+dhftl	𭫋
 bbble	𭫌
 tlmzb	𭫍
 tlzkh	𭫎
@@ -89133,7 +89133,7 @@ khdps	𮦿
 khdnd	𮧀
 khjkq	𮧁
 khdfl	𮧂
-mvdjx	𮧃
+mvckx	𮧃
 lthw	𮧄
 ltzhe	𮧅
 ltdyd	𮧆
@@ -89219,7 +89219,7 @@ lmhar	𮨗
 nanw	𮨘
 mglya	𮨙
 hjar	𮨚
-jvkla	𮨛
+dhlya	𮨛
 dkpe	𮨜
 bllpe	𮨝
 fmnhp	𮨞
@@ -89649,7 +89649,7 @@ fmskg	𮯌
 fmfab	𮯍
 fmmkr	𮯎
 lqnff	𮯏
-fmjky	𮯐
+fmdly	𮯐
 fmvdk	𮯑
 fmmzp	𮯒
 fmvkl	𮯓
@@ -93420,7 +93420,7 @@ dycvc	𱫝
 dygga	𱪺
 dyhdu	𲁮
 dyhtl	𰗿
-djkyr	𲁳
+ddlyr	𲁳
 dylfl	𱄍
 dylzh	𱰭
 dypsu	𱖉
@@ -96320,7 +96320,7 @@ ksyhj	𰔳
 ksyhs	𰛣
 ksyjc	𰔬
 ksyjy	𰔴
-ksjky	𰔜
+ksdly	𰔜
 ksyld	𱡄
 ksypp	𱡐
 ksysu	𰓑
@@ -96672,7 +96672,7 @@ lvldi	𱀣
 lvlnr	𰢒
 lvsfj	𱀼
 lvvps	𰀛
-lvjky	𱜾
+lvdyr	𱜾
 lvyxi	𲈦
 lvzcm	𱪽
 lxcps	𲉠
@@ -99189,7 +99189,7 @@ xvvdl	𲃱
 xxfyw	𰸄
 xxhle	𰸧
 xxjfo	𲃪
-xjkyr	𲃿
+xdlyr	𲃿
 xylak	𰸉
 xylyk	𰴑
 xymlz	𲁐
