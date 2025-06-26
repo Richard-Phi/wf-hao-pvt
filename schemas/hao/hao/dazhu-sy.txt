@@ -99729,7 +99729,7 @@ tclgi	羚
 hclgi	聆
 tmclg	鈴
 kclgi	零
-klkau	靈
+kklau	靈
 cjlar	領
 jcvje	例
 sjkkq	禮

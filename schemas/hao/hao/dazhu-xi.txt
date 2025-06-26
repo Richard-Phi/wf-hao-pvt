@@ -98946,7 +98946,7 @@ itwj	羚
 qtwj	聆
 ttwj	鈴
 ttwj	零
-tris	靈
+tirs	靈
 twwv	領
 kqkg	例
 drei	禮
@@ -198027,7 +198027,7 @@ itwj	羚
 qtwj	聆
 ttwj	鈴
 ttwj	零
-tris	靈
+tirs	靈
 twwv	領
 kqkg	例
 drei	禮
