@@ -29360,7 +29360,7 @@
 亻口頁,KjIqWv	𠎡
 亻氵土厶心,KjHgBmNg	𠎢
 亻覀大山,KjQpXiDs	𠎣
-龠,Sy	𠎤
+亼吅𠕁,TuRuJz	𠎤
 亻人人人人日,KjSiSiJe	𠎥
 亻弓口虫,KjOdIqJw	𠎦
 亻丰刀糸,KjZhKgHt	𠎧
@@ -45884,7 +45884,7 @@
 火木吕,MdYvAjNf	𤐬
 火韦虫口寸,YvQhJwLw	𤐭
 厶口辛人火,NdIqJtYv	𤐮
-火龠,YvSy	𤐯
+火亼吅𠕁,YvTuRuJz	𤐯
 火卝隹又,YvWhVhWi	𤐰
 而大瓦火,UaXiFnYv	𤐱
 火日龷八手,YvJeXkPc	𤐲
@@ -49686,7 +49686,7 @@
 目士乛工一口寸,GyMfPvLw	𥌆
 目𠂉卌一夕㐄,GyLdDsGj	𥌇
 目臣𠂉一皿,GyDzLdBk	𥌈
-目龠,GySy	𥌉
+目亼吅𠕁,GyTuRuJz	𥌉
 目辛,JtGyJt	𥌊
 目卝罒冖夕,GyWhYtXu	𥌋
 目火火夕㐄,GyYvYvGj	𥌌
@@ -52060,8 +52060,8 @@
 ⺮亻丨矢,ZiKjKsEu	𥱌
 ⺮車几丶,ZiJlPsOe	𥱍
 ⺮廿㇗冂土,ZiXkPvBm	𥱎
-⺮井王冂,ZiBzGiZv	𥱏
 ⺮井龶冂,ZiBzZhZv	𥱏
+⺮井王冂,ZiBzGiZv	𥱏
 ⺮口里,ZiIqDn	𥱐
 ⺮⺷儿厶,ZiIdAhNd	𥱑
 ⺮氵工人人,ZiHgNvSi	𥱒
@@ -56545,7 +56545,7 @@
 ⺿勹丶皿,WhSnBlBk	𦷐
 艹禾手,WhZpPc	𦷑
 ⺿豸勹丶,WhLzSnOe	𦷒
-火龠灬,YvSyYv	𦷓
+艹士口灬,WhMfIqYv	𦷓
 ⺿厂十目一,WhOyGlFh	𦷔
 ⺿⺊囗心丿,WhDhUdCk	𦷕
 艹日十厂⺋,WhJeGlWj	𦷖
@@ -57046,7 +57046,7 @@
 ⺿冫馬几,WhLvGbPs	𦿅
 ⺿石日一勹,WhQqJeBl	𦿆
 艹魚阝,WhXlTj	𦿇
-⺿龠,WhSy	𦿈
+⺿亼吅𠕁,WhTuRuJz	𦿈
 ⺿日一,WhJeFhOz	𦿉
 ⺿虍巛田,WhQbJvSl	𦿊
 ⺿土厶日勹亾,WhBmNdXc	𦿋
@@ -59989,7 +59989,7 @@
 夫夫⺈厂八言,SvSvRlMe	𧭃
 言巛⺽木,MeJvWiAj	𧭄
 言臣月王,MeDzMdGi	𧭅
-言龠,MeSy	𧭆
+言亼吅𠕁,MeTuRuJz	𧭆
 言白穴方,MeDyZiMx	𧭇
 言宀心皿丁,MeErNgUe	𧭈
 言一,MeFhKt	𧭉
@@ -94864,7 +94864,7 @@
 夂゛龟,JtLvSi	𱍇
 㡀攵龟,KtRySi	𱍈
 龠龟,SySi	𱍉
-龠日曰,SyJeRl	𱍊
+亼吅𠕁日曰,TuRuJzRl	𱍊
 𱍐,Dd	𱍐
 土厶一,BmNdFh	𱍑
 丁冂大,UeZvXi	𱍒
@@ -99056,5 +99056,5 @@
 竜人彡,JhSiBl	𲎬
 竜夂一生,JhJtFhDh	𲎭
 龟斗,SiPf	𲎮
-屮凵欠龠,IaZvFySy	𲎯
+屮凵欠亼吅𠕁,IaZvFyJz	𲎯
 ⻗鬼⻗云,TfByTfPd	𳊎

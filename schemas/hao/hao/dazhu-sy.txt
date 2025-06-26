@@ -29760,7 +29760,7 @@ jvdfl	𠎠
 jkar	𠎡
 jhphd	𠎢
 jdymg	𠎣
-mqo	𠎤
+cjlfh	𠎤
 jaavo	𠎥
 jnkgj	𠎦
 jmvyf	𠎧
@@ -46220,7 +46220,7 @@ jzsnc	𤐫
 cctam	𤐬
 cmpgj	𤐭
 bkksc	𤐮
-cmmqo	𤐯
+cmclf	𤐯
 cmchb	𤐰
 gypcm	𤐱
 cmvak	𤐲
@@ -50001,7 +50001,7 @@ zkvcd	𥌅
 dklxj	𥌆
 dkkkk	𥌇
 dkqkp	𥌈
-dkmqo	𥌉
+dkclf	𥌉
 sndsn	𥌊
 dkcax	𥌋
 dkcck	𥌌
@@ -56833,7 +56833,7 @@ clkfj	𦷏
 clsfp	𦷐
 clmks	𦷑
 clqsn	𦷒
-cmmcm	𦷓
+cllkc	𦷓
 clzal	𦷔
 clfzs	𦷕
 clval	𦷖
@@ -57334,7 +57334,7 @@ clvff	𦿄
 clgaa	𦿅
 clfvf	𦿆
 clnlw	𦿇
-clmqo	𦿈
+clclf	𦿈
 clvln	𦿉
 clvdz	𦿊
 clpbn	𦿋
@@ -60269,7 +60269,7 @@ dgjsj	𧭂
 jgjfd	𧭃
 ddjtl	𧭄
 dqcgu	𧭅
-dmqo	𧭆
+dclfh	𧭆
 ddvhf	𧭇
 dghlf	𧭈
 dlxcu	𧭉
@@ -94360,7 +94360,7 @@ gybfb	𱌞
 gycak	𱥣
 gycjd	𰚙
 gyddk	𰥜
-gyddm	𲎯
+gyddf	𲎯
 gydfs	𱛪
 gydgc	𱫼
 gydgg	𱬣
@@ -96919,7 +96919,7 @@ mpjgo	𱼼
 mqjbo	𱊵
 mqmdi	𱍉
 mqppg	𱜘
-mqvjw	𱍊
+cjlfj	𱍊
 msaaj	𱶬
 msaal	𰨨
 msahf	𰻿

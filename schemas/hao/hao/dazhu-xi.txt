@@ -28977,7 +28977,7 @@ kjwo	𠎠
 kiwv	𠎡
 khbn	𠎢
 kqxd	𠎣
-syck	𠎤
+trjz	𠎤
 kssj	𠎥
 koij	𠎦
 kzkh	𠎧
@@ -45437,7 +45437,7 @@ wcly	𤐫
 mya	𤐬
 yqjl	𤐭
 nijy	𤐮
-ysyk	𤐯
+ytr	𤐯
 ywvw	𤐰
 uxfy	𤐱
 yjxp	𤐲
@@ -49218,7 +49218,7 @@ ojmg	𥌅
 gmpl	𥌆
 gldg	𥌇
 gdlb	𥌈
-gsyk	𥌉
+gtrj	𥌉
 jgjt	𥌊
 gwyx	𥌋
 gyyg	𥌌
@@ -56050,7 +56050,7 @@ wloy	𦷏
 wsbb	𦷐
 wzpc	𦷑
 wlso	𦷒
-ysyv	𦷓
+wmiy	𦷓
 wogf	𦷔
 wduc	𦷕
 wjgw	𦷖
@@ -56551,7 +56551,7 @@ wjkb	𦿄
 wlgp	𦿅
 wqjb	𦿆
 wxtj	𦿇
-wsyk	𦿈
+wtrj	𦿈
 wjfo	𦿉
 wqjs	𦿊
 wbnx	𦿋
@@ -59486,7 +59486,7 @@ mevd	𧭂
 ssrm	𧭃
 mjwa	𧭄
 mdmg	𧭅
-msyk	𧭆
+mtrj	𧭆
 mdzm	𧭇
 menu	𧭈
 mfkt	𧭉
@@ -93577,7 +93577,7 @@ ynow	𱌞
 owgi	𱥣
 ojvy	𰚙
 izgy	𰥜
-izfs	𲎯
+izfj	𲎯
 izoc	𱛪
 iziy	𱫼
 izio	𱬣
@@ -96136,7 +96136,7 @@ lbd	𱼼
 swlf	𱊵
 ssip	𱍉
 seeh	𱜘
-sjrl	𱍊
+trjr	𱍊
 zygb	𱶬
 zssi	𰨨
 zshe	𰻿
@@ -128058,7 +128058,7 @@ kjwo	𠎠
 kiwv	𠎡
 khbn	𠎢
 kqxd	𠎣
-syck	𠎤
+trjz	𠎤
 kssj	𠎥
 koij	𠎦
 kzkh	𠎧
@@ -144518,7 +144518,7 @@ wcly	𤐫
 myan	𤐬
 yqjl	𤐭
 nijy	𤐮
-ysyk	𤐯
+ytrj	𤐯
 ywvw	𤐰
 uxfy	𤐱
 yjxp	𤐲
@@ -148299,7 +148299,7 @@ ojmg	𥌅
 gmpl	𥌆
 gldg	𥌇
 gdlb	𥌈
-gsyk	𥌉
+gtrj	𥌉
 jgjt	𥌊
 gwyx	𥌋
 gyyg	𥌌
@@ -155131,7 +155131,7 @@ wloy	𦷏
 wsbb	𦷐
 wzpc	𦷑
 wlso	𦷒
-ysyv	𦷓
+wmiy	𦷓
 wogf	𦷔
 wduc	𦷕
 wjgw	𦷖
@@ -155632,7 +155632,7 @@ wjkb	𦿄
 wlgp	𦿅
 wqjb	𦿆
 wxtj	𦿇
-wsyk	𦿈
+wtrj	𦿈
 wjfo	𦿉
 wqjs	𦿊
 wbnx	𦿋
@@ -158567,7 +158567,7 @@ mevd	𧭂
 ssrm	𧭃
 mjwa	𧭄
 mdmg	𧭅
-msyk	𧭆
+mtrj	𧭆
 mdzm	𧭇
 menu	𧭈
 mfkt	𧭉
@@ -192658,7 +192658,7 @@ ynow	𱌞
 owgi	𱥣
 ojvy	𰚙
 izgy	𰥜
-izfs	𲎯
+izfj	𲎯
 izoc	𱛪
 iziy	𱫼
 izio	𱬣
@@ -195217,7 +195217,7 @@ lbdn	𱼼
 swlf	𱊵
 ssip	𱍉
 seeh	𱜘
-sjrl	𱍊
+trjr	𱍊
 zygb	𱶬
 zssi	𰨨
 zshe	𰻿
