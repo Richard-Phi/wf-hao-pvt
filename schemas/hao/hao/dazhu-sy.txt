@@ -26240,7 +26240,7 @@ aykcl	䍋
 ayjkd	䍌
 lglay	䍍
 ayckc	䍎
-ahe	䍏
+djvle	䍏
 ahlvu	䍐
 djssl	䍑
 ahtlr	䍒
@@ -31264,7 +31264,7 @@ akclr	𠦃
 akclr	𠦄
 kckco	𠦅
 vakw	𠦆
-dnakw	𠦇
+lfxak	𠦇
 lfakw	𠦈
 akkfo	𠦉
 hakw	𠦊
@@ -76006,7 +76006,7 @@ jdaca	𫥣
 gydla	𫥤
 jvsdg	𫥥
 xssdj	𫥦
-gydac	𫥧
+gydax	𫥧
 ahygd	𫥨
 jvsdk	𫥩
 jvsdj	𫥪
@@ -96873,7 +96873,7 @@ mgmsc	𱤢
 mgmsl	𱛚
 mgmti	𱛘
 mgnfu	𱛐
-mgnsg	𱛺
+mgnng	𱛺
 mgnsu	𱛩
 mgpau	𱛑
 mgpbk	𱛔

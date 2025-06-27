@@ -25457,7 +25457,7 @@
 䍌	uyiq
 䍍	vfus
 䍎	uwc
-䍏	ytkf
+䍏	zkfh
 䍐	ylrk
 䍑	zool
 䍒	yajo
@@ -30481,7 +30481,7 @@
 𠦄	gwhk
 𠦅	hhck
 𠦆	jglk
-𠦇	kglk
+𠦇	fbp
 𠦈	bglk
 𠦉	gozk
 𠦊	pglk
@@ -75223,7 +75223,7 @@
 𫥤	izfs
 𫥥	uozl
 𫥦	ptoz
-𫥧	izyw
+𫥧	izyp
 𫥨	yxiz
 𫥩	uozi
 𫥪	uozv
@@ -80821,7 +80821,7 @@
 𬺵	qpvp
 視	dscp
 𬺶	fkpk
-𬺷	fbp
+𬺷	fbpv
 謁	mjsx
 𬺸	vpvp
 𬺹	sfhf
@@ -96090,7 +96090,7 @@
 𱛚	djau
 𱛘	dqjo
 𱛐	doks
-𱛺	ducl
+𱛺	duol
 𱛩	duho
 𱛑	desi
 𱛔	dbnd
@@ -124538,7 +124538,7 @@
 䍌	uyiq
 䍍	vfus
 䍎	uwcy
-䍏	ytkf
+䍏	zkfh
 䍐	ylrk
 䍑	zool
 䍒	yajo
@@ -129562,7 +129562,7 @@
 𠦄	gwhk
 𠦅	hhck
 𠦆	jglk
-𠦇	kglk
+𠦇	fbpg
 𠦈	bglk
 𠦉	gozk
 𠦊	pglk
@@ -174304,7 +174304,7 @@
 𫥤	izfs
 𫥥	uozl
 𫥦	ptoz
-𫥧	izyw
+𫥧	izyp
 𫥨	yxiz
 𫥩	uozi
 𫥪	uozv
@@ -195171,7 +195171,7 @@
 𱛚	djau
 𱛘	dqjo
 𱛐	doks
-𱛺	ducl
+𱛺	duol
 𱛩	duho
 𱛑	desi
 𱛔	dbnd

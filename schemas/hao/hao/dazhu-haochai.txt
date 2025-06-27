@@ -4292,7 +4292,7 @@
 缶立口,UsYqIq	䍌
 {彀字框无一}一缶,VsFhUs	䍍
 缶艹一ㄅ灬,UsWhCuYv	䍎
-四,Yt	䍏
+冂〢一,ZvKgFh	䍏
 罒干,YtLr	䍐
 冂乂乂干,ZvOsOsLr	䍑
 罒木,YtAj	䍒
@@ -30867,7 +30867,7 @@
 十⺿,GlWh	𠦄
 千,HcHc	𠦅
 日十,JeGl	𠦆
-豕十,KtGl	𠦇
+一㇢十,FhBlPvGl	𠦇
 井十,BzGl	𠦈
 十斤,GlOz	𠦉
 云十,PdGl	𠦊
@@ -37953,8 +37953,8 @@
 彳ㅠ匚コ田,JbWhEhSl	𢔲
 彳又丶丶虫,JbWiOeJw	𢔳
 彳五口阝,JbJiIqTj	𢔴
-彳井王冂,JbBzGiZv	𢔵
 彳井龶冂,JbBzZhZv	𢔵
+彳井王冂,JbBzGiZv	𢔵
 彳見寸,JbScLw	𢔶
 彳犭屮王,JbLeIaGi	𢔷
 彳鬲,JbPw	𢔸
@@ -52060,8 +52060,8 @@
 ⺮亻丨矢,ZiKjKsEu	𥱌
 ⺮車几丶,ZiJlPsOe	𥱍
 ⺮廿㇗冂土,ZiXkPvBm	𥱎
-⺮井龶冂,ZiBzZhZv	𥱏
 ⺮井王冂,ZiBzGiZv	𥱏
+⺮井龶冂,ZiBzZhZv	𥱏
 ⺮口里,ZiIqDn	𥱐
 ⺮⺷儿厶,ZiIdAhNd	𥱑
 ⺮氵工人人,ZiHgNvSi	𥱒
@@ -75854,7 +75854,7 @@
 屮凵一冂人,IaZvFhSi	𫥤
 亠㐅凵尸丶゛,UeOsZvLv	𫥥
 乛酉㐅凵,PvTiOsZv	𫥦
-屮凵罒廾,IaZvYtWh	𫥧
+屮凵罒十ㄣ,IaZvYtPv	𫥧
 罒大屮凵,YtXiIaZv	𫥨
 亠㐅凵五口,UeOsZvIq	𫥩
 亠㐅凵〢,UeOsZvVy	𫥪
@@ -95803,7 +95803,7 @@
 山工页,DsNvKw	𱛷
 山㇏日,DsZhOeJe	𱛸
 山耳阝,DsQgTj	𱛹
-山束丿゛,DsUhCkLv	𱛺
+山束丶゛,DsUhOeLv	𱛺
 山艹冂大,DsWhZvXi	𱛻
 山彳聿,DsJbUa	𱛼
 山一殳,DsPcFhQi	𱛽
