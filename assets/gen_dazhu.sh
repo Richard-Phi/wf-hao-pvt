@@ -5,7 +5,7 @@
 # 环境变量:
 #   INPUT_DIR: 输入文件目录
 #   OUTPUT_DIR: 输出文件目录
-#;q	：“
+#;q	："
 #;t	→
 #;y	·
 #;o	〖
@@ -46,6 +46,16 @@ if [ -f "${INPUT_DIR}/hao/leoxi.short.dict.yaml" ]; then
         sed 's/2/;/g' | \
         sed "s/3/'/g" \
         >>"${OUTPUT_DIR}/hao/dazhu-xi.txt"
+
+    # 修正快符
+    xi_file="${OUTPUT_DIR}/hao/dazhu-xi.txt"
+    match_line=$(grep -n '：“' "$xi_file" | head -n1 | cut -d: -f1)
+    if [ -n "$match_line" ]; then
+      start_line=$match_line
+      end_line=$((match_line+20))
+      tmp_file="${xi_file}.tmp"
+      awk -v s=$start_line -v e=$end_line '{if(NR>=s && NR<=e){print ";"$0} else {print $0}}' "$xi_file" > "$tmp_file" && mv "$tmp_file" "$xi_file"
+    fi
 
     if [ -f "${INPUT_DIR}/div_xi.txt" ]; then
         #cat "${INPUT_DIR}/div_xi.txt" | \
