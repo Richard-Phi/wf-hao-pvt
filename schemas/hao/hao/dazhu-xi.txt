@@ -58825,7 +58825,7 @@ fzss	𧢮
 wrvs	𧢯
 wrvs	𧢰
 tirs	𧢱
-rqlk	𧢲
+rzss	𧢲
 rqpv	𧢳
 rque	𧢴
 rqfp	𧢵
@@ -157906,7 +157906,7 @@ fzss	𧢮
 wrvs	𧢯
 wrvs	𧢰
 tirs	𧢱
-rqlk	𧢲
+rzss	𧢲
 rqpv	𧢳
 rque	𧢴
 rqfp	𧢵
