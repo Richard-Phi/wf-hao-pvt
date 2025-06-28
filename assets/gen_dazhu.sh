@@ -80,11 +80,11 @@ if [ -f "${INPUT_DIR}/hao/leosy.short.dict.yaml" ]; then
         >>"${OUTPUT_DIR}/hao/dazhu-sy.txt"
     
     cat "${INPUT_DIR}/hao/leosy.quicks.dict.yaml" | \
-        sed 's/^\(.*\)\t\(.*\)/\1\t\2/g' | \
+        sed 's/^\(.*\)\t\(.*\)/\2\t\1/g' | \
         sed 's/\t/{TAB}/g' | \
         grep '.*{TAB}.*' | \
         sed 's/{TAB}/\t/g' | \
-        awk '{print $2 "\t" $1}' | \
+        #awk '{print $2"\t"$1}' | \
         sed 's/1/_/g' | \
         sed 's/2/;/g' | \
         sed "s/3/'/g" \

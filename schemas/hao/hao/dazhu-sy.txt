@@ -15,7 +15,7 @@ z;	【
 x;	】
 c;	（
 v;	）
-b_	﻿
+b;	﻿
 n;	『
 m;	』
 ;q	：“
@@ -659,6 +659,7 @@ mn;	期望
 mt;	基本
 cj;	合作
 gm;	发展
+hb;	游戏
 njs;	为什么
 jjg;	你们好
 azh;	输入法
@@ -771,16 +772,9 @@ aafu	存在
 kkgr	数据
 fvlu	证明
 psbo	却将
-aanfu	几个
-aanu	几人
-sjmcv	面前
-lfjkc	一点
-dvvjf	此时
-gjkql	她们
-lvjjf	平时
-好拆	上传词提
-好	上传词提
-松烟	上传词提
+jfju	上传词提 好拆
+jfji	上传词提 好
+jfjo	上传词提 松烟
 dlsnr	的
 le	一
 vjgu	是
@@ -6983,7 +6977,7 @@ kddau	呙
 tlslh	梃
 fjghq	確
 msamr	秭
-sdsxi	粵
+szsxi	粵
 clgxa	茕
 clvhb	蕞
 gjypp	蝰
@@ -28926,7 +28920,7 @@ jdsmx	𠁔
 akkgz	𠁕
 lclfu	𠁖
 akldy	𠁗
-lamau	𠁘
+lfama	𠁘
 kgdvi	𠁙
 lfcvo	𠁚
 kgjfn	𠁛
@@ -38000,7 +37994,7 @@ nsgjg	𢏹
 nsldn	𢏺
 jfnkw	𢏻
 nsatl	𢏼
-nsfnf	𢏽
+lxlfy	𢏽
 nsdyr	𢏾
 nsgxl	𢏿
 nsnla	𢐀
@@ -51558,7 +51552,7 @@ mskka	𥤞
 msqkp	𥤟
 msaaq	𥤠
 ajaam	𥤡
-vkw	𥤢
+sdlr	𥤢
 vkdmw	𥤣
 vkanw	𥤤
 vkfkw	𥤥
@@ -74812,7 +74806,7 @@ sjsjf	𫑼
 sjnsu	𫑽
 sjzsj	𫑾
 schcm	𫑿
-sdsxi	𫒀
+szsxi	𫒀
 jgljf	𫒁
 fmfjg	𫒂
 kcjmv	𫒃
@@ -87888,29 +87882,29 @@ cllxs	𮓕
 clbvs	𮓖
 vhpsu	𮓗
 lfmvk	𮓘
-vhe	𮓙
+lfman	𮓙
 fjmfb	𮓚
 vhpsu	𮓛
 lfmjf	𮓜
 vhdi	𮓝
 lfmai	𮓞
-vhanw	𮓟
+gxsan	𮓟
 lfmnr	𮓠
 lfmsu	𮓡
-vhjcu	𮓢
+fjxsc	𮓢
 vhhlx	𮓣
-vhmdo	𮓤
+vhlmd	𮓤
 lfmyd	𮓥
-sjavh	𮓦
-vhfmw	𮓧
-vhkgi	𮓨
-vhsjx	𮓩
+sjalr	𮓦
+vhlfm	𮓧
+vhlkg	𮓨
+gxsxi	𮓩
 vhzbi	𮓪
-flvav	𮓫
+flval	𮓫
 vhkjx	𮓬
 flvfd	𮓭
-vhfsf	𮓮
-vhkxk	𮓯
+vhlff	𮓮
+vhlkk	𮓯
 kdfln	𮓰
 skfle	𮓱
 gjxxi	𮓲

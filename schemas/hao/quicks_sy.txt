@@ -269,6 +269,7 @@
 基本	mt;
 合作	cj;
 发展	gm;
+游戏	hb;
 为什么	njs;
 你们好	jjg;
 输入法	azh;
@@ -384,15 +385,6 @@
 数据	kkgr
 证明	fvlu
 却将	psbo
-
-#==== 全码词 ====#
-几个	aanfu
-几人	aanu
-面前	sjmcv
-一点	lfjkc
-此时	dvvjf
-她们	gjkql
-平时	lvjjf
 
 #==== 自用无理码 ====#
 上传词提 好拆	jfju
