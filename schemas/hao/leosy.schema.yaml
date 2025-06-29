@@ -19,7 +19,7 @@ schema:
 
 switches:
   - name: leosy_auto_commit
-    #reset: 0
+    reset: 1
     abbrev: [松, 烟]
     states: [☐关闭自动上屏, ☑开启自动上屏]
   - options:
