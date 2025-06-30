@@ -28152,8 +28152,8 @@
 𠁞	ctu
 𠁟	vov
 𠁠	rrr
-𠁡	dhko
-𠁢	kpv
+𠁡	kpv
+𠁢	kpvp
 𠁣	mzkf
 𠁤	uah
 𠁥	xsks
@@ -76424,7 +76424,7 @@
 𫸦	owhk
 𫸧	oiqf
 𫸨	uuvk
-𫸪	oodp
+𫸪	ofpp
 𫸫	ogiq
 𫸬	edok
 𫸭	nuod
@@ -127238,7 +127238,7 @@
 𠁞	ctuj
 𠁟	vovy
 𠁠	rrrr
-𠁡	dhko
+𠁡	kpvp
 𠁢	kpvp
 𠁣	mzkf
 𠁤	uahp
@@ -175510,7 +175510,7 @@
 𫸦	owhk
 𫸧	oiqf
 𫸨	uuvk
-𫸪	oodp
+𫸪	ofpp
 𫸫	ogiq
 𫸬	edok
 𫸭	nuod
