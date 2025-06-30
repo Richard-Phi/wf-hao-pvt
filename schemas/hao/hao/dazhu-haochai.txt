@@ -11361,7 +11361,7 @@
 女又弓,SmWiOd	弩
 弓ス工,OdWiNv	弪
 弓臣,OdDz	弫
-弓,OdDz	弬
+弓,OdDz	弬
 弓耳,OdQg	弭
 丷夫弓,VySvOd	弮
 亠弓,UeYvOd	弯
@@ -28588,8 +28588,8 @@
 丿口丨,CkIqKs	𠂝
 丿八一ㄅ,CkVyFhPv	𠂞
 丿丷𠂇,CkVyGl	𠂟
-丿䒑ㄅ,CkVyPv	𠂠
 丿⺌一ㄅ,CkOtFhPv	𠂠
+丿䒑ㄅ,CkVyPv	𠂠
 ⺇,PsPc	𠂡
 ⺁,OyOr	𠂢
 戶一ㄅ,FkFhPv	𠂣
@@ -37953,8 +37953,8 @@
 彳ㅠ匚コ田,JbWhEhSl	𢔲
 彳又丶丶虫,JbWiOeJw	𢔳
 彳五口阝,JbJiIqTj	𢔴
-彳井龶冂,JbBzZhZv	𢔵
 彳井王冂,JbBzGiZv	𢔵
+彳井龶冂,JbBzZhZv	𢔵
 彳見寸,JbScLw	𢔶
 彳犭屮王,JbLeIaGi	𢔷
 彳鬲,JbPw	𢔸
@@ -47285,8 +47285,8 @@
 王㇂丿,GiWiPvCk	𤦥
 王八刀王,GiVyKgGi	𤦦
 王⺿之,GiWhDo	𤦧
-一井王丶,NgFhBzOe	𤦨
 丿丨二井王丶,CkKsRlOe	𤦨
+一井王丶,NgFhBzOe	𤦨
 王一,GiFhWu	𤦩
 王木日,GiAjJe	𤦪
 王土儿夂,GiBmAhJt	𤦫
@@ -52061,8 +52061,8 @@
 ⺮亻丨矢,ZiKjKsEu	𥱌
 ⺮車几丶,ZiJlPsOe	𥱍
 ⺮廿㇗冂土,ZiXkPvBm	𥱎
-⺮井王冂,ZiBzGiZv	𥱏
 ⺮井龶冂,ZiBzZhZv	𥱏
+⺮井王冂,ZiBzGiZv	𥱏
 ⺮口里,ZiIqDn	𥱐
 ⺮⺷儿厶,ZiIdAhNd	𥱑
 ⺮氵工人人,ZiHgNvSi	𥱒
@@ -55976,8 +55976,8 @@
 ⺿干㇏,WhLrRlOe	𦮖
 ⺿囗女,WhUdSm	𦮗
 ⺿乃,WhViWh	𦮘
-艹艸艸,WhWhWh	𦮙
 艹屮屮屮屮,WhIaIaIa	𦮙
+艹艸艸,WhWhWh	𦮙
 ⺿⺌𠫔,WhOtPd	𦮚
 ⺿氵㇏,WhHgRlOe	𦮛
 ⺿冖斗,WhErPf	𦮜
@@ -61529,8 +61529,8 @@
 ⻊止扌支,UzLdPcBh	𨅅
 ⻊大丷土土,UzXiVyBm	𨅆
 口亠人人十足,IqUeSiUz	𨅇
-⻊⺿𠫔木,UzWhPdAj	𨅈
 ⻊龷厶木,UzXkNdAj	𨅈
+⻊⺿𠫔木,UzWhPdAj	𨅈
 ⻊丶月,UzOeTpMd	𨅉
 ⻊⺝攵,UzPdMdRy	𨅊
 ⻊肀片爿一,UzUaNbFh	𨅋
@@ -72922,7 +72922,7 @@
 氵立土八夂,HgYqBmJt	𪷥
 氵冖車辶,HgErJlLt	𪷦
 氵丿口羊,HgSiCkId	𪷧
-氵巳心,HgDzDuNg	𪷨
+氵已心,HgDzNtNg	𪷨
 氵一白木木,HgFhDyAj	𪷩
 氵二ㄅ八刀貝,HgRlPvIc	𪷪
 氵甫人氺,HgGnSiHg	𪷫
@@ -84284,7 +84284,7 @@
 木𠂇匕,AjGlHs	𭩝
 又又木,WiWiAj	𭩞
 木レ人,AjPvSi	𭩟
-卅木,FhAj	𭩠
+艹㇗木,WhPvAj	𭩠
 木幺丨,AjBlKs	𭩡
 匚コ木,EhEhAj	𭩢
 木工一ㄅ,AjNvFhPv	𭩣
@@ -89391,8 +89391,8 @@
 丸,Tk	丸
 乁,Pv	乁
 一冂巳一,FhZvDuFh	𠄢
-亻𠂉小,KjLdOt	你
 亻⺈小,KjRlOt	你
+亻𠂉小,KjLdOt	你
 亻𠂉母,KjLdQt	侮
 亻丷口儿,KjVyIqAh	侻
 亻丿丿干,KjCkLrLr	倂
@@ -97001,8 +97001,8 @@
 业𠂇乂丶,FkOqGlOe	𱮡
 犭月龷日,LeMdXkJe	𱮢
 犭隹辶,LeVhLt	𱮣
-ツ田𠫔𠂇又丶,HgSlPdOe	𱮤
 ツ田𠫔𠂇乂丶,HgSlPdOe	𱮤
+ツ田𠫔𠂇又丶,HgSlPdOe	𱮤
 犭厂羊欠,LeOyIdFy	𱮥
 犭罒𠃌虫,LeYtPvLv	𱮦
 犭业亻夫丷,LeOqKjVy	𱮧

@@ -72376,7 +72376,7 @@ huud	𪷤
 hybj	𪷥
 hejl	𪷦
 hsci	𪷧
-hddn	𪷨
+hdnn	𪷨
 hfda	𪷩
 hrpi	𪷪
 hgsh	𪷫
@@ -84437,7 +84437,7 @@ agif	𭩜
 aghs	𭩝
 wwaj	𭩞
 apsi	𭩟
-fajo	𭩠
+wpaj	𭩠
 abks	𭩡
 eeaj	𭩢
 anfp	𭩣
@@ -171462,7 +171462,7 @@ huud	𪷤
 hybj	𪷥
 hejl	𪷦
 hsci	𪷧
-hddn	𪷨
+hdnn	𪷨
 hfda	𪷩
 hrpi	𪷪
 hgsh	𪷫
@@ -183523,7 +183523,7 @@ agif	𭩜
 aghs	𭩝
 wwaj	𭩞
 apsi	𭩟
-fajo	𭩠
+wpaj	𭩠
 abks	𭩡
 eeaj	𭩢
 anfp	𭩣
