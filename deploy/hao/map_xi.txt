@@ -311,11 +311,11 @@ Pc	龵
 Pc	
 Pc	
 Pc	
-Pc	
-Pc	
+Pc	
 Pd	云
 Pd	
-Pd	{云变}
+Pd	𠫔
+Pd	ㄊ
 Pf	斗
 Ps	几
 Ps	⺇
