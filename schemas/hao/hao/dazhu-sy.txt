@@ -56291,6 +56291,7 @@ cllfn	𦮖
 clzgl	𦮗
 clfcl	𦮘
 clccl	𦮙
+clggg	𦮙
 clfhw	𦮚
 clhfn	𦮛
 clgyd	𦮜

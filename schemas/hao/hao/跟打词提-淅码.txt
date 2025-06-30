@@ -55483,6 +55483,7 @@
 𦮖	wlro
 𦮗	wusm
 𦮘	wvwh
+𦮙	wiii
 𦮙	wwwh
 𦮚	wopd
 𦮛	whro
@@ -154568,6 +154569,7 @@
 𦮖	wlro
 𦮗	wusm
 𦮘	wvwh
+𦮙	wiii
 𦮙	wwwh
 𦮚	wopd
 𦮛	whro
