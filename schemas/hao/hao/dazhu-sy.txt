@@ -401,6 +401,7 @@ lmw	与其
 mkr	甚至
 fco	上来
 fce	自然
+vcr	电脑
 hgr	方案
 hhu	爱情
 svo	力量
