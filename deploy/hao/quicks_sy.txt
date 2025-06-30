@@ -60,6 +60,24 @@
 景区	vpo
 翻译	sfu
 之间	fqo
+星期	vmu
+农历	gze
+启动	lhe
+中国	kzr
+美国	tzr
+法国	hzr
+德国	fzr
+韩国	azr
+暂停	aji
+纪录	tau
+公民	jhi
+撤回	kzi
+撤离	kjw
+游客	hgw
+接口	kki
+目标	dtw
+覆盖	dti
+弥补	nyr
 
 #==== 高频简词 ====#
 如果	gz;
@@ -147,8 +165,7 @@
 只是	kv;
 哪里	kj;
 感觉	kh;
-哪一	kl;
-这一	xl;
+重启	kl;
 时候	vj;
 得到	fk;
 遇到	zk;
@@ -270,6 +287,15 @@
 合作	cj;
 发展	gm;
 游戏	hb;
+传输	ja;
+调整	fn;
+银行	qd;
+索赔	as;
+国际	zl;
+脑机	ct;
+控制	km;
+增长	pd;
+答案	pg;
 为什么	njs;
 你们好	jjg;
 输入法	azh;
@@ -277,7 +303,11 @@
 太强了	tql;
 钛镪钌	qqq;
 鈦鏹釕	ttt;
-只要	kd;;e
+特朗普	mnj;
+马斯克	fms;
+俄罗斯	jam;
+乌克兰	caj;
+意大利	sym;
 
 #==== 常规简词 ====#
 #  首字双编，次字首根取全
