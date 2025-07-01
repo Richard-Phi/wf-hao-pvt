@@ -28726,6 +28726,7 @@
 𠊥	khhg
 𠊦	kjfl
 𠊧	kvoq
+𠊧	kvwu
 𠊨	koov
 𠊩	kyyy
 𠊪	khsf
@@ -36963,7 +36964,7 @@
 𢋼	gqe
 𢋽	gqst
 𢋾	gbsi
-𢋿	guio
+𢋿	guid
 𢌀	gbio
 𢌁	odfh
 𢌂	gfdj
@@ -36973,7 +36974,7 @@
 𢌆	gsgj
 𢌇	cfpn
 𢌈	guov
-𢌉	gwfj
+𢌉	gfwj
 𢌊	gbgw
 𢌋	gxxa
 𢌌	gwgb
@@ -37012,7 +37013,7 @@
 𢌭	woeo
 𢌮	uwhk
 𢌯	swhk
-𢌰	woso
+𢌰	wofh
 𢌱	fpfw
 𢌲	dwhk
 𢌳	mwh
@@ -37040,11 +37041,11 @@
 𢍉	cswh
 𢍊	vswh
 𢍋	vjw
-𢍌	mwhk
+𢍌	xowh
 𢍍	clwh
 𢍎	liwh
 𢍏	cmwh
-𢍐	fyw
+𢍐	fkfw
 𢍑	kdwh
 𢍒	chwh
 𢍓	ugwh
@@ -127812,6 +127813,7 @@
 𠊥	khhg
 𠊦	kjfl
 𠊧	kvoq
+𠊧	kvwu
 𠊨	koov
 𠊩	kyyy
 𠊪	khsf
@@ -136049,7 +136051,7 @@
 𢋼	gqei
 𢋽	gqst
 𢋾	gbsi
-𢋿	guio
+𢋿	guid
 𢌀	gbio
 𢌁	odfh
 𢌂	gfdj
@@ -136059,7 +136061,7 @@
 𢌆	gsgj
 𢌇	cfpn
 𢌈	guov
-𢌉	gwfj
+𢌉	gfwj
 𢌊	gbgw
 𢌋	gxxa
 𢌌	gwgb
@@ -136098,7 +136100,7 @@
 𢌭	woeo
 𢌮	uwhk
 𢌯	swhk
-𢌰	woso
+𢌰	wofh
 𢌱	fpfw
 𢌲	dwhk
 𢌳	mwhk
@@ -136126,11 +136128,11 @@
 𢍉	cswh
 𢍊	vswh
 𢍋	vjwh
-𢍌	mwhk
+𢍌	xowh
 𢍍	clwh
 𢍎	liwh
 𢍏	cmwh
-𢍐	fywh
+𢍐	fkfw
 𢍑	kdwh
 𢍒	chwh
 𢍓	ugwh

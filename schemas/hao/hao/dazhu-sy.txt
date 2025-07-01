@@ -29535,6 +29535,7 @@ jvau	𠊤
 jhhsu	𠊥
 jdldi	𠊦
 jjsu	𠊧
+jjzo	𠊧
 jnnjd	𠊨
 jqqqi	𠊩
 jti	𠊪
@@ -37772,7 +37773,7 @@ fkvhf	𢋻
 fkvkf	𢋼
 fkvzl	𢋽
 fkpak	𢋾
-fkjhf	𢋿
+fkjhs	𢋿
 fkpty	𢌀
 halle	𢌁
 fkldm	𢌂
@@ -37782,7 +37783,7 @@ fkmpl	𢌅
 fkzag	𢌆
 ktlxb	𢌇
 fkjsh	𢌈
-fkjlm	𢌉
+fkljm	𢌉
 fkggc	𢌊
 fkyat	𢌋
 gcfgh	𢌌
@@ -37821,7 +37822,7 @@ llr	𢌬
 clnr	𢌭
 jvclr	𢌮
 aclr	𢌯
-clso	𢌰
+clsle	𢌰
 lxlcl	𢌱
 mgclr	𢌲
 cclr	𢌳
@@ -37849,11 +37850,11 @@ ckvcl	𢍈
 szclr	𢍉
 jdjcl	𢍊
 jdvcl	𢍋
-mtclr	𢍌
+akscl	𢍌
 snclr	𢍍
 mdkcl	𢍎
 skclr	𢍏
-lcclr	𢍐
+lflcl	𢍐
 jdclr	𢍑
 shclr	𢍒
 jvdcl	𢍓

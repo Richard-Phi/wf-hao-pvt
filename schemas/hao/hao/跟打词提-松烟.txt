@@ -29495,6 +29495,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𠊥	jhhsu
 𠊦	jdldi
 𠊧	jjsu
+𠊧	jjzo
 𠊨	jnnjd
 𠊩	jqqqi
 𠊪	jti
@@ -37732,7 +37733,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𢋼	fkvkf
 𢋽	fkvzl
 𢋾	fkpak
-𢋿	fkjhf
+𢋿	fkjhs
 𢌀	fkpty
 𢌁	halle
 𢌂	fkldm
@@ -37742,7 +37743,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𢌆	fkzag
 𢌇	ktlxb
 𢌈	fkjsh
-𢌉	fkjlm
+𢌉	fkljm
 𢌊	fkggc
 𢌋	fkyat
 𢌌	gcfgh
@@ -37781,7 +37782,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𢌭	clnr
 𢌮	jvclr
 𢌯	aclr
-𢌰	clso
+𢌰	clsle
 𢌱	lxlcl
 𢌲	mgclr
 𢌳	cclr
@@ -37809,11 +37810,11 @@ Ciallo～(∠・ω< )⌒★	cle
 𢍉	szclr
 𢍊	jdjcl
 𢍋	jdvcl
-𢍌	mtclr
+𢍌	akscl
 𢍍	snclr
 𢍎	mdkcl
 𢍏	skclr
-𢍐	lcclr
+𢍐	lflcl
 𢍑	jdclr
 𢍒	shclr
 𢍓	jvdcl
