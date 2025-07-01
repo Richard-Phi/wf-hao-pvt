@@ -134,6 +134,21 @@ gen_schema() {
         cat div_sy.txt | sed "s/(/[/g" | sed "s/)/]/g" >>"leosy_chaifen.dict.yaml"
     popd
 
+    cat "${HAO}/map_xi.txt" | \
+        sed 's/^\(.*\)\t\(.*\)/\2\t\/r\1/g' | \
+        awk '{print tolower($0)}' | \
+        sed 's/\t/{TAB}/g' | \
+        grep '.*{TAB}.*' | \
+        sed 's/{TAB}/\t/g' \
+        >>"${HAO}/hao/leoxi.roots.dict.yaml"
+    cat "${HAO}/map_sy.txt" | \
+        sed 's/^\(.*\)\t\(.*\)/\2\t\/r\1/g' | \
+        awk '{print tolower($0)}' | \
+        sed 's/\t/{TAB}/g' | \
+        grep '.*{TAB}.*' | \
+        sed 's/{TAB}/\t/g' \
+        >>"${HAO}/hao/leosy.roots.dict.yaml"
+
     #realpath ${HAO}
     #ls -alh ${HAO}/
     #head -n5 ${HAO}/div_xi.txt
@@ -159,8 +174,16 @@ gen_schema() {
     pushd ${WD}/../assets/simpcode || error "无法切换到 simpcode 目录"
         python simpcode.py || error "生成简码失败"
         awk '/单字标记/ {system("cat res.txt"); next} 1' ${HAO}/hao/leoxi.short.dict.yaml > ${HAO}/temp && mv ${HAO}/temp ${HAO}/hao/leoxi.short.dict.yaml
-        #awk '/单字全码/ {system("cat ../gendict/data/单字全码表_modified.txt"); next} 1' ${HAO}/dicts/llama.dict.yaml > ${HAO}/temp && mv ${HAO}/temp ${HAO}/dicts/llama.dict.yaml
     popd
+
+    log "生成淅全码后置元素..."
+    words=$(awk '
+        /^#----------单字开始----------#$/ { in_block=1; next }
+        /^#----------单字结束----------#$/ { in_block=0 }
+        in_block && NF >= 3 && length($2) <= 3 { print $0 }
+    ' ${HAO}/hao/leoxi.short.dict.yaml | sort -t$'\t' -k3,3nr | awk -F'\t' '{printf $1}')
+    escaped_words="${words%% *}"
+    sed -i '' "s|淅码全码后置|$escaped_words|g" ${HAO}/leoxi.schema.yaml
 
     # 生成跟打词提
     log "生成跟打词提..."
