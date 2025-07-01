@@ -285,7 +285,7 @@ Oe	㇏
 Oe	乀
 On	麻
 Oq	业
-Or	{赢框}
+Or	𣎆
 Or	衣
 Or	衤
 Or	
@@ -423,7 +423,7 @@ St	甲
 Sv	夫
 Sy	侖
 Sy	龠
-Te	{凬字心}
+Te	𣄼
 Tf	雨
 Tf	⻗
 Tf	
@@ -489,7 +489,7 @@ Vi	乃
 Vi	
 Vl	舌
 Vl	
-Vs	{彀字框无一}
+Vs	{𣪊无一}
 Vv	廴
 Vx	讠
 Vy	八

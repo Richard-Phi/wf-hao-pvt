@@ -285,7 +285,7 @@ Nr	㇏
 Nr	乀
 Hau	麻
 Su	业
-Ai	{赢框}
+Ai	𣎆
 Yr	衣
 Yr	衤
 Yr	
@@ -423,7 +423,7 @@ Ysu	甲
 Jgi	夫
 Mqo	侖
 Mqo	龠
-Fkw	{凬字心}
+Fkw	𣄼
 Ko	雨
 Ko	⻗
 Ko	
@@ -489,7 +489,7 @@ Fnw	乃
 Fnw	
 Hvu	舌
 Hvu	
-Lgi	{彀字框无一}
+Lgi	{𣪊无一}
 Hr	廴
 Fe	讠
 Jdo	八
