@@ -76425,7 +76425,7 @@ oxio	𫸥
 owhk	𫸦
 oiqf	𫸧
 uuvk	𫸨
-oodd	𫸪
+oodp	𫸪
 ogiq	𫸫
 edok	𫸬
 nuod	𫸭
@@ -175512,7 +175512,7 @@ oxio	𫸥
 owhk	𫸦
 oiqf	𫸧
 uuvk	𫸨
-oodd	𫸪
+oodp	𫸪
 ogiq	𫸫
 edok	𫸬
 nuod	𫸭
