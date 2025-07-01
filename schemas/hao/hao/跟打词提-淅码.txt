@@ -88923,7 +88923,7 @@
 𰀝	rrrh
 𰀞	tspb
 𰀟	curl
-𰀠	kpvp
+𰀠	klvo
 𰀡	kwio
 𰀢	kzio
 𰀣	hsvo
@@ -90619,7 +90619,7 @@
 𲂍	vmef
 𲂈	vuak
 𰵎	vgh
-𰛅	kpvp
+𰛅	klvo
 𱍻	drlf
 𱍽	udoo
 𰻡	utjk
@@ -188016,7 +188016,7 @@
 𰀝	rrrh
 𰀞	tspb
 𰀟	curl
-𰀠	kpvp
+𰀠	klvo
 𰀡	kwio
 𰀢	kzio
 𰀣	hsvo
@@ -189712,7 +189712,7 @@
 𲂍	vmef
 𲂈	vuak
 𰵎	vgho
-𰛅	kpvp
+𰛅	klvo
 𱍻	drlf
 𱍽	udoo
 𰻡	utjk

@@ -29107,8 +29107,8 @@
 亻虍人,KjQbSi	𠊤
 亻水水,KjHgHg	𠊥
 亻巛一止,KjJvFhLd	𠊦
-亻䒑业,KjVyOq	𠊧
 亻䒑,KjVyWu	𠊧
+亻䒑业,KjVyOq	𠊧
 亻弓弓,KjOdOdVy	𠊨
 亻子子子,KjYdYdYd	𠊩
 亻壴,KjHs	𠊪
@@ -89969,7 +89969,7 @@
 且且且,RhRhRh	𰀝
 ⻗田ヿ土,TfSlPvBm	𰀞
 不束攵一止,CiUhRyLd	𰀟
-丨ㄑ,KsPv	𰀠
+丨,KsLv	𰀠
 〢又,KgWi	𰀡
 〢,KgZi	𰀢
 丩夫,HtSv	𰀣
@@ -91670,7 +91670,7 @@
 气儿,FqZhAh	𰛂
 气八刀日,FqVyKgJe	𰛃
 乛亅,PvKs	𰛄
-亅ㄑ,KsPv	𰛅
+亅,KsLv	𰛅
 丿氺,CkHg	𰛆
 氵寸,HgLw	𰛇
 氵⺊一,HgDhFh	𰛈
@@ -97008,8 +97008,8 @@
 业𠂇乂丶,FkOqGlOe	𱮡
 犭月龷日,LeMdXkJe	𱮢
 犭隹辶,LeVhLt	𱮣
-ツ田𠫔𠂇又丶,HgSlPdOe	𱮤
 ツ田𠫔𠂇乂丶,HgSlPdOe	𱮤
+ツ田𠫔𠂇又丶,HgSlPdOe	𱮤
 犭厂羊欠,LeOyIdFy	𱮥
 犭罒𠃌虫,LeYtPvLv	𱮦
 犭业亻夫丷,LeOqKjVy	𱮧

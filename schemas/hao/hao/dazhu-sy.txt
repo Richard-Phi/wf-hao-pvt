@@ -89732,7 +89732,7 @@ kglds	𰀜
 syssy	𰀝
 kzxps	𰀞
 kgnhd	𰀟
-fxi	𰀠
+fghw	𰀠
 vjbu	𰀡
 vjpu	𰀢
 msjgi	𰀣
@@ -91428,7 +91428,7 @@ fdi	𱤿
 fdu	𲂍
 fgo	𲂈
 fmr	𰵎
-fxi	𰛅
+fghw	𰛅
 fzo	𱍻
 gfi	𱍽
 glw	𰻡
