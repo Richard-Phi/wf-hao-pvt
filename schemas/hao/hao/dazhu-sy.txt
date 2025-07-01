@@ -30510,13 +30510,14 @@ djr	𠙴
 ldjr	𠙵
 akdjr	𠙷
 bkdjr	𠙸
+ksdjr	𠙹
 sadjr	𠙹
 kcdjr	𠙺
 lvdjr	𠙻
 kddjr	𠙼
 lddjr	𠙽
 mvdjr	𠙾
-djldj	𠙿
+xfldj	𠙿
 ydndj	𠚀
 jdsdj	𠚁
 spdjr	𠚂
@@ -30536,7 +30537,7 @@ kcaad	𠚏
 gydtl	𠚐
 lfdjr	𠚑
 lfxdj	𠚒
-pskbi	𠚓
+ldkbd	𠚓
 bklcd	𠚔
 aaldj	𠚕
 gdjr	𠚖
@@ -30547,7 +30548,7 @@ dmxhd	𠚚
 psdpd	𠚛
 hjdjr	𠚜
 fjzbd	𠚝
-hzdjr	𠚞
+pgphd	𠚞
 kckgd	𠚟
 vsddj	𠚠
 hjdjr	𠚡
@@ -30603,7 +30604,7 @@ mtvje	𠛒
 syvje	𠛓
 amvje	𠛔
 mgvvj	𠛕
-lsfvj	𠛖
+lfxvj	𠛖
 ydbvj	𠛗
 ydfvj	𠛘
 shvvj	𠛙
@@ -30619,7 +30620,7 @@ vvje	𠛢
 vlvje	𠛣
 fjkvj	𠛤
 ldavj	𠛥
-smvje	𠛦
+smnvj	𠛦
 djaav	𠛧
 skvje	𠛨
 yfvje	𠛩
@@ -30631,14 +30632,14 @@ agvje	𠛮
 fjljv	𠛯
 ndvje	𠛰
 dyxvj	𠛱
-cjflv	𠛲
+ajfvj	𠛲
 hcvje	𠛳
 mfvje	𠛴
 fhvje	𠛵
 jdxvj	𠛶
 jzgvj	𠛷
 kdfjv	𠛸
-fhvje	𠛹
+fhlvj	𠛹
 ayvje	𠛺
 sajvj	𠛻
 jdcvj	𠛼
@@ -30652,7 +30653,7 @@ jzvje	𠜃
 spvje	𠜄
 gmsvj	𠜅
 yvje	𠜆
-jvlav	𠜇
+jvdav	𠜇
 dvje	𠜈
 xhlvj	𠜉
 dycvj	𠜊
@@ -30667,6 +30668,7 @@ qnvje	𠜒
 lqcvj	𠜓
 fjllv	𠜔
 kcvvj	𠜕
+kcyvj	𠜕
 hjvje	𠜖
 sajvj	𠜗
 algbv	𠜘
@@ -30709,6 +30711,7 @@ fmjvj	𠜼
 sstvj	𠜽
 mfgdv	𠜾
 mgvvj	𠜿
+mgaav	𠝀
 mgcvv	𠝀
 cfvje	𠝁
 jdjjv	𠝂
@@ -30717,12 +30720,14 @@ hsfvj	𠝄
 fjvfv	𠝅
 lfgvj	𠝆
 fkskv	𠝇
-syai	𠝈
-gyfsv	𠝉
+syaks	𠝈
+gyxfv	𠝉
+mglfv	𠝉
 akblv	𠝊
 mfsvj	𠝋
 bklhv	𠝌
 kcsvv	𠝍
+fmmaf	𠝎
 fmyxi	𠝎
 cjkav	𠝏
 cljvv	𠝐
@@ -30776,8 +30781,8 @@ flzvj	𠝿
 vkgdv	𠞀
 cltdv	𠞁
 mfsvj	𠞂
-qnlcv	𠞃
-zkvvj	𠞄
+slgsv	𠞃
+zkvlv	𠞄
 zhlmv	𠞅
 yvje	𠞆
 snvvj	𠞇
@@ -30809,7 +30814,7 @@ vjmsj	𠞠
 ndvje	𠞡
 gvgvj	𠞢
 lfgdv	𠞣
-dykvj	𠞤
+dydhv	𠞤
 havje	𠞥
 clyav	𠞦
 havje	𠞧
@@ -30834,7 +30839,7 @@ skhvj	𠞹
 ckvxk	𠞺
 jvlgv	𠞻
 cjmvv	𠞼
-dkhkv	𠞽
+jdcvv	𠞽
 fhtvj	𠞾
 bkbzv	𠞿
 vjble	𠟀
@@ -30854,7 +30859,7 @@ jsjvj	𠟍
 lfjgv	𠟎
 aaavj	𠟏
 alkjd	𠟐
-ahdvj	𠟑
+nfdvj	𠟑
 slkzv	𠟒
 dvzvj	𠟓
 zyfvj	𠟔
@@ -30872,7 +30877,7 @@ ahdvj	𠟟
 hqdvj	𠟠
 cmccv	𠟡
 aljkv	𠟢
-kammv	𠟣
+llfvj	𠟣
 tjkvj	𠟤
 flyhv	𠟥
 gghvj	𠟦
@@ -38028,6 +38033,7 @@ nsldn	𢏺
 jfnkw	𢏻
 nsatl	𢏼
 lxlfy	𢏽
+nsgnf	𢏽
 nsdyr	𢏾
 nsgxl	𢏿
 nsnla	𢐀
@@ -64764,7 +64770,7 @@ ysmlz	𨳄
 ysvjk	𨳅
 ysaky	𨳆
 lslpf	𨳇
-fxzmf	𨳈
+alfmf	𨳈
 yxnr	𨳉
 yxgmr	𨳊
 yxanw	𨳋
@@ -81637,7 +81643,7 @@ sjxyr	視
 lfxi	𬺷
 jdxi	𬺸
 dvsne	謁
-alle	𬺹
+pgzo	𬺹
 dakmv	謹
 kdlxi	𬺺
 lslqu	𬺻

@@ -30470,13 +30470,14 @@ Ciallo～(∠・ω< )⌒★	cle
 𠙵	ldjr
 𠙷	akdjr
 𠙸	bkdjr
+𠙹	ksdjr
 𠙹	sadjr
 𠙺	kcdjr
 𠙻	lvdjr
 𠙼	kddjr
 𠙽	lddjr
 𠙾	mvdjr
-𠙿	djldj
+𠙿	xfldj
 𠚀	ydndj
 𠚁	jdsdj
 𠚂	spdjr
@@ -30496,7 +30497,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𠚐	gydtl
 𠚑	lfdjr
 𠚒	lfxdj
-𠚓	pskbi
+𠚓	ldkbd
 𠚔	bklcd
 𠚕	aaldj
 𠚖	gdjr
@@ -30507,7 +30508,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𠚛	psdpd
 𠚜	hjdjr
 𠚝	fjzbd
-𠚞	hzdjr
+𠚞	pgphd
 𠚟	kckgd
 𠚠	vsddj
 𠚡	hjdjr
@@ -30563,7 +30564,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𠛓	syvje
 𠛔	amvje
 𠛕	mgvvj
-𠛖	lsfvj
+𠛖	lfxvj
 𠛗	ydbvj
 𠛘	ydfvj
 𠛙	shvvj
@@ -30579,7 +30580,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𠛣	vlvje
 𠛤	fjkvj
 𠛥	ldavj
-𠛦	smvje
+𠛦	smnvj
 𠛧	djaav
 𠛨	skvje
 𠛩	yfvje
@@ -30591,14 +30592,14 @@ Ciallo～(∠・ω< )⌒★	cle
 𠛯	fjljv
 𠛰	ndvje
 𠛱	dyxvj
-𠛲	cjflv
+𠛲	ajfvj
 𠛳	hcvje
 𠛴	mfvje
 𠛵	fhvje
 𠛶	jdxvj
 𠛷	jzgvj
 𠛸	kdfjv
-𠛹	fhvje
+𠛹	fhlvj
 𠛺	ayvje
 𠛻	sajvj
 𠛼	jdcvj
@@ -30612,7 +30613,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𠜄	spvje
 𠜅	gmsvj
 𠜆	yvje
-𠜇	jvlav
+𠜇	jvdav
 𠜈	dvje
 𠜉	xhlvj
 𠜊	dycvj
@@ -30627,6 +30628,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𠜓	lqcvj
 𠜔	fjllv
 𠜕	kcvvj
+𠜕	kcyvj
 𠜖	hjvje
 𠜗	sajvj
 𠜘	algbv
@@ -30669,6 +30671,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𠜽	sstvj
 𠜾	mfgdv
 𠜿	mgvvj
+𠝀	mgaav
 𠝀	mgcvv
 𠝁	cfvje
 𠝂	jdjjv
@@ -30677,12 +30680,14 @@ Ciallo～(∠・ω< )⌒★	cle
 𠝅	fjvfv
 𠝆	lfgvj
 𠝇	fkskv
-𠝈	syai
-𠝉	gyfsv
+𠝈	syaks
+𠝉	gyxfv
+𠝉	mglfv
 𠝊	akblv
 𠝋	mfsvj
 𠝌	bklhv
 𠝍	kcsvv
+𠝎	fmmaf
 𠝎	fmyxi
 𠝏	cjkav
 𠝐	cljvv
@@ -30736,8 +30741,8 @@ Ciallo～(∠・ω< )⌒★	cle
 𠞀	vkgdv
 𠞁	cltdv
 𠞂	mfsvj
-𠞃	qnlcv
-𠞄	zkvvj
+𠞃	slgsv
+𠞄	zkvlv
 𠞅	zhlmv
 𠞆	yvje
 𠞇	snvvj
@@ -30769,7 +30774,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𠞡	ndvje
 𠞢	gvgvj
 𠞣	lfgdv
-𠞤	dykvj
+𠞤	dydhv
 𠞥	havje
 𠞦	clyav
 𠞧	havje
@@ -30794,7 +30799,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𠞺	ckvxk
 𠞻	jvlgv
 𠞼	cjmvv
-𠞽	dkhkv
+𠞽	jdcvv
 𠞾	fhtvj
 𠞿	bkbzv
 𠟀	vjble
@@ -30814,7 +30819,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𠟎	lfjgv
 𠟏	aaavj
 𠟐	alkjd
-𠟑	ahdvj
+𠟑	nfdvj
 𠟒	slkzv
 𠟓	dvzvj
 𠟔	zyfvj
@@ -30832,7 +30837,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𠟠	hqdvj
 𠟡	cmccv
 𠟢	aljkv
-𠟣	kammv
+𠟣	llfvj
 𠟤	tjkvj
 𠟥	flyhv
 𠟦	gghvj
@@ -37988,6 +37993,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𢏻	jfnkw
 𢏼	nsatl
 𢏽	lxlfy
+𢏽	nsgnf
 𢏾	nsdyr
 𢏿	nsgxl
 𢐀	nsnla
@@ -64724,7 +64730,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𨳅	ysvjk
 𨳆	ysaky
 𨳇	lslpf
-𨳈	fxzmf
+𨳈	alfmf
 𨳉	yxnr
 𨳊	yxgmr
 𨳋	yxanw
@@ -81597,7 +81603,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𬺷	lfxi
 𬺸	jdxi
 謁	dvsne
-𬺹	alle
+𬺹	pgzo
 謹	dakmv
 𬺺	kdlxi
 𬺻	lslqu
