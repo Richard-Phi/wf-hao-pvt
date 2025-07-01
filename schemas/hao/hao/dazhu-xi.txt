@@ -28063,13 +28063,13 @@ zfhf	𠀃
 pkfh	𠀄
 fpc	𠀅
 cglk	𠀆
-rhk	𠀇
+mfhf	𠀇
 cpfh	𠀈
 cdf	𠀉
 gkoe	𠀊
 foo	𠀋
 pfkf	𠀌
-wpvp	𠀍
+fhfp	𠀍
 bfhf	𠀎
 fifh	𠀏
 ikfh	𠀐
@@ -70109,7 +70109,7 @@ zsay	𪓙
 zbay	𪓚
 zxay	𪓛
 eayf	𪓜
-sgwi	𪓝
+cagw	𪓝
 atqf	𪓞
 tayf	𪓟
 sday	𪓠
@@ -70146,7 +70146,7 @@ izma	𪓾
 fkay	𪓿
 kray	𪔀
 zssa	𪔁
-gnnb	𪔂
+gpop	𪔂
 egnn	𪔃
 bgnn	𪔄
 ignn	𪔅
@@ -76424,7 +76424,7 @@ oxio	𫸥
 owhk	𫸦
 oiqf	𫸧
 uuvk	𫸨
-ofpp	𫸪
+oodd	𫸪
 ogiq	𫸫
 edok	𫸬
 nuod	𫸭
@@ -127149,13 +127149,13 @@ zfhf	𠀃
 pkfh	𠀄
 fpck	𠀅
 cglk	𠀆
-rhkf	𠀇
+mfhf	𠀇
 cpfh	𠀈
 cdfh	𠀉
 gkoe	𠀊
 fooe	𠀋
 pfkf	𠀌
-wpvp	𠀍
+fhfp	𠀍
 bfhf	𠀎
 fifh	𠀏
 ikfh	𠀐
@@ -169195,7 +169195,7 @@ zsay	𪓙
 zbay	𪓚
 zxay	𪓛
 eayf	𪓜
-sgwi	𪓝
+cagw	𪓝
 atqf	𪓞
 tayf	𪓟
 sday	𪓠
@@ -169232,7 +169232,7 @@ izma	𪓾
 fkay	𪓿
 kray	𪔀
 zssa	𪔁
-gnnb	𪔂
+gpop	𪔂
 egnn	𪔃
 bgnn	𪔄
 ignn	𪔅
@@ -175510,7 +175510,7 @@ oxio	𫸥
 owhk	𫸦
 oiqf	𫸧
 uuvk	𫸨
-ofpp	𫸪
+oodd	𫸪
 ogiq	𫸫
 edok	𫸬
 nuod	𫸭

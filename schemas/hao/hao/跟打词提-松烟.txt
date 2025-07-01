@@ -28832,13 +28832,13 @@ Ciallo～(∠・ω< )⌒★	cle
 𠀄	xfle
 𠀅	lxsi
 𠀆	sakw
-𠀇	sye
+𠀇	cle
 𠀈	sxle
 𠀉	sfle
 𠀊	akfnr
 𠀋	lsnr
 𠀌	xlfle
-𠀍	clxi
+𠀍	dko
 𠀎	lfle
 𠀏	lgle
 𠀐	kdfle
@@ -70878,7 +70878,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𪓚	djpqh
 𪓛	djyqh
 𪓜	dmqhr
-𪓝	mdabu
+𪓝	sqabu
 𪓞	qhtyw
 𪓟	tyqhr
 𪓠	slkqh
@@ -70915,7 +70915,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𪓿	lxqhr
 𪔀	xchqh
 𪔁	msaaq
-𪔂	dkssh
+𪔂	dkxzx
 𪔃	gkdss
 𪔄	psdss
 𪔅	kddss
@@ -77193,7 +77193,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𫸦	nsclr
 𫸧	nskdi
 𫸨	lfamr
-𫸪	nslxx
+𫸪	nsnsi
 𫸫	nsakd
 𫸬	gkgnf
 𫸭	bkzns

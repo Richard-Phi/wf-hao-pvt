@@ -56,6 +56,7 @@ Dle	白
 Qhe	臣
 Qhe	
 Qhe	
+Qhe	{反}
 Pgo	コ
 Pgo	匚
 Pgo	
@@ -76,6 +77,7 @@ Le	一
 Le	㇀
 Dko	卅
 Dko	丗
+Dko	𠀍
 Gw	⽱
 Gw	禸
 Dyr	行
@@ -277,6 +279,7 @@ Hti	民
 Yw	已
 Jti	工
 Nsi	弓
+Nsi	{反弓}
 Nr	丶
 Nr	㇏
 Nr	乀

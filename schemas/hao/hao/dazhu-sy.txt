@@ -28872,13 +28872,13 @@ djle	𠀃
 xfle	𠀄
 lxsi	𠀅
 sakw	𠀆
-sye	𠀇
+cle	𠀇
 sxle	𠀈
 sfle	𠀉
 akfnr	𠀊
 lsnr	𠀋
 xlfle	𠀌
-clxi	𠀍
+dko	𠀍
 lfle	𠀎
 lgle	𠀏
 kdfle	𠀐
@@ -70918,7 +70918,7 @@ djaqh	𪓙
 djpqh	𪓚
 djyqh	𪓛
 dmqhr	𪓜
-mdabu	𪓝
+sqabu	𪓝
 qhtyw	𪓞
 tyqhr	𪓟
 slkqh	𪓠
@@ -70955,7 +70955,7 @@ gydhq	𪓾
 lxqhr	𪓿
 xchqh	𪔀
 msaaq	𪔁
-dkssh	𪔂
+dkxzx	𪔂
 gkdss	𪔃
 psdss	𪔄
 kddss	𪔅
@@ -77233,7 +77233,7 @@ nsydi	𫸥
 nsclr	𫸦
 nskdi	𫸧
 lfamr	𫸨
-nslxx	𫸪
+nsnsi	𫸪
 nsakd	𫸫
 gkgnf	𫸬
 bkzns	𫸭

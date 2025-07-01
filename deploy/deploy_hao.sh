@@ -190,6 +190,9 @@ gen_schema() {
               --exclude='/hao_*.txt' \
               --exclude='/map_*.txt' \
               --exclude='/simp_*.txt' \
+              --exclude='/quicks_*.txt' \
+              --exclude='/short_*.txt' \
+              --exclude='/roots_*.txt' \
               --exclude='/llama_personal.txt' \
               "${HAO}/" "${SCHEMAS}/${NAME}/" || error "复制文件失败"
 

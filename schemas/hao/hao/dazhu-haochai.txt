@@ -28436,13 +28436,13 @@
 乛丨一,PvKsFh	𠀄
 一ㄅ丿,FhPvCk	𠀅
 丿十,CkGl	𠀆
-且,Rh	𠀇
+一,MdFh	𠀇
 丿ㄋ一,CkPvFh	𠀈
 丿⺊一,CkDhFh	𠀉
 𠂇亅丶,GlKsOe	𠀊
 一丶,FhOsOe	𠀋
 ヿ一丨一,PvFhKsFh	𠀌
-艹㇗,WhPv	𠀍
+𠀍,Fh	𠀍
 井一,BzFh	𠀎
 一一,FhIaFh	𠀏
 口丨一,IqKsFh	𠀐
@@ -37504,7 +37504,7 @@
 丿龱廾,WiCkLwWh	𢍱
 酉廾,WiTiWh	𢍲
 一自一自廾,FhCjFhWh	𢍳
-臣臣廾,DzDzWh	𢍴
+{反}廾,DzDzWh	𢍴
 龶糸糸廾,ZhHtHtWh	𢍵
 言糹糹廾,MeHtHtWh	𢍶
 止止厂禾禾日廾,LdLdOyWh	𢍷
@@ -52061,8 +52061,8 @@
 ⺮亻丨矢,ZiKjKsEu	𥱌
 ⺮車几丶,ZiJlPsOe	𥱍
 ⺮廿㇗冂土,ZiXkPvBm	𥱎
-⺮井龶冂,ZiBzZhZv	𥱏
 ⺮井王冂,ZiBzGiZv	𥱏
+⺮井龶冂,ZiBzZhZv	𥱏
 ⺮口里,ZiIqDn	𥱐
 ⺮⺷儿厶,ZiIdAhNd	𥱑
 ⺮氵工人人,ZiHgNvSi	𥱒
@@ -59850,8 +59850,8 @@
 甘言斤,MzMeOz	𧪷
 言廿一冂土,MeXkFhBm	𧪸
 言宀辛,MeErJt	𧪹
-言亼冂卅,MeTuZvFh	𧪺
 言亼〣井,MeTuJvBz	𧪺
+言亼冂卅,MeTuZvFh	𧪺
 言立立,MeYqYq	𧪻
 言口貝,MeIqIc	𧪼
 言一业日,MeFhOqJe	𧪽
@@ -70639,7 +70639,7 @@
 冂土黽,ZvBmAy	𪓚
 冂大黽,ZvXiAy	𪓛
 皮黽,EmAy	𪓜
-龜𠂇又,SiGlWi	𪓝
+丿黽𠂇又,CkAyGlWi	𪓝
 黽句,AyTq	𪓞
 句黽,TqAy	𪓟
 勹巳黽,SnDuAy	𪓠
@@ -70662,11 +70662,11 @@
 面黽,HfAy	𪓱
 日皿黽,JeBkAy	𪓲
 矢一大黽,EuFhXiAy	𪓳
-土刀攵黽,BmKgRyAy	𪓴
+土攵黽,BmKgRyAy	𪓴
 丷酉黽,VyTiAy	𪓵
 屮凵攵黽,IaZvRyAy	𪓶
 爫幺大黽,ToBlXiAy	𪓷
-卯田黽,FmSlAy	𪓸
+田黽,FmSlAy	𪓸
 麻黽,OnAy	𪓹
 月丷夫力黽,MdVySvAy	𪓺
 ⺈罒田黽,RlYtSlAy	𪓻
@@ -70676,7 +70676,7 @@
 一黽,FhKtAy	𪓿
 㡀攵黽,KtRyAy	𪔀
 禾灬黽,ZpSiSiAy	𪔁
-目,GyNbNb	𪔂
+目㇞厂丨一ㄅ,GyPvOyPv	𪔂
 冖目,ErGyNbNb	𪔃
 土目,BmGyNbNb	𪔄
 口目,IqGyNbNb	𪔅
@@ -77076,7 +77076,7 @@
 弓口,OdIq	𫸧
 丁弗,UeUv	𫸨
 弓匚㐅,OdEhOs	𫸩
-弓一ㄣ一㇂,OdFhPvPv	𫸪
+弓{反弓},OdOd	𫸪
 弓𠂇口,OdGlIq	𫸫
 宀九弓丨,ErDpOdKs	𫸬
 龴囗弓,NdUdOd	𫸭
@@ -97001,8 +97001,8 @@
 业𠂇乂丶,FkOqGlOe	𱮡
 犭月龷日,LeMdXkJe	𱮢
 犭隹辶,LeVhLt	𱮣
-ツ田𠫔𠂇又丶,HgSlPdOe	𱮤
 ツ田𠫔𠂇乂丶,HgSlPdOe	𱮤
+ツ田𠫔𠂇又丶,HgSlPdOe	𱮤
 犭厂羊欠,LeOyIdFy	𱮥
 犭罒𠃌虫,LeYtPvLv	𱮦
 犭业亻夫丷,LeOqKjVy	𱮧
