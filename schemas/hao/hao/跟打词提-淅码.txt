@@ -54949,7 +54949,7 @@
 𦥷	wzrv
 𦥸	wfpw
 𦥹	wxpc
-𦥺	czow
+𦥺	czfw
 𦥻	whwm
 𦥼	ikwo
 𦥽	lghw
@@ -154042,7 +154042,7 @@
 𦥷	wzrv
 𦥸	wfpw
 𦥹	wxpc
-𦥺	czow
+𦥺	czfw
 𦥻	whwm
 𦥼	ikwo
 𦥽	lghw
