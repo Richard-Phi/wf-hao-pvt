@@ -10036,7 +10036,7 @@ bjg	鿍
 csp	𠀾
 ldc	𠂉
 pbl	𠃓
-fup	𠄏
+fuk	𠄏
 usn	𠅤
 kou	𠇔
 kxl	𠉂
@@ -20766,7 +20766,7 @@ fpoe	骪
 ftko	骫
 ffg	骬
 fnd	骮
-fups	骯
+fup	骯
 fsdu	骲
 femo	骳
 flh	骴
@@ -28210,7 +28210,7 @@ zckc	𠂙
 cxc	𠂚
 cld	𠂛
 cldf	𠂜
-ciks	𠂝
+kiqf	𠂝
 cvf	𠂞
 cvgl	𠂟
 cofp	𠂠
@@ -29766,7 +29766,7 @@ gkgk	𠚳
 jkgk	𠚴
 kkgk	𠚵
 pkgk	𠚶
-fuk	𠚷
+fukg	𠚷
 snk	𠚸
 qkgk	𠚹
 ock	𠚺
@@ -36643,7 +36643,7 @@ fbl	𢆰
 pblo	𢆱
 bauc	𢆲
 bfuk	𢆳
-bfuk	𢆴
+bfup	𢆴
 bpfh	𢆵
 bblo	𢆶
 bock	𢆷
@@ -37230,8 +37230,6 @@ repb	𢏻
 repl	𢏻
 oxaj	𢏼
 fpfb	𢏽
-fpfl	𢏽
-olob	𢏽
 olol	𢏽
 olor	𢏾
 oexw	𢏿
@@ -42671,7 +42669,7 @@ mhyf	𣥀
 xisf	𣥁
 ldkc	𣥂
 lpvp	𣥃
-nfks	𣥄
+fld	𣥄
 lhsp	𣥅
 bldf	𣥆
 lpg	𣥇
@@ -42750,7 +42748,7 @@ fnlf	𣦏
 lyfl	𣦐
 tldf	𣦑
 lllm	𣦒
-fld	𣦓
+fldi	𣦓
 jrld	𣦔
 ljdl	𣦕
 djgl	𣦖
@@ -90615,7 +90613,7 @@ sicp	⻲
 sicp	⻳
 qlck	𱏹
 mdco	𱼀
-fkfh	𱤻
+ldkf	𱤻
 pvpp	㇤
 pvpp	㇥
 qqlk	𰢱
@@ -98512,7 +98510,7 @@ hwnm	𱺀
 hqjo	𱺅
 hwps	𰫯
 hjfs	𱹼
-hfuk	𱹫
+hfup	𱹫
 hmlt	𰫲
 hmki	𱺈
 hqww	𱹻
@@ -109149,7 +109147,7 @@ bjgj	鿍
 cspd	𠀾
 ldcf	𠂉
 pblc	𠃓
-fupk	𠄏
+fukp	𠄏
 usng	𠅤
 koup	𠇔
 kxlt	𠉂
@@ -127323,7 +127321,7 @@ zckc	𠂙
 cxck	𠂚
 cldf	𠂛
 cldf	𠂜
-ciks	𠂝
+kiqf	𠂝
 cvfp	𠂞
 cvgl	𠂟
 cofp	𠂠
@@ -135756,7 +135754,7 @@ fblo	𢆰
 pblo	𢆱
 bauc	𢆲
 bfuk	𢆳
-bfuk	𢆴
+bfup	𢆴
 bpfh	𢆵
 bblo	𢆶
 bock	𢆷
@@ -136343,8 +136341,6 @@ repb	𢏻
 repl	𢏻
 oxaj	𢏼
 fpfb	𢏽
-fpfl	𢏽
-olob	𢏽
 olol	𢏽
 olor	𢏾
 oexw	𢏿
@@ -141784,7 +141780,7 @@ mhyf	𣥀
 xisf	𣥁
 ldkc	𣥂
 lpvp	𣥃
-nfks	𣥄
+fldf	𣥄
 lhsp	𣥅
 bldf	𣥆
 lpgl	𣥇
@@ -189728,7 +189724,7 @@ sicp	⻲
 sicp	⻳
 qlck	𱏹
 mdco	𱼀
-fkfh	𱤻
+ldkf	𱤻
 pvpp	㇤
 pvpp	㇥
 qqlk	𰢱
@@ -197625,7 +197621,7 @@ hwnm	𱺀
 hqjo	𱺅
 hwps	𰫯
 hjfs	𱹼
-hfuk	𱹫
+hfup	𱹫
 hmlt	𰫲
 hmki	𱺈
 hqww	𱹻

@@ -93,6 +93,7 @@ Fn	饣
 Fn	瓦
 Fq	气
 Fu	了
+Fu	𠄏
 Fu	耒
 Fv	骨
 Fv	⾻
@@ -216,6 +217,7 @@ Lc	身
 Ld	止
 Ld	龰
 Ld	
+Ld	𱤻
 Ld	𠂉
 Le	犬
 Le	犭
@@ -542,7 +544,7 @@ Wu	
 Wu	
 Wu	
 Wu	
-Wu	{变}
+Wu	{斲左}
 Wv	頁
 Wv	
 Xc	亡

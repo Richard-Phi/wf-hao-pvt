@@ -28979,7 +28979,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𠂚	sysi
 𠂛	sdi
 𠂜	sdi
-𠂝	skfu
+𠂝	jkdi
 𠂞	sjlxi
 𠂟	sjakw
 𠂠	sjxi
@@ -37999,8 +37999,6 @@ Ciallo～(∠・ω< )⌒★	cle
 𢏻	fmpxg
 𢏼	nsatl
 𢏽	lxlfy
-𢏽	lxlgh
-𢏽	nsgnf
 𢏽	nsgng
 𢏾	nsdyr
 𢏿	nsgxl
@@ -43440,7 +43438,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𣥁	akkjd
 𣥂	di
 𣥃	dxi
-𣥄	jtlfu
+𣥄	ldi
 𣥅	dvke
 𣥆	fydi
 𣥇	dxakw
@@ -91384,7 +91382,7 @@ Ciallo～(∠・ω< )⌒★	cle
 ⻳	mdi
 𱏹	ai
 𱼀	cu
-𱤻	lvle
+𱤻	di
 ㇤	xi
 ㇥	xi
 𰢱	aai

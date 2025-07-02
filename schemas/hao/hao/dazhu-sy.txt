@@ -29019,7 +29019,7 @@ mvsi	𠂙
 sysi	𠂚
 sdi	𠂛
 sdi	𠂜
-skfu	𠂝
+jkdi	𠂝
 sjlxi	𠂞
 sjakw	𠂟
 sjxi	𠂠
@@ -38039,8 +38039,6 @@ fmpxf	𢏻
 fmpxg	𢏻
 nsatl	𢏼
 lxlfy	𢏽
-lxlgh	𢏽
-nsgnf	𢏽
 nsgng	𢏽
 nsdyr	𢏾
 nsgxl	𢏿
@@ -43480,7 +43478,7 @@ mfhad	𣥀
 akkjd	𣥁
 di	𣥂
 dxi	𣥃
-jtlfu	𣥄
+ldi	𣥄
 dvke	𣥅
 fydi	𣥆
 dxakw	𣥇
@@ -91424,7 +91422,7 @@ mdi	⻲
 mdi	⻳
 ai	𱏹
 cu	𱼀
-lvle	𱤻
+di	𱤻
 xi	㇤
 xi	㇥
 aai	𰢱

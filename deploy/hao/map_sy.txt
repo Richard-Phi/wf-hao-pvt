@@ -93,6 +93,7 @@ Tjr	饣
 Pr	瓦
 Yso	气
 Dmw	了
+Dmw	𠄏
 Sko	耒
 Ndi	骨
 Ndi	⾻
@@ -216,6 +217,7 @@ Kfi	身
 Di	止
 Di	龰
 Di	
+Di	𱤻
 Kfe	𠂉
 Lqu	犬
 Lqu	犭
@@ -542,7 +544,7 @@ Zo	
 Zo	
 Zo	
 Zo	
-Zo	{变}
+Zo	{斲左}
 Ar	頁
 Ar	
 Ne	亡
