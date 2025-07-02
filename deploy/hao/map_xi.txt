@@ -228,7 +228,7 @@ Lr	干
 Lr	
 Lt	辶
 Lt	⻍
-Lv	゛
+Lv	⺀
 Lv	冫
 Lv	
 Lw	龱
