@@ -56,6 +56,7 @@ Dle	白
 Qhe	臣
 Qhe	
 Qhe	
+Qhe	{反臣}
 Qhe	{反}
 Pgo	コ
 Pgo	匚
@@ -541,6 +542,7 @@ Zo	
 Zo	
 Zo	
 Zo	
+Zo	{变}
 Ar	頁
 Ar	
 Ne	亡

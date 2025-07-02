@@ -56,6 +56,7 @@ Dy	白
 Dz	臣
 Dz	
 Dz	
+Dz	{反臣}
 Dz	{反}
 Eh	コ
 Eh	匚
@@ -541,6 +542,7 @@ Wu	
 Wu	
 Wu	
 Wu	
+Wu	{变}
 Wv	頁
 Wv	
 Xc	亡
