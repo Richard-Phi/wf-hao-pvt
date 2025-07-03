@@ -14,8 +14,6 @@ Bh	支
 Bk	皿
 Bl	幺
 Bl	彡
-Bl	
-Bl	
 Bl	𰀪
 Bm	土
 Bo	门
@@ -30,8 +28,8 @@ Cj	钅
 Cj	自
 Ck	丿
 Cu	鹿
-Cu	
 Cu	
+Cu	
 Cv	囚
 Cy	至
 Dd	示
@@ -61,7 +59,6 @@ Dz	{反}
 Eh	コ
 Eh	匚
 Eh	
-Eh	
 Eh	𠥓
 Eh	羽
 Ei	豆
@@ -125,7 +122,6 @@ Hf	靣
 Hg	水
 Hg	氵
 Hg	⺍
-Hg	ツ
 Hg	氺
 Hg	
 Hg	
@@ -409,9 +405,8 @@ Si	人
 Si	長
 Si	镸
 Si	
-Si	⺕
-Si	ㅌ
 Si	彐
+Si	ㅌ
 Si	
 Si	
 Si	
@@ -444,7 +439,6 @@ Tl	卵
 To	爪
 To	⺥
 To	爫
-To	
 To	𫜵
 Tp	艮
 Tp	
@@ -480,8 +474,8 @@ Us	𤕪
 Us	
 Us	𮍌
 Uv	弗
-Uv	𠂔
 Uv	𢎨
+Uv	𠂔
 Uw	巾
 Uw	见
 Uy	風
@@ -506,11 +500,9 @@ Vy	
 Vy	
 Vy	{变}
 Wh	艹
-Wh	⺿
 Wh	丌
 Wh	ㅠ
 Wh	丱
-Wh	卄
 Wh	卝
 Wh	廾
 Wh	艸

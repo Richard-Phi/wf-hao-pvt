@@ -55791,7 +55791,7 @@
 𦲼	wsqq
 𦲽	wofy
 𦲾	whbn
-𦲿	wywh
+𦲿	wygp
 𦳀	wsjx
 𦳁	wzou
 𦳂	whxo
@@ -91846,7 +91846,7 @@
 𱽢	wpq
 𱽙	wswh
 𰱟	wgwd
-𱾼	wsbu
+𱾼	wsru
 𱾺	wyej
 𱿋	wyem
 𲀎	wyej
@@ -94414,7 +94414,7 @@
 𰜩	huxn
 𱦜	hura
 𰦱	nqqf
-𱥨	nboe
+𱥨	eppo
 𰰄	vsyv
 𰰉	vtie
 𱼳	vtpi
@@ -97752,7 +97752,7 @@
 𱤟	awjx
 𱣿	awqy
 𱤕	awxw
-𰘖	awrh
+𰘖	amfh
 𱣑	azss
 𰘟	adob
 𰘀	afeu
@@ -98958,7 +98958,7 @@
 烈	qkyv
 裂	qkor
 說	mvia
-廉	gbfy
+廉	gccy
 念	tpng
 捻	ptpn
 殮	qoro
@@ -154901,7 +154901,7 @@
 𦲼	wsqq
 𦲽	wofy
 𦲾	whbn
-𦲿	wywh
+𦲿	wygp
 𦳀	wsjx
 𦳁	wzou
 𦳂	whxo
@@ -190956,7 +190956,7 @@
 𱽢	wpqm
 𱽙	wswh
 𰱟	wgwd
-𱾼	wsbu
+𱾼	wsru
 𱾺	wyej
 𱿋	wyem
 𲀎	wyej
@@ -193524,7 +193524,7 @@
 𰜩	huxn
 𱦜	hura
 𰦱	nqqf
-𱥨	nboe
+𱥨	eppo
 𰰄	vsyv
 𰰉	vtie
 𱼳	vtpi
@@ -196862,7 +196862,7 @@
 𱤟	awjx
 𱣿	awqy
 𱤕	awxw
-𰘖	awrh
+𰘖	amfh
 𱣑	azss
 𰘟	adob
 𰘀	afeu
@@ -198068,7 +198068,7 @@
 烈	qkyv
 裂	qkor
 說	mvia
-廉	gbfy
+廉	gccy
 念	tpng
 捻	ptpn
 殮	qoro

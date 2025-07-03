@@ -55791,7 +55791,7 @@ wtgi	𦲻
 wsqq	𦲼
 wofy	𦲽
 whbn	𦲾
-wywh	𦲿
+wygp	𦲿
 wsjx	𦳀
 wzou	𦳁
 whxo	𦳂
@@ -91846,7 +91846,7 @@ wssf	𱽘
 wpq	𱽢
 wswh	𱽙
 wgwd	𰱟
-wsbu	𱾼
+wsru	𱾼
 wyej	𱾺
 wyem	𱿋
 wyej	𲀎
@@ -94414,7 +94414,7 @@ hojl	𰝜
 huxn	𰜩
 hura	𱦜
 nqqf	𰦱
-nboe	𱥨
+eppo	𱥨
 vsyv	𰰄
 vtie	𰰉
 vtpi	𱼳
@@ -97752,7 +97752,7 @@ aqky	𱣽
 awjx	𱤟
 awqy	𱣿
 awxw	𱤕
-awrh	𰘖
+amfh	𰘖
 azss	𱣑
 adob	𰘟
 afeu	𰘀
@@ -98958,7 +98958,7 @@ iuxi	咽
 qkyv	烈
 qkor	裂
 mvia	說
-gbfy	廉
+gccy	廉
 tpng	念
 ptpn	捻
 qoro	殮
@@ -154901,7 +154901,7 @@ wtgi	𦲻
 wsqq	𦲼
 wofy	𦲽
 whbn	𦲾
-wywh	𦲿
+wygp	𦲿
 wsjx	𦳀
 wzou	𦳁
 whxo	𦳂
@@ -190956,7 +190956,7 @@ wssf	𱽘
 wpqm	𱽢
 wswh	𱽙
 wgwd	𰱟
-wsbu	𱾼
+wsru	𱾼
 wyej	𱾺
 wyem	𱿋
 wyej	𲀎
@@ -193524,7 +193524,7 @@ hojl	𰝜
 huxn	𰜩
 hura	𱦜
 nqqf	𰦱
-nboe	𱥨
+eppo	𱥨
 vsyv	𰰄
 vtie	𰰉
 vtpi	𱼳
@@ -196862,7 +196862,7 @@ aqky	𱣽
 awjx	𱤟
 awqy	𱣿
 awxw	𱤕
-awrh	𰘖
+amfh	𰘖
 azss	𱣑
 adob	𰘟
 afeu	𰘀
@@ -198068,7 +198068,7 @@ iuxi	咽
 qkyv	烈
 qkor	裂
 mvia	說
-gbfy	廉
+gccy	廉
 tpng	念
 ptpn	捻
 qoro	殮

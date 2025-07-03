@@ -26,8 +26,6 @@ columns:
 皿	/rpdi
 幺	/rli
 彡	/rfyw
-	/rfyw
-	/rfyw
 𰀪	/rfyw
 土	/rpsu
 门	/rqlr
@@ -42,8 +40,8 @@ columns:
 自	/rfo
 丿	/rsi
 鹿	/rktu
-	/rktu
 	/rktu
+	/rktu
 囚	/rfmr
 至	/rkr
 示	/rsjw
@@ -73,7 +71,6 @@ columns:
 コ	/rpgo
 匚	/rpgo
 	/rpgo
-	/rpgo
 𠥓	/rpgo
 羽	/rzu
 豆	/rkqo
@@ -137,7 +134,6 @@ columns:
 水	/rhsu
 氵	/rhsu
 ⺍	/rhsu
-ツ	/rhsu
 氺	/rhsu
 	/rhsu
 	/rhsu
@@ -421,9 +417,8 @@ columns:
 長	/rysi
 镸	/rysi
 	/rysi
-⺕	/ralr
-ㅌ	/ralr
 彐	/ralr
+ㅌ	/ralr
 	/ralr
 	/ralr
 	/ralr
@@ -456,7 +451,6 @@ columns:
 爪	/rho
 ⺥	/rho
 爫	/rho
-	/rho
 𫜵	/rho
 艮	/rfhe
 	/rfhe
@@ -492,8 +486,8 @@ columns:
 	/rnw
 𮍌	/rnw
 弗	/ramr
-𠂔	/ramr
 𢎨	/ramr
+𠂔	/ramr
 巾	/rjfi
 见	/rksi
 風	/rkqi
@@ -518,11 +512,9 @@ columns:
 	/rjdo
 {变}	/rjdo
 艹	/rclr
-⺿	/rclr
 丌	/rclr
 ㅠ	/rclr
 丱	/rclr
-卄	/rclr
 卝	/rclr
 廾	/rclr
 艸	/rclr

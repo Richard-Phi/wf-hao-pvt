@@ -14,8 +14,6 @@ Je	支
 Pdi	皿
 Li	幺
 Fyw	彡
-Fyw	
-Fyw	
 Fyw	𰀪
 Psu	土
 Qlr	门
@@ -30,8 +28,8 @@ Qjr	钅
 Fo	自
 Si	丿
 Ktu	鹿
-Ktu	
 Ktu	
+Ktu	
 Fmr	囚
 Kr	至
 Sjw	示
@@ -61,7 +59,6 @@ Qhe	{反}
 Pgo	コ
 Pgo	匚
 Pgo	
-Pgo	
 Pgo	𠥓
 Zu	羽
 Kqo	豆
@@ -125,7 +122,6 @@ Smw	靣
 Hsu	水
 Hsu	氵
 Hsu	⺍
-Hsu	ツ
 Hsu	氺
 Hsu	
 Hsu	
@@ -409,9 +405,8 @@ Au	人
 Ysi	長
 Ysi	镸
 Ysi	
-Alr	⺕
-Alr	ㅌ
 Alr	彐
+Alr	ㅌ
 Alr	
 Alr	
 Alr	
@@ -444,7 +439,6 @@ Dlr	卵
 Ho	爪
 Ho	⺥
 Ho	爫
-Ho	
 Ho	𫜵
 Fhe	艮
 Fhe	
@@ -480,8 +474,8 @@ Nw	𤕪
 Nw	
 Nw	𮍌
 Amr	弗
-Amr	𠂔
 Amr	𢎨
+Amr	𠂔
 Jfi	巾
 Ksi	见
 Kqi	風
@@ -506,11 +500,9 @@ Jdo	
 Jdo	
 Jdo	{变}
 Clr	艹
-Clr	⺿
 Clr	丌
 Clr	ㅠ
 Clr	丱
-Clr	卄
 Clr	卝
 Clr	廾
 Clr	艸
