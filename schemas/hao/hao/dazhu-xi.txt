@@ -16864,7 +16864,7 @@ yhdg	羄
 ynmy	羆
 ygxz	羇
 yggb	羈
-yhm	羉
+ymhh	羉
 idkk	羋
 iblc	羏
 wbr	羐
@@ -34464,7 +34464,7 @@ swda	𡤤
 skku	𡤥
 swbp	𡤦
 segi	𡤧
-hmhs	𡤨
+hmsm	𡤨
 sre	𡤩
 szif	𡤪
 yzsm	𡤫
@@ -115974,7 +115974,7 @@ yhdg	羄
 ynmy	羆
 ygxz	羇
 yggb	羈
-yhmh	羉
+ymhh	羉
 idkk	羋
 iblc	羏
 wbro	羐
@@ -133574,7 +133574,7 @@ swda	𡤤
 skku	𡤥
 swbp	𡤦
 segi	𡤧
-hmhs	𡤨
+hmsm	𡤨
 sree	𡤩
 szif	𡤪
 yzsm	𡤫

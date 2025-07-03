@@ -19646,7 +19646,7 @@
 罒厶⺝匕灬,YtNdMdYv	羆
 罒革大可,YtGoXiZj	羇
 罒革馬,YtGoGb	羈
-罒糹言糸,YtHtMeHt	羉
+罒言糹糸,YtMeHtHt	羉
 羊,Id	羊
 芈,Id	羋
 ⺶乚,IdPv	羌
@@ -34878,7 +34878,7 @@
 女亻丨夂黑,SmKjKsUc	𡤥
 女⺿土八土丸云,SmWhBmPd	𡤦
 女宀王⺈小貝,SmErGiIc	𡤧
-糹言糸女,HtMeHtSm	𡤨
+糸言女,HtMeSm	𡤨
 女曲豆⺈巴,SmRwEiEw	𡤩
 女⺮戈非一,SmZiIeFh	𡤪
 齒可女,YbZjSm	𡤫
@@ -35658,8 +35658,8 @@
 尸工,MzNv	𡰱
 尸尸,MzMz	𡰲
 尸习,MzFz	𡰳
-丿𠃌,SiCkPv	𡰴
 ,SiKg	𡰴
+丿𠃌,SiCkPv	𡰴
 尸攴,MzRy	𡰵
 尸日,MzJe	𡰶
 尸斗,MzPf	𡰷
@@ -37966,8 +37966,8 @@
 彳ㅠ匚コ田,JbWhEhSl	𢔲
 彳又丶丶虫,JbWiOeJw	𢔳
 彳五口阝,JbJiIqTj	𢔴
-彳井王冂,JbBzGiZv	𢔵
 彳井龶冂,JbBzZhZv	𢔵
+彳井王冂,JbBzGiZv	𢔵
 彳見寸,JbScLw	𢔶
 彳犭屮王,JbLeIaGi	𢔷
 彳鬲,JbPw	𢔸
@@ -47299,8 +47299,8 @@
 王㇂丿,GiWiPvCk	𤦥
 王八刀王,GiVyKgGi	𤦦
 王⺿之,GiWhDo	𤦧
-丿丨二井王丶,CkKsRlOe	𤦨
 一井王丶,NgFhBzOe	𤦨
+丿丨二井王丶,CkKsRlOe	𤦨
 王一,GiFhWu	𤦩
 王木日,GiAjJe	𤦪
 王土儿夂,GiBmAhJt	𤦫
@@ -59865,8 +59865,8 @@
 甘言斤,MzMeOz	𧪷
 言廿一冂土,MeXkFhBm	𧪸
 言宀辛,MeErJt	𧪹
-言亼冂卅,MeTuZvFh	𧪺
 言亼〣井,MeTuJvBz	𧪺
+言亼冂卅,MeTuZvFh	𧪺
 言立立,MeYqYq	𧪻
 言口貝,MeIqIc	𧪼
 言一业日,MeFhOqJe	𧪽
@@ -68467,8 +68467,8 @@
 士方攵鬲,MfMxRyPw	𩱏
 鬲冂八口,PwYqZvIq	𩱐
 爿寸鬲,NbMdLwPw	𩱑
-弓古鬲弓,OdQmPwOd	𩱒
 弓古丶鬲弓,OdQmOeOd	𩱒
+弓古鬲弓,OdQmPwOd	𩱒
 弓耳弓鬲,OdQgOdPw	𩱓
 厂禾禾鬲,OyZpZpPw	𩱔
 ⺧儿⺧儿鬲,LzAhLzPw	𩱕
@@ -69968,7 +69968,7 @@
 鳥日屮凵大米,TlJeIaMg	𪈫
 身鳥鳥,LcTlTl	𪈬
 艹臣皿鳥,WhDzZiTl	𪈭
-糹言糸鳥,HtMeHtTl	𪈮
+糸言糸鳥,HtMeHtTl	𪈮
 氵⻗隹鳥,HgTfVhTl	𪈯
 罒糹隹鳥,YtHtVhTl	𪈰
 目目亻矢鳥,GyGyKjTl	𪈱
@@ -81983,8 +81983,8 @@
 ㇏勹巳,ZhOePcDu	𭅏
 八厂匕,VyOyHs	𭅐
 八夫匕,VySvHs	𭅑
-⺷丿匕,IdCkHs	𭅒
 䒑老,VyRi	𭅒
+⺷丿匕,IdCkHs	𭅒
 十日十匕,GlJeGlHs	𭅓
 匚匕,EhHs	𭅔
 匚一𬺰,EhFhGl	𭅕
@@ -85401,8 +85401,8 @@
 革宀女瓦,GoErSmFn	𭺧
 魚日瓦,XlJeFn	𭺨
 貝貝女瓦,IcIcSmFn	𭺩
-一,FhIq	𭺪
 ㅠ二,WhRl	𭺪
+一,FhIq	𭺪
 甘,Mz	𭺫
 甘匕日,MzHsJe	𭺬
 甘冖羊,MzErId	𭺭
@@ -86745,8 +86745,8 @@
 艹白木,WhDyAj	𮏦
 艹宀至,WhErCy	𮏧
 艹匚口月,WhEhIqMd	𮏨
-艹丗未,WhFhJx	𮏩
 艹廿未,WhXkJx	𮏩
+艹丗未,WhFhJx	𮏩
 艹亡口日,WhXcIqJe	𮏪
 艹古八一ㄅ,WhQmVyPv	𮏫
 艹牙由,WhYbIs	𮏬
@@ -94919,8 +94919,8 @@
 廿口夫不一,XkIqSvFh	𱍨
 ⺊一⻗而,DhFhTfUa	𱍩
 一⺁彐𠃌殳,FhMdMdQi	𱍪
-丨㇎一,KsPvFh	𱍫
 ㇗㇎,PvPv	𱍫
+丨㇎一,KsPvFh	𱍫
 リ人,KgEhSi	𱍬
 リ艮,KgTp	𱍭
 リ儿,KgPdAh	𱍮

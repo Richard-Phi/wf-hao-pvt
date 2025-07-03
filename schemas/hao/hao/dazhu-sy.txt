@@ -17676,7 +17676,7 @@ ahyfa	羄
 ahbcc	羆
 ahnys	羇
 ahnaj	羈
-ahydy	羉
+ahdyy	羉
 to	羋
 tfyw	羏
 clpfn	羐
@@ -35276,7 +35276,7 @@ glcdt	𡤤
 gljfm	𡤥
 glcph	𡤦
 glggz	𡤧
-yfdyg	𡤨
+yfdgl	𡤨
 glkkf	𡤩
 glpfl	𡤪
 gysgl	𡤫
