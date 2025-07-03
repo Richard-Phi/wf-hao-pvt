@@ -84188,7 +84188,7 @@ jnvf	𭥐
 jxuo	𭥑
 jowi	𭥒
 jpdo	𭥓
-jcxi	𭥔
+jfxi	𭥔
 jgif	𭥕
 jrah	𭥖
 jjef	𭥗
@@ -89956,7 +89956,7 @@ evzi	𮱠
 oqqf	𮱢
 faji	𮱣
 dswj	𮱤
-dkrl	𮱥
+dppc	𮱥
 dpw	𮱦
 dkn	𮱧
 dqgf	𮱨
@@ -89996,7 +89996,7 @@ nmgy	𮲉
 nbio	𮲊
 nvvi	𮲋
 odie	𮲌
-iixb	𮲍
+xiib	𮲍
 uhff	𮲎
 pfwh	𮲏
 ptpd	𮲐
@@ -90209,7 +90209,7 @@ dyao	𮵟
 zqhk	𮵠
 zxiq	𮵡
 zrnd	𮵢
-vzoz	𮵣
+ixzp	𮵣
 zmvp	𮵤
 ygho	𮵥
 yjlv	𮵦
@@ -90306,7 +90306,7 @@ ogoe	𮷀
 oidj	𮷁
 oecy	𮷂
 oesv	𮷃
-cheu	𮷄
+teuw	𮷄
 vlot	𮷅
 vslf	𮷆
 vno	𮷇
@@ -90337,7 +90337,7 @@ wblt	𮷠
 lllt	𮷡
 tlto	𮷢
 wral	𮷣
-pfpl	𮷤
+pfql	𮷤
 gklt	𮷥
 mklt	𮷦
 yzvl	𮷧
@@ -183298,7 +183298,7 @@ jnvf	𭥐
 jxuo	𭥑
 jowi	𭥒
 jpdo	𭥓
-jcxi	𭥔
+jfxi	𭥔
 jgif	𭥕
 jrah	𭥖
 jjef	𭥗
@@ -189066,7 +189066,7 @@ evzi	𮱠
 oqqf	𮱢
 faji	𮱣
 dswj	𮱤
-dkrl	𮱥
+dppc	𮱥
 dpwi	𮱦
 dknd	𮱧
 dqgf	𮱨
@@ -189106,7 +189106,7 @@ nmgy	𮲉
 nbio	𮲊
 nvvi	𮲋
 odie	𮲌
-iixb	𮲍
+xiib	𮲍
 uhff	𮲎
 pfwh	𮲏
 ptpd	𮲐
@@ -189319,7 +189319,7 @@ dyao	𮵟
 zqhk	𮵠
 zxiq	𮵡
 zrnd	𮵢
-vzoz	𮵣
+ixzp	𮵣
 zmvp	𮵤
 ygho	𮵥
 yjlv	𮵦
@@ -189416,7 +189416,7 @@ ogoe	𮷀
 oidj	𮷁
 oecy	𮷂
 oesv	𮷃
-cheu	𮷄
+teuw	𮷄
 vlot	𮷅
 vslf	𮷆
 vnot	𮷇
@@ -189447,7 +189447,7 @@ wblt	𮷠
 lllt	𮷡
 tlto	𮷢
 wral	𮷣
-pfpl	𮷤
+pfql	𮷤
 gklt	𮷥
 mklt	𮷦
 yzvl	𮷧

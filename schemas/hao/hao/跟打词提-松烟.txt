@@ -431,6 +431,7 @@ Ciallo～(∠・ω< )⌒★	cle
 目标	dtw
 覆盖	dti
 弥补	nyr
+提供	kjo
 如果	gz;
 但是	jv;
 哪个	ka;
@@ -655,6 +656,7 @@ Ciallo～(∠・ω< )⌒★	cle
 太强了	tql;
 钛镪钌	qqq;
 鈦鏹釕	ttt;
+向日葵	svc;
 特朗普	mnj;
 马斯克	fms;
 俄罗斯	jam;
@@ -764,6 +766,7 @@ Ciallo～(∠・ω< )⌒★	cle
 数据	kkgr
 证明	fvlu
 却将	psbo
+连接	akne
 上传词提	jfju
 上传词提	jfji
 上传词提	jfjo
@@ -84957,7 +84960,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𭥑	vxke
 𭥒	vzbu
 𭥓	vhw
-𭥔	vsydi
+𭥔	vlydi
 𭥕	vgu
 𭥖	vzlr
 𭥗	vvo
@@ -90725,7 +90728,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𮱢	flfje
 𮱣	llgzy
 𮱤	mgalg
-𮱥	mgvzo
+𮱥	mgxks
 𮱦	mgabu
 𮱧	mgjqo
 𮱨	mghe
@@ -90765,7 +90768,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𮲊	hdpky
 𮲋	hdhfn
 𮲌	zkjfj
-𮲍	fjkyp
+𮲍	ydfkp
 𮲎	ksmw
 𮲏	kslcl
 𮲐	ksyhw
@@ -90978,7 +90981,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𮵠	mspw
 𮵡	msxkd
 𮵢	mssbk
-𮵣	jdmnm
+𮵣	tymsu
 𮵤	msmjx
 𮵥	jsmr
 𮵦	jsmgh
@@ -91075,7 +91078,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𮷁	yksmr
 𮷂	ygkr
 𮷃	yzzjd
-𮷄	shgks
+𮷄	hgksi
 𮷅	ffflr
 𮷆	fzhe
 𮷇	fjflr
@@ -91106,7 +91109,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𮷡	lqlnd
 𮷢	tmndu
 𮷣	clzln
-𮷤	kslan
+𮷤	kslln
 𮷥	gpndu
 𮷦	bpndu
 𮷧	jsdjn

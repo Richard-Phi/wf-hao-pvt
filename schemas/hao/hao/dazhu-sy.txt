@@ -471,6 +471,7 @@ kki	接口
 dtw	目标
 dti	覆盖
 nyr	弥补
+kjo	提供
 gz;	如果
 jv;	但是
 ka;	哪个
@@ -695,6 +696,7 @@ ynd;	太强了
 tql;	太强了
 qqq;	钛镪钌
 ttt;	鈦鏹釕
+svc;	向日葵
 mnj;	特朗普
 fms;	马斯克
 jam;	俄罗斯
@@ -804,6 +806,7 @@ aafu	存在
 kkgr	数据
 fvlu	证明
 psbo	却将
+akne	连接
 jfju	上传词提 好拆
 jfji	上传词提 好
 jfjo	上传词提 松烟
@@ -84997,7 +85000,7 @@ vjti	𭥐
 vxke	𭥑
 vzbu	𭥒
 vhw	𭥓
-vsydi	𭥔
+vlydi	𭥔
 vgu	𭥕
 vzlr	𭥖
 vvo	𭥗
@@ -90765,7 +90768,7 @@ gkhdk	𮱠
 flfje	𮱢
 llgzy	𮱣
 mgalg	𮱤
-mgvzo	𮱥
+mgxks	𮱥
 mgabu	𮱦
 mgjqo	𮱧
 mghe	𮱨
@@ -90805,7 +90808,7 @@ hdmdk	𮲉
 hdpky	𮲊
 hdhfn	𮲋
 zkjfj	𮲌
-fjkyp	𮲍
+ydfkp	𮲍
 ksmw	𮲎
 kslcl	𮲏
 ksyhw	𮲐
@@ -91018,7 +91021,7 @@ sjjtk	𮵟
 mspw	𮵠
 msxkd	𮵡
 mssbk	𮵢
-jdmnm	𮵣
+tymsu	𮵣
 msmjx	𮵤
 jsmr	𮵥
 jsmgh	𮵦
@@ -91115,7 +91118,7 @@ ygnr	𮷀
 yksmr	𮷁
 ygkr	𮷂
 yzzjd	𮷃
-shgks	𮷄
+hgksi	𮷄
 ffflr	𮷅
 fzhe	𮷆
 fjflr	𮷇
@@ -91146,7 +91149,7 @@ bpndu	𮷠
 lqlnd	𮷡
 tmndu	𮷢
 clzln	𮷣
-kslan	𮷤
+kslln	𮷤
 gpndu	𮷥
 bpndu	𮷦
 jsdjn	𮷧
