@@ -45306,7 +45306,7 @@
 火民,YvNs	𤇜
 弗火,UvYv	𤇝
 力口火,AuIqYv	𤇞
-一亼乙火,FhTuJgYv	𤇟
+一亼ㄅ火,FhTuPvYv	𤇟
 丿丷𬺰灬,CkVyGlYv	𤇠
 氏一灬,QuFhYv	𤇡
 火白,YvDy	𤇢
@@ -55991,8 +55991,8 @@
 ⺿干㇏,WhLrRlOe	𦮖
 ⺿囗女,WhUdSm	𦮗
 ⺿乃,WhViWh	𦮘
-艹艸艸,WhWhWh	𦮙
 艹屮屮屮屮,WhIaIaIa	𦮙
+艹艸艸,WhWhWh	𦮙
 ⺿⺌𠫔,WhOtPd	𦮚
 ⺿氵㇏,WhHgRlOe	𦮛
 ⺿冖斗,WhErPf	𦮜
@@ -61544,8 +61544,8 @@
 ⻊止扌支,UzLdPcBh	𨅅
 ⻊大丷土土,UzXiVyBm	𨅆
 口亠人人十足,IqUeSiUz	𨅇
-⻊龷厶木,UzXkNdAj	𨅈
 ⻊⺿𠫔木,UzWhPdAj	𨅈
+⻊龷厶木,UzXkNdAj	𨅈
 ⻊丶月,UzOeTpMd	𨅉
 ⻊⺝攵,UzPdMdRy	𨅊
 ⻊肀片爿一,UzUaNbFh	𨅋
@@ -75470,8 +75470,8 @@
 艹兎,WhZh	𫟏
 艹宀方,WhErMx	𫟐
 艹彐火,WhSiYv	𫟑
-艹廿木,WhXkAj	𫟒
 艹丗木,WhFhAj	𫟒
+艹廿木,WhXkAj	𫟒
 ⺿人爫口,WhSiToIq	𫟓
 艹䒑欠,WhVyIaFy	𫟔
 艹丷田十阝,WhVySlTj	𫟕
@@ -85401,8 +85401,8 @@
 革宀女瓦,GoErSmFn	𭺧
 魚日瓦,XlJeFn	𭺨
 貝貝女瓦,IcIcSmFn	𭺩
-ㅠ二,WhRl	𭺪
 一,FhIq	𭺪
+ㅠ二,WhRl	𭺪
 甘,Mz	𭺫
 甘匕日,MzHsJe	𭺬
 甘冖羊,MzErId	𭺭
@@ -87010,8 +87010,8 @@
 虍儿小丿日小,QbAhOtOt	𮓮
 虍儿米夕㐄,QbAhMgGj	𮓯
 口丨一丶,IqKsFhOe	𮓰
-丿口丨一,CkIqKsFh	𮓱
 亻口一,KjIqFh	𮓱
+丿口丨一,CkIqKsFh	𮓱
 虫𠃌乚,JwPvPv	𮓲
 虫门,JwBo	𮓳
 虫尸,JwMz	𮓴
@@ -88787,8 +88787,8 @@
 兔彐彐乚目,ZhSiSiGy	𮯞
 兔目乚目,ZhGyPvGy	𮯟
 龠龷日,SyXkJe	𮯠
-工丨,NvKs	𮯰
 ㅠ一,WhFh	𮯰
+工丨,NvKs	𮯰
 ⺆亠丶,ZvUeOe	𮯱
 𠂉七,LdLn	𮯲
 亠火火火,UeYvYvYv	𮯳
@@ -89414,8 +89414,8 @@
 丸,Tk	丸
 乁,Pv	乁
 一冂巳一,FhZvDuFh	𠄢
-亻𠂉小,KjLdOt	你
 亻⺈小,KjRlOt	你
+亻𠂉小,KjLdOt	你
 亻𠂉母,KjLdQt	侮
 亻丷口儿,KjVyIqAh	侻
 亻丿丿干,KjCkLrLr	倂
