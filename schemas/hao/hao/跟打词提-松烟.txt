@@ -24480,7 +24480,7 @@ Ciallo～(∠・ω< )⌒★	cle
 㱊	ahmdl
 㱋	khdlw
 㱌	hhhdl
-㱍	dyydl
+㱍	yfdyd
 㱎	ahhnd
 㱏	zdi
 㱐	zdnr
@@ -40695,7 +40695,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𢺅	kspvh
 𢺆	ksajs
 𢺇	kscdt
-𢺈	ksdyy
+𢺈	ksydy
 𢺉	ksczg
 𢺊	kscax
 𢺋	akkjk
@@ -45482,7 +45482,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𤅄	hspfc
 𤅅	hsyat
 𤅆	hsdta
-𤅇	hsdyy
+𤅇	hsydy
 𤅈	hsjhl
 𤅉	hsknc
 𤅊	hsvql
@@ -55554,7 +55554,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𦣈	cphjf
 𦣉	ajfbu
 𦣊	akkjc
-𦣋	cdyyf
+𦣋	cydyf
 𦣌	cyatl
 𦣍	ctcyd
 𦣎	cakhq
@@ -61991,7 +61991,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𨇹	xjdpr
 𨇺	xhajf
 𨇻	xhlto
-𨇼	xdyyf
+𨇼	xydyf
 𨇽	xayhq
 𨇾	xdccm
 𨇿	xcjgj
@@ -80734,7 +80734,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𬯦	laggm
 𬯧	lakcl
 ⽣	jfu
-𬯨	ldyyf
+𬯨	lydyf
 𬯩	lsnzy
 ⽤	ai
 𬯪	hqdi
@@ -93447,7 +93447,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𰏄	dyvak
 𰫹	dyyak
 𰙹	dyyfo
-𲆤	dyylw
+𲆤	yfdyl
 𰢸	dyzhe
 𱊎	dyzjb
 𰒱	dyztf

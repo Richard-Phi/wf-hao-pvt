@@ -24520,7 +24520,7 @@ sjcdl	㱉
 ahmdl	㱊
 khdlw	㱋
 hhhdl	㱌
-dyydl	㱍
+yfdyd	㱍
 ahhnd	㱎
 zdi	㱏
 zdnr	㱐
@@ -40735,7 +40735,7 @@ ksylc	𢺄
 kspvh	𢺅
 ksajs	𢺆
 kscdt	𢺇
-ksdyy	𢺈
+ksydy	𢺈
 ksczg	𢺉
 kscax	𢺊
 akkjk	𢺋
@@ -45522,7 +45522,7 @@ hspjc	𤅃
 hspfc	𤅄
 hsyat	𤅅
 hsdta	𤅆
-hsdyy	𤅇
+hsydy	𤅇
 hsjhl	𤅈
 hsknc	𤅉
 hsvql	𤅊
@@ -55594,7 +55594,7 @@ cayhq	𦣇
 cphjf	𦣈
 ajfbu	𦣉
 akkjc	𦣊
-cdyyf	𦣋
+cydyf	𦣋
 cyatl	𦣌
 ctcyd	𦣍
 cakhq	𦣎
@@ -62031,7 +62031,7 @@ xldne	𨇸
 xjdpr	𨇹
 xhajf	𨇺
 xhlto	𨇻
-xdyyf	𨇼
+xydyf	𨇼
 xayhq	𨇽
 xdccm	𨇾
 xcjgj	𨇿
@@ -80774,7 +80774,7 @@ mto	⽢
 laggm	𬯦
 lakcl	𬯧
 jfu	⽣
-ldyyf	𬯨
+lydyf	𬯨
 lsnzy	𬯩
 ai	⽤
 hqdi	𬯪
@@ -93487,7 +93487,7 @@ dytlr	𱣒
 dyvak	𰏄
 dyyak	𰫹
 dyyfo	𰙹
-dyylw	𲆤
+yfdyl	𲆤
 dyzhe	𰢸
 dyzjb	𱊎
 dyztf	𰒱
