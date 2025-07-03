@@ -323,7 +323,7 @@ Ps	几
 Ps	⺇
 Pu	谷
 Pu	
-Pv	⺂
+Pv	乛
 Pv	⺃
 Pv	⺄
 Pv	フ
@@ -343,7 +343,6 @@ Pv	㇞
 Pv	㇢
 Pv	乁
 Pv	乚
-Pv	乛
 Pv	𠃌
 Pv	ㄣ
 Pw	鬲

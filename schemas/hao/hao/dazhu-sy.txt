@@ -760,7 +760,7 @@ jjkr	他们
 xtye	足够
 jhse	立刻
 kkde	看到
-ffko	或者
+ffko	战争
 ffkw	或许
 khgo	不懂
 kfgi	不少
@@ -14413,7 +14413,7 @@ tlltl	枺
 tlaxi	枻
 akxtl	枼
 akatl	枽
-tlljf	枾
+tlkvj	枾
 tlacl	枿
 tldme	柀
 tlkkw	柂
@@ -15310,7 +15310,7 @@ hszjg	湹
 hsjkt	湺
 hsjjt	湼
 hsdlz	湽
-hsclm	満
+hsadm	満
 hsnvj	溂
 hsmmk	溄
 hsnsc	溈
@@ -31729,7 +31729,8 @@ ydjbu	𠬲
 mslbu	𠬳
 bjsme	𠬴
 kabu	𠬵
-lkbu	𠬷
+qsbu	𠬷
+lspbu	𠬷
 djkbu	𠬸
 byfo	𠬹
 bbclr	𠬺
@@ -31811,13 +31812,14 @@ yfjcb	𠮅
 bbzhf	𠮆
 bmjjf	𠮇
 fkffb	𠮈
-vhfdb	𠮉
+nxsbu	𠮈
+vhlfb	𠮉
 vljbu	𠮊
 sydbu	𠮋
 bbbjz	𠮌
 mgzjb	𠮍
 jtaab	𠮎
-vhjsb	𠮏
+vhfdb	𠮏
 bbbjz	𠮐
 nfskb	𠮑
 sabbu	𠮒
@@ -32008,7 +32010,7 @@ kdme	𠱋
 kdqzo	𠱌
 kdllg	𠱍
 kdsfl	𠱎
-kdlyz	𠱏
+kdlgz	𠱏
 kdkxy	𠱐
 kdykd	𠱑
 sckdi	𠱒
@@ -32279,7 +32281,7 @@ mdksf	𠵞
 kdmtl	𠵟
 kdlkk	𠵠
 kdllf	𠵡
-kdzcm	𠵢
+kdacm	𠵢
 kdqxi	𠵣
 lmbkd	𠵤
 qqkdi	𠵥
@@ -33556,7 +33558,7 @@ zvpsu	𡉝
 psabk	𡉞
 shpsu	𡉟
 psgu	𡉠
-vkaps	𡉡
+xnaps	𡉡
 vjbps	𡉢
 tlpsu	𡉣
 kgpsu	𡉤
@@ -34674,7 +34676,7 @@ glhfi	𡛇
 glscl	𡛈
 jzgle	𡛉
 glksu	𡛊
-glgye	𡛋
+glsxi	𡛋
 lygle	𡛌
 hgle	𡛍
 lmgle	𡛎
@@ -35905,7 +35907,8 @@ ndmau	𡮝
 gkmks	𡮞
 yfyfo	𡮟
 fmfmd	𡮠
-flffx	𡮡
+flffl	𡮡
+flffl	𡮡
 ndjvo	𡮢
 flyas	𡮣
 yxasf	𡮤
@@ -37070,7 +37073,7 @@ djddj	𢀯
 djddj	𢀰
 pgpnm	𢀱
 pgpnz	𢀲
-fyr	𢀳
+alxi	𢀳
 zkkvi	𢀴
 mfmfo	𢀵
 nsmfo	𢀶
@@ -37950,7 +37953,7 @@ nsfu	𢎟
 nsfu	𢎠
 nsnr	𢎡
 nsau	𢎢
-snfu	𢎣
+jnsi	𢎣
 nsbu	𢎤
 nszo	𢎥
 ansi	𢎦
@@ -38405,6 +38408,7 @@ fhacu	𢕤
 dylsj	𢕥
 fhfmf	𢕦
 fhalh	𢕧
+fhjlh	𢕧
 fhdgh	𢕨
 fhfad	𢕩
 fhsyk	𢕪
@@ -39157,7 +39161,7 @@ clvch	𢡗
 akczh	𢡘
 yxjvh	𢡙
 hdjjv	𢡚
-hsclh	𢡛
+hsadh	𢡛
 hdlsd	𢡜
 hdjzy	𢡝
 hdygu	𢡞
@@ -49811,7 +49815,7 @@ dkfan	𥈚
 dkgdk	𥈛
 akddy	𥈜
 dksfh	𥈝
-dkclm	𥈞
+dkadm	𥈞
 dkgcb	𥈟
 vhfdk	𥈠
 dktsj	𥈡
@@ -50970,7 +50974,7 @@ sjfzh	𥚦
 sjti	𥚧
 sjajc	𥚨
 sjjcu	𥚩
-mdsjw	𥚪
+bkfbs	𥚪
 sjckc	𥚫
 sjsay	𥚬
 sjgdk	𥚭
@@ -51091,6 +51095,7 @@ sjfgh	𥜟
 sjvzp	𥜠
 sjffj	𥜡
 sjflk	𥜢
+sjfnk	𥜣
 sjfnk	𥜣
 sjxzf	𥜤
 sjsvj	𥜥
@@ -53859,7 +53864,7 @@ mglly	𦇵
 yfjan	𦇶
 dyyxi	𦇷
 yfddh	𦇸
-zcyfo	𦇹
+yfbsy	𦇹
 yfhlt	𦇺
 jaabu	𦇻
 yflxg	𦇼
@@ -55757,7 +55762,7 @@ jzme	𦥪
 kcjzi	𦥫
 jzvi	𦥬
 jdgjz	𦥭
-jspjz	𦥮
+lxpjz	𦥮
 jzssg	𦥯
 jzygi	𦥰
 jzxjf	𦥱
@@ -56038,6 +56043,7 @@ mfgu	𦪄
 mfshr	𦪅
 mmjps	𦪆
 mktu	𦪇
+bmo	𦪈
 ldhhm	𦪈
 mhhqo	𦪉
 mkffl	𦪊
@@ -63888,7 +63894,7 @@ anale	𨥀
 tmbu	𨥁
 tmdle	𨥂
 tmllr	𨥃
-ajfjd	𨥄
+ajjjd	𨥄
 tmlso	𨥅
 tmfnr	𨥆
 tmjfo	𨥇
@@ -70929,7 +70935,8 @@ sqhr	𪓑
 gmqhr	𪓒
 msqhr	𪓓
 clqhr	𪓔
-qhbbu	𪓕
+kdxbv	𪓕
+kdxbv	𪓕
 gmqhr	𪓖
 jgqhr	𪓗
 djzqq	𪓘
@@ -72175,6 +72182,7 @@ gkkgl	𪧘
 gkbbg	𪧙
 gkqgj	𪧚
 gkyvf	𪧛
+gkbw	𪧜
 gklhh	𪧜
 gkqqc	𪧝
 gkhkd	𪧞
@@ -75535,7 +75543,7 @@ vjtjd	𫝌
 djjdi	𫝍
 ghxyr	𫝎
 ghxzf	𫝏
-vjjvo	𫝐
+jdvvj	𫝐
 slpty	𫝑
 fvakw	𫝒
 aksgg	𫝓
@@ -76510,6 +76518,7 @@ xzsxi	𫬯
 lfgdj	𫬰
 kdczn	𫬱
 lfvlf	𫬲
+lfvll	𫬲
 msdyk	𫬳
 jzttk	𫬴
 kdhjz	𫬵
@@ -77013,7 +77022,7 @@ aktjf	𫴰
 aljkd	𫴱
 aljxl	𫴲
 aljgc	𫴳
-hsclj	𫴴
+hsadj	𫴴
 aljkm	𫴵
 fktjj	𫴶
 aljff	𫴷
@@ -81728,7 +81737,7 @@ ydacl	奔
 tlflf	𬻩
 glvsa	婢
 zdsfj	𬻪
-akkgs	𬻫
+akkgz	𬻫
 gljlh	嬨
 ndgje	𬻬
 spbcl	𬻭
@@ -98192,7 +98201,8 @@ sjvdh	𰨕
 sjvfl	𱵐
 sjvpp	𱵥
 sjvxz	𱵏
-sjxaa	𱵚
+sjaxa	𱵚
+sjaxa	𱵚
 sjxbh	𱟅
 sjxdk	𱲶
 sjxfy	𰧰

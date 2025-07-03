@@ -323,7 +323,7 @@ Anw	几
 Anw	⺇
 Fmw	谷
 Fmw	
-Xi	⺂
+Xi	乛
 Xi	⺃
 Xi	⺄
 Xi	フ
@@ -343,7 +343,6 @@ Xi	㇞
 Xi	㇢
 Xi	乁
 Xi	乚
-Xi	乛
 Xi	𠃌
 Xi	ㄣ
 Qmw	鬲
