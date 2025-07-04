@@ -70612,7 +70612,7 @@
 𪚻	zxsi
 𪚼	zsip
 𪚽	sjlv
-𪚾	sico
+𪚾	zpsi
 𪚿	sjlk
 𪛀	cops
 𪛁	zysi
@@ -169732,7 +169732,7 @@
 𪚻	zxsi
 𪚼	zsip
 𪚽	sjlv
-𪚾	sico
+𪚾	zpsi
 𪚿	sjlk
 𪛀	cops
 𪛁	zysi

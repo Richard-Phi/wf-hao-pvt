@@ -515,9 +515,8 @@ Wi	{臼框}
 Wi	⺽
 Wi	
 Wj	卩
-Wj	⺋
-Wj	ㄗ
 Wj	㔾
+Wj	ㄗ
 Wj	卪
 Wj	
 Wl	鸟

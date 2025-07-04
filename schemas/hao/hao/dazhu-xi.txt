@@ -70612,7 +70612,7 @@ sofh	𪚺
 zxsi	𪚻
 zsip	𪚼
 sjlv	𪚽
-sico	𪚾
+zpsi	𪚾
 sjlk	𪚿
 cops	𪛀
 zysi	𪛁
@@ -169732,7 +169732,7 @@ sofh	𪚺
 zxsi	𪚻
 zsip	𪚼
 sjlv	𪚽
-sico	𪚾
+zpsi	𪚾
 sjlk	𪚿
 cops	𪛀
 zysi	𪛁

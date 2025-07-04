@@ -515,9 +515,8 @@ Jzi	{臼框}
 Jzi	⺽
 Jzi	
 Lgi	卩
-Lgi	⺋
-Lgi	ㄗ
 Lgi	㔾
+Lgi	ㄗ
 Lgi	卪
 Lgi	
 Jbo	鸟
