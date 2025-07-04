@@ -385,8 +385,8 @@ Jw	曰
 Lfu	吅
 Kqu	曲
 Kqu	𡆪
-Hfi	攴
 Hfi	攵
+Hfi	攴
 Xyr	見
 Lu	毋
 Lu	毌

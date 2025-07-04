@@ -385,8 +385,8 @@ Rl	曰
 Ru	吅
 Rw	曲
 Rw	𡆪
-Ry	攴
 Ry	攵
+Ry	攴
 Sc	見
 Sf	毋
 Sf	毌
