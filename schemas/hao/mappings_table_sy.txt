@@ -1,6 +1,6 @@
              │=================   Q   =================│             │=================   T   =================│             │=================   Y   =================│             │=================   P   =================│
-             │黾        Qhr│黽        Qhr│门        Qlr│             │木        Tlr│朩        Tlr│饣        Tjr│             │門        Yxi│气        Yso│糸        Yfo│             │皿        Pdi│土        Psu│コ        Pgo│
-             │钅        Qjr│臣        Qhe│        Qhe│             │壴         Ti│羊         To│⺶         To│             │糹        Yfo│已         Yw│衣         Yr│             │匚        Pgo│        Pgo│𠥓        Pgo│
+             │黾        Qhr│黽        Qhr│门        Qlr│             │木        Tlr│朩        Tlr│饣        Tjr│             │門        Yxi│气        Yso│糸        Yfo│             │皿        Pdi│土        Psu│匚        Pgo│
+             │钅        Qjr│臣        Qhe│        Qhe│             │壴         Ti│羊         To│⺶         To│             │糹        Yfo│已         Yw│衣         Yr│             │コ        Pgo│        Pgo│𠥓        Pgo│
              │        Qhe│反臣      Qhe│反      Qhe│             │⺷         To│⺸         To│芈         To│             │衤         Yr│         Yr│         Yr│             │瓦         Pr│页         Pe│韦         Pw│
              │韋         Qr│五         Qu│車        Qne│             │         To│纟        Tkw│        Tkw│             │𧘇         Yr│斗        Ydo│長        Ysi│             │竹         Pu│⺮         Pu│         Pu│
              │豸         Qe│弋         Qo│         Qo│             │金        Tmr│釒        Tmr│        Tmr│             │镸        Ysi│        Ysi│光        Ygi│             │         Pu│
