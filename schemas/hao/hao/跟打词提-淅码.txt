@@ -62269,7 +62269,7 @@
 𨘏	wbil
 𨘐	kdkl
 𨘑	fhol
-𨘒	sikl
+𨘒	sial
 𨘓	tnsl
 𨘔	mmlt
 𨘕	wfpl
@@ -62283,7 +62283,7 @@
 𨘝	rvl
 𨘞	gevl
 𨘟	zgsl
-𨘠	sikl
+𨘠	sivl
 𨘡	jssl
 𨘢	czzl
 𨘣	ybil
@@ -164390,7 +164390,7 @@
 𨘏	wbil
 𨘐	kdkl
 𨘑	fhol
-𨘒	sikl
+𨘒	sial
 𨘓	tnsl
 𨘔	mmlt
 𨘕	wfpl
@@ -164404,7 +164404,7 @@
 𨘝	rvlt
 𨘞	gevl
 𨘟	zgsl
-𨘠	sikl
+𨘠	sivl
 𨘡	jssl
 𨘢	czzl
 𨘣	ybil

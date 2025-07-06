@@ -63081,7 +63081,7 @@ clyvn	𨘎
 clpkn	𨘏
 jdjnd	𨘐
 lhnnd	𨘑
-lkfnd	𨘒
+lktnd	𨘒
 hjand	𨘓
 ddndu	𨘔
 jzlxn	𨘕
@@ -63095,7 +63095,7 @@ lmcnd	𨘜
 fkhnd	𨘝
 akgjn	𨘞
 pfand	𨘟
-lkfnd	𨘠
+lkjnd	𨘠
 mzznd	𨘡
 fvdnd	𨘢
 ahpkn	𨘣

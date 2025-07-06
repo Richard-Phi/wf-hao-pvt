@@ -11420,8 +11420,8 @@
 ⺆亠彡,ZvUeBl	彤
 文厂彡,WmOyBl	彥
 厂彡,YqOyBl	彦
-戈口㇀𰀪,IeIqFhBl	彧
 弋口㇀彡,NdIqFhBl	彧
+戈口㇀𰀪,IeIqFhBl	彧
 一彡,FhMdMdBl	彨
 爫木彡,ToAjBl	彩
 虎彡,QbBl	彪
@@ -28556,8 +28556,8 @@
 吕丨石石石,NfKsQqQq	𠁻
 丶丶丶,OeOeOe	𠁼
 几丶,PsOe	𠁽
-㇗ヿ丶,PvPvOe	𠁾
 冂亠,ZvUe	𠁾
+㇗ヿ丶,PvPvOe	𠁾
 凵一丶,ZvFhOe	𠁿
 艹亠,WhUe	𠂀
 一亠,KgFhUe	𠂁
@@ -28590,8 +28590,8 @@
 亻口,KjIq	𠂝
 丿八一ㄅ,CkVyFhPv	𠂞
 丿丷𠂇,CkVyGl	𠂟
-丿⺌一ㄅ,CkOtFhPv	𠂠
 丿䒑ㄅ,CkVyPv	𠂠
+丿⺌一ㄅ,CkOtFhPv	𠂠
 ⺇,PsPc	𠂡
 ⺁,OyOr	𠂢
 ⺁彐ㄅ,OySiPv	𠂣
@@ -30306,8 +30306,8 @@
 尸示刂,MzDdKg	𠝋
 龴一氺刂,NdFhHgKg	𠝌
 千匕刂,HcNbHsKg	𠝍
-⺈門,RlAc	𠝎
 ⺈𠁣ㅌ亅,RlMzSiKs	𠝎
+⺈門,RlAc	𠝎
 亼口人刀,TuIqSiKg	𠝏
 艹亻匕刂,WhKjHsKg	𠝐
 尸示刂,MzDdKg	𠝑
@@ -37970,8 +37970,8 @@
 彳ㅠ匚コ田,JbWhEhSl	𢔲
 彳又丶丶虫,JbWiOeJw	𢔳
 彳五口阝,JbJiIqTj	𢔴
-彳井龶冂,JbBzZhZv	𢔵
 彳井王冂,JbBzGiZv	𢔵
+彳井龶冂,JbBzZhZv	𢔵
 彳見寸,JbScLw	𢔶
 彳犭屮王,JbLeIaGi	𢔷
 彳鬲,JbPw	𢔸
@@ -38021,8 +38021,8 @@
 彳走月,JbQoMd	𢕤
 行士示,FjMfDd	𢕥
 彳丨夂丶艮,JbKsJtTp	𢕦
-彳ㅌ一几攵,JbSiFhRy	𢕧
 彳一一几攵,JbNgFhRy	𢕧
+彳ㅌ一几攵,JbSiFhRy	𢕧
 彳白冖方,JbDyErMx	𢕨
 彳彳人人龰,JbJbSiLd	𢕩
 彳丿大口冂口,JbCkXiIq	𢕪
@@ -39088,8 +39088,8 @@
 九戈,DpIe	𢦎
 十戈,GlIe	𢦏
 戈,SiIe	𢦐
-弋彡,NdBl	𢦑
 戈𰀪,IeBl	𢦑
+弋彡,NdBl	𢦑
 戈,PcIe	𢦒
 戊刀,UcKg	𢦓
 𬺰丿戈,GlCkIe	𢦔
@@ -50756,8 +50756,8 @@
 示虍田皿,DdQbSlBk	𥜠
 礻⺈小王里,DdRlOtDn	𥜡
 礻广幺幺丿口,DdGpBlIq	𥜢
-礻耂弓工工口,DdRiOdIq	𥜣
 示耂弓工工口,DdRiOdIq	𥜣
+礻耂弓工工口,DdRiOdIq	𥜣
 礻乚貝戈戈,DdPvIcIe	𥜤
 礻匕田龷八,DdNbHsVy	𥜥
 示一土,DdFhKtBm	𥜦
@@ -52082,8 +52082,8 @@
 ⺮亻丨矢,ZiKjKsEu	𥱌
 ⺮車几丶,ZiJlPsOe	𥱍
 ⺮廿㇗冂土,ZiXkPvBm	𥱎
-⺮井龶冂,ZiBzZhZv	𥱏
 ⺮井王冂,ZiBzGiZv	𥱏
+⺮井龶冂,ZiBzZhZv	𥱏
 ⺮口里,ZiIqDn	𥱐
 ⺮⺷儿厶,ZiIdAhNd	𥱑
 ⺮氵工人人,ZiHgNvSi	𥱒
@@ -55724,8 +55724,8 @@
 舟广丿士廴,LkGpCkVv	𦪅
 舟土,LkMzVyBm	𦪆
 舟鹿,LkCu	𦪇
-敖舟,TkLk	𦪈
 士方攵舟,MfMxRyLk	𦪈
+敖舟,TkLk	𦪈
 舟氵隹,LkHgVh	𦪉
 舟戊⺊一小,LkUcDhOt	𦪊
 舟羊ヿ土,LkIdPvBm	𦪋
@@ -62778,7 +62778,7 @@
 艹土口𧘇辶,WhBmIqLt	𨘏
 亻白亻白辶,KjDyKjLt	𨘐
 一氺丶車辶,FhHgOeLt	𨘑
-口丨木女辶,SfIqKsLt	𨘒
+口木女辶,SfIqAjLt	𨘒
 爫工心辶,ToNvSiLt	𨘓
 言言辶,MeMeLt	𨘔
 一ㄅ丨辶,WiFhPvLt	𨘕
@@ -62792,7 +62792,7 @@
 老隹辶,RiVhLt	𨘝
 十冖八罒干辶,GlErVyLt	𨘞
 ⺮广人辶,ZiGpSiLt	𨘟
-口丨女辶,SfIqKsLt	𨘠
+口女辶,SfIqVyLt	𨘠
 夂田田丿十辶,JtSlSlLt	𨘡
 自穴冂冂辶,CjZiZvLt	𨘢
 罒土口𧘇辶,YtBmIqLt	𨘣
@@ -76342,8 +76342,8 @@
 ㇗二古八人⺁二㇂,PvRlQmPv	𫬯
 吅冖象,RuErWp	𫬰
 口艹田⽱辶,IqWhSlLt	𫬱
-吅虍儿吅,RuQbAhRu	𫬲
 吅虎吅,RuQbRu	𫬲
+吅虍儿吅,RuQbAhRu	𫬲
 禾𧘇亼口,ZpWnOrIq	𫬳
 木木冖口,WiAjAjIq	𫬴
 口氵亠{齊字腰}二,IqHgUeRl	𫬵
@@ -88798,8 +88798,8 @@
 兔彐彐乚目,ZhSiSiGy	𮯞
 兔目乚目,ZhGyPvGy	𮯟
 龠龷日,SyXkJe	𮯠
-ㅠ一,WhFh	𮯰
 工丨,NvKs	𮯰
+ㅠ一,WhFh	𮯰
 ⺆亠丶,ZvUeOe	𮯱
 𠂉七,LdLn	𮯲
 亠火火火,UeYvYvYv	𮯳
@@ -100825,8 +100825,8 @@
 氵糹工,HgHtNv	𲩫
 氵力口木,HgAuIqAj	𲩬
 氵飛,HgDp	𲩭
-氵戈口㇀𰀪,HgIeIqBl	𲩮
 氵弋口㇀彡,HgNdIqBl	𲩮
+氵戈口㇀𰀪,HgIeIqBl	𲩮
 氵艹土寸,HgWhBmLw	𲩯
 艹⺷水,WhIdHg	𲩰
 氵丿㠯辶,HgCkUsLt	𲩱
