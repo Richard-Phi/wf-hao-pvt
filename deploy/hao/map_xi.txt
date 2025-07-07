@@ -365,8 +365,8 @@ Qn	三
 Qn	辰
 Qo	走
 Qp	西
-Qp	襾
 Qp	覀
+Qp	襾
 Qq	石
 Qt	母
 Qu	氏

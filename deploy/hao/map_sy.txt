@@ -365,8 +365,8 @@ Sme	三
 Hgi	辰
 Ao	走
 Dhw	西
-Dhw	襾
 Dhw	覀
+Dhw	襾
 Fje	石
 Dke	母
 Cmw	氏
