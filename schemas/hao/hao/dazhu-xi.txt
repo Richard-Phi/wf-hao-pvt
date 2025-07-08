@@ -11587,7 +11587,7 @@ bsc	垷
 bzt	垹
 bic	垻
 jqb	垼
-hnhr	埀
+hnhb	埀
 bdt	埁
 bjz	埄
 tmb	埅
@@ -30789,7 +30789,7 @@ oybi	𠪯
 odhn	𠪰
 ozzo	𠪱
 oxia	𠪲
-oqww	𠪳
+oikp	𠪳
 oaak	𠪴
 oxhd	𠪵
 oqhe	𠪶
@@ -44037,7 +44037,7 @@ hjbb	𣺝
 hwjg	𣺞
 hoce	𣺟
 higc	𣺠
-hhnr	𣺡
+hhnb	𣺡
 hkra	𣺢
 hofe	𣺣
 hjsk	𣺤
@@ -47645,7 +47645,7 @@ assa	𤳇
 sljb	𤳈
 sxis	𤳉
 jscl	𤳊
-ssss	𤳋
+skss	𤳋
 sgxy	𤳌
 sstp	𤳍
 szic	𤳎
@@ -50536,7 +50536,7 @@ zwz	𥠚
 zfzr	𥠛
 zjfb	𥠜
 zjeu	𥠝
-zhsd	𥠞
+zhsz	𥠞
 dgzp	𥠟
 vrp	𥠠
 zsbn	𥠡
@@ -63447,7 +63447,7 @@ tdpg	𨪬
 troz	𨪭
 tjom	𨪮
 tjvd	𨪯
-thnr	𨪰
+thnb	𨪰
 flft	𨪱
 tbvs	𨪲
 tuyv	𨪳
@@ -68530,7 +68530,7 @@ xzsl	𩺒
 lqxl	𩺓
 lgxl	𩺔
 xoar	𩺕
-xhnr	𩺖
+xhnb	𩺖
 xwti	𩺗
 xggv	𩺘
 xgii	𩺙
@@ -71681,7 +71681,7 @@ ahjn	𪬓
 nqcj	𪬔
 nfoj	𪬕
 nasi	𪬖
-nhnr	𪬗
+nhnb	𪬗
 nhbk	𪬘
 nhim	𪬙
 neov	𪬚
@@ -71814,7 +71814,7 @@ pdjz	𪮘
 pwxv	𪮙
 zvdp	𪮚
 pjbl	𪮛
-phnr	𪮜
+phnb	𪮜
 plib	𪮝
 pzcs	𪮞
 pvox	𪮟
@@ -72860,7 +72860,7 @@ garf	𪾲
 giwk	𪾳
 gmmg	𪾴
 gzht	𪾵
-ghnr	𪾶
+ghnb	𪾶
 gvvi	𪾷
 geov	𪾸
 gdeu	𪾹
@@ -84157,7 +84157,7 @@ ysjo	𭤦
 fauc	𭤧
 mldf	𭤨
 mndo	𭤩
-qmxc	𭤪
+fpmx	𭤪
 miks	𭤫
 mnbp	𭤬
 mmzf	𭤭
@@ -92873,7 +92873,7 @@ iifq	𲁟
 iiff	𰒲
 qozx	𱡰
 qpck	𱳰
-qhnr	𰧗
+qhnb	𰧗
 qhvp	𱳯
 qtrp	𱴭
 qfsi	𰦧
@@ -94856,7 +94856,7 @@ mpnd	𰪱
 mhda	𰫍
 mlgj	𰪹
 molt	𰻋
-mhnr	𰫈
+mhnb	𰫈
 mmsl	𰣘
 mfyv	𰪳
 mfus	𱹊
@@ -115002,7 +115002,7 @@ bscp	垷
 bztj	垹
 bico	垻
 jqbm	垼
-hnhr	埀
+hnhb	埀
 bdtp	埁
 bjzh	埄
 tmbm	埅
@@ -134204,7 +134204,7 @@ oybi	𠪯
 odhn	𠪰
 ozzo	𠪱
 oxia	𠪲
-oqww	𠪳
+oikp	𠪳
 oaak	𠪴
 oxhd	𠪵
 oqhe	𠪶
@@ -147452,7 +147452,7 @@ hjbb	𣺝
 hwjg	𣺞
 hoce	𣺟
 higc	𣺠
-hhnr	𣺡
+hhnb	𣺡
 hkra	𣺢
 hofe	𣺣
 hjsk	𣺤
@@ -151060,7 +151060,7 @@ assa	𤳇
 sljb	𤳈
 sxis	𤳉
 jscl	𤳊
-ssss	𤳋
+skss	𤳋
 sgxy	𤳌
 sstp	𤳍
 szic	𤳎
@@ -153951,7 +153951,7 @@ zwzx	𥠚
 zfzr	𥠛
 zjfb	𥠜
 zjeu	𥠝
-zhsd	𥠞
+zhsz	𥠞
 dgzp	𥠟
 vrpz	𥠠
 zsbn	𥠡
@@ -166862,7 +166862,7 @@ tdpg	𨪬
 troz	𨪭
 tjom	𨪮
 tjvd	𨪯
-thnr	𨪰
+thnb	𨪰
 flft	𨪱
 tbvs	𨪲
 tuyv	𨪳
@@ -171945,7 +171945,7 @@ xzsl	𩺒
 lqxl	𩺓
 lgxl	𩺔
 xoar	𩺕
-xhnr	𩺖
+xhnb	𩺖
 xwti	𩺗
 xggv	𩺘
 xgii	𩺙
@@ -175096,7 +175096,7 @@ ahjn	𪬓
 nqcj	𪬔
 nfoj	𪬕
 nasi	𪬖
-nhnr	𪬗
+nhnb	𪬗
 nhbk	𪬘
 nhim	𪬙
 neov	𪬚
@@ -175229,7 +175229,7 @@ pdjz	𪮘
 pwxv	𪮙
 zvdp	𪮚
 pjbl	𪮛
-phnr	𪮜
+phnb	𪮜
 plib	𪮝
 pzcs	𪮞
 pvox	𪮟
@@ -176275,7 +176275,7 @@ garf	𪾲
 giwk	𪾳
 gmmg	𪾴
 gzht	𪾵
-ghnr	𪾶
+ghnb	𪾶
 gvvi	𪾷
 geov	𪾸
 gdeu	𪾹
@@ -187572,7 +187572,7 @@ ysjo	𭤦
 fauc	𭤧
 mldf	𭤨
 mndo	𭤩
-qmxc	𭤪
+fpmx	𭤪
 miks	𭤫
 mnbp	𭤬
 mmzf	𭤭
@@ -196288,7 +196288,7 @@ iifq	𲁟
 iiff	𰒲
 qozx	𱡰
 qpck	𱳰
-qhnr	𰧗
+qhnb	𰧗
 qhvp	𱳯
 qtrp	𱴭
 qfsi	𰦧
@@ -198271,7 +198271,7 @@ mpnd	𰪱
 mhda	𰫍
 mlgj	𰪹
 molt	𰻋
-mhnr	𰫈
+mhnb	𰫈
 mmsl	𰣘
 mfyv	𰪳
 mfus	𱹊

@@ -11587,7 +11587,7 @@
 垹	bzt
 垻	bic
 垼	jqb
-埀	hnhr
+埀	hnhb
 埁	bdt
 埄	bjz
 埅	tmb
@@ -30789,7 +30789,7 @@
 𠪰	odhn
 𠪱	ozzo
 𠪲	oxia
-𠪳	oqww
+𠪳	oikp
 𠪴	oaak
 𠪵	oxhd
 𠪶	oqhe
@@ -44037,7 +44037,7 @@
 𣺞	hwjg
 𣺟	hoce
 𣺠	higc
-𣺡	hhnr
+𣺡	hhnb
 𣺢	hkra
 𣺣	hofe
 𣺤	hjsk
@@ -47645,7 +47645,7 @@
 𤳈	sljb
 𤳉	sxis
 𤳊	jscl
-𤳋	ssss
+𤳋	skss
 𤳌	sgxy
 𤳍	sstp
 𤳎	szic
@@ -50536,7 +50536,7 @@
 𥠛	zfzr
 𥠜	zjfb
 𥠝	zjeu
-𥠞	zhsd
+𥠞	zhsz
 𥠟	dgzp
 𥠠	vrp
 𥠡	zsbn
@@ -63447,7 +63447,7 @@
 𨪭	troz
 𨪮	tjom
 𨪯	tjvd
-𨪰	thnr
+𨪰	thnb
 𨪱	flft
 𨪲	tbvs
 𨪳	tuyv
@@ -68530,7 +68530,7 @@
 𩺓	lqxl
 𩺔	lgxl
 𩺕	xoar
-𩺖	xhnr
+𩺖	xhnb
 𩺗	xwti
 𩺘	xggv
 𩺙	xgii
@@ -71681,7 +71681,7 @@
 𪬔	nqcj
 𪬕	nfoj
 𪬖	nasi
-𪬗	nhnr
+𪬗	nhnb
 𪬘	nhbk
 𪬙	nhim
 𪬚	neov
@@ -71814,7 +71814,7 @@
 𪮙	pwxv
 𪮚	zvdp
 𪮛	pjbl
-𪮜	phnr
+𪮜	phnb
 𪮝	plib
 𪮞	pzcs
 𪮟	pvox
@@ -72860,7 +72860,7 @@
 𪾳	giwk
 𪾴	gmmg
 𪾵	gzht
-𪾶	ghnr
+𪾶	ghnb
 𪾷	gvvi
 𪾸	geov
 𪾹	gdeu
@@ -84157,7 +84157,7 @@
 𭤧	fauc
 𭤨	mldf
 𭤩	mndo
-𭤪	qmxc
+𭤪	fpmx
 𭤫	miks
 𭤬	mnbp
 𭤭	mmzf
@@ -92873,7 +92873,7 @@
 𰒲	iiff
 𱡰	qozx
 𱳰	qpck
-𰧗	qhnr
+𰧗	qhnb
 𱳯	qhvp
 𱴭	qtrp
 𰦧	qfsi
@@ -94856,7 +94856,7 @@
 𰫍	mhda
 𰪹	mlgj
 𰻋	molt
-𰫈	mhnr
+𰫈	mhnb
 𰣘	mmsl
 𰪳	mfyv
 𱹊	mfus
@@ -115002,7 +115002,7 @@
 垹	bztj
 垻	bico
 垼	jqbm
-埀	hnhr
+埀	hnhb
 埁	bdtp
 埄	bjzh
 埅	tmbm
@@ -134204,7 +134204,7 @@
 𠪰	odhn
 𠪱	ozzo
 𠪲	oxia
-𠪳	oqww
+𠪳	oikp
 𠪴	oaak
 𠪵	oxhd
 𠪶	oqhe
@@ -147452,7 +147452,7 @@
 𣺞	hwjg
 𣺟	hoce
 𣺠	higc
-𣺡	hhnr
+𣺡	hhnb
 𣺢	hkra
 𣺣	hofe
 𣺤	hjsk
@@ -151060,7 +151060,7 @@
 𤳈	sljb
 𤳉	sxis
 𤳊	jscl
-𤳋	ssss
+𤳋	skss
 𤳌	sgxy
 𤳍	sstp
 𤳎	szic
@@ -153951,7 +153951,7 @@
 𥠛	zfzr
 𥠜	zjfb
 𥠝	zjeu
-𥠞	zhsd
+𥠞	zhsz
 𥠟	dgzp
 𥠠	vrpz
 𥠡	zsbn
@@ -166862,7 +166862,7 @@
 𨪭	troz
 𨪮	tjom
 𨪯	tjvd
-𨪰	thnr
+𨪰	thnb
 𨪱	flft
 𨪲	tbvs
 𨪳	tuyv
@@ -171945,7 +171945,7 @@
 𩺓	lqxl
 𩺔	lgxl
 𩺕	xoar
-𩺖	xhnr
+𩺖	xhnb
 𩺗	xwti
 𩺘	xggv
 𩺙	xgii
@@ -175096,7 +175096,7 @@
 𪬔	nqcj
 𪬕	nfoj
 𪬖	nasi
-𪬗	nhnr
+𪬗	nhnb
 𪬘	nhbk
 𪬙	nhim
 𪬚	neov
@@ -175229,7 +175229,7 @@
 𪮙	pwxv
 𪮚	zvdp
 𪮛	pjbl
-𪮜	phnr
+𪮜	phnb
 𪮝	plib
 𪮞	pzcs
 𪮟	pvox
@@ -176275,7 +176275,7 @@
 𪾳	giwk
 𪾴	gmmg
 𪾵	gzht
-𪾶	ghnr
+𪾶	ghnb
 𪾷	gvvi
 𪾸	geov
 𪾹	gdeu
@@ -187572,7 +187572,7 @@
 𭤧	fauc
 𭤨	mldf
 𭤩	mndo
-𭤪	qmxc
+𭤪	fpmx
 𭤫	miks
 𭤬	mnbp
 𭤭	mmzf
@@ -196288,7 +196288,7 @@
 𰒲	iiff
 𱡰	qozx
 𱳰	qpck
-𰧗	qhnr
+𰧗	qhnb
 𱳯	qhvp
 𱴭	qtrp
 𰦧	qfsi
@@ -198271,7 +198271,7 @@
 𰫍	mhda
 𰪹	mlgj
 𰻋	molt
-𰫈	mhnr
+𰫈	mhnb
 𰣘	mmsl
 𰪳	mfyv
 𱹊	mfus

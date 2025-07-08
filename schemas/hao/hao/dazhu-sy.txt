@@ -12399,7 +12399,7 @@ psxyr	垷
 psmlw	垹
 pszye	垻
 fhlps	垼
-kcsvz	埀
+kcsvp	埀
 psmcx	埁
 psmmv	埄
 lhpsu	埅
@@ -31601,7 +31601,7 @@ zkapt	𠪯
 zkdhh	𠪰
 zkmmn	𠪱
 zkaks	𠪲
-zkdjb	𠪳
+zkkvx	𠪳
 zkttj	𠪴
 zkakj	𠪵
 zkcvk	𠪶
@@ -44849,7 +44849,7 @@ hsvll	𣺝
 hscva	𣺞
 hsfsz	𣺟
 hszas	𣺠
-hsksz	𣺡
+hsksp	𣺡
 hsjht	𣺢
 hszlf	𣺣
 hsdzv	𣺤
@@ -48457,7 +48457,7 @@ tlaas	𤳇
 zhkvf	𤳈
 zhakj	𤳉
 dyzsl	𤳊
-aaazh	𤳋
+afazh	𤳋
 zhfac	𤳌
 zhzfx	𤳍
 zhmzy	𤳎
@@ -51348,7 +51348,7 @@ mscdy	𥠚
 msldh	𥠛
 msvlf	𥠜
 msvhf	𥠝
-mskam	𥠞
+mskad	𥠞
 dlgms	𥠟
 jdkxm	𥠠
 mssfh	𥠡
@@ -64259,7 +64259,7 @@ tmfxa	𨪬
 tmfzm	𨪭
 tmdfc	𨪮
 tmfjf	𨪯
-tmksz	𨪰
+tmksp	𨪰
 ldltm	𨪱
 tmpjz	𨪲
 tmgcm	𨪳
@@ -69342,7 +69342,7 @@ ndagh	𩺒
 mlnw	𩺓
 mmnw	𩺔
 nsthf	𩺕
-nkszo	𩺖
+nksps	𩺖
 ncckd	𩺗
 nadjd	𩺘
 nakkd	𩺙
@@ -72493,7 +72493,7 @@ tlhfh	𪬓
 hdcsc	𪬔
 hdlsv	𪬕
 hdyau	𪬖
-hdksz	𪬗
+hdksp	𪬗
 hdhpd	𪬘
 hdhkc	𪬙
 hdgkj	𪬚
@@ -72626,7 +72626,7 @@ ksmmm	𪮘
 kscaj	𪮙
 djjmk	𪮚
 ksvpj	𪮛
-ksksz	𪮜
+ksksp	𪮜
 kskkp	𪮝
 ksmsj	𪮞
 ksjsx	𪮟
@@ -73672,7 +73672,7 @@ dksr	𪾲
 dkqr	𪾳
 dkmka	𪾴
 dkmyf	𪾵
-dkksz	𪾶
+dkksp	𪾶
 dkhfn	𪾷
 dkgkj	𪾸
 dkkgj	𪾹
@@ -84969,7 +84969,7 @@ ahsgk	𭤦
 lsle	𭤧
 hfkfe	𭤨
 hfbkr	𭤩
-ahfo	𭤪
+lxhfo	𭤪
 hfkfu	𭤫
 hfshr	𭤬
 hfmto	𭤭
@@ -93685,7 +93685,7 @@ fjkla	𲁟
 fjkll	𰒲
 fjkpx	𱡰
 fjksu	𱳰
-fjksz	𰧗
+fjksp	𰧗
 fjkti	𱳯
 fjkzx	𱴭
 fjlal	𰦧
@@ -95668,7 +95668,7 @@ kakbk	𰪱
 kakjs	𰫍
 kakks	𰪹
 kaknd	𰻋
-kaksz	𰫈
+kaksp	𰫈
 kakzh	𰣘
 kalcm	𰪳
 kaldg	𱹊
