@@ -329,7 +329,7 @@
 ⿔,Si	⿔
 龠,Sy	⿕
 〇,Iq	〇
-一,Fh	㇀
+㇀,Fh	㇀
 ㇢,Pv	㇁
 レ,Pv	㇂
 レ,Pv	㇃
@@ -50756,8 +50756,8 @@
 示虍田皿,DdQbSlBk	𥜠
 礻⺈小王里,DdRlOtDn	𥜡
 礻广幺幺丿口,DdGpBlIq	𥜢
-示耂弓工工口,DdRiOdIq	𥜣
 礻耂弓工工口,DdRiOdIq	𥜣
+示耂弓工工口,DdRiOdIq	𥜣
 礻乚貝戈戈,DdPvIcIe	𥜤
 礻匕田龷八,DdNbHsVy	𥜥
 示一土,DdFhKtBm	𥜦
@@ -70654,8 +70654,8 @@
 九黽,DpAy	𪓒
 丩黽,HtAy	𪓓
 卝黽,WhAy	𪓔
-口⺃又又ㅌ日,IqPvWiJe	𪓕
 口⺃又又一日,IqPvWiJe	𪓕
+口⺃又又ㅌ日,IqPvWiJe	𪓕
 六黽,CaAy	𪓖
 夫黽,SvAy	𪓗
 冂二黽黽,ZvRlAyAy	𪓘
@@ -97036,8 +97036,8 @@
 业𠂇乂丶,FkOqGlOe	𱮡
 犭月龷日,LeMdXkJe	𱮢
 犭隹辶,LeVhLt	𱮣
-⺍田𠫔𠂇乂丶,HgSlPdOe	𱮤
 ⺍田𠫔𠂇又丶,HgSlPdOe	𱮤
+⺍田𠫔𠂇乂丶,HgSlPdOe	𱮤
 犭厂羊欠,LeOyIdFy	𱮥
 犭罒𠃌虫,LeYtPvLv	𱮦
 犭业亻夫丷,LeOqKjVy	𱮧
@@ -97475,8 +97475,8 @@
 日月示,JeMdDd	𱵗
 礻白一⺀,DdDyFhLv	𱵘
 礻爫子乚,DdToYdPv	𱵙
-礻彐乚ヿ彐,DdSiPvSi	𱵚
 礻ㅌ乚ヿ彐,DdSiPvSi	𱵚
+礻彐乚ヿ彐,DdSiPvSi	𱵚
 礻己土,DdJcNdBm	𱵛
 ⺊一一大人示,DhFhFhDd	𱵜
 礻爫冖一,DdToErOs	𱵝
