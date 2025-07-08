@@ -47717,7 +47717,7 @@ sxvv	𤴏
 ssus	𤴐
 ssss	𤴑
 sszs	𤴒
-kfpo	𤴓
+kff	𤴓
 kfpf	𤴔
 fkfo	𤴕
 pkfo	𤴖
@@ -89067,7 +89067,7 @@ tjmd	𰂚
 kdbl	𰂛
 kjdj	𰂜
 sllv	𰂝
-kff	𰂞
+kffs	𰂞
 kfif	𰂟
 khl	𰂠
 kwwb	𰂡
@@ -151132,7 +151132,7 @@ sxvv	𤴏
 ssus	𤴐
 ssss	𤴑
 sszs	𤴒
-kfpo	𤴓
+kffo	𤴓
 kfpf	𤴔
 fkfo	𤴕
 pkfo	𤴖

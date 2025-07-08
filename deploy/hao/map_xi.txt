@@ -189,6 +189,7 @@ Jz	
 Jz	𠕁
 Kd	及
 Kd	
+Kf	𤴓
 Kf	疋
 Kf	⺪
 Kg	刀
