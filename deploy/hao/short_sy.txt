@@ -42,11 +42,15 @@ Ciallo～(∠・ω< )⌒★	cle
 跟	xfi
 影	vdo
 落	chw
+坐	apu
+紧	vyo
+哪	cxi
 吗？	kdfe
 呢？	kdfw
 实	gkyi
 单	jdzu
 半	jdsu
+急	fadu
 
 #==== 常规二级简码 ====#
 大	yi
@@ -84,6 +88,7 @@ Ciallo～(∠・ω< )⌒★	cle
 非	lo
 晚	vr
 脑	cr
+图	zw
 
 #==== 常规三级简码 ====#
 这	xnu
@@ -239,6 +244,25 @@ Ciallo～(∠・ω< )⌒★	cle
 晕	vge
 冕	vdr
 汩	hsw
+语	fqi
+念	cju
+参	bkw
+专	zxr
+微	yaw
+皇	dlu
+严	lcr
+答	pci
+低	jcr
+仍	jfw
+较	alo
+防	lho
+讲	flo
+施	hfw
+故	ski
+血	spi
+钱	qjr
+苏	clo
+维	tko
 
 #==== 常规四级简码 ====#
 得	fhvo
@@ -353,8 +377,44 @@ Ciallo～(∠・ω< )⌒★	cle
 装	shlr
 刚	djse
 并	jdcr
+买	xgyi
 邑	kdfr
 晖	vgae
 晾	vdfr
 隶	alhu
-逯	alhu
+易	vsfw
+器	lflu
+房	lsho
+留	syze
+查	tlve
+希	saji
+委	msge
+响	kdsi
+剑	cjhe
+攻	jthi
+冷	ghcr
+选	mdlu
+终	tkmw
+医	pghu
+男	zhse
+乎	sjaw
+拿	cjku
+费	amsr
+兴	hsjo
+破	fjde
+伤	jkse
+举	hsju
+族	hfku
+按	ksge
+帝	jsgi
+威	klge
+划	fjve
+案	gkgr
+底	fkcr
+送	jdyu
+冲	ghku
+群	also
+
+#==== 常规五级简码 ====#
+卖	akxyi
+逯	alhnu
