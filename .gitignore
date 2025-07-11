@@ -17,5 +17,5 @@
 /schemas/hao/leoxi.txt
 /schemas/hao/squirrel.yaml
 /schemas/hao/weasel.yaml
-/schemas/hao/weasel.custom.yaml
+#/schemas/hao/weasel.custom.yaml
 /schemas/releases
