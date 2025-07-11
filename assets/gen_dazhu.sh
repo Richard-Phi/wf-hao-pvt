@@ -62,7 +62,7 @@ if [ -f "${INPUT_DIR}/hao/leoxi.short.dict.yaml" ]; then
         #    sed 's/\(.*\)\t\(.*\)/\2\t\1/g' \
         #    >>"${OUTPUT_DIR}/hao/dazhu-xi.txt" && \
         cat "${INPUT_DIR}/div_xi.txt" | \
-            sed 's/\(.*\)\t(\(.*\),.*\(,.*,.*\))/\2\3\t\1/g' \
+            sed 's/\(.*\)\t(\(.*\),.*\(,.*,.*,.*\))/\2\3\t\1/g' \
             >"${OUTPUT_DIR}/hao/dazhu-haochai.txt"
     fi
 fi

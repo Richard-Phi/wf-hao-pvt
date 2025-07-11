@@ -63044,7 +63044,7 @@
 𨤚	cmbz
 𨤛	cmep
 𨤜	cmwk
-𨤝	cmxg
+𨤝	cmxw
 𨤞	cmwf
 𨤟	cmci
 𨤠	cmev
@@ -166459,7 +166459,7 @@
 𨤚	cmbz
 𨤛	cmep
 𨤜	cmwk
-𨤝	cmxg
+𨤝	cmxw
 𨤞	cmwf
 𨤟	cmci
 𨤠	cmev
