@@ -163,7 +163,8 @@ speller:
   #max_code_length: 5
   auto_select: true
   auto_clear: auto  # 3种选择， manual|auto|max_length 空码按下一键确认清屏|空码自动清|达到最长码时后码顶上清屏
-  algebra:
+  # algebra:
+  #   - xform/^([a-z]{1,5})[a-z]*$/$1/
 
 translator:
   dictionary: leosy
@@ -182,7 +183,7 @@ translator:
 
 history:
   input: "'"
-  size: 1
+  size: 3
   initial_quality: 0
 
 reverse_lookup:
