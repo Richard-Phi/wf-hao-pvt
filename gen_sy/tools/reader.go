@@ -50,14 +50,14 @@ func ReadDivisionTable(filepath string) (table map[string][]*types.Division, err
 		if len(line) == 0 || strings.HasPrefix(line, "#") {
 			continue
 		}
-		// 的\t[白勹丶,de_dī_dí_dì,GB0]
+		// 的\t[白勹丶,de_dī_dí_dì,CJK,U+7684]
 		line := strings.Split(strings.TrimRight(line, "\r\n"), "\t")
 		if len(line) < 2 {
 			continue
 		}
-		// [白勹丶,de_dī_dí_dì,GB0]
+		// [白勹丶,de_dī_dí_dì,CJK,U+7684]
 		meta := strings.Split(strings.Trim(line[1], "[]"), ",")
-		if len(meta) < 3 {
+		if len(meta) < 4 {
 			continue
 		}
 		div := types.Division{
@@ -65,6 +65,7 @@ func ReadDivisionTable(filepath string) (table map[string][]*types.Division, err
 			Divs: matcher.FindAllString(meta[0], -1),
 			Pin:  meta[1],
 			Set:  meta[2],
+			Unicode: meta[3],
 		}
 		if len(div.Divs) == 0 {
 			continue

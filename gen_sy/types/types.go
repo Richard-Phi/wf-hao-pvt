@@ -2,10 +2,11 @@ package types
 
 // Division 拆分字元
 type Division struct {
-	Char string   // 字符
-	Divs []string // 拆分部件列表
-	Pin  string   // 拼音
-	Set  string   // 字集
+	Char string    // 字符
+	Divs []string  // 拆分部件列表
+	Pin  string    // 拼音
+	Set  string    // 字集
+	Unicode string // Unicode编码
 }
 
 // CharSimp 简码字元

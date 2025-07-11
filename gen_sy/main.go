@@ -186,7 +186,14 @@ func main() {
 				continue
 			}
 			div := strings.Join(charMeta.Division.Divs, "")
-			buffer.WriteString(fmt.Sprintf("%s\t(%s,%s,%s,%s)\n", charMeta.Char, div, charMeta.Full, charMeta.Division.Pin, charMeta.Division.Set))
+			buffer.WriteString(fmt.Sprintf("%s\t(%s,%s,%s,%s,%s)\n",
+    			charMeta.Char,
+    			div,
+    			charMeta.Full,
+    			charMeta.Division.Pin,
+    			charMeta.Division.Set,
+    			charMeta.Division.Unicode,
+			))
 		}
 		err := os.WriteFile(args.Opencc, buffer.Bytes(), 0o644)
 		if err != nil {
