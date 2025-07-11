@@ -905,7 +905,7 @@ hsle	动
 jdvje	分
 ksfyr	把
 lclr	开
-gkale	军
+gkqi	字
 bu	又
 kso	两
 tlle	本
@@ -968,7 +968,7 @@ qlvo	间
 fhvu	话
 xo	文
 tkckd	给
-tydi	美
+kdfye	吗
 su	业
 mdsfy	物
 akdjd	真
@@ -1192,7 +1192,7 @@ fje	石
 hsgjt	深
 hjydi	联
 fmdo	争
-kdfye	吗
+tydi	美
 lgzlr	院
 albjt	轻
 cme	火
@@ -1218,7 +1218,7 @@ clbu	服
 gknw	官
 nshld	整
 hgabu	爱
-gkqi	字
+gkale	军
 kspjf	持
 xfhe	跟
 vklqu	突
@@ -1485,7 +1485,7 @@ hkjdo	职
 cltsn	药
 fmnr	久
 jsllg	印
-lgle	卫
+bdlw	欢
 sysle	助
 ndksu	掌
 tkkjd	织
@@ -1536,7 +1536,7 @@ vktu	穿
 sjlkz	福
 jdamr	弟
 hdkgi	怀
-bdlw	欢
+lgle	卫
 gkgi	环
 ksvkd	招
 tlcvy	模

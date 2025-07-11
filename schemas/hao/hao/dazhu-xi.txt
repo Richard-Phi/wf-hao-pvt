@@ -93,7 +93,7 @@ pa	动
 vk	分
 pe	把
 fw	开
-ey	军
+ey	字
 wi	又
 am	两
 af	本
@@ -156,7 +156,7 @@ bj	间
 vv	话
 wm	文
 rt	给
-ix	美
+ix	吗
 oq	业
 ls	物
 gg	真
@@ -380,7 +380,7 @@ qq	石
 hev	深
 qv	联
 ru	争
-ixh	吗
+ixi	美
 ter	院
 yw	轻
 yv	火
@@ -406,7 +406,7 @@ mw	服
 eu	官
 ur	整
 teg	爱
-eyd	字
+eyf	军
 pb	持
 ut	跟
 zl	突
@@ -673,7 +673,7 @@ qi	职
 wr	药
 roe	久
 nf	印
-wf	卫
+wf	欢
 rau	助
 xpc	掌
 riv	织
@@ -724,7 +724,7 @@ zy	穿
 dfi	福
 vuv	弟
 nci	怀
-wfy	欢
+wfh	卫
 gci	环
 pk	招
 awj	模
@@ -3528,7 +3528,7 @@ pla	攒
 hfia	沌
 xsg	痊
 bzb	髯
-wfyv	烹
+wfy	烹
 mkt	豚
 ioh	咏
 mgk	腑
@@ -3865,7 +3865,7 @@ vhb	谥
 yxvo	燎
 puk	掖
 qpw	壑
-eyf	寰
+eyfo	寰
 fza	馋
 utp	黔
 ynv	竣
@@ -5142,7 +5142,7 @@ chh	锴
 wvfo	頁
 sji	龉
 kdm	俳
-eydp	匦
+eyd	匦
 iyr	啭
 fhn	愆
 sds	畲
@@ -6296,7 +6296,7 @@ spt	郐
 tdc	陴
 wwwk	颡
 kek	傢
-ixi	嘆
+ixis	嘆
 boa	坜
 nxy	惝
 pxz	掎
@@ -7238,7 +7238,7 @@ mma	謀
 tjs	錫
 ewvo	頗
 sicf	龜
-ixhj	嚐
+ixh	嚐
 mpn	壽
 fnn	晉
 joj	暫
@@ -17305,7 +17305,7 @@ wrau	莇
 whqi	莈
 wke	莋
 wvia	莌
-wfh	莍
+wfho	莍
 wpoc	莏
 whea	莐
 wjzh	莑
@@ -103508,7 +103508,7 @@ pauc	动
 vkgc	分
 pewp	把
 fwhk	开
-eyfk	军
+eydf	字
 wipo	又
 amfo	两
 afhf	本
@@ -103571,7 +103571,7 @@ bjef	间
 vvlf	话
 wmoo	文
 rtiq	给
-ixio	美
+ixhf	吗
 oqkf	业
 lsbl	物
 ggvy	真
@@ -103795,7 +103795,7 @@ qqff	石
 heva	深
 qvxi	联
 ruak	争
-ixhf	吗
+ixio	美
 tera	院
 ywnv	轻
 yvoo	火
@@ -103821,7 +103821,7 @@ mwwi	服
 eusf	官
 urfl	整
 tegw	爱
-eydf	字
+eyfk	军
 pblw	持
 utpo	跟
 zleo	突
@@ -104088,7 +104088,7 @@ qivy	职
 wrso	药
 roeo	久
 nfwj	印
-wfhf	卫
+wfyo	欢
 rauc	助
 xpck	掌
 rivy	织
@@ -104139,7 +104139,7 @@ zybc	穿
 dfis	福
 vuvc	弟
 ncio	怀
-wfyo	欢
+wfhf	卫
 gcio	环
 pkiq	招
 awjx	模
