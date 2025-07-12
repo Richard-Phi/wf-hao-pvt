@@ -85919,7 +85919,7 @@
 𮀉	lesz
 𮀊	exje
 𮀋	qxio
-𮀌	qroe
+𮀌	qpsi
 𮀍	qgif
 𮀎	vkqq
 𮀏	qeiq
@@ -189334,7 +189334,7 @@
 𮀉	lesz
 𮀊	exje
 𮀋	qxio
-𮀌	qroe
+𮀌	qpsi
 𮀍	qgif
 𮀎	vkqq
 𮀏	qeiq

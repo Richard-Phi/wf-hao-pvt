@@ -85919,7 +85919,7 @@ nesv	𮀈
 lesz	𮀉
 exje	𮀊
 qxio	𮀋
-qroe	𮀌
+qpsi	𮀌
 qgif	𮀍
 vkqq	𮀎
 qeiq	𮀏
@@ -189334,7 +189334,7 @@ nesv	𮀈
 lesz	𮀉
 exje	𮀊
 qxio	𮀋
-qroe	𮀌
+qpsi	𮀌
 qgif	𮀍
 vkqq	𮀎
 qeiq	𮀏
