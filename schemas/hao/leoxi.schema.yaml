@@ -314,21 +314,75 @@ yuhao_macro:
       - type: eval
         hijack: true
         expr: return require("yuhao.yuhao_core").unicode()
-
+#我把这里的半角全角符设定给整个改了,不知道这个位置对不对
 punctuator:
-  import_preset: symbols
+  full_shape:
+    ' ' : { commit: '　' }
+    ',' : { commit: ， }
+    '.' : { commit: 。 }
+    '<' : { commit: 《 }
+    '>' : { commit: 》 }
+    '/' : [ ／, ÷ ]
+    '?' : { commit: ？ }
+    ';' : { commit: ； }
+    ':' : { commit: ： }
+    '''' : { pair: [ '‘', '’' ] }
+    '"' : { pair: [ '“', '”' ] }
+    '\' : { commit: ＼ }
+    '|' : { commit: ・ }
+    '`' : { commit: ｀ }
+    '~' : { commit: ～ }
+    '!' : { commit: ！ }
+    '@' : { commit: ＠ }
+    '#' : { commit: ＃ }
+    '%' : { commit: ％ }
+    '$' : { commit: ￥ }
+    '^' : { commit: …… }
+    '&' : { commit: ＆ }
+    '*' : { commit: ＊ }
+    '(' : { commit: （ }
+    ')' : { commit: ） }
+    '-' : { commit: － }
+    '_' : { commit: —— }
+    '+' : { commit: ＋ }
+    '=' : { commit: ＝ }
+    '[' : { commit: ［ }
+    ']' : { commit: ］ }
+    '{' : { commit: ｛ }
+    '}' : { commit: ｝ }
   half_shape:
-    "`": "`"
-    "#": "#"
-    "%": "%"
-    "*": "*"
-    "\\": "、"
-    "[": "【"
-    "]": "】"
-    "{": "「"
-    "}": "」"
-    "/": "/"
-    "|": "|"
+    ',' : { commit: ， }
+    '.' : { commit: 。 }
+    '<' : { commit: 《 }
+    '>' : { commit: 》 }
+    '/' : { commit: '/' }
+    '?' : { commit: ？ }
+    ';' : { commit: ； }
+    ':' : { commit: ： }
+    '''' : { pair: [ '‘', '’' ] }
+    '"' : { pair: [ '“', '”' ] }
+    '\' : { commit: 、 }
+    '|' : { commit: · }
+    '`' : { commit: '`' }
+    '~' : { commit: '~' }
+    '!' : { commit: ！ }
+    '@' : { commit: '@' }
+    '#' : { commit: '#' }
+    '%' : { commit: '%' }
+    '$' : { commit: '￥' }
+    '^' : { commit: …… }
+    '&' : { commit: '&' }
+    '*' : { commit: '*' }
+    '(' : { commit: （ }
+    ')' : { commit: ） }
+    '-' : { commit: '-' }
+    '_' : { commit: _ }
+    '+' : { commit: '+' }
+    '=' : { commit: = }
+    '[' : { commit: 【 }
+    ']' : { commit: 】 }
+    '{' : { commit: '{' }
+    '}' : { commit: '}' }
 
 key_binder:
   bindings:

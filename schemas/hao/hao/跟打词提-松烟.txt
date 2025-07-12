@@ -54,6 +54,7 @@ Ciallo～(∠・ω< )⌒★	cle
 急	fadu
 率	jlaw
 校	tlso
+嘴	kvai
 大	yi
 上	fe
 和	mi
@@ -300,6 +301,20 @@ Ciallo～(∠・ω< )⌒★	cle
 跑	xsi
 策	ptr
 配	smo
+巨	pgo
+养	tne
+救	lhi
+露	kxw
+永	nhu
+孙	qfr
+圣	bpu
+航	mjw
+毒	mve
+逃	lgu
+贵	gjr
+良	nfe
+闪	qlu
+升	scr
 得	fhvo
 只	kdjo
 其	mtjo
@@ -526,6 +541,39 @@ Ciallo～(∠・ω< )⌒★	cle
 慢	hdvu
 积	msko
 草	clvw
+恐	jtau
+妈	glfe
+靠	mdko
+阶	lave
+爸	jdsr
+呼	kdsw
+洲	hsdw
+检	tlce
+份	jjve
+登	jdko
+犯	lqli
+危	fmzi
+审	gkvu
+亦	jvce
+沙	hsfi
+散	akci
+欧	pgsw
+宫	gkaw
+魔	haki
+临	vjpo
+叶	kdaw
+毫	dhge
+宋	gktr
+索	akgo
+岛	jbmi
+亮	dhaw
+丝	tktw
+秘	mshi
+渐	hsao
+架	slkr
+监	vjpi
+短	hfko
+梦	tlte
 卖	akxyi
 逯	alhnu
 松烟	hao
@@ -610,6 +658,8 @@ Ciallo～(∠・ω< )⌒★	cle
 弥补	nyr
 提供	kjo
 运营	hcw
+条件	mjo
+渐渐	hho
 如果	gz;
 但是	jv;
 哪个	ka;
@@ -1229,7 +1279,7 @@ Ciallo～(∠・ω< )⌒★	cle
 光	ygi
 管	pgnw
 非	lto
-德	fhaah
+早	vakw
 强	nskgj
 量	vljgo
 决	ghpau
@@ -1352,7 +1402,7 @@ Ciallo～(∠・ω< )⌒★	cle
 算	pdclr
 布	akjfi
 导	kvjfo
-早	vakw
+德	fhaah
 找	ksfjw
 候	jfphf
 满	hscks
@@ -12153,7 +12203,7 @@ Ciallo～(∠・ω< )⌒★	cle
 叅	bkbbh
 収	msbu
 叏	ksbu
-叐	sabu
+叐	kcbu
 叓	akkbu
 叜	gkcbu
 叝	psblb
@@ -24060,7 +24110,7 @@ Ciallo～(∠・ω< )⌒★	cle
 㧛	vjpks
 㧜	kspjf
 㧝	slkks
-㧞	kssab
+㧞	kskbu
 㧠	ksbfl
 㧡	kshco
 㧢	kszyd
@@ -27551,7 +27601,7 @@ Ciallo～(∠・ω< )⌒★	cle
 䟣	xtnr
 䟤	xhsi
 䟥	xbsi
-䟦	xsabu
+䟦	xkbu
 䟧	xzhe
 䟨	xhti
 䟩	xpbkr
@@ -29537,7 +29587,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𠈒	aflfl
 𠈓	jldmg
 𠈔	afljd
-𠈕	jndi
+𠈕	jdadj
 𠈖	jjjgi
 𠈗	jfle
 𠈘	appsu
@@ -30789,7 +30839,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𠛸	kdfjv
 𠛹	fhlvj
 𠛺	ayvje
-𠛻	sajvj
+𠛻	kcjvj
 𠛼	jdcvj
 𠛽	kskvj
 𠛾	mfngv
@@ -31992,7 +32042,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𠮫	ykdi
 𠮬	kdye
 𠮭	kdsnr
-𠮮	sakdi
+𠮮	kckdi
 𠮯	mfkdi
 𠮰	kddyw
 𠮱	kdzxi
@@ -32011,7 +32061,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𠮾	kdllr
 𠮿	kdmgi
 𠯀	kddyw
-𠯁	kddi
+𠯁	kdjnr
 𠯂	kdqi
 𠯃	kddfu
 𠯄	kdvnr
@@ -34154,7 +34204,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𡐨	tlbtp
 𡐩	cccps
 𡐪	jzlcl
-𡐫	psdnk
+𡐫	psddk
 𡐬	pslgg
 𡐭	psjsv
 𡐮	pshsc
@@ -37320,7 +37370,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𢂘	jfagu
 𢂙	hdjfi
 𢂚	jvvjf
-𢂛	ljsbu
+𢂛	ljkbu
 𢂜	alsaj
 𢂝	jfvxs
 𢂞	ssajf
@@ -40445,7 +40495,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𢳐	ksmgv
 𢳑	kscnf
 𢳒	kskyg
-𢳓	kspss
+𢳓	kspks
 𢳔	gkjlk
 𢳕	ksmfc
 𢳖	kshll
@@ -42207,7 +42257,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𣎲	cnmau
 𣎳	aklr
 𣎴	lfau
-𣎵	djtlr
+𣎵	gyau
 𣎶	tlle
 𣎷	tljr
 𣎸	tldmw
@@ -42222,7 +42272,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𣏁	ldtlr
 𣏂	stnr
 𣏃	tlalr
-𣏄	pskgi
+𣏄	pslfa
 𣏅	pstlr
 𣏆	tlsan
 𣏇	tlhw
@@ -42239,7 +42289,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𣏒	tlye
 𣏓	tlzxi
 𣏔	dtlr
-𣏕	tltlr
+𣏕	tlalr
 𣏖	tlnfu
 𣏗	btlr
 𣏘	tljbu
@@ -42249,7 +42299,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𣏜	tllfx
 𣏝	tlglr
 𣏞	tlmr
-𣏟	tltlr
+𣏟	tlalr
 𣏠	tlsso
 𣏡	tldi
 𣏢	tlzxn
@@ -42265,13 +42315,13 @@ Ciallo～(∠・ω< )⌒★	cle
 𣏬	tlvo
 𣏭	tllu
 𣏮	snsu
-𣏯	tlsso
+𣏯	tlvnr
 𣏰	jdvtl
 𣏱	tlkfk
-𣏲	ldtlr
+𣏲	latlr
 𣏳	tllli
 𣏴	tljzo
-𣏵	tlcu
+𣏵	tlcle
 𣏶	tlhsu
 𣏷	djbtl
 𣏸	tlzak
@@ -42324,7 +42374,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𣐧	tlzsn
 𣐨	tlgfn
 𣐩	dltlr
-𣐪	tlsab
+𣐪	tlkbu
 𣐫	lhtlr
 𣐬	tlzhe
 𣐭	tlzhe
@@ -42336,8 +42386,8 @@ Ciallo～(∠・ω< )⌒★	cle
 𣐳	tlkso
 𣐴	tljld
 𣐵	tlqhe
-𣐶	tlndi
-𣐷	ndtlr
+𣐶	tldad
+𣐷	djagt
 𣐸	tllza
 𣐹	tlflf
 𣐺	tlmmf
@@ -42345,12 +42395,12 @@ Ciallo～(∠・ω< )⌒★	cle
 𣐼	tlflv
 𣐽	jsco
 𣐾	tljtl
-𣑀	tlkxy
+𣑀	tlkln
 𣑁	tlhlr
 𣑂	tlhlx
 𣑃	hsant
 𣑄	gkllt
-𣑅	fjljk
+𣑅	fjxtk
 𣑆	tlsab
 𣑇	tlyfo
 𣑈	tlshf
@@ -46434,7 +46484,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𤑄	zyzcm
 𤑅	jpvcm
 𤑆	cmakp
-𤑇	ndttc
+𤑇	djagc
 𤑈	cmygu
 𤑉	cmjlj
 𤑊	fydmc
@@ -47673,7 +47723,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𤤠	gdydi
 𤤡	gdjdo
 𤤢	gdgle
-𤤣	gsabu
+𤤣	gkbu
 𤤤	gmsu
 𤤥	gsjgi
 𤤦	gzhe
@@ -51582,7 +51632,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𥡷	msldh
 𥡸	mscvy
 𥡹	msajz
-𥡺	msknk
+𥡺	mskdk
 𥡻	dlffm
 𥡼	msllg
 𥡽	msfdm
@@ -51807,7 +51857,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𥥙	vkjsl
 𥥚	vkfhr
 𥥛	vkasn
-𥥜	vksab
+𥥜	vkkbu
 𥥝	vkai
 𥥞	vkkbu
 𥥟	vkpr
@@ -53446,7 +53496,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𥿅	hfyfo
 𥿆	yfxlk
 𥿇	yfjgu
-𥿈	yfsab
+𥿈	yfkbu
 𥿉	yfltl
 𥿊	yfknr
 𥿋	yfbcl
@@ -56400,7 +56450,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𦭚	cldak
 𦭛	cljkc
 𦭝	clahe
-𦭞	clsab
+𦭞	clkbu
 𦭟	cljkw
 𦭠	claal
 𦭡	clxlk
@@ -63998,7 +64048,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𨤚	skldj
 𨤛	skgfm
 𨤜	skcdn
-𨤝	skaak
+𨤝	skacl
 𨤞	skcgw
 𨤟	sksto
 𨤠	skzhq
@@ -64835,7 +64885,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𨱦	ysgdj
 𨱧	yslsl
 𨱨	ysbsi
-𨱩	yssas
+𨱩	yskso
 𨱪	ysdjn
 𨱫	ysmto
 𨱬	ysfkd
@@ -64845,7 +64895,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𨱰	ysamr
 𨱱	ysdke
 𨱲	ysdvk
-𨱳	yssan
+𨱳	ysksn
 𨱴	ysvyw
 𨱵	yslgg
 𨱶	ysxpp
@@ -66427,7 +66477,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𩊡	nfcvj
 𩊢	nfcvk
 𩊣	nfsco
-𩊤	nfsan
+𩊤	nfkbn
 𩊥	nfxxk
 𩊦	nfgjf
 𩊧	nfmjf
@@ -67478,7 +67528,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𩚼	nakle
 𩚽	nagnr
 𩚾	shvna
-𩚿	nasab
+𩚿	nakbu
 𩛀	nassl
 𩛁	synai
 𩛂	nagbu
@@ -67952,7 +68002,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𩢗	jtlaj
 𩢘	ajpkd
 𩢙	ydjaj
-𩢚	ajsas
+𩢚	ajkso
 𩢛	ajssx
 𩢜	ajafl
 𩢝	ajshr
@@ -72219,7 +72269,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𪥮	glfvo
 𪥯	fmfgb
 𪥱	gltdj
-𪥲	glsan
+𪥲	glkbn
 𪥳	glkjf
 𪥴	fgle
 𪥵	glzu
@@ -74043,7 +74093,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𫂚	ptkdk
 𫂛	pzksj
 𫂜	pffhf
-𫂝	pnxke
+𫂝	pfdxk
 𫂞	pfahs
 𫂟	phau
 𫂠	pazhd
@@ -77278,7 +77328,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𫶦	mgdyh
 𫶧	dyw
 𫶨	amdyw
-𫶩	dynbk
+𫶩	dydab
 𫶪	dydsl
 𫶫	jtjbk
 𫶬	jthfu
@@ -78605,7 +78655,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𬋧	hyr
 𬋨	hdlfi
 𬋩	hgnw
-𬋪	hgsbu
+𬋪	hglbu
 𬋫	hlafu
 𬋬	hdpkd
 𬋭	hkdkw
@@ -79052,7 +79102,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𬒯	sjxks
 𬒰	sjxps
 𬒱	sjysu
-𬒲	sjsab
+𬒲	sjkbu
 𬒳	sjdme
 𬒴	sjayr
 𬒵	jvcsj
@@ -82658,7 +82708,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𭃶	vlsvj
 𭃷	vjndd
 𭃸	gkkvj
-𢬌	kssan
+𢬌	kskbn
 𭃹	hsfsv
 𭃺	gkvvj
 挽	ksdlr
@@ -84021,7 +84071,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𭓤	gkajf
 𭓥	gkfkd
 𭓦	gkmsu
-𭓧	gksab
+𭓧	gkkbu
 𭓨	gkjsm
 𭓩	gkxvk
 𭓪	gkygi
@@ -84031,14 +84081,14 @@ Ciallo～(∠・ω< )⌒★	cle
 𭓮	gkfke
 𭓯	gkhvu
 𭓰	gkaai
-𭓱	gkgle
-𭓲	gkfai
+𭓱	gkvbk
+𭓲	gkfdp
 𭓳	gkjlf
 𭓴	gkkvj
 𭓵	gkatl
 𭓶	gkfva
 𭓷	gkdfs
-𭓸	gknkd
+𭓸	gkcdk
 𭓹	gkhho
 𭓺	gkhco
 𭓻	gkhhs
@@ -84587,7 +84637,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𭜛	hdpdi
 𭜜	hddkw
 𭜝	shdu
-𭜞	hdsab
+𭜞	hdkbu
 𭜟	hdhfu
 𭜠	hdjyd
 𭜡	hdfbk
@@ -84819,7 +84869,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𭠂	lsxkd
 𭠃	lsabn
 𭠄	lsskr
-𭠅	lssab
+𭠅	lskbu
 𭠆	lsskv
 𭠇	lskzh
 𭠈	lshhf
@@ -85554,7 +85604,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𭫢	gsntl
 𭫣	tllhh
 𭫤	tlnsl
-𭫥	tlank
+𭫥	tladk
 𭫦	tlmny
 𭫧	tlvam
 𭫨	tlcsl
@@ -85722,7 +85772,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𭮊	ckzbb
 𭮋	ckygi
 𭮌	ckssd
-𭮍	cksan
+𭮍	ckkbn
 𭮎	ckjcl
 𭮏	ckgsf
 𭮐	ckjbb
@@ -86730,7 +86780,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𭽺	hhhdm
 𭽻	lxgdm
 𭽼	djapd
-𭽽	sabpd
+𭽽	kcbpd
 𭽾	dlpdi
 𭽿	slkpd
 𭾀	fkpdi
@@ -87047,7 +87097,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𮂷	msagh
 𮂸	msdlw
 𮂹	msxo
-𮂺	mssab
+𮂺	mskbu
 𮂻	mskvk
 𮂼	msfye
 𮂽	msmgh
@@ -87334,7 +87384,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𮇗	kacso
 𮇘	kavak
 𮇙	kafzl
-𮇚	kasan
+𮇚	kakbn
 𮇛	kajcl
 𮇜	kafhe
 𮇝	kazu
@@ -87589,7 +87639,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𮋜	fklkd
 𮋝	fkffk
 𮋞	fkkco
-𮋟	mggsb
+𮋟	mggkb
 𮋠	hshdg
 𮋡	mdgo
 𮋢	ggflr
@@ -87845,7 +87895,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𮏜	cllsk
 𮏝	clhfk
 𮏞	clnsd
-𮏟	clhsb
+𮏟	clhkb
 𮏠	clhjq
 𮏡	clhsk
 𮏢	clqsy
@@ -88748,7 +88798,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𮝨	qnhtl
 𮝩	qndgt
 𮝪	tjqne
-𮝫	alnkn
+𮝫	aldan
 𮝬	qnztd
 𮝭	qnlxc
 𮝮	qncaj
@@ -90428,7 +90478,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𰉝	psgye
 𰉞	psnfu
 𰉟	pssvk
-𰉠	pssab
+𰉠	pskbu
 𰉡	psmgh
 𰉢	jspsu
 𰉣	psbks
@@ -90570,7 +90620,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𰋹	glzxn
 𰋺	glcme
 𰋻	glmfu
-𰋼	glsab
+𰋼	glkbu
 𰋽	zklgl
 𰋾	glvva
 𰋿	glldl
@@ -91913,7 +91963,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𱉇	jbjr
 𱏕	jbyr
 𱎳	jdcu
-𰏘	jdko
+𰏘	jdjfg
 𰢷	jdme
 𱆣	jdnw
 𰰝	jdso
@@ -94957,7 +95007,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𱪿	hscme
 𰜴	hscmm
 𱦡	hscne
-𰜑	hscsb
+𰜑	hsckb
 𱎎	hscsj
 𱧵	hscsv
 𱪑	hsctt
@@ -95274,7 +95324,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𰛵	hsqtl
 𰜌	hsqvj
 𱩊	hssah
-𱦗	hssan
+𱦗	hskbn
 𰝇	hssap
 𱪝	hssaz
 𱩻	hsscg
@@ -97611,7 +97661,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𱸋	pqpdi
 𰪙	pqvnr
 𰣋	psaaz
-𰩶	psabu
+𰩶	pkbu
 𱖛	psafl
 𱖞	psafp
 𱗂	psahv
@@ -98333,7 +98383,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𱗇	sjpps
 𰧶	sjqjt
 𰨐	sjqmw
-𰧼	sjsak
+𰧼	sjkkd
 𱵨	sjsak
 𰧽	sjsdk
 𱵬	sjsjc
@@ -101060,7 +101110,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𲞜	dysdl
 𲞝	aajti
 𲞞	akjas
-𲞟	lvvo
+𲞟	jtdle
 𲞠	jtvjt
 𲞡	pgpxk
 𲞢	psjmp
@@ -102557,7 +102607,7 @@ Ciallo～(∠・ω< )⌒★	cle
 𲵴	pavje
 𲵵	pflfj
 𲵶	pmsu
-𲵷	plkdi
+𲵷	plakd
 𲵸	pjlqu
 𲵹	pbbbk
 𲵺	pfqi
