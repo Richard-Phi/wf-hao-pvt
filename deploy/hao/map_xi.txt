@@ -143,6 +143,7 @@ Ia	屮
 Ia	
 Ia	
 Ia	
+Ia	{𡳿上}
 Ib	飞
 Ic	貝
 Id	羊
