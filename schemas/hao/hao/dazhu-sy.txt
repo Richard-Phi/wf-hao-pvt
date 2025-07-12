@@ -17196,7 +17196,7 @@ vkvhd	窽
 vkldx	竀
 vkggg	竁
 vkyjf	竂
-vkpqh	竃
+vkpvx	竃
 vkkam	竆
 vkjck	竉
 vkskg	竊
@@ -17737,7 +17737,7 @@ yfmzb	縀
 yfadn	縁
 yfjkh	縂
 yfjcu	縃
-yfqhr	縄
+yfvvx	縄
 yfklg	縅
 yfhfl	縆
 yfgfl	縇
@@ -18940,7 +18940,7 @@ gjfjg	蝷
 gjnkd	蝸
 gjvpd	蝹
 gjskg	蝺
-gjqhr	蝿
+gjvvx	蝿
 gjfnd	螁
 gjsnj	螄
 gjjll	螆
@@ -29477,8 +29477,8 @@ jvzks	𠅺
 nhkcu	𠅻
 nmsjg	𠅼
 nadfl	𠅽
-gmfqh	𠅾
-dhjdk	𠅿
+gmfgx	𠅾
+dhzdk	𠅿
 dhlka	𠆀
 jvzmm	𠆁
 dhaaf	𠆂
@@ -29763,7 +29763,7 @@ vljau	𠊛
 jgfje	𠊜
 jqbkd	𠊝
 jkfhd	𠊞
-jqhr	𠊟
+jkvxi	𠊟
 jcjvj	𠊠
 jtxi	𠊡
 jvgle	𠊢
@@ -45721,7 +45721,7 @@ hskkb	𤄝
 hsnag	𤄞
 hskfm	𤄟
 hscgz	𤄠
-hsyfq	𤄡
+hsydx	𤄡
 hsapn	𤄢
 hsnsf	𤄣
 hsskj	𤄤
@@ -51618,7 +51618,7 @@ ammms	𥡀
 mshsf	𥡁
 mskci	𥡂
 mscnd	𥡃
-msfqh	𥡄
+msdvx	𥡄
 msdya	𥡅
 msdaf	𥡆
 mslzu	𥡇
@@ -51626,7 +51626,7 @@ mssnn	𥡈
 msgjl	𥡉
 msdyb	𥡊
 msfab	𥡋
-msfqh	𥡌
+msdvx	𥡌
 mscnd	𥡍
 msxcu	𥡎
 mszdk	𥡏
@@ -60056,7 +60056,7 @@ fjkla	𧥑
 fmadd	𧥒
 fmadd	𧥓
 fyfag	𧥔
-fmadq	𧥕
+fmdpq	𧥕
 fmalk	𧥖
 fmalk	𧥗
 fmahg	𧥘
@@ -65168,7 +65168,7 @@ yxvhe	𨵘
 yxdjd	𨵙
 yxztl	𨵚
 yxvcu	𨵛
-yxqhr	𨵜
+yxkvx	𨵜
 yxhjw	𨵝
 yxksv	𨵞
 yxclb	𨵟
@@ -71952,7 +71952,7 @@ zkvxi	𪠄
 zklkd	𪠅
 zkjcl	𪠆
 zkpcm	𪠇
-zkqhr	𪠈
+zkaxi	𪠈
 zkdff	𪠉
 zkvyd	𪠊
 zkadl	𪠋
@@ -84574,7 +84574,7 @@ nskdp	𭚳
 nsgab	𭚴
 nsgfs	𭚵
 nsljk	𭚶
-nsqhr	𭚷
+nskvx	𭚷
 nskgj	𭚸
 nskkm	𭚹
 nsags	𭚺
@@ -87212,7 +87212,7 @@ vkpvx	𮄁
 vkjpp	𮄂
 vkjjk	𮄃
 vkmcu	𮄄
-vkqhr	𮄅
+vkkvx	𮄅
 vkhco	𮄆
 vkhco	𮄇
 vkmdl	𮄈
@@ -89322,7 +89322,7 @@ lgqne	𮥒
 ljjfu	𮥓
 llsvo	𮥔
 lsjfo	𮥕
-lqssi	𮥖
+lkvfy	𮥖
 lcatl	𮥗
 lmbmw	𮥘
 lskyr	𮥙

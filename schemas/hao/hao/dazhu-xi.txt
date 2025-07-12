@@ -16152,7 +16152,7 @@ zhe	窽
 zfl	竀
 zooo	竁
 zxvo	竂
-zbay	竃
+zbjp	竃
 zln	竆
 zymi	竉
 zcmf	竊
@@ -16693,7 +16693,7 @@ hmrw	縀
 hskt	縁
 hvin	縂
 hkmd	縃
-hayp	縄
+hjjp	縄
 hufs	縅
 hntf	縆
 hetf	縇
@@ -17896,7 +17896,7 @@ jgvi	蝷
 jfiq	蝸
 jjbk	蝹
 jci	蝺
-jayp	蝿
+jjjp	蝿
 jtlt	螁
 jcu	螄
 jvb	螆
@@ -28433,8 +28433,8 @@ uuid	𠅺
 xhim	𠅻
 xzc	𠅼
 xpw	𠅽
-cray	𠅾
-wug	𠅿
+crc	𠅾
+wrg	𠅿
 wfig	𠆀
 usq	𠆁
 wssk	𠆂
@@ -28719,7 +28719,7 @@ jfls	𠊛
 ksqq	𠊜
 knni	𠊝
 kikn	𠊞
-kayp	𠊟
+kijp	𠊟
 kwvk	𠊠
 kipv	𠊡
 kzsm	𠊢
@@ -35182,7 +35182,7 @@ vai	𡯲
 gyiq	𡯳
 gdjg	𡯴
 gzsm	𡯵
-wugh	𡯶
+wug	𡯶
 vay	𡯷
 vax	𡯸
 gcso	𡯹
@@ -36037,7 +36037,7 @@ drei	𡽍
 dtmz	𡽎
 duza	𡽏
 doe	𡽐
-dayp	𡽑
+dayf	𡽑
 dda	𡽒
 ddin	𡽓
 dusg	𡽔
@@ -41019,7 +41019,7 @@ jfsl	𣋇
 xwje	𣋈
 jczx	𣋉
 juuf	𣋊
-jayp	𣋋
+jayf	𣋋
 jksp	𣋌
 jyme	𣋍
 dddr	𣋎
@@ -41228,7 +41228,7 @@ ymij	𣎘
 mwem	𣎙
 muco	𣎚
 mmci	𣎛
-mayp	𣎜
+mayf	𣎜
 mmht	𣎝
 emb	𣎞
 msnl	𣎟
@@ -44677,7 +44677,7 @@ hren	𤄝
 hxys	𤄞
 hcpu	𤄟
 hwei	𤄠
-hara	𤄡
+hazp	𤄡
 hybl	𤄢
 hxci	𤄣
 hcmv	𤄤
@@ -49194,7 +49194,7 @@ govj	𥋙
 wyig	𥋚
 gysj	𥋛
 mgzd	𥋜
-gayp	𥋝
+gayf	𥋝
 gttn	𥋞
 gici	𥋟
 gqdk	𥋠
@@ -50574,7 +50574,7 @@ uzzp	𥡀
 znco	𥡁
 zbyo	𥡂
 zwxj	𥡃
-zray	𥡄
+zzjp	𥡄
 zdxg	𥡅
 zdgb	𥡆
 zfe	𥡇
@@ -50582,7 +50582,7 @@ zcul	𥡈
 zsva	𥡉
 zdxn	𥡊
 zcg	𥡋
-zray	𥡌
+zzjp	𥡌
 zwxj	𥡍
 zkto	𥡎
 zsgy	𥡏
@@ -59012,7 +59012,7 @@ iifq	𧥑
 rqzz	𧥒
 rqzz	𧥓
 erqj	𧥔
-rqla	𧥕
+rzba	𧥕
 rqfc	𧥖
 rqfc	𧥗
 rqvj	𧥘
@@ -63614,7 +63614,7 @@ hhtk	𨭔
 tvei	𨭕
 tuuf	𨭖
 ttuj	𨭗
-tayp	𨭘
+tayf	𨭘
 tebd	𨭙
 tqdk	𨭚
 twjx	𨭛
@@ -64124,7 +64124,7 @@ aqbj	𨵘
 agvy	𨵙
 asaj	𨵚
 ajmd	𨵛
-aayp	𨵜
+aijp	𨵜
 ahrl	𨵝
 ahnh	𨵞
 amww	𨵟
@@ -70908,7 +70908,7 @@ ojpv	𪠄
 omiq	𪠅
 ovwh	𪠆
 obyv	𪠇
-oayp	𪠈
+onp	𪠈
 olrk	𪠉
 ojxi	𪠊
 oggf	𪠋
@@ -83530,7 +83530,7 @@ olzb	𭚳
 oegn	𭚴
 osoc	𭚵
 ofvp	𭚶
-oayp	𭚷
+oijp	𭚷
 oljw	𭚸
 olid	𭚹
 ogea	𭚺
@@ -84639,7 +84639,7 @@ awvh	𭬈
 aesc	𭬉
 aaqd	𭬊
 atjp	𭬋
-aayp	𭬌
+aayf	𭬌
 aqam	𭬍
 aufv	𭬎
 hgaj	𭬏
@@ -86168,7 +86168,7 @@ zbjp	𮄁
 zkbb	𮄂
 znvp	𮄃
 zzmd	𮄄
-zayp	𮄅
+zijp	𮄅
 znjx	𮄆
 zhjx	𮄇
 zmfy	𮄈
@@ -88278,7 +88278,7 @@ tejl	𮥒
 tvdh	𮥓
 tfoj	𮥔
 tglw	𮥕
-tacc	𮥖
+tijb	𮥖
 twsa	𮥗
 tdnj	𮥘
 tcio	𮥙
@@ -119567,7 +119567,7 @@ zhef	窽
 zfls	竀
 zooo	竁
 zxvo	竂
-zbay	竃
+zbjp	竃
 zlnf	竆
 zymi	竉
 zcmf	竊
@@ -120108,7 +120108,7 @@ hmrw	縀
 hskt	縁
 hvin	縂
 hkmd	縃
-hayp	縄
+hjjp	縄
 hufs	縅
 hntf	縆
 hetf	縇
@@ -121311,7 +121311,7 @@ jgvi	蝷
 jfiq	蝸
 jjbk	蝹
 jcif	蝺
-jayp	蝿
+jjjp	蝿
 jtlt	螁
 jcuu	螄
 jvbb	螆
@@ -131848,8 +131848,8 @@ uuid	𠅺
 xhim	𠅻
 xzcs	𠅼
 xpwo	𠅽
-cray	𠅾
-wugy	𠅿
+crcp	𠅾
+wrgy	𠅿
 wfig	𠆀
 usqq	𠆁
 wssk	𠆂
@@ -132134,7 +132134,7 @@ jfls	𠊛
 ksqq	𠊜
 knni	𠊝
 kikn	𠊞
-kayp	𠊟
+kijp	𠊟
 kwvk	𠊠
 kipv	𠊡
 kzsm	𠊢
@@ -137738,7 +137738,7 @@ ximt	𡢔
 wbqs	𡢕
 jzqs	𡢖
 wcls	𡢗
-sayp	𡢘
+sayf	𡢘
 sqtl	𡢙
 sjym	𡢚
 cbbs	𡢛
@@ -139452,7 +139452,7 @@ drei	𡽍
 dtmz	𡽎
 duza	𡽏
 doeb	𡽐
-dayp	𡽑
+dayf	𡽑
 ddaf	𡽒
 ddin	𡽓
 dusg	𡽔
@@ -144434,7 +144434,7 @@ jfsl	𣋇
 xwje	𣋈
 jczx	𣋉
 juuf	𣋊
-jayp	𣋋
+jayf	𣋋
 jksp	𣋌
 jyme	𣋍
 dddr	𣋎
@@ -144643,7 +144643,7 @@ ymij	𣎘
 mwem	𣎙
 muco	𣎚
 mmci	𣎛
-mayp	𣎜
+mayf	𣎜
 mmht	𣎝
 embj	𣎞
 msnl	𣎟
@@ -148092,7 +148092,7 @@ hren	𤄝
 hxys	𤄞
 hcpu	𤄟
 hwei	𤄠
-hara	𤄡
+hazp	𤄡
 hybl	𤄢
 hxci	𤄣
 hcmv	𤄤
@@ -151919,7 +151919,7 @@ ejym	𥀤
 wjse	𥀥
 jmde	𥀦
 nmpe	𥀧
-eayp	𥀨
+eayf	𥀨
 aemo	𥀩
 eufv	𥀪
 tuem	𥀫
@@ -152609,7 +152609,7 @@ govj	𥋙
 wyig	𥋚
 gysj	𥋛
 mgzd	𥋜
-gayp	𥋝
+gayf	𥋝
 gttn	𥋞
 gici	𥋟
 gqdk	𥋠
@@ -153989,7 +153989,7 @@ uzzp	𥡀
 znco	𥡁
 zbyo	𥡂
 zwxj	𥡃
-zray	𥡄
+zzjp	𥡄
 zdxg	𥡅
 zdgb	𥡆
 zfeh	𥡇
@@ -153997,7 +153997,7 @@ zcul	𥡈
 zsva	𥡉
 zdxn	𥡊
 zcgn	𥡋
-zray	𥡌
+zzjp	𥡌
 zwxj	𥡍
 zkto	𥡎
 zsgy	𥡏
@@ -156760,7 +156760,7 @@ zooj	𦌝
 zook	𦌞
 ydsh	𦌟
 yrkk	𦌠
-yayp	𦌡
+yayf	𦌡
 yhvu	𦌢
 yyyn	𦌣
 zoox	𦌤
@@ -162427,7 +162427,7 @@ iifq	𧥑
 rqzz	𧥒
 rqzz	𧥓
 erqj	𧥔
-rqla	𧥕
+rzba	𧥕
 rqfc	𧥖
 rqfc	𧥗
 rqvj	𧥘
@@ -167029,7 +167029,7 @@ hhtk	𨭔
 tvei	𨭕
 tuuf	𨭖
 ttuj	𨭗
-tayp	𨭘
+tayf	𨭘
 tebd	𨭙
 tqdk	𨭚
 twjx	𨭛
@@ -167539,7 +167539,7 @@ aqbj	𨵘
 agvy	𨵙
 asaj	𨵚
 ajmd	𨵛
-aayp	𨵜
+aijp	𨵜
 ahrl	𨵝
 ahnh	𨵞
 amww	𨵟
@@ -174323,7 +174323,7 @@ ojpv	𪠄
 omiq	𪠅
 ovwh	𪠆
 obyv	𪠇
-oayp	𪠈
+onpv	𪠈
 olrk	𪠉
 ojxi	𪠊
 oggf	𪠋
@@ -186945,7 +186945,7 @@ olzb	𭚳
 oegn	𭚴
 osoc	𭚵
 ofvp	𭚶
-oayp	𭚷
+oijp	𭚷
 oljw	𭚸
 olid	𭚹
 ogea	𭚺
@@ -188054,7 +188054,7 @@ awvh	𭬈
 aesc	𭬉
 aaqd	𭬊
 atjp	𭬋
-aayp	𭬌
+aayf	𭬌
 aqam	𭬍
 aufv	𭬎
 hgaj	𭬏
@@ -189583,7 +189583,7 @@ zbjp	𮄁
 zkbb	𮄂
 znvp	𮄃
 zzmd	𮄄
-zayp	𮄅
+zijp	𮄅
 znjx	𮄆
 zhjx	𮄇
 zmfy	𮄈
@@ -191693,7 +191693,7 @@ tejl	𮥒
 tvdh	𮥓
 tfoj	𮥔
 tglw	𮥕
-tacc	𮥖
+tijb	𮥖
 twsa	𮥗
 tdnj	𮥘
 tcio	𮥙
