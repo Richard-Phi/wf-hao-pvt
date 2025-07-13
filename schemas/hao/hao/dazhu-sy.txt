@@ -29434,7 +29434,7 @@ zo	𠄟
 zo	𠄠
 lsle	𠄡
 ldkle	𠄢
-lcle	𠄣
+lffle	𠄣
 sgzo	𠄤
 zxzxi	𠄥
 zsyw	𠄦
@@ -30435,7 +30435,7 @@ fmw	𠔌
 jdme	𠔍
 fmksu	𠔎
 akljd	𠔏
-hjdo	𠔐
+clsjd	𠔐
 jdvjv	𠔑
 jdjzi	𠔒
 kqjdo	𠔓
@@ -40575,7 +40575,7 @@ hfkhk	𢳈
 yftks	𢳉
 kspjy	𢳊
 ksfda	𢳋
-kstnh	𢳌
+kstnx	𢳌
 ksdyl	𢳍
 ksaca	𢳎
 ksyme	𢳏
@@ -54494,7 +54494,7 @@ tbi	𦍗
 tzlr	𦍘
 ckto	𦍙
 clpcm	𦍚
-tnhsu	𦍛
+tnxxi	𦍛
 tamr	𦍜
 tlli	𦍝
 tlalr	𦍞
@@ -75809,7 +75809,7 @@ kdvke	𫜸
 alr	𫜹
 ksu	𫝀
 clkdi	𫝁
-lhkfo	𫝂
+lhsfu	𫝂
 lxcu	𫝃
 sau	𫝄
 hau	𫝅
@@ -84942,7 +84942,7 @@ djkfj	𭟳
 fjffk	𭟴
 fjfai	𭟵
 kdxcf	𭟶
-bbsfj	𭟷
+jdsfj	𭟷
 lxlau	𭟸
 ghjkn	𭟹
 lllvo	𭟺
@@ -87766,7 +87766,7 @@ ddle	𮌃
 ddffh	𮌄
 mtjxd	𮌅
 ddffh	𮌆
-jfbu	𮌇
+djfbu	𮌇
 fjlcu	𮌈
 xkdaa	𮌉
 djaak	𮌊

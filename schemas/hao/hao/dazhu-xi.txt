@@ -28343,7 +28343,7 @@ rlff	𠄟
 rlff	𠄠
 fofh	𠄡
 fzdf	𠄢
-fmfh	𠄣
+frb	𠄣
 cir	𠄤
 rpr	𠄥
 rkd	𠄦
@@ -29344,7 +29344,7 @@ pucf	𠔌
 vis	𠔍
 ppck	𠔎
 xfvy	𠔏
-qvyo	𠔐
+wqv	𠔐
 vkv	𠔑
 vwif	𠔒
 rvy	𠔓
@@ -39484,7 +39484,7 @@ mlep	𢳈
 htpc	𢳉
 pbvt	𢳊
 pgdg	𢳋
-pioh	𢳌
+piop	𢳌
 pqx	𢳍
 pgwg	𢳎
 phi	𢳏
@@ -53403,7 +53403,7 @@ imak	𦍗
 irah	𦍘
 qidk	𦍙
 wbyv	𦍚
-iohg	𦍛
+iopp	𦍛
 iuvc	𦍜
 ifbl	𦍝
 ifsi	𦍞
@@ -56876,7 +56876,7 @@ wrjo	𧃱
 womg	𧃲
 wbvo	𧃳
 whed	𧃴
-wqv	𧃵
+wqve	𧃵
 wlwk	𧃶
 wqvp	𧃷
 wyht	𧃸
@@ -74718,7 +74718,7 @@ ihsp	𫜸
 sipf	𫜹
 gjkf	𫝀
 wiqf	𫝁
-fhoz	𫝂
+fhck	𫝂
 fkto	𫝃
 csio	𫝄
 psio	𫝅
@@ -83851,7 +83851,7 @@ ziie	𭟳
 idte	𭟴
 irql	𭟵
 ipmi	𭟶
-wwdi	𭟷
+vdie	𭟷
 fpfs	𭟸
 lvuu	𭟹
 fbbj	𭟺
@@ -86675,7 +86675,7 @@ uzfh	𮌃
 uzjj	𮌄
 mvpu	𮌅
 uzkj	𮌆
-uwio	𮌇
+zkwi	𮌇
 dfmd	𮌈
 xzss	𮌉
 zssh	𮌊
@@ -131758,7 +131758,7 @@ rlff	𠄟
 rlff	𠄠
 fofh	𠄡
 fzdf	𠄢
-fmfh	𠄣
+frbf	𠄣
 cirl	𠄤
 rprp	𠄥
 rkdo	𠄦
@@ -132759,7 +132759,7 @@ pucf	𠔌
 visf	𠔍
 ppck	𠔎
 xfvy	𠔏
-qvyo	𠔐
+wqvy	𠔐
 vkvk	𠔑
 vwif	𠔒
 rvyo	𠔓
@@ -142899,7 +142899,7 @@ mlep	𢳈
 htpc	𢳉
 pbvt	𢳊
 pgdg	𢳋
-pioh	𢳌
+piop	𢳌
 pqxw	𢳍
 pgwg	𢳎
 phis	𢳏
@@ -156818,7 +156818,7 @@ imak	𦍗
 irah	𦍘
 qidk	𦍙
 wbyv	𦍚
-iohg	𦍛
+iopp	𦍛
 iuvc	𦍜
 ifbl	𦍝
 ifsi	𦍞
@@ -178133,7 +178133,7 @@ ihsp	𫜸
 sipf	𫜹
 gjkf	𫝀
 wiqf	𫝁
-fhoz	𫝂
+fhck	𫝂
 fkto	𫝃
 csio	𫝄
 psio	𫝅
@@ -187266,7 +187266,7 @@ ziie	𭟳
 idte	𭟴
 irql	𭟵
 ipmi	𭟶
-wwdi	𭟷
+vdie	𭟷
 fpfs	𭟸
 lvuu	𭟹
 fbbj	𭟺
@@ -190090,7 +190090,7 @@ uzfh	𮌃
 uzjj	𮌄
 mvpu	𮌅
 uzkj	𮌆
-uwio	𮌇
+zkwi	𮌇
 dfmd	𮌈
 xzss	𮌉
 zssh	𮌊

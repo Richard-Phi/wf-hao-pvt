@@ -28343,7 +28343,7 @@
 𠄠	rlff
 𠄡	fofh
 𠄢	fzdf
-𠄣	fmfh
+𠄣	frb
 𠄤	cir
 𠄥	rpr
 𠄦	rkd
@@ -29344,7 +29344,7 @@
 𠔍	vis
 𠔎	ppck
 𠔏	xfvy
-𠔐	qvyo
+𠔐	wqv
 𠔑	vkv
 𠔒	vwif
 𠔓	rvy
@@ -39484,7 +39484,7 @@
 𢳉	htpc
 𢳊	pbvt
 𢳋	pgdg
-𢳌	pioh
+𢳌	piop
 𢳍	pqx
 𢳎	pgwg
 𢳏	phi
@@ -53403,7 +53403,7 @@
 𦍘	irah
 𦍙	qidk
 𦍚	wbyv
-𦍛	iohg
+𦍛	iopp
 𦍜	iuvc
 𦍝	ifbl
 𦍞	ifsi
@@ -56876,7 +56876,7 @@
 𧃲	womg
 𧃳	wbvo
 𧃴	whed
-𧃵	wqv
+𧃵	wqve
 𧃶	wlwk
 𧃷	wqvp
 𧃸	wyht
@@ -74718,7 +74718,7 @@
 𫜹	sipf
 𫝀	gjkf
 𫝁	wiqf
-𫝂	fhoz
+𫝂	fhck
 𫝃	fkto
 𫝄	csio
 𫝅	psio
@@ -83851,7 +83851,7 @@
 𭟴	idte
 𭟵	irql
 𭟶	ipmi
-𭟷	wwdi
+𭟷	vdie
 𭟸	fpfs
 𭟹	lvuu
 𭟺	fbbj
@@ -86675,7 +86675,7 @@
 𮌄	uzjj
 𮌅	mvpu
 𮌆	uzkj
-𮌇	uwio
+𮌇	zkwi
 𮌈	dfmd
 𮌉	xzss
 𮌊	zssh
@@ -131758,7 +131758,7 @@
 𠄠	rlff
 𠄡	fofh
 𠄢	fzdf
-𠄣	fmfh
+𠄣	frbf
 𠄤	cirl
 𠄥	rprp
 𠄦	rkdo
@@ -132759,7 +132759,7 @@
 𠔍	visf
 𠔎	ppck
 𠔏	xfvy
-𠔐	qvyo
+𠔐	wqvy
 𠔑	vkvk
 𠔒	vwif
 𠔓	rvyo
@@ -142899,7 +142899,7 @@
 𢳉	htpc
 𢳊	pbvt
 𢳋	pgdg
-𢳌	pioh
+𢳌	piop
 𢳍	pqxw
 𢳎	pgwg
 𢳏	phis
@@ -156818,7 +156818,7 @@
 𦍘	irah
 𦍙	qidk
 𦍚	wbyv
-𦍛	iohg
+𦍛	iopp
 𦍜	iuvc
 𦍝	ifbl
 𦍞	ifsi
@@ -178133,7 +178133,7 @@
 𫜹	sipf
 𫝀	gjkf
 𫝁	wiqf
-𫝂	fhoz
+𫝂	fhck
 𫝃	fkto
 𫝄	csio
 𫝅	psio
@@ -187266,7 +187266,7 @@
 𭟴	idte
 𭟵	irql
 𭟶	ipmi
-𭟷	wwdi
+𭟷	vdie
 𭟸	fpfs
 𭟹	lvuu
 𭟺	fbbj
@@ -190090,7 +190090,7 @@
 𮌄	uzjj
 𮌅	mvpu
 𮌆	uzkj
-𮌇	uwio
+𮌇	zkwi
 𮌈	dfmd
 𮌉	xzss
 𮌊	zssh
