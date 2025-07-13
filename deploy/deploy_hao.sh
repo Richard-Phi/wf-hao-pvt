@@ -183,7 +183,11 @@ gen_schema() {
         in_block && NF >= 3 && length($2) <= 3 { print $0 }
     ' ${HAO}/hao/leoxi.short.dict.yaml | sort -t$'\t' -k3,3nr | awk -F'\t' '{printf $1}')
     escaped_words="${words%% *}"
-    sed -i '' "s|淅码全码后置|$escaped_words|g" ${HAO}/leoxi.schema.yaml
+    if [ "$(uname)" = "Darwin" ]; then
+        sed -i '' "s|淅码全码后置|$escaped_words|g" ${HAO}/leoxi.schema.yaml
+    else
+        sed -i "s|淅码全码后置|$escaped_words|g" ${HAO}/leoxi.schema.yaml
+    fi
 
     # 生成跟打词提
     log "生成跟打词提..."
