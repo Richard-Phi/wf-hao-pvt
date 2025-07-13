@@ -47,7 +47,7 @@ local function is_one_code_and_is_vowel(cand, env)
     -- So we do a loop here to check if any code matches the input length + 1.
     for code in codes_of_character:gmatch("%S+") do
         if length_of_input == string.len(code) - 1 then
-            if code:match("[weruioqtypasdfghjklzxcvbnm]$") then
+            if code:match("[weruio;qtypasdfghjklzxcvbnm]$") then
                 -- is one code and is vowel
                 return true, true
             else
@@ -75,10 +75,10 @@ local function filter(input, env)
                     -- 只顯示剩餘編碼爲一的預測候選項
                     if is_vowel then
                         -- 只顯示剩餘編碼爲韻碼的預測候選項
-                        if utf8.len(cand.text) == 1 then
-                            --- 只顯示單字
+                        if utf8.len(cand.text) ~= 0 then
+                            --- 顯示字詞
                             if core.string_is_in_set(cand.text, set_of_ubiquitous_chars) then
-                                --- 只顯示常用字
+                                --- 只顯示极常用字
                                 yield(cand)
                             end
                         end
