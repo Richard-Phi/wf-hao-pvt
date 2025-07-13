@@ -47,6 +47,8 @@ Ciallo～(∠・ω< )⌒★	cle
 哪	cxi
 怪	hpu
 宝	gni
+℃	ssdu
+℉	fsdu
 吗？	kdfe
 呢？	kdfw
 实	gkyi
@@ -401,7 +403,7 @@ Ciallo～(∠・ω< )⌒★	cle
 候	jfpu
 整	nshi
 爱	hgau
-持	kspi
+持	kspo
 消	hsfu
 商	jsdi
 存	akfi
