@@ -79,6 +79,7 @@ gen_schema() {
     cp -r ../template/lua "${HAO}/lua" || error "复制 Lua 脚本失败"
     cp -r ../template/opencc "${HAO}/opencc" || error "复制 OpenCC 配置失败"
     cp -r ../template/hao "${HAO}/hao" || error "复制码表文件失败"
+    cp -r ../template/py_wordscounter "${HAO}/py_wordscounter" || error "复制 py_wordscounter 失败"
     # 使用自定义配置覆盖默认值
     if [ -d "${NAME}" ]; then
         log "应用自定义配置..."

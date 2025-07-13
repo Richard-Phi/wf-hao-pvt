@@ -724,6 +724,7 @@ lni	正常
 kni	异常
 xsw	外面
 fxe	许多
+jbe	功能
 mm;	尴尬
 mvmae	尴尬
 cc;	燃烧
