@@ -130,6 +130,7 @@ ni	常
 fu	认
 tr	金
 lo	非
+yu	达
 vr	晚
 cr	脑
 zw	图
@@ -410,7 +411,6 @@ sjpu	社
 mtju	基
 shve	北
 kdmi	叫
-ydnu	达
 zhae	界
 ksji	拉
 tlsw	极
@@ -505,6 +505,7 @@ gkgr	案
 fkcr	底
 jdyu	送
 ghku	冲
+ydnu	态
 also	群
 maki	船
 mvsr	责
@@ -725,6 +726,7 @@ kni	异常
 xsw	外面
 fxe	许多
 jbe	功能
+vtw	空格
 mm;	尴尬
 mvmae	尴尬
 cc;	燃烧
@@ -745,13 +747,14 @@ tktki	继续
 hho	渐渐
 hshso	渐渐
 cmcm;	灿烂
-cmcme	灿烂
 kku	喷嚏
 kdkdu	喷嚏
 ggr	蝴蝶
 gjgjr	蝴蝶
 ggo	蜘蛛
 gjgjo	蜘蛛
+ggw	蟑螂
+gjgjw	蟑螂
 kdcki	饕餮
 gge	凛冽
 ghghe	凛冽
@@ -31256,7 +31259,7 @@ xsle	𠠼
 cmsle	𠠽
 slfyr	𠠾
 zkssl	𠠿
-cksle	𠡀
+lmsle	𠡀
 tsle	𠡁
 amsle	𠡂
 slajt	𠡃
@@ -31506,7 +31509,7 @@ pgnkx	𠤶
 pgkkw	𠤷
 pgayr	𠤸
 pgagu	𠤹
-pgsyr	𠤺
+pgsys	𠤺
 pgkai	𠤻
 pgjfh	𠤼
 pgzaa	𠤽
@@ -31516,7 +31519,7 @@ pgkkd	𠥀
 pgdjd	𠥁
 pgtfn	𠥂
 pgzlj	𠥃
-mtplr	𠥄
+djzpl	𠥄
 pgafu	𠥅
 pgmgu	𠥆
 pgdu	𠥇
@@ -31539,7 +31542,7 @@ pgnau	𠥗
 pgbbz	𠥘
 pgjsj	𠥙
 pglns	𠥚
-pgjkk	𠥛
+pgjxa	𠥛
 pgvsd	𠥜
 pgkll	𠥝
 pgfdg	𠥞
@@ -31571,13 +31574,13 @@ pgkln	𠥷
 qhfpv	𠥸
 pgkly	𠥹
 pgkll	𠥺
-akr	𠥻
+clle	𠥻
 akakw	𠥼
 tlle	𠥽
 fmnak	𠥾
 lgakw	𠥿
 fjlak	𠦀
-mfakw	𠦁
+pgfak	𠦁
 ghgak	𠦂
 akclr	𠦃
 akclr	𠦄
@@ -31596,7 +31599,7 @@ akaan	𠦐
 ncdyw	𠦑
 lfksu	𠦒
 lcakw	𠦓
-akakr	𠦔
+ldaak	𠦔
 jtaak	𠦕
 hszak	𠦖
 aknw	𠦗
@@ -31607,7 +31610,7 @@ kfclr	𠦛
 akakr	𠦜
 akvak	𠦝
 shvkc	𠦞
-fkfdj	𠦟
+fkmgi	𠦟
 akdle	𠦠
 akaak	𠦡
 akvvv	𠦢
@@ -31620,7 +31623,7 @@ fmgva	𠦨
 akthf	𠦩
 akcya	𠦪
 kdhak	𠦫
-saaak	𠦬
+kcaaa	𠦬
 hssna	𠦭
 lxcak	𠦮
 jdkfh	𠦯
@@ -31628,8 +31631,8 @@ akhdl	𠦰
 fkfls	𠦱
 fjvac	𠦲
 jszfk	𠦳
-laxak	𠦴
-skkaa	𠦵
+ksaxx	𠦴
+aklaa	𠦵
 akjak	𠦶
 fjvac	𠦷
 dggak	𠦸
@@ -31662,7 +31665,7 @@ fjjr	𠧒
 fjvnr	𠧓
 fjlmw	𠧔
 fjlmf	𠧕
-fjsmr	𠧖
+fjdau	𠧖
 fjllf	𠧗
 vhbu	𠧘
 vjkfj	𠧙
@@ -31687,10 +31690,10 @@ alskf	𠧬
 ydtfj	𠧭
 mfgfj	𠧮
 fjdaj	𠧯
-cklkd	𠧰
+fjdzk	𠧰
 fjnxi	𠧱
 fjdto	𠧲
-fjkhs	𠧳
+fjkff	𠧳
 fjzax	𠧴
 fjfyd	𠧵
 fjgjh	𠧶
@@ -31698,11 +31701,11 @@ fjzax	𠧷
 fjzhs	𠧸
 fjkhs	𠧹
 fjzkm	𠧺
-fjvhs	𠧻
+fjvff	𠧻
 fjdbh	𠧼
 fjaxc	𠧽
 fjnmw	𠧾
-fjdaj	𠧿
+fjdjj	𠧿
 fjddd	𠨀
 fjday	𠨁
 fjsff	𠨂
@@ -35023,7 +35026,7 @@ glndy	𡜋
 akgzg	𡜌
 glfo	𡜍
 jdblg	𡜎
-gldck	𡜏
+gldlx	𡜏
 glknr	𡜐
 vjgle	𡜑
 glafq	𡜒
@@ -43885,7 +43888,7 @@ ckxi	𣦷
 ckau	𣦸
 ckau	𣦹
 cksle	𣦺
-ckbu	𣦻
+fjdlb	𣦻
 ckbu	𣦼
 ckanw	𣦽
 ckxxi	𣦾
@@ -43992,7 +43995,7 @@ ckmgd	𣨢
 ckdfl	𣨣
 ckfkl	𣨤
 ckccu	𣨥
-ckaaf	𣨦
+fjdlf	𣨦
 ckhcu	𣨧
 ckzkb	𣨨
 ckgsy	𣨩
@@ -44039,7 +44042,7 @@ cklkv	𣩒
 ckdzt	𣩓
 cklzy	𣩔
 cknw	𣩕
-hdpvk	𣩖
+hdkvk	𣩖
 ckscj	𣩗
 ckazj	𣩘
 ckldc	𣩙
@@ -48129,7 +48132,7 @@ gsykd	𤩝
 gfdmw	𤩞
 ggyxi	𤩟
 gtkdi	𤩠
-gcfmw	𤩡
+gfdfm	𤩡
 gfgak	𤩢
 gaadk	𤩣
 fjzpn	𤩤
@@ -56508,7 +56511,7 @@ clgbu	𦬻
 clkfl	𦬼
 clqjd	𦬽
 cljli	𦬾
-clcke	𦬿
+clfdl	𦬿
 clman	𦭀
 clzbu	𦭁
 clgll	𦭂
@@ -85209,7 +85212,7 @@ jvvqh	𭣾
 jsshf	𭣿
 vkvdh	𭤀
 dlhhf	𭤁
-dlchf	𭤂
+dllmh	𭤂
 skshf	𭤃
 ldgmh	𭤄
 spjhf	𭤅
@@ -85612,7 +85615,7 @@ nttlr	𭪑
 tljdi	𭪒
 tlqhd	𭪓
 tlqhf	𭪔
-ckzft	𭪕
+ckktl	𭪕
 xkknt	𭪖
 jdnat	𭪗
 tltje	𭪘
@@ -93004,7 +93007,7 @@ ckfks	𰮹
 ckftm	𰼵
 ckfva	𱥏
 ckfxu	𰯫
-ckhfi	𱥌
+fjdnh	𱥌
 ckkvi	𰯍
 cklfp	𰤽
 cklhd	𱼞
@@ -97724,7 +97727,7 @@ pcavo	𱸦
 pchbu	𱂌
 pckar	𱂟
 pckdi	𱂆
-pclfj	𱸐
+pczfj	𱸐
 pcnhs	𰪌
 pdanw	𰪎
 pdcxo	𰕜
