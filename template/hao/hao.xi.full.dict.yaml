@@ -1,0 +1,14 @@
+# encoding: utf-8
+---
+name: "hao.xi.full"
+version: "20250528"
+sort: by_weight
+columns:
+  - text
+  - code
+  - weight
+...
+
+#----------单字开始----------#
+[单字全码]
+#----------单字结束----------#

@@ -15,7 +15,7 @@ Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 (2) 需要在 engine/processors 添加:
 - lua_processor@*hao.auto_commit
 (3) 需要在 switches 添加狀態:
-- name: leosy_auto_commit
+- name: auto_commit
   reset: 1
   states: [关闭, 开启]
 ]]
@@ -86,7 +86,7 @@ local function func(key_event, env)
     local context = env.engine.context
     
     -- 检查是否开启自动上屏功能
-    if not context:get_option("leosy_auto_commit") then
+    if not context:get_option("auto_commit") then
         return kNoop
     end
     

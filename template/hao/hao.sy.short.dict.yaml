@@ -1,0 +1,11 @@
+# encoding: utf-8
+---
+name: "hao.sy.short"
+version: "20250528"
+sort: original
+columns:
+  - text
+  - code
+  - stem
+...
+

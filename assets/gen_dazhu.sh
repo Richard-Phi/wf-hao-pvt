@@ -24,8 +24,8 @@ if [ -z "${INPUT_DIR}" ] || [ -z "${OUTPUT_DIR}" ]; then
 fi
 
 # 生成大竹码表
-if [ -f "${INPUT_DIR}/hao/leoxi.short.dict.yaml" ]; then
-    cat "${INPUT_DIR}/hao/leoxi.short.dict.yaml" | \
+if [ -f "${INPUT_DIR}/hao/hao.xi.short.dict.yaml" ]; then
+    cat "${INPUT_DIR}/hao/hao.xi.short.dict.yaml" | \
         sed 's/^\(.*\)\t\(.*\)/\1\t\2/g' | \
         sed 's/\t/{TAB}/g' | \
         grep '.*{TAB}.*' | \
@@ -36,7 +36,7 @@ if [ -f "${INPUT_DIR}/hao/leoxi.short.dict.yaml" ]; then
         sed "s/3/'/g" \
         >"${OUTPUT_DIR}/hao/dazhu-xi.txt"
     
-    cat "${INPUT_DIR}/hao/leoxi.full.dict.yaml" | \
+    cat "${INPUT_DIR}/hao/hao.xi.full.dict.yaml" | \
         sed 's/^\(.*\)\t\(.*\)/\1\t\2/g' | \
         sed 's/\t/{TAB}/g' | \
         grep '.*{TAB}.*' | \
@@ -67,8 +67,8 @@ if [ -f "${INPUT_DIR}/hao/leoxi.short.dict.yaml" ]; then
     fi
 fi
 
-if [ -f "${INPUT_DIR}/hao/leosy.short.dict.yaml" ]; then
-    cat "${INPUT_DIR}/hao/leosy.short.dict.yaml" | \
+if [ -f "${INPUT_DIR}/hao/hao.sy.short.dict.yaml" ]; then
+    cat "${INPUT_DIR}/hao/hao.sy.short.dict.yaml" | \
         sed 's/^\(.*\)\t\(.*\)/\2\t\1/g' | \
         sed 's/\t/{TAB}/g' | \
         grep '.*{TAB}.*' | \
@@ -79,7 +79,7 @@ if [ -f "${INPUT_DIR}/hao/leosy.short.dict.yaml" ]; then
         sed "s/3/'/g" \
         >>"${OUTPUT_DIR}/hao/dazhu-sy.txt"
     
-    cat "${INPUT_DIR}/hao/leosy.quicks.dict.yaml" | \
+    cat "${INPUT_DIR}/hao/hao.sy.quicks.dict.yaml" | \
         sed 's/^\(.*\)\t\(.*\)/\2\t\1/g' | \
         sed 's/\t/{TAB}/g' | \
         grep '.*{TAB}.*' | \
@@ -90,7 +90,7 @@ if [ -f "${INPUT_DIR}/hao/leosy.short.dict.yaml" ]; then
         sed "s/3/'/g" \
         >>"${OUTPUT_DIR}/hao/dazhu-sy.txt"
     
-    cat "${INPUT_DIR}/hao/leosy.full.dict.yaml" | \
+    cat "${INPUT_DIR}/hao/hao.sy.full.dict.yaml" | \
         sed 's/^\(.*\)\t\(.*\)/\1\t\2/g' | \
         sed 's/\t/{TAB}/g' | \
         grep '.*{TAB}.*' | \
