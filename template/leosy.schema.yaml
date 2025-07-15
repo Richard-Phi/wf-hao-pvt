@@ -161,8 +161,8 @@ yuhao_chaifen:
     phrase: 0
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcba;'/  #0123456789，开启auto_commit后，可恢复数字键选重
-  initials: zyxwvutsrqponmlkjihgfedcba;'/  #0123456789，开启auto_commit后，可恢复数字键选重
+  alphabet: zyxwvutsrqponmlkjihgfedcba;'/
+  initials: zyxwvutsrqponmlkjihgfedcba;'/
   delimiter: "`"
   auto_select: true
   auto_clear: auto  # 3种选择， manual|auto|max_length 空码按下一键确认清屏|空码自动清|达到最长码时后码顶上清屏
@@ -180,6 +180,7 @@ translator:
   enable_user_dict: false
   enable_encoder: false
   encode_commit_history: false
+  initial_quality: 1000000
   preedit_format:
     #- xform/[a-z]/\※/
     #- xform/[a-z]/·/
