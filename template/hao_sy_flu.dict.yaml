@@ -6,7 +6,7 @@
 ---
 name: "hao_sy_flu"
 version: "20250603"
-sort: original
+sort: by_weight
 import_tables:
   # 以下是固頂字
   #- hao/hao.sy.fixed
@@ -14,6 +14,7 @@ import_tables:
   - hao/hao.sy.short
   # 以下是簡碼詞
   - hao/hao.sy.quicks
+  # 以下是连打表
   - hao/hao.sy.flu
   # 以下是單字全碼
   - hao/hao.sy.full

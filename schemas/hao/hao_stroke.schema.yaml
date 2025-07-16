@@ -5,8 +5,6 @@ schema:
   schema_id: hao_stroke
   name: 好码笔画
   version: "beta"
-  dependencies:
-    - stroke_dovepelia
 
 switches:
   - name: ascii_mode
@@ -39,7 +37,7 @@ speller:
     - xlit/qweas/hspnz/
 
 translator:
-  dictionary: stroke_dovepelia
+  dictionary: hao_stroke
   prism: hao_stroke
   enable_user_dict: false
   enable_encoder: false

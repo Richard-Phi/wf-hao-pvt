@@ -6,7 +6,7 @@
 ---
 name: "hao_sy"
 version: "20250528"
-sort: original
+sort: by_weight
 import_tables:
   # 以下是固頂字
   #- hao/hao.sy.fixed

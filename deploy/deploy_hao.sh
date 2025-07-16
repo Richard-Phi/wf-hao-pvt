@@ -177,18 +177,18 @@ gen_schema() {
         awk '/单字标记/ {system("cat res.txt"); next} 1' ${HAO}/hao/hao.xi.short.dict.yaml > ${HAO}/temp && mv ${HAO}/temp ${HAO}/hao/hao.xi.short.dict.yaml
     popd
 
-    log "生成淅全码后置元素..."
-    words=$(awk '
-        /^#----------单字开始----------#$/ { in_block=1; next }
-        /^#----------单字结束----------#$/ { in_block=0 }
-        in_block && NF >= 3 && length($2) <= 3 { print $0 }
-    ' ${HAO}/hao/hao.xi.short.dict.yaml | sort -t$'\t' -k3,3nr | awk -F'\t' '{printf $1}')
-    escaped_words="${words%% *}"
-    if [ "$(uname)" = "Darwin" ]; then
-        sed -i '' "s|淅码全码后置|$escaped_words|g" ${HAO}/hao_xi.schema.yaml
-    else
-        sed -i "s|淅码全码后置|$escaped_words|g" ${HAO}/hao_xi.schema.yaml
-    fi
+    #log "生成淅全码后置元素..."
+    #words=$(awk '
+    #    /^#----------单字开始----------#$/ { in_block=1; next }
+    #    /^#----------单字结束----------#$/ { in_block=0 }
+    #    in_block && NF >= 3 && length($2) <= 3 { print $0 }
+    #' ${HAO}/hao/hao.xi.short.dict.yaml | sort -t$'\t' -k3,3nr | awk -F'\t' '{printf $1}')
+    #escaped_words="${words%% *}"
+    #if [ "$(uname)" = "Darwin" ]; then
+    #    sed -i '' "s|淅码全码后置|$escaped_words|g" ${HAO}/hao_xi.schema.yaml
+    #else
+    #    sed -i "s|淅码全码后置|$escaped_words|g" ${HAO}/hao_xi.schema.yaml
+    #fi
 
     # 生成跟打词提
     log "生成跟打词提..."

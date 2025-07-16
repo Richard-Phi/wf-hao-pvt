@@ -18,25 +18,26 @@ __patch:
   switches/@0/reset: 0
   switches/@1/reset: 0
   switches/@2/reset: 0
+  switches/@3/reset: 1
   switches/@4/reset: 0
+  switches/@5/reset: 0
   switches/@last/+:
     name: emoji_suggestion
     reset: 1
     states: [ "🈚️", "🈶️" ]
   engine/filters/@after 1: simplifier@emoji_suggestion
-  #key_binder/bindings/+:
-  #  - { when: has_menu, accept: " ", send: _ }
-  #  - { when: has_menu, accept: Shift+Space, send: ' ' }
 
 engine:
   translators:
     - punct_translator
+    - lua_translator@*hao.hao_shijian
+    - lua_translator@*hao.hao_number
     - history_translator@history
     - script_translator@hao_pinyin_lookup
     - table_translator@hao_stroke_lookup
     - script_translator
-    - lua_translator@*amz.shijian
-    - lua_translator@*yuhao.yuhao_switch_tr@yuhao_macro  # 控制臺
+    - lua_translator@*hao.hao_os*os_env_translator
+    - lua_translator@*hao.hao_switch*tr@hao
 
 speller:
   alphabet: ZYXWVUTSRQPONMLKJIHGFEDCBAzyxwvutsrqponmlkjihgfedcba9876543210;/,.?:;!@#$%^&*()-=+[]{}"'<>_
@@ -52,6 +53,90 @@ translator:
     - xform/_//
     #- xform/[a-z]/\*/
 
+hao:
+  code: hao_sy_flu
+  tags: [ abc ]
+  #postpone_fullcode:
+  #  max_index: 4  # 最大后置位置，默认为 4
+  spelling:
+    schema: hao_sy_chaifen
+    cycle_key: "Shift+Control+C"
+    switch_key: "Control+c"
+    phrase: 0
+  birthday:
+    solar:
+      淅码: "0429,淅码诞生"
+      松烟: "0520,松烟诞生"
+    lunar:
+      春节: "0101,农历春节"
+  funckeys:
+    macro: [0x2f] # 當輸入串以 "/" 開頭時, 認爲是宏調用
+  macros:
+    hao:
+      - { type: tip, name: ❖松烟配置中心 }
+      - { type: switch, name: hao_autocommit, states: [☐选重上屏, ☑自动上屏] }
+      - { type: switch, name: lazy_clock, states: [☐候选时间, ☑候选时间] }
+      - { type: switch, name: preedit_lazy_clock, states: [☐编辑区时间, ☑编辑区时间] }
+      - { type: switch, name: traditionalization, states: [☐简保持, ☑简转繁] }
+      - { type: switch, name: simplification, states: [☐繁保持, ☑繁转简] }
+      - { type: switch, name: full_shape, states: [☐半角, ☑全角] }
+      - { type: switch, name: ascii_punct, states: [☐中文标点, ☑英文标点] }
+    date:
+      - { type: eval, name: ☀日期, expr: return os.date("%Y-%m-%d") }
+      - { type: eval, name: ⛅年月日, expr: return os.date("%Y年%m月%d日") }
+    time:
+      - { type: eval, name: ⌚时间, expr: return os.date("%H:%M:%S") }
+      - { type: eval, name: Ⓣ时间, expr: return os.date("%Y%m%d%H%M") }
+      - { type: eval, name: Ⓢ时间戳, expr: return tostring(os.time()) }
+    div:
+      - {
+          type: radio,
+          names:
+            [
+              hao_spelling.off,
+              hao_spelling.lv1,
+              hao_spelling.lv2,
+              hao_spelling.lv3,
+            ],
+          states: [☐☐☐注解, ☑☐☐注解, ☐☑☐注解, ☐☐☑注解],
+        }
+    trad:
+      - { type: switch, name: traditionalization, states: [☐不转换, ☑简转繁] }
+    simp:
+      - { type: switch, name: simplification, states: [☐不转换, ☑繁转简] }
+    full:
+      - { type: switch, name: full_shape, states: [☐半角, ☑全角] }
+    half:
+      - { type: switch, name: full_shape, states: [☐半角, ☑全角] }
+    punc:
+      - { type: switch, name: ascii_punct, states: [☐中文标点, ☑英文标点] }
+    dot:
+      - { type: switch, name: ascii_punct, states: [☐中文标点, ☑英文标点] }
+    lazy:
+      - { type: switch, name: lazy_clock, states: [☐候选时间, ☑候选时间] }
+    dist:
+      - type: eval
+        expr: >
+          return function(args)
+            return string.format("librime: [%s]", rime_api.get_rime_version())
+          end
+      - type: eval
+        expr: >
+          return function(args)
+            return string.format("distribution: [%s](%s/%s)",
+              rime_api.get_distribution_name(),
+              rime_api.get_distribution_code_name(),
+              rime_api.get_distribution_version())
+          end
+    uni:
+      - type: eval
+        hijack: true
+        expr: return require("hao.hao_core").unicode()
+    w:
+      - type: eval
+        hijack: true
+        expr: return require("hao.hao_core").unicode()
+
 emoji_suggestion:
     opencc_config: emoji.json
     option_name: emoji_suggestion
@@ -64,37 +149,7 @@ key_binder:
     - { when: always, accept: "Control+Shift+period", toggle: ascii_punct }
     - { when: always, accept: "Control+Shift+J", toggle: simplification }
     - { when: always, accept: "Control+Shift+F", toggle: traditionalization }
-    #- { when: always, accept: "Control+Shift+E", toggle: embeded_cands }
-    - {
-        when: always,
-        accept: "Control+Shift+M",
-        toggle: yuhao_charset_prioritizer_common,
-      } # 常用字優先
-    - {
-        when: always,
-        accept: "Control+Shift+O",
-        toggle: yuhao_charset_filter_common,
-      } # 常用詞過濾
-    #- { when: has_menu, accept: "0", toggle: yuhao_charset_filter_common }
-    #- { when: has_menu, accept: "/", toggle: yuhao_chaifen.off } # 拆分
-    - {
-        when: always,
-        accept: "Control+Shift+D",
-        toggle: yuhao_single_char_only_for_full_code,
-      } # 全码出单
-    - {
-        when: always,
-        accept: "Control+Shift+H",
-        toggle: yuhao_postpone_full_code,
-      } # 全碼後置
-    - {
-        when: always,
-        accept: "Control+Shift+Y",
-        toggle: yuhao_autocompletion_filter,
-      } # 輸入預測
-    #- { when: has_menu, accept: semicolon, send: 2 } # 分号次选
-    #- { when: has_menu, accept: apostrophe, send: 3 } # 引号三选
-    - { when: has_menu, accept: Tab, send: 2 } # 製表符次选
+    - { when: has_menu, accept: Tab, send: KP_2 } # 製表符次选
     - { when: has_menu, accept: minus, send: Page_Up } # 減號上翻頁
     - { when: has_menu, accept: equal, send: Page_Down } # 等號下翻頁
     - { when: has_menu, accept: " ", send: _ }
