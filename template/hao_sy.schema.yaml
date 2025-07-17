@@ -31,11 +31,11 @@ switches:
   - name: lazy_clock
     abbrev: [无, 時]
     states: [ 开启候选时间, 关闭候选时间 ]
-    #reset: 0
+    reset: 0
   - name: preedit_lazy_clock
     abbrev: [无, 時]
     states: [ 开启编辑区时间, 关闭编辑区时间 ]
-    #reset: 1
+    reset: 0
   - name: traditionalization
     states: [简保持, 简转繁]
     #reset: 0
