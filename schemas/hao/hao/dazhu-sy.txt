@@ -35381,7 +35381,7 @@ gllla	𡡤
 glhpt	𡡥
 glljd	𡡦
 glhkv	𡡧
-glvfj	𡡨
+glvvj	𡡨
 glglz	𡡩
 glvhg	𡡪
 gljac	𡡫
@@ -35417,7 +35417,7 @@ hsvlg	𡢈
 glggo	𡢉
 glazy	𡢊
 glddd	𡢋
-glvfj	𡢌
+glvcj	𡢌
 gldvz	𡢍
 dsljg	𡢎
 kagsx	𡢏
@@ -51965,7 +51965,7 @@ vkkbu	𥥞
 vkpr	𥥟
 vkfzl	𥥠
 vkajd	𥥡
-vkgfn	𥥢
+vkzfb	𥥢
 vkfle	𥥣
 vkxks	𥥤
 vklks	𥥥
