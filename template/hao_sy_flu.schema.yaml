@@ -18,7 +18,7 @@ __patch:
   switches/@0/reset: 0
   switches/@1/reset: 0
   switches/@2/reset: 0
-  switches/@3/reset: 1
+  switches/@3/reset: 0
   switches/@4/reset: 0
   switches/@5/reset: 0
   switches/@last/+:
@@ -73,8 +73,19 @@ hao:
     macro: [0x2f] # 當輸入串以 "/" 開頭時, 認爲是宏調用
   macros:
     hao:
-      - { type: tip, name: ❖松烟配置中心 }
+      - { type: tip, name: ❖松烟连打配置中心 }
       - { type: switch, name: hao_autocommit, states: [☐选重上屏, ☑自动上屏] }
+      - {
+          type: radio,
+          names:
+            [
+              hao_spelling.off,
+              hao_spelling.lv1,
+              hao_spelling.lv2,
+              hao_spelling.lv3,
+            ],
+          states: [☐☐☐注解, ☑☐☐注解, ☐☑☐注解, ☐☐☑注解],
+        }
       - { type: switch, name: lazy_clock, states: [☐候选时间, ☑候选时间] }
       - { type: switch, name: preedit_lazy_clock, states: [☐编辑区时间, ☑编辑区时间] }
       - { type: switch, name: traditionalization, states: [☐简保持, ☑简转繁] }
