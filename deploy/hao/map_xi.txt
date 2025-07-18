@@ -94,6 +94,7 @@ Fu	𠄏
 Fu	耒
 Fv	骨
 Fv	⾻
+Fv	
 Fv	冎
 Fv	
 Fy	欠
@@ -142,6 +143,7 @@ Ia	屮
 Ia	
 Ia	
 Ia	
+Ia	{𡳿上}
 Ib	飞
 Ic	貝
 Id	羊
@@ -246,6 +248,7 @@ Md	
 Md	
 Md	
 Md	
+Md	
 Me	言
 Mf	士
 Mg	米

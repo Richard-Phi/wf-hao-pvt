@@ -1,0 +1,11 @@
+# encoding: utf-8
+---
+name: "hao.sy.quicks"
+version: "20250528"
+sort: by_weight
+columns:
+  - text
+  - code
+  - weight
+...
+

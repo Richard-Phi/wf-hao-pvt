@@ -24,8 +24,8 @@ if [ -z "${INPUT_DIR}" ] || [ -z "${OUTPUT_DIR}" ]; then
 fi
 
 # 生成大竹码表
-if [ -f "${INPUT_DIR}/hao/leoxi.short.dict.yaml" ]; then
-    cat "${INPUT_DIR}/hao/leoxi.short.dict.yaml" | \
+if [ -f "${INPUT_DIR}/hao/hao.xi.short.dict.yaml" ]; then
+    cat "${INPUT_DIR}/hao/hao.xi.short.dict.yaml" | \
         sed 's/^\(.*\)\t\(.*\)/\1\t\2/g' | \
         sed 's/\t/{TAB}/g' | \
         grep '.*{TAB}.*' | \
@@ -36,7 +36,7 @@ if [ -f "${INPUT_DIR}/hao/leoxi.short.dict.yaml" ]; then
         sed "s/3/'/g" \
         >"${OUTPUT_DIR}/hao/dazhu-xi.txt"
     
-    cat "${INPUT_DIR}/hao/leoxi.full.dict.yaml" | \
+    cat "${INPUT_DIR}/hao/hao.xi.full.dict.yaml" | \
         sed 's/^\(.*\)\t\(.*\)/\1\t\2/g' | \
         sed 's/\t/{TAB}/g' | \
         grep '.*{TAB}.*' | \
@@ -62,35 +62,29 @@ if [ -f "${INPUT_DIR}/hao/leoxi.short.dict.yaml" ]; then
         #    sed 's/\(.*\)\t\(.*\)/\2\t\1/g' \
         #    >>"${OUTPUT_DIR}/hao/dazhu-xi.txt" && \
         cat "${INPUT_DIR}/div_xi.txt" | \
-            sed 's/\(.*\)\t(\(.*\),.*\(,.*,.*\))/\2\3\t\1/g' \
+            sed 's/\(.*\)\t(\(.*\),.*\(,.*,.*,.*\))/\2\3\t\1/g' \
             >"${OUTPUT_DIR}/hao/dazhu-haochai.txt"
     fi
 fi
 
-if [ -f "${INPUT_DIR}/hao/leosy.short.dict.yaml" ]; then
-    cat "${INPUT_DIR}/hao/leosy.short.dict.yaml" | \
-        sed 's/^\(.*\)\t\(.*\)/\2\t\1/g' | \
+if [ -f "${INPUT_DIR}/hao/hao.sy.short.dict.yaml" ]; then
+    cat "${INPUT_DIR}/hao/hao.sy.short.dict.yaml" | \
+        sed 's/^\(.*\)\t\(.*\)\(\t.*\)/\2\t\1/g' | \
+        sed 's/^.*\t\(.*\)\t\(.*\)/\2\t\1/g' | \
         sed 's/\t/{TAB}/g' | \
         grep '.*{TAB}.*' | \
-        sed 's/{TAB}/\t/g' | \
-        #awk '{print $2"\t"$1}' | \
-        sed 's/1/_/g' | \
-        sed 's/2/;/g' | \
-        sed "s/3/'/g" \
+        sed 's/{TAB}/\t/g' \
         >>"${OUTPUT_DIR}/hao/dazhu-sy.txt"
     
-    cat "${INPUT_DIR}/hao/leosy.quicks.dict.yaml" | \
-        sed 's/^\(.*\)\t\(.*\)/\2\t\1/g' | \
+    cat "${INPUT_DIR}/hao/hao.sy.quicks.dict.yaml" | \
+        sed 's/^\(.*\)\t\(.*\)\(\t.*\)/\2\t\1/g' | \
+        sed 's/^.*\t\(.*\)\t\(.*\)/\2\t\1/g' | \
         sed 's/\t/{TAB}/g' | \
         grep '.*{TAB}.*' | \
-        sed 's/{TAB}/\t/g' | \
-        #awk '{print $2"\t"$1}' | \
-        sed 's/1/_/g' | \
-        sed 's/2/;/g' | \
-        sed "s/3/'/g" \
+        sed 's/{TAB}/\t/g' \
         >>"${OUTPUT_DIR}/hao/dazhu-sy.txt"
     
-    cat "${INPUT_DIR}/hao/leosy.full.dict.yaml" | \
+    cat "${INPUT_DIR}/hao/hao.sy.full.dict.yaml" | \
         sed 's/^\(.*\)\t\(.*\)/\1\t\2/g' | \
         sed 's/\t/{TAB}/g' | \
         grep '.*{TAB}.*' | \

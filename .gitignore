@@ -7,14 +7,14 @@
 /schemas/hao/build
 /schemas/hao/installation.yaml
 /schemas/hao/default.custom.yaml
-/schemas/hao/leosy.custom.yaml
+/schemas/hao/hao_sy.custom.yaml
 /schemas/hao/user.yaml
 /schemas/hao/sync
 /schemas/hao/hao.smart
 /schemas/hao/*.userdb
 /schemas/hao/*.userdb.bak
 /schemas/hao/dicts/*.userdb
-/schemas/hao/leoxi.txt
+/schemas/hao/haoxi.txt
 /schemas/hao/squirrel.yaml
 /schemas/hao/weasel.yaml
 #/schemas/hao/weasel.custom.yaml

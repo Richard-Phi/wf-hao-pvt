@@ -13,8 +13,8 @@ if [ -z "${INPUT_DIR}" ] || [ -z "${OUTPUT_DIR}" ]; then
 fi
 
 # 生成跟打词提
-if [ -f "${INPUT_DIR}/hao/leoxi.short.dict.yaml" ]; then
-    cat "${INPUT_DIR}/hao/leoxi.short.dict.yaml" | \
+if [ -f "${INPUT_DIR}/hao/hao.xi.short.dict.yaml" ]; then
+    cat "${INPUT_DIR}/hao/hao.xi.short.dict.yaml" | \
         sed 's/^\(.*\)\t\(.*\)/\1\t\2/g' | \
         sed 's/\t/{TAB}/g' | \
         grep '.*{TAB}.*' | \
@@ -22,7 +22,7 @@ if [ -f "${INPUT_DIR}/hao/leoxi.short.dict.yaml" ]; then
         awk '{print $1 "\t" $2}' \
         >"${OUTPUT_DIR}/hao/跟打词提-淅码.txt"
     
-    cat "${INPUT_DIR}/hao/leoxi.full.dict.yaml" | \
+    cat "${INPUT_DIR}/hao/hao.xi.full.dict.yaml" | \
         sed 's/^\(.*\)\t\(.*\)/\1\t\2/g' | \
         sed 's/\t/{TAB}/g' | \
         grep '.*{TAB}.*' | \
@@ -31,15 +31,15 @@ if [ -f "${INPUT_DIR}/hao/leoxi.short.dict.yaml" ]; then
         >>"${OUTPUT_DIR}/hao/跟打词提-淅码.txt"
 fi
 
-if [ -f "${INPUT_DIR}/hao/leosy.short.dict.yaml" ]; then
-    cat "${INPUT_DIR}/hao/leosy.short.dict.yaml" | \
+if [ -f "${INPUT_DIR}/hao/hao.sy.short.dict.yaml" ]; then
+    cat "${INPUT_DIR}/hao/hao.sy.short.dict.yaml" | \
         sed 's/^\(.*\)\t\(.*\)/\1\t\2/g' | \
         sed 's/\t/{TAB}/g' | \
         grep '.*{TAB}.*' | \
         sed 's/{TAB}/\t/g' \
         >>"${OUTPUT_DIR}/hao/跟打词提-松烟.txt"
     
-    cat "${INPUT_DIR}/hao/leosy.quicks.dict.yaml" | \
+    cat "${INPUT_DIR}/hao/hao.sy.quicks.dict.yaml" | \
         sed 's/^\(.*\)\t\(.*\)/\2\t\1/g' | \
         sed 's/\t/{TAB}/g' | \
         grep '.*{TAB}.*' | \
@@ -47,7 +47,7 @@ if [ -f "${INPUT_DIR}/hao/leosy.short.dict.yaml" ]; then
         awk '{print $2 "\t" $1}' \
         >>"${OUTPUT_DIR}/hao/跟打词提-松烟.txt"
     
-    cat "${INPUT_DIR}/hao/leosy.full.dict.yaml" | \
+    cat "${INPUT_DIR}/hao/hao.sy.full.dict.yaml" | \
         sed 's/^\(.*\)\t\(.*\)/\1\t\2/g' | \
         sed 's/\t/{TAB}/g' | \
         grep '.*{TAB}.*' | \

@@ -79,12 +79,13 @@ gen_schema() {
     cp -r ../template/lua "${HAO}/lua" || error "复制 Lua 脚本失败"
     cp -r ../template/opencc "${HAO}/opencc" || error "复制 OpenCC 配置失败"
     cp -r ../template/hao "${HAO}/hao" || error "复制码表文件失败"
+    cp -r ../template/py_wordscounter "${HAO}/py_wordscounter" || error "复制 py_wordscounter 失败"
     # 使用自定义配置覆盖默认值
     if [ -d "${NAME}" ]; then
         log "应用自定义配置..."
         cp -r "${NAME}"/*.txt "${HAO}"
-        cat "${NAME}"/short_sy.txt >> "${HAO}"/hao/leosy.short.dict.yaml
-        cat "${NAME}"/quicks_sy.txt >> "${HAO}"/hao/leosy.quicks.dict.yaml
+        cat "${NAME}"/short_sy.txt >> "${HAO}"/hao/hao.sy.short.dict.yaml
+        cat "${NAME}"/quicks_sy.txt >> "${HAO}"/hao/hao.sy.quicks.dict.yaml
     fi
 
     # 生成映射表
@@ -128,10 +129,10 @@ gen_schema() {
     # 合并码表文件
     log "合并码表文件..."
     pushd ${HAO}/ || error "无法切换到临时目录"
-        awk '/单字全码/ {system("cat fullcode_xi_modified.txt"); next} 1' hao/leoxi.full.dict.yaml > temp && mv temp hao/leoxi.full.dict.yaml
-        cat div_xi.txt | sed "s/(/[/g" | sed "s/)/]/g" >>"leoxi_chaifen.dict.yaml"
-        awk '/单字全码/ {system("cat fullcode_sy_modified.txt"); next} 1' hao/leosy.full.dict.yaml > temp && mv temp hao/leosy.full.dict.yaml
-        cat div_sy.txt | sed "s/(/[/g" | sed "s/)/]/g" >>"leosy_chaifen.dict.yaml"
+        awk '/单字全码/ {system("cat fullcode_xi_modified.txt"); next} 1' hao/hao.xi.full.dict.yaml > temp && mv temp hao/hao.xi.full.dict.yaml
+        cat div_xi.txt | sed "s/(/[/g" | sed "s/)/]/g" >>"hao_xi_chaifen.dict.yaml"
+        awk '/单字全码/ {system("cat fullcode_sy_modified.txt"); next} 1' hao/hao.sy.full.dict.yaml > temp && mv temp hao/hao.sy.full.dict.yaml
+        cat div_sy.txt | sed "s/(/[/g" | sed "s/)/]/g" >>"hao_sy_chaifen.dict.yaml"
     popd
 
     cat "${HAO}/map_xi.txt" | \
@@ -140,14 +141,14 @@ gen_schema() {
         sed 's/\t/{TAB}/g' | \
         grep '.*{TAB}.*' | \
         sed 's/{TAB}/\t/g' \
-        >>"${HAO}/hao/leoxi.roots.dict.yaml"
+        >>"${HAO}/hao/hao.xi.roots.dict.yaml"
     cat "${HAO}/map_sy.txt" | \
         sed 's/^\(.*\)\t\(.*\)/\2\t\/r\1/g' | \
         awk '{print tolower($0)}' | \
         sed 's/\t/{TAB}/g' | \
         grep '.*{TAB}.*' | \
         sed 's/{TAB}/\t/g' \
-        >>"${HAO}/hao/leosy.roots.dict.yaml"
+        >>"${HAO}/hao/hao.sy.roots.dict.yaml"
 
     #realpath ${HAO}
     #ls -alh ${HAO}/
@@ -164,7 +165,7 @@ gen_schema() {
     cp -r ../assets/simpcode/pair_equivalence.txt "${HAO}/simpcode/"
     
     # 检查必要文件是否存在
-    for f in "${HAO}/hao/leoxi.full.dict.yaml" "${HAO}/freq.txt"; do
+    for f in "${HAO}/hao/hao.xi.full.dict.yaml" "${HAO}/freq.txt"; do
         if [ ! -f "$f" ]; then
             error "缺少必要的文件: $f"
         fi
@@ -173,17 +174,21 @@ gen_schema() {
     # 运行简码生成脚本
     pushd ${WD}/../assets/simpcode || error "无法切换到 simpcode 目录"
         python simpcode.py || error "生成简码失败"
-        awk '/单字标记/ {system("cat res.txt"); next} 1' ${HAO}/hao/leoxi.short.dict.yaml > ${HAO}/temp && mv ${HAO}/temp ${HAO}/hao/leoxi.short.dict.yaml
+        awk '/单字标记/ {system("cat res.txt"); next} 1' ${HAO}/hao/hao.xi.short.dict.yaml > ${HAO}/temp && mv ${HAO}/temp ${HAO}/hao/hao.xi.short.dict.yaml
     popd
 
-    log "生成淅全码后置元素..."
-    words=$(awk '
-        /^#----------单字开始----------#$/ { in_block=1; next }
-        /^#----------单字结束----------#$/ { in_block=0 }
-        in_block && NF >= 3 && length($2) <= 3 { print $0 }
-    ' ${HAO}/hao/leoxi.short.dict.yaml | sort -t$'\t' -k3,3nr | awk -F'\t' '{printf $1}')
-    escaped_words="${words%% *}"
-    sed -i '' "s|淅码全码后置|$escaped_words|g" ${HAO}/leoxi.schema.yaml
+    #log "生成淅全码后置元素..."
+    #words=$(awk '
+    #    /^#----------单字开始----------#$/ { in_block=1; next }
+    #    /^#----------单字结束----------#$/ { in_block=0 }
+    #    in_block && NF >= 3 && length($2) <= 3 { print $0 }
+    #' ${HAO}/hao/hao.xi.short.dict.yaml | sort -t$'\t' -k3,3nr | awk -F'\t' '{printf $1}')
+    #escaped_words="${words%% *}"
+    #if [ "$(uname)" = "Darwin" ]; then
+    #    sed -i '' "s|淅码全码后置|$escaped_words|g" ${HAO}/hao_xi.schema.yaml
+    #else
+    #    sed -i "s|淅码全码后置|$escaped_words|g" ${HAO}/hao_xi.schema.yaml
+    #fi
 
     # 生成跟打词提
     log "生成跟打词提..."
@@ -235,7 +240,7 @@ gen_schema() {
         #    --exclude="user.yaml" \
         #    --exclude="squirrel.yaml" \
         #    --exclude="weasel.yaml" \
-        #    --exclude="leoxi.txt" \
+        #    --exclude="haoxi.txt" \
         #    "./${NAME}" | \
         #    zstd -9 -T0 -c \
         #    > "releases/${NAME}-${REF_NAME}.tar.zst" \
@@ -248,7 +253,7 @@ gen_schema() {
             -x "*user.yaml" \
             -x "*squirrel.yaml" \
             -x "*weasel.yaml" \
-            -x "*leoxi.txt" \
+            -x "*haoxi.txt" \
             || error "打包失败"
     popd
     log "方案 ${NAME} 生成完成"
