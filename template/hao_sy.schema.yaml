@@ -168,6 +168,8 @@ hao:
       - { type: eval, name: ⌚时间, expr: return os.date("%H:%M:%S") }
       - { type: eval, name: Ⓣ时间, expr: return os.date("%Y%m%d%H%M") }
       - { type: eval, name: Ⓢ时间戳, expr: return tostring(os.time()) }
+    auto:
+      - { type: switch, name: hao_autocommit, states: [☐选重上屏, ☑自动上屏] }
     div:
       - {
           type: radio,
