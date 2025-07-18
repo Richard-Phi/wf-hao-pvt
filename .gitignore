@@ -14,7 +14,7 @@
 /schemas/hao/*.userdb
 /schemas/hao/*.userdb.bak
 /schemas/hao/dicts/*.userdb
-/schemas/hao/haoxi.txt
+/schemas/hao/hao_xi.txt
 /schemas/hao/squirrel.yaml
 /schemas/hao/weasel.yaml
 #/schemas/hao/weasel.custom.yaml
