@@ -172,9 +172,15 @@ gen_schema() {
     done
     
     # 运行简码生成脚本
+    log "运行简码生成脚本..."
     pushd ${WD}/../assets/simpcode || error "无法切换到 simpcode 目录"
         python simpcode.py || error "生成简码失败"
         awk '/单字标记/ {system("cat res.txt"); next} 1' ${HAO}/hao/hao.xi.short.dict.yaml > ${HAO}/temp && mv ${HAO}/temp ${HAO}/hao/hao.xi.short.dict.yaml
+    popd
+
+    log "运行五二顶动态码表生成脚本..."
+    pushd ${WD}/../assets/genwuer || error "无法切换到 genwuer 目录"
+        python genwuer.py || error "生成五二顶动态码表失败"
     popd
 
     #log "生成淅全码后置元素..."
