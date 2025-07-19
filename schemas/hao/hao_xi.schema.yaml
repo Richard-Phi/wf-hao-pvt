@@ -358,7 +358,7 @@ punctuator:
     '(' : { commit: '（' }
     ')' : { commit: '）' }
     '-' : { commit: '-' }
-    '_' : { commit: '_' }
+    '_' : { commit: '——' }
     '+' : { commit: '+' }
     '=' : { commit: '=' }
     '[' : { commit: '[' }
