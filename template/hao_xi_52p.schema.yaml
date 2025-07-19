@@ -51,7 +51,9 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: "qwertyuiopasdfghjklzxcvbnm;"
+  alphabet: zyxwvutsrqponmlkjihgfedcba;'/
+  initials: zyxwvutsrqponmlkjihgfedcba;'/
+  delimiter: " "
   max_code_length: 5
   popping:
     - match: "[qwertyuiopasdfghjklzxcvbnm]{4}"
@@ -62,18 +64,22 @@ speller:
 
 translator:
   dictionary: hao_xi_52p
+  prism: hao_xi_52p
   enable_sentence: false
   enable_user_dict: true
   enable_completion: false
 
 key_binder:
   bindings:
-    - match: "^[qwertyuiopasdfghjklzxcvbnm]$"
+    #- match: "^[qwertyuiopasdfghjklzxcvbnm]{2}$" # 解决句末单字「2」码上屏方式，也可直接用空格
+    #  accept: "/"
+    #  send_sequence: " "
+    - match: "^[qwertyuiopasdfghjklzxcvbnm]{3}$" # 解决句末两字「2+1」码上屏方式
       accept: ";"
-      send_sequence: " "
-    - match: "^[qwertyuiopasdfghjklzxcvbnm]{3}$"
+      send_sequence: "{Home}{Right}{Right}{space}{space}"
+    - match: "^[qwertyuiopasdfghjklzxcvbnm]{4}$" # 解决句末两字「2+2」码上屏方式
       accept: ";"
-      send_sequence: "{Left}{space}{space}"
+      send_sequence: "{Home}{Right}{Right}{space}{space}"
     - match: "^[qwertyuiopasdfghjklzxcvbnm]{1, 2}$"
       accept: ";"
       send_sequence: "2"
