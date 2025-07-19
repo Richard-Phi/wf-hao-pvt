@@ -292,6 +292,7 @@ punctuator:
     "}": "」"
     "/": "/"
     "|": "|"
+  digit_separators: ",."
 
 key_binder:
   bindings:
