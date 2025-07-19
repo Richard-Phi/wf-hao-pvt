@@ -298,77 +298,12 @@ hao_stroke_lookup:
 
 #再次优化符号
 punctuator:
-  full_shape:
-    ' ' : { commit: '　' }
-    ',' : { commit: '，' }
-    '.' : { commit: '。' }
-    '<' : { commit: '《' }
-    '>' : { commit: '》' }
-    '/' : { commit: '／' } 
-    '?' : { commit: '？' }
-    ';' : { commit: '；' }
-    ':' : { commit: '：' }
-    '''' : { pair: [ '‘', '’' ] }
-    '"' : { pair: [ '“', '”' ] }
-    '\' : { commit: '＼' }
-    '|' : { commit: '・' }
-    '`' : { commit: '｀' }
-    '~' : { commit: '～' }
-    '!' : { commit: '！' }
-    '@' : { commit: '＠' }
-    '#' : { commit: '＃' }
-    '%' : { commit: '％' }
-    '$' : { commit: '￥' }
-    '^' : { commit: '……' }
-    '&' : { commit: '＆' }
-    '*' : { commit: '＊' }
-    '(' : { commit: '（' }
-    ')' : { commit: '）' }
-    '-' : { commit: '－' }
-    '_' : { commit: '——' }
-    '+' : { commit: '＋' }
-    '=' : { commit: '＝' }
-    '[' : { commit: '［' }
-    ']' : { commit: '］' }
-    '{' : { commit: '｛' }
-    '}' : { commit: '｝' }
-  half_shape:
-    ',' : { commit: '，' }
-    '.' : { commit: '。' }
-    '<' : { commit: '《' }
-    '>' : { commit: '》' }
-    '/' : { commit: '/' }
-    '?' : { commit: '？' }
-    ';' : { commit: '；' }
-    ':' : { commit: '：' }
-    '''' : { pair: [ '‘', '’' ] }
-    '"' : { pair: [ '“', '”' ] }
-    '\' : { commit: '、' }
-    '|' : { commit: '·' }
-    '`' : { commit: '`' }
-    '~' : { commit: '~' }
-    '!' : { commit: '！' }
-    '@' : { commit: '@' }
-    '#' : { commit: '#' }
-    '%' : { commit: '%' }
-    '$' : { commit: '$' }
-    '^' : { commit: '……' }
-    '&' : { commit: '&' }
-    '*' : { commit: '*' }
-    '(' : { commit: '（' }
-    ')' : { commit: '）' }
-    '-' : { commit: '-' }
-    '_' : { commit: '——' }
-    '+' : { commit: '+' }
-    '=' : { commit: '=' }
-    '[' : { commit: '[' }
-    ']' : { commit: ']' }
-    '{' : { commit: '{' }
-    '}' : { commit: '}' }
+  import_preset: symbols
   digit_separators: "" # 禁用数字后英文符号
+
 key_binder:
   bindings:
-    - { when: always, accept: Tab, send: Escape } # tab退出
+    - { when: has_menu, accept: Tab, send: Escape } # tab退出
     - { when: composing, accept: space, send: Escape }
     - { when: has_menu, accept: space, send: space }
     - { when: always, accept: "Control+Shift+J", toggle: simplification }

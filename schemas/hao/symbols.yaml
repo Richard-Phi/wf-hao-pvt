@@ -12,69 +12,69 @@ patch:
 punctuator:
   full_shape:
     ' ' : { commit: '　' }
-    ',' : { commit: ， }
-    '.' : { commit: 。 }
-    '<' : { commit: 《 }
-    '>' : { commit: 》 }
-    '/' : [ ／, ÷ ]
-    '?' : { commit: ？ }
-    ';' : { commit: ； }
-    ':' : { commit: ： }
+    ',' : { commit: '，' }
+    '.' : { commit: '。' }
+    '<' : { commit: '《' }
+    '>' : { commit: '》' }
+    '/' : { commit: '／' } 
+    '?' : { commit: '？' }
+    ';' : { commit: '；' }
+    ':' : { commit: '：' }
     '''' : { pair: [ '‘', '’' ] }
     '"' : { pair: [ '“', '”' ] }
-    '\' : { commit: ＼ }
-    '|' : { commit: ・ }
-    '`' : { commit: ｀ }
-    '~' : { commit: ～ }
-    '!' : { commit: ！ }
-    '@' : { commit: ＠ }
-    '#' : { commit: ＃ }
-    '%' : { commit: ％ }
-    '$' : { commit: ￥ }
-    '^' : { commit: …… }
-    '&' : { commit: ＆ }
-    '*' : { commit: ＊ }
-    '(' : { commit: （ }
-    ')' : { commit: ） }
-    '-' : { commit: － }
-    '_' : { commit: —— }
-    '+' : { commit: ＋ }
-    '=' : { commit: ＝ }
-    '[' : { commit: ［ }
-    ']' : { commit: ］ }
-    '{' : { commit: ｛ }
-    '}' : { commit: ｝ }
+    '\' : { commit: '＼' }
+    '|' : { commit: '・' }
+    '`' : { commit: '｀' }
+    '~' : { commit: '～' }
+    '!' : { commit: '！' }
+    '@' : { commit: '＠' }
+    '#' : { commit: '＃' }
+    '%' : { commit: '％' }
+    '$' : { commit: '￥' }
+    '^' : { commit: '……' }
+    '&' : { commit: '＆' }
+    '*' : { commit: '＊' }
+    '(' : { commit: '（' }
+    ')' : { commit: '）' }
+    '-' : { commit: '－' }
+    '_' : { commit: '——' }
+    '+' : { commit: '＋' }
+    '=' : { commit: '＝' }
+    '[' : { commit: '［' }
+    ']' : { commit: '］' }
+    '{' : { commit: '｛' }
+    '}' : { commit: '｝' }
   half_shape:
-    ',' : { commit: ， }
-    '.' : { commit: 。 }
-    '<' : { commit: 《 }
-    '>' : { commit: 》 }
+    ',' : { commit: '，' }
+    '.' : { commit: '。' }
+    '<' : { commit: '《' }
+    '>' : { commit: '》' }
     '/' : { commit: '/' }
-    '?' : { commit: ？ }
-    ';' : { commit: ； }
-    ':' : { commit: ： }
+    '?' : { commit: '？' }
+    ';' : { commit: '；' }
+    ':' : { commit: '：' }
     '''' : { pair: [ '‘', '’' ] }
     '"' : { pair: [ '“', '”' ] }
-    '\' : { commit: 、 }
-    '|' : { commit: · }
+    '\' : { commit: '、' }
+    '|' : { commit: '·' }
     '`' : { commit: '`' }
     '~' : { commit: '~' }
-    '!' : { commit: ！ }
+    '!' : { commit: '！' }
     '@' : { commit: '@' }
     '#' : { commit: '#' }
     '%' : { commit: '%' }
-    '$' : { commit: '￥' }
-    '^' : { commit: …… }
+    '$' : { commit: '$' }
+    '^' : { commit: '……' }
     '&' : { commit: '&' }
     '*' : { commit: '*' }
-    '(' : { commit: （ }
-    ')' : { commit: ） }
+    '(' : { commit: '（' }
+    ')' : { commit: '）' }
     '-' : { commit: '-' }
-    '_' : { commit: _ }
+    '_' : { commit: '——' }
     '+' : { commit: '+' }
-    '=' : { commit: = }
-    '[' : { commit: 【 }
-    ']' : { commit: 】 }
+    '=' : { commit: '=' }
+    '[' : { commit: '[' }
+    ']' : { commit: ']' }
     '{' : { commit: '{' }
     '}' : { commit: '}' }
   symbols:
