@@ -24610,8 +24610,8 @@ zfii	戙
 ;zfii	戙
 iigi	戜 𠴔 𧶔
 ;iigi	戜 𠴔 𧶔
-kieo	戞
-;kieo	戞
+wieo	戞 𦬗 𩫅 𬽎
+;wieo	戞 𦬗 𩫅 𬽎
 aie	戠
 ;aie	戠
 hsgi	戦 洤 絟
@@ -89500,8 +89500,6 @@ wiks	𦬕
 ;wiks	𦬕
 wkdp	𦬖
 ;wkdp	𦬖
-wieo	𦬗 𩫅 𬽎
-;wieo	𦬗 𩫅 𬽎
 wvnd	𦬘
 ;wvnd	𦬘
 wfsi	𦬚 𮐇

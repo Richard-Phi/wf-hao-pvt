@@ -12936,7 +12936,7 @@ iieo	戔
 zfii	戙
 iigi	戜
 iieo	戝
-kieo	戞
+wieo	戞
 aie	戠
 hsgi	戦
 sfii	戧
@@ -116447,7 +116447,7 @@ iieo	戔
 zfii	戙
 iigi	戜
 iieo	戝
-kieo	戞
+wieo	戞
 aieo	戠
 hsgi	戦
 sfii	戧
