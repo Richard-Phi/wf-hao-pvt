@@ -66446,7 +66446,7 @@
 𩙮	pown
 𩙯	pobx
 𩙰	poia
-𩙱	dppk
+𩙱	ilki
 𩙲	ldpk
 𩙳	tndp
 𩙴	mldp
@@ -169957,7 +169957,7 @@
 𩙮	pown
 𩙯	pobx
 𩙰	poia
-𩙱	dppk
+𩙱	ilki
 𩙲	ldpk
 𩙳	tndp
 𩙴	mldp

@@ -103146,8 +103146,8 @@ pobx	𩙯
 ;pobx	𩙯
 poia	𩙰
 ;poia	𩙰
-dppk	𩙱 ⾶
-;dppk	𩙱 ⾶
+ilki	𩙱
+;ilki	𩙱
 ldpk	𩙲
 ;ldpk	𩙲
 tndp	𩙳
@@ -119650,6 +119650,8 @@ uyco	⾵
 ;uyco	⾵
 gioz	𬲏
 ;gioz	𬲏
+dppk	⾶
+;dppk	⾶
 oup	𬲐
 ;oup	𬲐
 odje	𬲑
