@@ -102,7 +102,7 @@ local function func(key_event, env)
     -- 1. 输入字母后接分号（;）或斜杠（/）时自动上屏
     if (current_char == ';' or current_char == '/') and #input >= 1 then
         local last_char = input:sub(-1)
-        if last_char:match("[a-z]") then
+        if last_char:match("[a-z;]") then
             context:push_input(current_char)
             local composition = context.composition
             if not composition or composition:empty() then
