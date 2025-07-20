@@ -20460,8 +20460,8 @@ kqno	侲
 ;kqno	侲
 kssb	侳 㒦
 ;kssb	侳 㒦
-kici	侶
-;kici	侶
+kici	侶 𬾘
+;kici	侶 𬾘
 kei	侸
 ;kei	侸
 kdt	侺
@@ -22966,8 +22966,8 @@ sto	嬝
 ;sto	嬝
 swhd	嬞
 ;swhd	嬞
-sici	嬟 𠒦 𬾘 𭻳
-;sici	嬟 𠒦 𬾘 𭻳
+sici	嬟 𠒦 𭻳
+;sici	嬟 𠒦 𭻳
 sir	嬠
 ;sir	嬠
 stej	嬡
@@ -49732,8 +49732,8 @@ cuci	𠂾
 ;cuci	𠂾
 cssg	𠂿 𩦛
 ;cssg	𠂿 𩦛
-kssp	𠃀 𠌶 𬾵
-;kssp	𠃀 𠌶 𬾵
+kssp	𠃀 𠌶
+;kssp	𠃀 𠌶
 csco	𠃁 𤱮
 ;csco	𠃁 𤱮
 cucf	𠃂 𨸿
@@ -50096,8 +50096,8 @@ tpvp	𠆦 𩾐 𰢛
 ;tpvp	𠆦 𩾐 𰢛
 kfuk	𠆨
 ;kfuk	𠆨
-kgck	𠆫 𬽩
-;kgck	𠆫 𬽩
+kgck	𠆫
+;kgck	𠆫
 krpv	𠆬
 ;krpv	𠆬
 srp	𠆭
@@ -52112,8 +52112,8 @@ qsp	𠙞
 ;qsp	𠙞
 corp	𠙟
 ;corp	𠙟
-sssp	𠙠
-;sssp	𠙠
+sssp	𠙠 𬾵
+;sssp	𠙠 𬾵
 bdw	𠙡
 ;bdw	𠙡
 wgwp	𠙢
@@ -107870,8 +107870,8 @@ kjyy	𪝧
 ;kjyy	𪝧
 kiuu	𪝩
 ;kiuu	𪝩
-kmrk	𪝪
-;kmrk	𪝪
+kmrk	𪝪 𬿬
+;kmrk	𪝪 𬿬
 kfyw	𪝫
 ;kfyw	𪝫
 kqug	𪝬
@@ -120588,6 +120588,8 @@ ktko	𬽦
 ;ktko	𬽦
 ksks	𬽨
 ;ksks	𬽨
+kghg	𬽩
+;kghg	𬽩
 kpfk	𬽫
 ;kpfk	𬽫
 kfkc	𬽬
@@ -120832,8 +120834,6 @@ kkrd	𬿧 𬿩
 ;kkrd	𬿧 𬿩
 kczx	𬿪
 ;kczx	𬿪
-smrk	𬿬
-;smrk	𬿬
 kqjb	𬿭
 ;kqjb	𬿭
 kpmr	𬿮
@@ -120844,8 +120844,8 @@ kgwv	𬿰
 ;kgwv	𬿰
 kxpy	𬿱
 ;kxpy	𬿱
-skgo	𬿲
-;skgo	𬿲
+kkgo	𬿲
+;kkgo	𬿲
 kluo	𬿳
 ;kluo	𬿳
 kdco	及
@@ -120870,8 +120870,8 @@ ihtk	叫
 ;ihtk	叫
 kevd	𬿺
 ;kevd	𬿺
-szil	𬿻
-;szil	𬿻
+kzil	𬿻
+;kzil	𬿻
 kfza	𬿼
 ;kfza	𬿼
 kfrr	𬿽
