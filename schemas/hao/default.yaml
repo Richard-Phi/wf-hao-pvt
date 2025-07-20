@@ -19,6 +19,7 @@ switcher:
     - traditionalization
     - simplification
     - emoji_suggestion
+    - hao_embeded_cands
     #- lazy_clock
     #- preedit_lazy_clock
     - hao_spelling.off
