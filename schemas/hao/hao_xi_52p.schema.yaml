@@ -76,24 +76,24 @@ key_binder:
       send_sequence: " "
     - match: "^[qwertyuiopasdfghjklzxcvbnm]{3}$"
       accept: ";"
-      send_sequence: "{Left}{space}{space}"
+      send_sequence: "{Home}{Right}{Right}{space}{space}"
     - match: "^[qwertyuiopasdfghjklzxcvbnm]{1, 2}$"
       accept: ";"
       send_sequence: "2"
     - match: "^[qwertyuiopasdfghjklzxcvbnm]{4}$"
       accept: ";"
-      send_sequence: "{Left}{space}2"
+      send_sequence: "{Home}{Right}{Right}{space}2"
     - match: "^[qwertyuiopasdfghjklzxcvbnm]{2}$"
       accept: "/"
       send_sequence: " "
     - match: "^[qwertyuiopasdfghjklzxcvbnm]{4}$"
       accept: "/"
-      send_sequence: "{Left}{Left}{space}{space}"
+      send_sequence: "{Home}{Right}{Right}{space}{space}"
     - { when: composing, accept: space, send: Escape }
     - { when: has_menu, accept: space, send: space }
     - { when: always, accept: "Control+Shift+J", toggle: simplification }
     - { when: always, accept: "Control+Shift+F", toggle: traditionalization }
-    - { when: has_menu, accept: semicolon, send: KP_2 } # 分号次选
+    #- { when: has_menu, accept: semicolon, send: KP_2 } # 分号次选
     - { when: has_menu, accept: apostrophe, send: KP_3 } # 引号三选
     - { when: has_menu, accept: Tab, send: KP_2 } # 製表符次选
     - { when: has_menu, accept: minus, send: Page_Up } # 減號上翻頁
