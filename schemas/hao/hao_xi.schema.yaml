@@ -99,8 +99,8 @@ engine:
     - lua_filter@*hao.hao_postpone_fullcode
     - lua_filter@*hao.hao_os*lazy_clock_filter
     - lua_filter@*hao.hao_os*preedit_lazy_clock_filter
-    - uniquifier
     - lua_filter@*hao.hao_embeded_cands
+    - uniquifier
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba;'/
