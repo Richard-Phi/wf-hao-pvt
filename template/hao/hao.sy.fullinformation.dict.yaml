@@ -1,0 +1,11 @@
+# encoding: utf-8
+---
+name: "hao.sy.fullinformation"
+version: "20250721"
+sort: by_weight
+columns:
+  - text
+  - code
+  - weight
+...
+

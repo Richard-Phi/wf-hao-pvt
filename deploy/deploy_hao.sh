@@ -133,6 +133,11 @@ gen_schema() {
         cat div_xi.txt | sed "s/(/[/g" | sed "s/)/]/g" >>"hao_xi_chaifen.dict.yaml"
         awk '/单字全码/ {system("cat fullcode_sy_modified.txt"); next} 1' hao/hao.sy.full.dict.yaml > temp && mv temp hao/hao.sy.full.dict.yaml
         cat div_sy.txt | sed "s/(/[/g" | sed "s/)/]/g" >>"hao_sy_chaifen.dict.yaml"
+        cat div_sy.txt | \
+            awk -F '[\t(),]' -v OFS='\t' 'NR==FNR{freq[$1]=$2; next} {print $1, $4, freq[$1]}' "${HAO}/freq.txt" - | \
+            sort -k3,3nr \
+        >>"hao/hao.sy.fullinformation.dict.yaml"
+
     popd
 
     cat "${HAO}/map_xi.txt" | \
