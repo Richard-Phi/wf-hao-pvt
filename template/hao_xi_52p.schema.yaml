@@ -9,6 +9,7 @@ schema:
   version: "0.1.0"
   author:
     - 深白
+    - 荒
   description: |
     五二顶：二简不打空格，四码打空格，一简分号上屏
     动态二重二简：二简的第二个候选是根据你使用的频率变化的，使用 ;+编码 这种方式输入的字能增加频率
@@ -68,6 +69,9 @@ translator:
   enable_sentence: false
   enable_user_dict: true
   enable_completion: false
+  disable_user_dict_for_patterns:
+    - '^.$'
+    - '^.{3,4}$'
 
 key_binder:
   bindings:
