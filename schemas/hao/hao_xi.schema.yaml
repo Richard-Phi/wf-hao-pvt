@@ -299,7 +299,7 @@ hao_stroke_lookup:
 #再次优化符号
 punctuator:
   import_preset: symbols
-  digit_separators: "" # 禁用数字后英文符号
+  #digit_separators: "" # 禁用数字后英文符号
 
 key_binder:
   bindings:
