@@ -737,6 +737,9 @@ cccfr	燃烧
 gdgjw	玻璃
 fl;	忐忑
 fllfu	忐忑
+ksksw	呼吸
+tvr	馄饨
+tvtlr	馄饨
 xx;	踌躇
 xmxco	踌躇
 dku	眼睛
@@ -781,9 +784,9 @@ ljw	陆离
 lkjsw	陆离
 kce	顑颔
 klcxe	顑颔
-smlo	鹦鹉
+sslo	鹦鹉
 sslqo	鹦鹉
-hscw	浩荡
+hmw	浩荡
 hmchw	浩荡
 hhe	滂沱
 hjhge	滂沱
