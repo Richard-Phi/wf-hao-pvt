@@ -152,8 +152,8 @@ local function func(key_event, env)
 
     -- 检查是否是第五个编码
     if #input == 4 then
-        -- 如果第五码是数字键，则作为选重功能，不自动上屏
-        if current_char:match("[0-9 ]") then
+        -- 如果第五码是数字/翻页等键，则作为选重/翻页功能，不自动上屏
+        if current_char:match("[0-9-= ]") then
             return kNoop
         end
         
