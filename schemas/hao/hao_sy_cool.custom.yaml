@@ -1,0 +1,66 @@
+# 功能開關一鍵配置
+
+patch:
+  ################
+  # 外觀默認設置 #
+  ################
+  schema/name: 荒·单简爽  # 方案名
+  # menu/page_size: 9  # 每頁候選數量
+  # style/horizontal: true  # 橫排候選欄
+  # style/inline_preedit: false  # 候選欄内置於輸入界面
+  # style/preedit_type: composition  # 候選顯示字母(composition)还是候選(preview)
+  # style/inline_candidate: false  # MacOs 候選顯示字母(false)还是候選(true)
+  # style/layout/margin_x: -1 # 關閉候選欄 Windows
+  # style/alpha: 0.01  # 隱藏候選欄 Mac
+  # font_face: Arial, Segoe UI Emoji, TumanPUA, 苹方-简, 思源黑体, 遍黑体P1, 遍黑体P1  # 字體
+  #
+  ####################
+  # 控制開關默認設置 #
+  ####################
+  # 以下開關，0爲第一個，1爲第二個，2爲第三個
+  #
+  # switches/@0/reset: 0  # [☐整句, ☑前缀]
+  # switches/@1/reset: 1  # [无注解, 一重注解, 二重注解, 多重注解]
+  # switches/@2/reset: 1  # [ 开启候选时间, 关闭候选时间 ]
+  # switches/@3/reset: 1  # [ 开启编辑区时间, 关闭编辑区时间 ]
+  # switches/@4/reset: 1  # [简保持, 简转繁]
+  # switches/@5/reset: 1  # [繁保持, 繁转简]
+  # switches/@6/reset: 1  # [中文, 西文]
+  # switches/@7/reset: 1  # ["半角", "全角"]
+  # switches/@8/reset: 1  # [。，, ．，]
+  #
+  ################
+  #  全碼長度設置  #
+  ################
+  ## 改成全碼六碼, 提高全局精確度？
+  # speller/algebra:
+  #   - xform/^([a-z]{1,6})[a-z]*$/$1/
+  #
+
+  #switches/@after 0:
+  #  name: embeded_cands
+  #  states: [ 普通, 嵌入 ]
+  #engine/filters/@next:
+  #  lua_filter@*hao.embeded_cands
+  #key_binder/bindings/@next:
+  #  { when: always, accept: "Control+Shift+E", toggle: embeded_cands }
+  #yuhao_macro/macros/cand:
+  #  [{ type: switch, name: embeded_cands, states: [☐普通, ☑嵌入] }]
+
+  #shijian:仅仅作为提示使用，编码已经写死，引导适应性更高，如有需求lua中修改
+  #时间：/sj
+  #日期：/rq
+  #农历：/nl
+  #星期：/xq
+  #今年第几周：/ww
+  #节气：/jq
+  #日期+时间：/rs
+  #时间戳：/tt
+  #大写N日期：N20250315
+  #节日：/jr
+  #问候模板：/day
+  #生日信息：/sr
+  birthday_reminder:  #日期格式：必须是4位数字，格式为MMDD（月份和日期），例如：1月27日 → 0127 ，#备注格式：在日期后添加逗号，然后添加任意文本作为备注，例如："0501,我的好朋友"，也可以无备注
+    solar_birthdays:  # 公历生日, 姓名: "日期,备注" or 姓名: "日期"
+    lunar_birthdays:  # 农历生日, 姓名: "日期,备注" or 姓名: "日期"
+      Hertz: "0104,生日"
