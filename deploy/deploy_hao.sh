@@ -140,6 +140,19 @@ gen_schema() {
 
     popd
 
+    log "生成雪凇多字全息码表..."
+    pushd ${WD}/../assets/sy_snow || error "无法切换到 sy_snow 目录"
+        python sy_snow_dict_gen.py --single-code "${HAO}/hao/hao.sy.fullinformation.dict.yaml" \
+            --inout "${HAO}/dict_sy_base.txt:${HAO}/sy_base.txt" \
+            --inout "${HAO}/dict_sy_ext.txt:${HAO}/sy_ext.txt" \
+            --inout "${HAO}/dict_sy_tencent.txt:${HAO}/sy_tencent.txt" \
+            --inout "${HAO}/dict_sy_user.txt:${HAO}/sy_user.txt"
+        cat ${HAO}/sy_base.txt >> ${HAO}/hao/hao.sy.snow.base.dict.yaml
+        cat ${HAO}/sy_ext.txt >> ${HAO}/hao/hao.sy.snow.ext.dict.yaml
+        cat ${HAO}/sy_tencent.txt >> ${HAO}/hao/hao.sy.snow.tencent.dict.yaml
+        cat ${HAO}/sy_user.txt >> ${HAO}/hao/hao.sy.snow.user.dict.yaml
+    popd
+
     cat "${HAO}/map_xi.txt" | \
         sed 's/^\(.*\)\t\(.*\)/\2\t\/r\1/g' | \
         awk '{print tolower($0)}' | \
@@ -226,13 +239,21 @@ gen_schema() {
               --exclude='/div*.txt' \
               --exclude='/freq*.txt' \
               --exclude='/fullcode*.txt' \
-              --exclude='/hao_*.txt' \
+              --exclude='/hao_div.txt' \
+              --exclude='/hao_map.txt' \
+              --exclude='/hao_stroke.txt' \
+              --exclude='/hao_quick_tc.txt' \
+              --exclude='/hao_quick.txt' \
+              --exclude='/hao_simp_tc.txt' \
+              --exclude='/hao_simp.txt' \
               --exclude='/map_*.txt' \
               --exclude='/simp_*.txt' \
               --exclude='/quicks_*.txt' \
               --exclude='/short_*.txt' \
               --exclude='/roots_*.txt' \
               --exclude='/llama_personal.txt' \
+              --exclude='/sy_*.txt' \
+              --exclude='/dict_*.txt' \
               "${HAO}/" "${SCHEMAS}/${NAME}/" || error "复制文件失败"
 
     # 删除临时目录
