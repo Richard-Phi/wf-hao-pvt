@@ -78199,7 +78199,7 @@
 𬔖	ypvp
 𬔗	fdyq
 𬔘	yozk
-𬔙	kryq
+𬔙	ppyq
 𬔚	ykvy
 𬔛	xpyq
 𬔜	yemo
@@ -81621,7 +81621,7 @@
 徚	juvy
 𭃁	izfn
 忍	kong
-𭃂	krlf
+𭃂	ppcc
 𭃃	klnp
 𭃄	gkgc
 志	mngo
@@ -181708,7 +181708,7 @@
 𬔖	ypvp
 𬔗	fdyq
 𬔘	yozk
-𬔙	kryq
+𬔙	ppyq
 𬔚	ykvy
 𬔛	xpyq
 𬔜	yemo
@@ -185130,7 +185130,7 @@
 徚	juvy
 𭃁	izfn
 忍	kong
-𭃂	krlf
+𭃂	ppcc
 𭃃	klnp
 𭃄	gkgc
 志	mngo
