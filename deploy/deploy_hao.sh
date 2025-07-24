@@ -143,13 +143,17 @@ gen_schema() {
     log "生成雪凇多字全息码表..."
     pushd ${WD}/../assets/sy_snow || error "无法切换到 sy_snow 目录"
         python sy_snow_dict_gen.py --single-code "${HAO}/hao/hao.sy.fullinformation.dict.yaml" \
-            --inout "${HAO}/dict_sy_base.txt:${HAO}/sy_base.txt" \
-            --inout "${HAO}/dict_sy_ext.txt:${HAO}/sy_ext.txt" \
-            --inout "${HAO}/dict_sy_tencent.txt:${HAO}/sy_tencent.txt" \
-            --inout "${HAO}/dict_sy_user.txt:${HAO}/sy_user.txt"
+            --inout "${HAO}/dict_sy_1base.txt:${HAO}/sy_base.txt" \
+            --inout "${HAO}/dict_sy_2correlation.txt:${HAO}/sy_correlation.txt" \
+            --inout "${HAO}/dict_sy_3suggestion.txt:${HAO}/sy_suggestion.txt" \
+            --inout "${HAO}/dict_sy_4poetry.txt:${HAO}/sy_poetry.txt" \
+            --inout "${HAO}/dict_sy_5place.txt:${HAO}/sy_place.txt" \
+            --inout "${HAO}/dict_sy_6user.txt:${HAO}/sy_user.txt"
         cat ${HAO}/sy_base.txt >> ${HAO}/hao/hao.sy.snow.base.dict.yaml
-        cat ${HAO}/sy_ext.txt >> ${HAO}/hao/hao.sy.snow.ext.dict.yaml
-        cat ${HAO}/sy_tencent.txt >> ${HAO}/hao/hao.sy.snow.tencent.dict.yaml
+        cat ${HAO}/sy_correlation.txt >> ${HAO}/hao/hao.sy.snow.correlation.dict.yaml
+        cat ${HAO}/sy_suggestion.txt >> ${HAO}/hao/hao.sy.snow.suggestion.dict.yaml
+        cat ${HAO}/sy_poetry.txt >> ${HAO}/hao/hao.sy.snow.poetry.dict.yaml
+        cat ${HAO}/sy_place.txt >> ${HAO}/hao/hao.sy.snow.place.dict.yaml
         cat ${HAO}/sy_user.txt >> ${HAO}/hao/hao.sy.snow.user.dict.yaml
     popd
 

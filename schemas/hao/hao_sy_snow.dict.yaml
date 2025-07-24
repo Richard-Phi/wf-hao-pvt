@@ -12,8 +12,10 @@ import_tables:
   - hao/hao.sy.fullinformation
   # 以下是雪凇詞庫
   - hao/hao.sy.snow.base
-  - hao/hao.sy.snow.ext
-  - hao/hao.sy.snow.tencent
+  - hao/hao.sy.snow.correlation
+  - hao/hao.sy.snow.suggestion
+  - hao/hao.sy.snow.poetry
+  - hao/hao.sy.snow.place
   - hao/hao.sy.snow.user
 
 columns:
