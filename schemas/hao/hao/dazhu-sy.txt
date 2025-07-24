@@ -503,7 +503,6 @@ lae	阵
 kvr	异
 gksw	宗
 hsde	波
-ksve	担
 hshi	游
 qjfe	银
 hvnu	适
@@ -675,7 +674,6 @@ fjo	即使
 jhr	偷懒
 mmu	默默
 llu	隐隐
-mmu	种种
 xte	足够
 ffw	或许
 fsi	更加
@@ -31358,7 +31356,7 @@ hgjsl	𠢑
 fmdjs	𠢒
 clvys	𠢓
 pgkls	𠢔
-ldhhs	𠢕
+bsle	𠢕
 gmdls	𠢖
 jsdss	𠢗
 pysle	𠢘
@@ -38697,7 +38695,7 @@ fhsjm	𢕛
 fhkal	𢕜
 fhmmn	𢕝
 fhadh	𢕞
-fhlhh	𢕟
+fhbw	𢕟
 fhbzy	𢕠
 fhnhf	𢕡
 fhqdl	𢕢
@@ -39869,7 +39867,7 @@ gkqxf	𢧰
 bbbfj	𢧱
 skfzo	𢧲
 fkdaf	𢧳
-ldhhf	𢧴
+bfjw	𢧴
 flhfj	𢧵
 vhsjf	𢧶
 zfkfj	𢧷
@@ -40587,7 +40585,7 @@ kszck	𢳂
 ksldc	𢳃
 kshkj	𢳄
 fkmjk	𢳅
-kslhh	𢳆
+ksbw	𢳆
 kshkh	𢳇
 hfkhk	𢳈
 yftks	𢳉
@@ -42054,7 +42052,7 @@ vjsgw	𣉽
 vpklf	𣉾
 vlkvo	𣉿
 vchdy	𣊀
-ldhhv	𣊁
+bvo	𣊁
 vjjau	𣊂
 bshvo	𣊃
 mvmav	𣊄
@@ -42981,7 +42979,7 @@ tlcxs	𣘞
 jmztl	𣘟
 tlpsk	𣘠
 tlchs	𣘡
-ldhht	𣘢
+btlr	𣘢
 tlhcu	𣘣
 tljsj	𣘤
 tlyas	𣘥
@@ -46395,7 +46393,7 @@ dyldc	𤎁
 smscm	𤎂
 cmppf	𤎃
 cmldc	𤎄
-ldhhc	𤎅
+bcme	𤎅
 cmfnp	𤎆
 fhppc	𤎇
 cmfdn	𤎈
@@ -56342,7 +56340,6 @@ mfshr	𦪅
 mmjps	𦪆
 mktu	𦪇
 bmo	𦪈
-ldhhm	𦪈
 mhhqo	𦪉
 mkffl	𦪊
 mtxps	𦪋
@@ -62122,7 +62119,7 @@ xfhqo	𨄤
 xvsak	𨄥
 fhaax	𨄦
 psjpx	𨄧
-xlhhf	𨄨
+xbw	𨄨
 xlkvj	𨄩
 xzvjf	𨄪
 xcmvj	𨄫
@@ -62173,7 +62170,7 @@ xachf	𨅖
 xpdo	𨅗
 tfxu	𨅘
 xjgkd	𨅙
-ldhhx	𨅚
+bxu	𨅚
 xmsgw	𨅛
 xzajd	𨅜
 xntu	𨅝
@@ -67488,7 +67485,7 @@ kqgfm	𩘪
 kqhkd	𩘫
 kqfnd	𩘬
 kqtxp	𩘭
-ldhhk	𩘮
+bkqi	𩘮
 kqazj	𩘯
 kqgjd	𩘰
 kqjla	𩘱
@@ -68614,7 +68611,7 @@ nddzt	𩪑
 ndcfj	𩪒
 ndmhq	𩪓
 mfaan	𩪔
-ndlhh	𩪕
+ndbw	𩪕
 ndzck	𩪖
 ndzjd	𩪗
 ndjjg	𩪘
@@ -68895,7 +68892,7 @@ flstl	𩮫
 fljbz	𩮬
 flsnj	𩮭
 flyo	𩮮
-fllhh	𩮯
+flbw	𩮯
 flsnh	𩮰
 flmnj	𩮱
 flxzj	𩮲
@@ -69055,7 +69052,7 @@ tcqmw	𩱋
 nsngq	𩱌
 nssnq	𩱍
 nsanq	𩱎
-ldhhq	𩱏
+bqmw	𩱏
 qmjdk	𩱐
 shcjq	𩱑
 nssnn	𩱒
@@ -70875,7 +70872,7 @@ mfzck	𪍪
 bsmmf	𪍫
 mfchs	𪍬
 mfvdn	𪍭
-mflhh	𪍮
+mfbw	𪍮
 mfzyf	𪍯
 mfkaa	𪍰
 ldmlm	𪍱
@@ -72481,7 +72478,6 @@ gkbbg	𪧙
 gkqgj	𪧚
 gkyvf	𪧛
 gkbw	𪧜
-gklhh	𪧜
 gkqqc	𪧝
 gkhkd	𪧞
 gkhsa	𪧟
@@ -97529,7 +97525,7 @@ mvmkj	𱋇
 mvmkk	𱋬
 mvmkq	𱋐
 mvmks	𱋉
-mvmlh	𲎓
+mvmbw	𲎓
 mvmlt	𱋊
 mvmlx	𱋄
 mvmmg	𱋆

@@ -463,7 +463,6 @@ Ciallo～(∠・ω< )⌒★	calo	1
 异	kvr	0.0099999300
 宗	gksw	0.0099999299
 波	hsde	0.0099999298
-担	ksve	0.0099999295
 游	hshi	0.0099999293
 银	qjfe	0.0099999291
 适	hvnu	0.0099999290
@@ -635,7 +634,6 @@ Ciallo～(∠・ω< )⌒★	calo	1
 偷懒	1
 默默	1
 隐隐	1
-种种	1
 足够	1
 或许	1
 更加	1
@@ -31318,7 +31316,7 @@ Ciallo～(∠・ω< )⌒★	calo	1
 𠢒	fmdjs
 𠢓	clvys
 𠢔	pgkls
-𠢕	ldhhs
+𠢕	bsle
 𠢖	gmdls
 𠢗	jsdss
 𠢘	pysle
@@ -38657,7 +38655,7 @@ Ciallo～(∠・ω< )⌒★	calo	1
 𢕜	fhkal
 𢕝	fhmmn
 𢕞	fhadh
-𢕟	fhlhh
+𢕟	fhbw
 𢕠	fhbzy
 𢕡	fhnhf
 𢕢	fhqdl
@@ -39829,7 +39827,7 @@ Ciallo～(∠・ω< )⌒★	calo	1
 𢧱	bbbfj
 𢧲	skfzo
 𢧳	fkdaf
-𢧴	ldhhf
+𢧴	bfjw
 𢧵	flhfj
 𢧶	vhsjf
 𢧷	zfkfj
@@ -40547,7 +40545,7 @@ Ciallo～(∠・ω< )⌒★	calo	1
 𢳃	ksldc
 𢳄	kshkj
 𢳅	fkmjk
-𢳆	kslhh
+𢳆	ksbw
 𢳇	kshkh
 𢳈	hfkhk
 𢳉	yftks
@@ -42014,7 +42012,7 @@ Ciallo～(∠・ω< )⌒★	calo	1
 𣉾	vpklf
 𣉿	vlkvo
 𣊀	vchdy
-𣊁	ldhhv
+𣊁	bvo
 𣊂	vjjau
 𣊃	bshvo
 𣊄	mvmav
@@ -42941,7 +42939,7 @@ Ciallo～(∠・ω< )⌒★	calo	1
 𣘟	jmztl
 𣘠	tlpsk
 𣘡	tlchs
-𣘢	ldhht
+𣘢	btlr
 𣘣	tlhcu
 𣘤	tljsj
 𣘥	tlyas
@@ -46355,7 +46353,7 @@ Ciallo～(∠・ω< )⌒★	calo	1
 𤎂	smscm
 𤎃	cmppf
 𤎄	cmldc
-𤎅	ldhhc
+𤎅	bcme
 𤎆	cmfnp
 𤎇	fhppc
 𤎈	cmfdn
@@ -56302,7 +56300,6 @@ Ciallo～(∠・ω< )⌒★	calo	1
 𦪆	mmjps
 𦪇	mktu
 𦪈	bmo
-𦪈	ldhhm
 𦪉	mhhqo
 𦪊	mkffl
 𦪋	mtxps
@@ -62082,7 +62079,7 @@ Ciallo～(∠・ω< )⌒★	calo	1
 𨄥	xvsak
 𨄦	fhaax
 𨄧	psjpx
-𨄨	xlhhf
+𨄨	xbw
 𨄩	xlkvj
 𨄪	xzvjf
 𨄫	xcmvj
@@ -62133,7 +62130,7 @@ Ciallo～(∠・ω< )⌒★	calo	1
 𨅗	xpdo
 𨅘	tfxu
 𨅙	xjgkd
-𨅚	ldhhx
+𨅚	bxu
 𨅛	xmsgw
 𨅜	xzajd
 𨅝	xntu
@@ -67448,7 +67445,7 @@ Ciallo～(∠・ω< )⌒★	calo	1
 𩘫	kqhkd
 𩘬	kqfnd
 𩘭	kqtxp
-𩘮	ldhhk
+𩘮	bkqi
 𩘯	kqazj
 𩘰	kqgjd
 𩘱	kqjla
@@ -68574,7 +68571,7 @@ Ciallo～(∠・ω< )⌒★	calo	1
 𩪒	ndcfj
 𩪓	ndmhq
 𩪔	mfaan
-𩪕	ndlhh
+𩪕	ndbw
 𩪖	ndzck
 𩪗	ndzjd
 𩪘	ndjjg
@@ -68855,7 +68852,7 @@ Ciallo～(∠・ω< )⌒★	calo	1
 𩮬	fljbz
 𩮭	flsnj
 𩮮	flyo
-𩮯	fllhh
+𩮯	flbw
 𩮰	flsnh
 𩮱	flmnj
 𩮲	flxzj
@@ -69015,7 +69012,7 @@ Ciallo～(∠・ω< )⌒★	calo	1
 𩱌	nsngq
 𩱍	nssnq
 𩱎	nsanq
-𩱏	ldhhq
+𩱏	bqmw
 𩱐	qmjdk
 𩱑	shcjq
 𩱒	nssnn
@@ -70835,7 +70832,7 @@ Ciallo～(∠・ω< )⌒★	calo	1
 𪍫	bsmmf
 𪍬	mfchs
 𪍭	mfvdn
-𪍮	mflhh
+𪍮	mfbw
 𪍯	mfzyf
 𪍰	mfkaa
 𪍱	ldmlm
@@ -72441,7 +72438,6 @@ Ciallo～(∠・ω< )⌒★	calo	1
 𪧚	gkqgj
 𪧛	gkyvf
 𪧜	gkbw
-𪧜	gklhh
 𪧝	gkqqc
 𪧞	gkhkd
 𪧟	gkhsa
@@ -97489,7 +97485,7 @@ Ciallo～(∠・ω< )⌒★	calo	1
 𱋬	mvmkk
 𱋐	mvmkq
 𱋉	mvmks
-𲎓	mvmlh
+𲎓	mvmbw
 𱋊	mvmlt
 𱋄	mvmlx
 𱋆	mvmmg
