@@ -433,6 +433,10 @@ key_binder:
     - { when: always, accept: "Control+j", toggle: buffered }
     #- { when: always, accept: e, toggle: buffered }
     #- { when: composing, accept: e, send: e }
+    - { when: has_menu, accept: comma, send_sequence: "2," }
+    - { when: has_menu, accept: period, send_sequence: "2." }
+    - { when: has_menu, accept: semicolon, send: KP_2 } # 分号次选
+    - { when: has_menu, accept: apostrophe, send: KP_3 } # 引号三选
 
 #语法模型
 octagram:
