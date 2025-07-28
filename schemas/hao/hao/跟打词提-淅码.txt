@@ -100079,7 +100079,7 @@
 𲜱	rodn
 𲜲	mjgj
 𲜳	mrah
-𲜴	joqn
+𲜴	moqn
 𲜵	mzjk
 𲜶	muvk
 𲜷	mpah
@@ -203588,7 +203588,7 @@
 𲜱	rodn
 𲜲	mjgj
 𲜳	mrah
-𲜴	joqn
+𲜴	moqn
 𲜵	mzjk
 𲜶	muvk
 𲜷	mpah
