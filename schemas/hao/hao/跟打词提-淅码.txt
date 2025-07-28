@@ -7338,7 +7338,7 @@
 鉤	ttq
 鋅	tjt
 鋭	tvi
-齋	uiko
+齋	uikd
 儲	kmrj
 堯	bbba
 監	dzb
@@ -32428,7 +32428,7 @@
 𡄞	rsfw
 𡄟	itmw
 𡄠	itua
-𡄡	iuio
+𡄡	iuid
 𡄢	iarj
 𡄣	iofk
 𡄤	iyfl
@@ -38601,7 +38601,7 @@
 𢥓	noil
 𢥔	agcn
 𢥕	njlj
-𢥖	nuio
+𢥖	nuid
 𢥗	uozn
 𢥘	ndvi
 𢥙	wnjg
@@ -39875,7 +39875,7 @@
 𢹐	praj
 𢹑	pzve
 𢹒	pmyw
-𢹓	puio
+𢹓	puid
 𢹔	pmsv
 𢹕	pwtg
 𢹖	pvcf
@@ -45586,7 +45586,7 @@
 𤒮	cuvy
 𤒯	yssf
 𤒰	yzhz
-𤒱	yuio
+𤒱	yuid
 𤒲	ygub
 𤒳	yycs
 𤒴	yhjy
@@ -57995,7 +57995,7 @@
 𧕗	jauv
 𧕘	jijv
 𧕙	tisj
-𧕚	juio
+𧕚	juid
 𧕛	rsfj
 𧕜	rar
 𧕝	enbj
@@ -68190,7 +68190,7 @@
 𩵀	tirb
 𩵁	btir
 𩵂	tirb
-𩵃	buio
+𩵃	buid
 𩵄	bwrv
 𩵅	bggv
 𩵆	blai
@@ -85119,7 +85119,7 @@
 𭳬	hadh
 𭳭	hwhl
 𭳮	hoqi
-𭳯	huio
+𭳯	huid
 𭳰	hmzj
 𭳱	hqjj
 𭳲	hwjn
@@ -86072,7 +86072,7 @@
 𮂤	vdp
 𮂥	dwfp
 𮂦	domg
-𮂧	duio
+𮂧	duid
 𮂨	dqqq
 𮂩	dyhv
 𮂪	dsic
@@ -88380,7 +88380,7 @@
 𮥮	trzj
 𮥯	tzzz
 𮥰	tyas
-𮥱	tuio
+𮥱	tuid
 𮥲	tqpl
 𮥳	tiil
 𮥴	fshg
@@ -110847,7 +110847,7 @@
 鉤	ttqf
 鋅	tjtk
 鋭	tvia
-齋	uiko
+齋	uikd
 儲	kmrj
 堯	bbba
 監	dzbk
@@ -135937,7 +135937,7 @@
 𡄞	rsfw
 𡄟	itmw
 𡄠	itua
-𡄡	iuio
+𡄡	iuid
 𡄢	iarj
 𡄣	iofk
 𡄤	iyfl
@@ -142110,7 +142110,7 @@
 𢥓	noil
 𢥔	agcn
 𢥕	njlj
-𢥖	nuio
+𢥖	nuid
 𢥗	uozn
 𢥘	ndvi
 𢥙	wnjg
@@ -143384,7 +143384,7 @@
 𢹐	praj
 𢹑	pzve
 𢹒	pmyw
-𢹓	puio
+𢹓	puid
 𢹔	pmsv
 𢹕	pwtg
 𢹖	pvcf
@@ -149095,7 +149095,7 @@
 𤒮	cuvy
 𤒯	yssf
 𤒰	yzhz
-𤒱	yuio
+𤒱	yuid
 𤒲	ygub
 𤒳	yycs
 𤒴	yhjy
@@ -161504,7 +161504,7 @@
 𧕗	jauv
 𧕘	jijv
 𧕙	tisj
-𧕚	juio
+𧕚	juid
 𧕛	rsfj
 𧕜	rarj
 𧕝	enbj
@@ -171699,7 +171699,7 @@
 𩵀	tirb
 𩵁	btir
 𩵂	tirb
-𩵃	buio
+𩵃	buid
 𩵄	bwrv
 𩵅	bggv
 𩵆	blai
@@ -188628,7 +188628,7 @@
 𭳬	hadh
 𭳭	hwhl
 𭳮	hoqi
-𭳯	huio
+𭳯	huid
 𭳰	hmzj
 𭳱	hqjj
 𭳲	hwjn
@@ -189581,7 +189581,7 @@
 𮂤	vdpd
 𮂥	dwfp
 𮂦	domg
-𮂧	duio
+𮂧	duid
 𮂨	dqqq
 𮂩	dyhv
 𮂪	dsic
@@ -191889,7 +191889,7 @@
 𮥮	trzj
 𮥯	tzzz
 𮥰	tyas
-𮥱	tuio
+𮥱	tuid
 𮥲	tqpl
 𮥳	tiil
 𮥴	fshg

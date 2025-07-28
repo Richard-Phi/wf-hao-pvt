@@ -8445,7 +8445,7 @@ candu	遙
 tmtyw	鉤
 tmsne	鋅
 tmjkl	鋭
-jvhvf	齋
+jvhvs	齋
 jdfvo	儲
 psppl	堯
 qhppd	監
@@ -33535,7 +33535,7 @@ aklss	𡄝
 lfzll	𡄞
 kdkmb	𡄟
 kdbgo	𡄠
-kdjhf	𡄡
+kdjhs	𡄡
 kdyfv	𡄢
 kdnlx	𡄣
 kdaln	𡄤
@@ -39708,7 +39708,7 @@ cmcgh	𢥒
 hdstj	𢥓
 safhd	𢥔
 hdmgg	𢥕
-hdjhf	𢥖
+hdjhs	𢥖
 jvsdh	𢥗
 hdmhk	𢥘
 ahmks	𢥙
@@ -40982,7 +40982,7 @@ jzqjk	𢹏
 ksktl	𢹐
 ksvjk	𢹑
 ksdcb	𢹒
-ksjhf	𢹓
+ksjhs	𢹓
 kskzj	𢹔
 kscca	𢹕
 ksjfl	𢹖
@@ -46693,7 +46693,7 @@ magsj	𤒭
 snjcm	𤒮
 cmaal	𤒯
 cmdvd	𤒰
-cmjhf	𤒱
+cmjhs	𤒱
 cmfmp	𤒲
 cmckz	𤒳
 cmhvc	𤒴
@@ -59102,7 +59102,7 @@ gjkmb	𧕖
 gjynj	𧕗
 gjkgh	𧕘
 cjkzg	𧕙
-gjjhf	𧕚
+gjjhs	𧕚
 lfzlg	𧕛
 zlzgj	𧕜
 gkhpg	𧕝
@@ -69297,7 +69297,7 @@ glkkk	𩴿
 kklkc	𩵀
 kckkl	𩵁
 kklkc	𩵂
-kcjhf	𩵃
+kcjhs	𩵃
 kcclh	𩵄
 kcddh	𩵅
 kcmlz	𩵆
@@ -86226,7 +86226,7 @@ hstck	𭳫
 hstsh	𭳬
 hschj	𭳭
 hsvld	𭳮
-hsjhf	𭳯
+hsjhs	𭳯
 hsmdg	𭳰
 hsdfm	𭳱
 hscvh	𭳲
@@ -87179,7 +87179,7 @@ sjchj	𮂣
 jdskl	𮂤
 sjjlk	𮂥
 sjhka	𮂦
-sjjhf	𮂧
+sjjhs	𮂧
 sjhhh	𮂨
 sjayh	𮂩
 sjmzy	𮂪
@@ -89487,7 +89487,7 @@ lfzcl	𮥭
 lfdmw	𮥮
 lsssk	𮥯
 ljtxy	𮥰
-ljhfl	𮥱
+ljhsj	𮥱
 lvqlq	𮥲
 lzzjf	𮥳
 lahsu	𮥴
