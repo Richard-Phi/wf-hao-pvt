@@ -40674,7 +40674,7 @@
 𣅯	fkjf
 𣅰	fdpj
 𣅱	otef
-𣅲	pjef
+𣅲	ngje
 𣅳	jpx
 𣅴	jpbm
 𣅵	jngo
@@ -144183,7 +144183,7 @@
 𣅯	fkjf
 𣅰	fdpj
 𣅱	otef
-𣅲	pjef
+𣅲	ngje
 𣅳	jpxi
 𣅴	jpbm
 𣅵	jngo
