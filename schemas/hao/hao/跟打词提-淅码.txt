@@ -29115,7 +29115,7 @@
 𠐨	kirm
 𠐩	karw
 𠐪	kwrq
-𠐫	kzsn
+𠐫	kzsl
 𠐬	kzvw
 𠐭	kwkd
 𠐮	kwoy
@@ -132624,7 +132624,7 @@
 𠐨	kirm
 𠐩	karw
 𠐪	kwrq
-𠐫	kzsn
+𠐫	kzsl
 𠐬	kzvw
 𠐭	kwkd
 𠐮	kwoy
