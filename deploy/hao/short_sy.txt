@@ -1,7 +1,8 @@
 ，	ae	1
 。	te	1
 哈！	dw	1
-Ciallo～(∠・ω< )⌒★	calo	1
+Ciallo～(∠・ω< )⌒☆	calo	1
+Ciallo～(∠・ω< )⌒★	callo	1
 哈？	qw	1
 说：“	fq;	1
 道：“	hq;	1

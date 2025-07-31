@@ -41,7 +41,8 @@ m;	』
 ae	，
 te	。
 dw	哈！
-calo	Ciallo～(∠・ω< )⌒★
+calo	Ciallo～(∠・ω< )⌒☆
+callo	Ciallo～(∠・ω< )⌒★
 qw	哈？
 fq;	说：“
 hq;	道：“
@@ -728,6 +729,10 @@ xsw	外面
 fxe	许多
 jbe	功能
 vtw	空格
+agr	全球
+ppo	地区
+jlu	普遍
+pki	地震
 mm;	尴尬
 mvmae	尴尬
 cc;	燃烧
@@ -1013,6 +1018,17 @@ gt;	始终
 jx;	道路
 jg;	道理
 dn;	勉强
+tf;	经验
+bp;	预算
+cp;	落地
+sd;	延长
+sp;	当地
+zf;	回应
+zv;	质疑
+lz;	遭遇
+pz;	地图
+hs;	消耗
+hk;	流年
 njs;	为什么
 jjg;	你们好
 azh;	输入法
@@ -1023,12 +1039,14 @@ qqq;	钛镪钌
 ttt;	鈦鏹釕
 svc;	向日葵
 jmt;	公积金
+lhd;	互联网
 mnj;	特朗普
 fms;	马斯克
 jam;	俄罗斯
 caj;	乌克兰
 sym;	意大利
 mds;	墨西哥
+ylh;	太平洋
 kasu	别人
 kaju	只有
 vcao	以来
