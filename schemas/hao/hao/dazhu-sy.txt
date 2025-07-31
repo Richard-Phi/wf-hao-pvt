@@ -184,7 +184,7 @@ hse	海
 fki	教
 dkfe	眼
 jve	化
-bki	通
+bku	通
 klu	感
 vw	各
 kdse	别
@@ -328,7 +328,7 @@ fno	议
 akfi	存
 ksdr	击
 kamu	精
-bkki	台
+bki	台
 fdi	调
 str	杀
 zai	团
