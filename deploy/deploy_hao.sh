@@ -84,7 +84,8 @@ gen_schema() {
     if [ -d "${NAME}" ]; then
         log "应用自定义配置..."
         cp -r "${NAME}"/*.txt "${HAO}"
-        cat "${NAME}"/short_sy.txt >> "${HAO}"/hao/hao.sy.short.dict.yaml
+        awk '/手动简码/ {system("cat ./hao/short_sy.txt"); next} 1' ${HAO}/hao/hao.sy.short.dict.yaml > ${HAO}/temp && mv ${HAO}/temp ${HAO}/hao/hao.sy.short.dict.yaml
+        #cat "${NAME}"/short_sy.txt >> "${HAO}"/hao/hao.sy.short.dict.yaml
         cat "${NAME}"/quicks_sy.txt >> "${HAO}"/hao/hao.sy.quicks.dict.yaml
     fi
 
@@ -189,15 +190,23 @@ gen_schema() {
     # 检查必要文件是否存在
     for f in "${HAO}/hao/hao.xi.full.dict.yaml" "${HAO}/freq.txt"; do
         if [ ! -f "$f" ]; then
-            error "缺少必要的文件: $f"
+            error "缺少淅码必要的文件: $f"
         fi
     done
+    for f in "${HAO}/fullcode_sy_modified.txt" "${HAO}/freq.txt"; do
+        if [ ! -f "$f" ]; then
+            error "缺少松烟必要的文件: $f"
+        fi
+    done
+    #head -n 10 ${HAO}/fullcode_sy_modified.txt
     
     # 运行简码生成脚本
     log "运行简码生成脚本..."
     pushd ${WD}/../assets/simpcode || error "无法切换到 simpcode 目录"
-        python simpcode.py || error "生成简码失败"
+        python simpcode.py || error "生成淅码简码失败"
+        python simpcode_sy.py || error "生成松烟简码失败"
         awk '/单字标记/ {system("cat res.txt"); next} 1' ${HAO}/hao/hao.xi.short.dict.yaml > ${HAO}/temp && mv ${HAO}/temp ${HAO}/hao/hao.xi.short.dict.yaml
+        awk '/单字标记/ {system("cat res_sy.txt"); next} 1' ${HAO}/hao/hao.sy.short.dict.yaml > ${HAO}/temp && mv ${HAO}/temp ${HAO}/hao/hao.sy.short.dict.yaml
     popd
 
     log "运行五二顶动态码表生成脚本..."
