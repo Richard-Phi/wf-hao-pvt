@@ -57,6 +57,16 @@ if [ -f "${INPUT_DIR}/hao/hao.xi.short.dict.yaml" ]; then
       awk -v s=$start_line -v e=$end_line '{if(NR>=s && NR<=e){print ";"$0} else {print $0}}' "$xi_file" > "$tmp_file" && mv "$tmp_file" "$xi_file"
     fi
 
+    cp "${OUTPUT_DIR}/hao/dazhu-xi.txt" "${OUTPUT_DIR}/xi_origin_dazhu.txt"
+    python "${WD}/../assets/remove_duplicates_dazhu.py" "${OUTPUT_DIR}/xi_origin_dazhu.txt"
+    cp "${OUTPUT_DIR}/xi_origin_dazhu_去重.txt" "${OUTPUT_DIR}/hao/dazhu-xi.txt"
+    python "${WD}/../assets/xi52.py" "${OUTPUT_DIR}/xi_origin_dazhu_去重.txt" > "${OUTPUT_DIR}/xi_52.txt"
+    cat "${OUTPUT_DIR}/xi_52.txt" | \
+        sed 's/^\([a-z]\)\t/\1_\t/g' | \
+        sed 's/^\([a-z]\{3\}\)\t/\1_\t/g' | \
+        sed 's/^\([a-z]\{4\}\)\t/\1_\t/g' \
+        >>"${OUTPUT_DIR}/hao/dazhu-xi52.txt"
+
     if [ -f "${INPUT_DIR}/div_xi.txt" ]; then
         #cat "${INPUT_DIR}/div_xi.txt" | \
         #    sed 's/\(.*\)\t\(.*\)/\2\t\1/g' \

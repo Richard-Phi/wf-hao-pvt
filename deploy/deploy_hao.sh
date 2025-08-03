@@ -237,6 +237,7 @@ gen_schema() {
     log "生成大竹词提..."
     export INPUT_DIR="${HAO}"
     export OUTPUT_DIR="${HAO}"
+    export WD="${WD}"
     bash ../assets/gen_dazhu.sh || error "生成大竹词提失败"
 
     # 将最终文件复制到目标目录
@@ -266,6 +267,7 @@ gen_schema() {
               --exclude='/roots_*.txt' \
               --exclude='/llama_personal.txt' \
               --exclude='/sy_*.txt' \
+              --exclude='/xi_*.txt' \
               --exclude='/dict_*.txt' \
               "${HAO}/" "${SCHEMAS}/${NAME}/" || error "复制文件失败"
 
