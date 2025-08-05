@@ -4,12 +4,13 @@
 # 伪并击快符
 
 ---
-name: "hao.fastsymbols"
+name: "hao.sy.fastsymbols"
 version: "20250528"
-sort: original
+sort: by_weight
 columns:
   - text
   - code
+  - weight
 ...
 
 ：“	;q
@@ -35,24 +36,24 @@ columns:
 ：	;
 ；	;
 
-：“	q;
-→	t;
-·	y;
-——	p;
-！	a;
-……	s;
-、	d;
-“	f;
-”	g;
-「	h;
-」	j;
-？	k;
-￥	l;
-；	;;
-《	z;
-》	x;
-（	c;
-）	v;
-：	b;
-『	n;
-』	m;
+：“	q;	2
+→	t;	2
+·	y;	2
+——	p;	2
+！	a;	2
+……	s;	2
+、	d;	2
+“	f;	2
+”	g;	2
+「	h;	2
+」	j;	2
+？	k;	2
+￥	l;	2
+；	;;	2
+《	z;	2
+》	x;	2
+（	c;	2
+）	v;	2
+：	b;	2
+『	n;	2
+』	m;	2
