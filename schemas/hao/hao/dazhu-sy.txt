@@ -831,7 +831,6 @@ hspo	汇
 fmae	触
 hqki	售
 pnu	违
-kae	粮
 hki	魂
 jtli	巧
 gso	珠
@@ -4109,7 +4108,7 @@ bklu	鳡
 bjze	鳣
 bpgw	鳤
 jtao	鹀
-vsno	鹖
+vso	鹖
 qmjo	鹝
 jdbo	鹟
 syzo	鹠
@@ -9566,6 +9565,7 @@ lzko	𣂪
 hzxr	𣂭
 cjco	𣂮
 dgdo	𣂯
+vsno	𣂰
 dako	𣂶
 dzlo	𣃂
 syko	𣃃
@@ -16615,7 +16615,7 @@ jlu	普遍
 pki	地震
 fdw	东西
 sdr	延长
-vso	怎么办
+kae	重置
 mm;	尴尬
 mvmae	尴尬
 cc;	燃烧
@@ -16678,6 +16678,12 @@ hhe	滂沱
 hjhge	滂沱
 kkko	魑魅魍魉
 kkkko	魑魅魍魉
+a/	越来越
+d/	的时候
+n/	为什么
+k/	每个人
+v/	怎么办
+m/	其他
 gz;	如果
 jv;	但是
 ka;	哪个
@@ -16814,7 +16820,7 @@ tz;	结果
 jt;	曾经
 jb;	普通
 jk;	判断
-mj;	其他
+mj;	条件
 am;	创造
 xn;	迅速
 zb;	困难
@@ -16916,7 +16922,6 @@ fd;	广州
 zq;	厦门
 hp;	深圳
 qb;	针对
-njs;	为什么
 jjg;	你们好
 azh;	输入法
 ynd;	太强了
