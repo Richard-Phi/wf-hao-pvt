@@ -30,39 +30,34 @@ if [ -f "${INPUT_DIR}/hao/hao.xi.short.dict.yaml" ]; then
         sed 's/\t/{TAB}/g' | \
         grep '.*{TAB}.*' | \
         sed 's/{TAB}/\t/g' | \
-        awk '{print $2 "\t" $1}' | \
-        sed 's/1/_/g' | \
-        sed 's/2/;/g' | \
-        sed "s/3/'/g" \
-        >"${OUTPUT_DIR}/hao/dazhu-xi.txt"
+        awk '{print $2 "\t" $1}' \
+        >>"${OUTPUT_DIR}/hao/dazhu-xi.txt"
     
     cat "${INPUT_DIR}/hao/hao.xi.full.dict.yaml" | \
         sed 's/^\(.*\)\t\(.*\)/\1\t\2/g' | \
         sed 's/\t/{TAB}/g' | \
         grep '.*{TAB}.*' | \
         sed 's/{TAB}/\t/g' | \
-        awk '{print $2 "\t" $1}' | \
-        sed 's/1/_/g' | \
-        sed 's/2/;/g' | \
-        sed "s/3/'/g" \
+        awk '{print $2 "\t" $1}' \
         >>"${OUTPUT_DIR}/hao/dazhu-xi.txt"
 
     # 修正快符
-    xi_file="${OUTPUT_DIR}/hao/dazhu-xi.txt"
-    match_line=$(grep -n '：“' "$xi_file" | head -n1 | cut -d: -f1)
-    if [ -n "$match_line" ]; then
-      start_line=$match_line
-      end_line=$((match_line+20))
-      tmp_file="${xi_file}.tmp"
-      awk -v s=$start_line -v e=$end_line '{if(NR>=s && NR<=e){print ";"$0} else {print $0}}' "$xi_file" > "$tmp_file" && mv "$tmp_file" "$xi_file"
-    fi
+    #xi_file="${OUTPUT_DIR}/hao/dazhu-xi.txt"
+    #match_line=$(grep -n '：“' "$xi_file" | head -n1 | cut -d: -f1)
+    #if [ -n "$match_line" ]; then
+    #  start_line=$match_line
+    #  end_line=$((match_line+20))
+    #  tmp_file="${xi_file}.tmp"
+    #  awk -v s=$start_line -v e=$end_line '{if(NR>=s && NR<=e){print ";"$0} else {print $0}}' "$xi_file" > "$tmp_file" && mv "$tmp_file" "$xi_file"
+    #fi
 
     cp "${OUTPUT_DIR}/hao/dazhu-xi.txt" "${OUTPUT_DIR}/xi_origin_dazhu.txt"
+    #cp "${OUTPUT_DIR}/hao/dazhu-xi.txt" "${OUTPUT_DIR}/hao/xi_origin_dazhu.txt"
     python "${WD}/../assets/remove_duplicates_dazhu.py" "${OUTPUT_DIR}/xi_origin_dazhu.txt"
     cp "${OUTPUT_DIR}/xi_origin_dazhu_去重.txt" "${OUTPUT_DIR}/hao/dazhu-xi.txt"
     python "${WD}/../assets/xi52.py" "${OUTPUT_DIR}/xi_origin_dazhu_去重.txt" > "${OUTPUT_DIR}/xi_52.txt"
     cat "${OUTPUT_DIR}/xi_52.txt" | \
-        sed 's/^\([a-z]\)\t/\1_\t/g' | \
+        sed 's/^\([a-z]\)\t/\1\/\t/g' | \
         sed 's/^\([a-z]\{3\}\)\t/\1_\t/g' | \
         sed 's/^\([a-z]\{4\}\)\t/\1_\t/g' \
         >>"${OUTPUT_DIR}/hao/dazhu-xi52.txt"

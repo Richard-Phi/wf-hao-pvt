@@ -12,7 +12,7 @@ schema:
     - 荒
   description: |
     五二顶：二简不打空格，四码打空格，一简分号上屏
-    动态二重二简：二简的第二个候选是根据你使用的频率变化的，使用 ;+编码 这种方式输入的字能增加频率
+    动态二重二简：二简的第二个候选是根据你使用的频率变化的，使用 「'+编码」 这种方式输入的字能增加频率
 
 engine:
   processors:
@@ -61,7 +61,7 @@ speller:
       accept: "[^ 2345789]"
       prefix: 2
   algebra:
-    - derive/^;(..).*$/$1/
+    - derive/^'(..).*$/$1/
 
 translator:
   dictionary: hao_xi_52p
