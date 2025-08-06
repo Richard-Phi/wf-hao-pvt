@@ -66,6 +66,7 @@ de	要
 vjo	时
 gr	出
 tw	着
+jo	道
 bjo	对
 aw	会
 fhvo	得
@@ -78,7 +79,6 @@ kfu	年
 zki	后
 gyr	发
 fw	都
-jo	里
 hu	没
 ku	还
 so	所
@@ -729,7 +729,7 @@ ksar	摆
 malu	默
 fyye	骑
 qkdw	疗
-dkmu	睛
+dku	睛
 fkfi	店
 akfe	载
 fci	诺
@@ -5137,6 +5137,7 @@ sppi	盙
 lhni	盚
 fyai	盨
 lpi	盭
+dkmu	盽
 dkcw	眂
 dkxr	県
 dkvu	眒
@@ -8997,7 +8998,7 @@ vmjw	𡕺
 hpw	𡕼
 hpvw	𡕽
 lfvw	𡕾
-hmaw	𡖀
+hmw	𡖀
 xkve	𡖅
 anxe	𡖆
 xkce	𡖋
@@ -12671,6 +12672,7 @@ sffr	𨠶
 sytr	𨠹
 sgzr	𨠻
 sgtr	𨠼
+sslo	𨡈
 stki	𨡋
 scxu	𨡎
 sfjo	𨡏
@@ -16616,6 +16618,7 @@ pki	地震
 fdw	东西
 sdr	延长
 kae	重置
+gge	密码
 mm;	尴尬
 mvmae	尴尬
 cc;	燃烧
@@ -16628,7 +16631,7 @@ tvr	馄饨
 tvtlr	馄饨
 xx;	踌躇
 xmxco	踌躇
-dku	眼睛
+ddmu	眼睛
 dfdmu	眼睛
 jjae	价值
 jajae	价值
@@ -16637,13 +16640,11 @@ ccr	葡萄
 cscsr	葡萄
 tti	继续
 tktai	继续
-hdhd;	憧憬
+hhvr	憧憬
 hjhvr	憧憬
-clcl;	荏苒
 cjcdu	荏苒
 hho	渐渐
 hahao	渐渐
-cmcm;	灿烂
 cmcje	灿烂
 kku	喷嚏
 kakau	喷嚏
@@ -16654,7 +16655,7 @@ ghgso	蜘蛛
 ggw	蟑螂
 gjgnw	蟑螂
 klcai	饕餮
-gge	凛冽
+ggce	凛冽
 gjgce	凛冽
 cci	葫芦
 cscli	葫芦
@@ -16670,11 +16671,9 @@ ljw	陆离
 lkjsw	陆离
 kce	顑颔
 klcxe	顑颔
-sslo	鹦鹉
+slqo	鹦鹉
 sslqo	鹦鹉
-hmw	浩荡
 hmchw	浩荡
-hhe	滂沱
 hjhge	滂沱
 kkko	魑魅魍魉
 kkkko	魑魅魍魉

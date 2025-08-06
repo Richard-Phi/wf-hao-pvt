@@ -103499,6 +103499,8 @@ pckc	ㆼ
 fpck	ㆽ
 fpvp	ㆾ
 vyco	ㆿ
+pqgx	℃
+kqgx	℉
 dsoe	的
 fhff	一
 jkfo	是

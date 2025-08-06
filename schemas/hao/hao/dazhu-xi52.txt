@@ -103499,6 +103499,8 @@ pckc=1	ㆼ
 fpck;	ㆽ
 fpvp==4	ㆾ
 vyco_	ㆿ
+pqgx_	℃
+kqgx_	℉
 dsoe_	的
 fhff=1	一
 jkfo4	是

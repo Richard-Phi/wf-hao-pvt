@@ -26,6 +26,7 @@
 时	vjo
 出	gr
 着	tw
+道	jo
 对	bjo
 会	aw
 得	fhvo
@@ -38,7 +39,6 @@
 后	zki
 发	gyr
 都	fw
-里	jo
 没	hu
 还	ku
 所	so
@@ -689,7 +689,7 @@
 默	malu
 骑	fyye
 疗	qkdw
-睛	dkmu
+睛	dku
 店	fkfi
 载	akfe
 诺	fci
@@ -5097,6 +5097,7 @@
 盚	lhni
 盨	fyai
 盭	lpi
+盽	dkmu
 眂	dkcw
 県	dkxr
 眒	dkvu
@@ -8957,7 +8958,7 @@
 𡕼	hpw
 𡕽	hpvw
 𡕾	lfvw
-𡖀	hmaw
+𡖀	hmw
 𡖅	xkve
 𡖆	anxe
 𡖋	xkce
@@ -12631,6 +12632,7 @@
 𨠹	sytr
 𨠻	sgzr
 𨠼	sgtr
+𨡈	sslo
 𨡋	stki
 𨡎	scxu
 𨡏	sfjo
@@ -16576,6 +16578,7 @@ Ciallo～(∠・ω<	1
 东西	1
 延长	1
 重置	1
+密码	1
 尴尬	1
 尴尬	1
 燃烧	1
@@ -16600,10 +16603,8 @@ Ciallo～(∠・ω<	1
 憧憬	1
 憧憬	1
 荏苒	1
-荏苒	1
 渐渐	1
 渐渐	1
-灿烂	1
 灿烂	0
 喷嚏	1
 喷嚏	0
@@ -16633,8 +16634,6 @@ Ciallo～(∠・ω<	1
 鹦鹉	1
 鹦鹉	1
 浩荡	1
-浩荡	1
-滂沱	1
 滂沱	1
 魑魅魍魉	1
 魑魅魍魉	1
