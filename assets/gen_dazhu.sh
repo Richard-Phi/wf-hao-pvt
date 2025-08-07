@@ -57,9 +57,9 @@ if [ -f "${INPUT_DIR}/hao/hao.xi.short.dict.yaml" ]; then
     cp "${OUTPUT_DIR}/xi_origin_dazhu_去重.txt" "${OUTPUT_DIR}/hao/dazhu-xi.txt"
     python "${WD}/../assets/xi52.py" "${OUTPUT_DIR}/xi_origin_dazhu_去重.txt" > "${OUTPUT_DIR}/xi_52.txt"
     cat "${OUTPUT_DIR}/xi_52.txt" | \
-        sed 's/^\([a-z]\)\t/\1\/\t/g' | \
-        sed 's/^\([a-z]\{3\}\)\t/\1_\t/g' | \
-        sed 's/^\([a-z]\{4\}\)\t/\1_\t/g' \
+        sed 's/^\([a-z]\)\t/\1_\t/g' | \
+        sed 's/^\([a-z]\{3\}\)\t/\1\/\t/g' | \
+        sed 's/^\([a-z]\{4\}\)\t/\1\/\t/g' \
         >>"${OUTPUT_DIR}/hao/dazhu-xi52.txt"
 
     if [ -f "${INPUT_DIR}/div_xi.txt" ]; then

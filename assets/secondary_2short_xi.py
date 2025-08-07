@@ -1,87 +1,109 @@
-# 生成所有两位编码（aa到zz）
-prefixes = [a + b for a in 'abcdefghijklmnopqrstuvwxyz' for b in 'abcdefghijklmnopqrstuvwxyz']
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
-# 读取码表文件，构建字典：键为两位前缀，值为该前缀下的所有条目（按文件出现顺序）
+import os
+from pathlib import Path
+
+# ==================== 配置 ====================
+# 设为 True → 在对应汉字的**前一行**插入二简二重码
+# 设为 False → 直接**替换**第一次出现的完整码
+INSERT_BEFORE = True
+
+# 输入/输出路径（相对或绝对均可）
+SRC_FILE   = Path("../schemas/hao/hao/dazhu-xi52.txt")
+OUT_FIX    = Path("../schemas/hao/hao/dazhu-xi52-fix.txt")
+OUT_TABLE  = Path("../schemas/hao/淅码五二顶二简二重表.txt")
+# =============================================
+
+# ---------- 1. 生成所有两位前缀 ----------
+prefixes = [a + b for a in "abcdefghijklmnopqrstuvwxyz" for b in "abcdefghijklmnopqrstuvwxyz"]
 prefix_map = {p: [] for p in prefixes}
+secondary_results = {}   # {prefix: char}
 
-# 存储二简二重结果
-secondary_results = {}
-
-with open('../schemas/hao/hao/dazhu-xi52.txt', 'r', encoding='utf-8') as f:
+# ---------- 2. 读取原始码表，收集二简二重 ----------
+with SRC_FILE.open("r", encoding="utf-8") as f:
     for line in f:
         line = line.strip()
         if not line:
             continue
-        parts = line.split('\t')
+        parts = line.split("\t")
         if len(parts) < 2:
             continue
-        code = parts[0].lower()  # 统一转为小写
-        char = parts[1]
-        # 只处理长度>=2的编码
+        code, char = parts[0].lower(), parts[1]
         if len(code) >= 2:
             p = code[:2]
             if p in prefix_map:
-                # 直接按文件顺序添加条目
                 prefix_map[p].append((code, char))
 
-# 1. 输出二简二重码表文件
-with open('../schemas/hao/淅码五二顶二简二重表.txt', 'w', encoding='utf-8') as out_f:
+# ---------- 3. 写二简二重表 ----------
+with OUT_TABLE.open("w", encoding="utf-8") as out_f:
     for p in prefixes:
         entries = prefix_map[p]
         if len(entries) >= 2:
-            # 取该前缀下按文件顺序出现的第二个条目
+            # 取第二个出现的条目
             second_code, second_char = entries[1]
             secondary_results[p] = second_char
             out_f.write(f"{p};\t{second_char}\n")
         else:
             out_f.write(f"{p};\t\n")
 
-# 2. 更新原始码表：在第一次出现的汉字前插入二简二重码行
-# 记录哪些汉字已经被插入过
-inserted_chars = set()
+# ---------- 4. 修正原始码表 ----------
+# 已经写入二简二重的汉字集合（防止同一个字被多次插入/替换）
+handled_chars = set()
+# 最终行列表
+fixed_lines = []
 
-# 存储更新后的码表行
-updated_lines = []
-
-# 第一次遍历：在第一次出现的汉字前插入新行
-with open('../schemas/hao/hao/dazhu-xi52.txt', 'r', encoding='utf-8') as f:
-    for line in f:
-        line = line.strip()
-        if not line:
-            updated_lines.append(line)
+with SRC_FILE.open("r", encoding="utf-8") as f:
+    for raw_line in f:
+        line = raw_line.rstrip("\n")          # 保留可能的前后空格，后面统一处理
+        stripped = line.strip()
+        if not stripped:
+            fixed_lines.append(line)
             continue
 
-        parts = line.split('\t')
+        parts = stripped.split("\t")
         if len(parts) < 2:
-            updated_lines.append(line)
+            fixed_lines.append(line)
             continue
 
-        char = parts[1]
+        code, char = parts[0], parts[1]
 
-        # 如果该汉字是二简二重字且尚未插入过
-        if char in secondary_results.values() and char not in inserted_chars:
-            # 找到对应的两位编码
+        # 判断此字符是否是二简二重字且尚未处理
+        if char in secondary_results.values() and char not in handled_chars:
+            # 找到对应的两位前缀
             for p, c in secondary_results.items():
                 if c == char:
-                    # 在该行之前插入新行
-                    updated_lines.append(f"{p};\t{c}")
-                    inserted_chars.add(char)
+                    new_entry = f"{p};\t{char}"
+                    if INSERT_BEFORE:
+                        # 先写二简二重，再写原始行（保持原始行不变）
+                        fixed_lines.append(new_entry)
+                        fixed_lines.append(line)   # 保留原始行
+                    else:
+                        # 直接用二简二重码覆盖原始行
+                        fixed_lines.append(new_entry)
+                    handled_chars.add(char)
                     break
+        else:
+            fixed_lines.append(line)
 
-        # 原行保留
-        updated_lines.append(line)
-
-# 第二次遍历：添加未插入的二简二重字（如果原始码表中没有出现过）
+# ---------- 5. 处理“原码表里没有出现”的二简二重字 ----------
 for p, char in secondary_results.items():
-    if char not in inserted_chars:
-        updated_lines.append(f"{p};\t{char}")
-        inserted_chars.add(char)
+    if char not in handled_chars:
+        new_entry = f"{p};\t{char}"
+        if INSERT_BEFORE:
+            # 直接追加到文件末尾（因为找不到对应的“前一行”）
+            fixed_lines.append(new_entry)
+        else:
+            fixed_lines.append(new_entry)
+        handled_chars.add(char)
 
-# 3. 输出修正后的码表
-with open('../schemas/hao/hao/dazhu-xi52-fix.txt', 'w', encoding='utf-8') as out_f:
-    for line in updated_lines:
-        out_f.write(line + '\n')
+# ---------- 6. 写回修正后的码表 ----------
+with OUT_FIX.open("w", encoding="utf-8") as out_f:
+    for l in fixed_lines:
+        out_f.write(l + "\n")
 
+# ---------- 7. 完成提示 ----------
 print("处理完成！")
-print(f"1. 二简二重码表已输出到: secondary_2short_xi.txt")
-print(f"2. 修正后的码表已输出到: dazhu-xi52-fix.txt")
+print(f"二简二重表已写入: {OUT_TABLE}")
+print(f"修正后的码表已写入: {OUT_FIX}")
+print(f"当前模式：{'在前一行插入' if INSERT_BEFORE else '直接替换'}")
