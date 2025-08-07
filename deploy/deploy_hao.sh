@@ -243,6 +243,11 @@ gen_schema() {
     # 将最终文件复制到目标目录
     log "复制最终文件到目标目录..."
     mkdir -p "${SCHEMAS}/${NAME}"
+
+    log "运行五二顶二简二重表生成脚本..."
+    pushd ${WD}/../assets || error "无法切换到 assets 目录"
+        python secondary_2short_xi.py || error "生成五二顶二简二重表失败"
+    popd
     
     # 使用rsync进行选择性复制，排除指定文件
     rsync -a --exclude='/gendict' \
