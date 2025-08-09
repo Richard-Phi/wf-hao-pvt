@@ -3800,7 +3800,7 @@
 㵫	[氵子子子日,nì,CJK-A,U+3D6B]
 㵬	[氵月乃又皿,yíng,CJK-A,U+3D6C]
 㵭	[氵耂日灬,zhǔ,CJK-A,U+3D6D]
-㵮	[氵大革,chún,CJK-A,U+3D6E]
+㵮	[氵大革一,chún,CJK-A,U+3D6E]
 㵯	[氵⺇一鳥,féng,CJK-A,U+3D6F]
 㵰	[氵一ㄅ丨,xù,CJK-A,U+3D70]
 㵱	[氵覀示寸,piǎo,CJK-A,U+3D71]

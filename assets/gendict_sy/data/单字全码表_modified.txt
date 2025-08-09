@@ -1,14 +1,3 @@
-# encoding: utf-8
----
-name: "hao.sy.fullinformation"
-version: "20250721"
-sort: by_weight
-columns:
-  - text
-  - code
-  - weight
-...
-
 的	DleSliNr	0.0100000000
 一	Le	0.0099999999
 是	VoJgu	0.0099999998
@@ -24000,7 +23989,7 @@ columns:
 㵫	HsuQiQiVo	0.0099976010
 㵬	HsuCuFnwPdi	0.0099976009
 㵭	HsuFkeVoCme	0.0099976008
-㵮	HsuYdiNfiLe	0.0099976007
+㵮	HsuYdiNfi	0.0099976007
 㵯	HsuAnwLeBle	0.0099976006
 㵰	HsuJziLeJdo	0.0099976005
 㵱	HsuDhwSjwJfo	0.0099976004

@@ -138,7 +138,16 @@ gen_schema() {
             awk -F '[\t(),]' -v OFS='\t' 'NR==FNR{freq[$1]=$2; next} {print $1, $4, freq[$1]}' "${HAO}/freq.txt" - | \
             sort -k3,3nr \
         >>"hao/hao.sy.fullinformation.dict.yaml"
+        cat div_sy.txt | \
+            awk -F '[\t(),]' -v OFS='\t' 'NR==FNR{freq[$1]=$2; next} {print $1, $4, freq[$1]}' "${HAO}/freq.txt" - | \
+            sort -k3,3nr \
+        >"${WD}/../assets/gendict_sy/data/单字全码表.txt"
+    popd
 
+    # 生成松烟-玲珑词表
+    pushd ${WD}/../assets/gendict_sy || error "无法切换到 gendict_sy 目录"
+        cargo run src/mail.rs || error "生成松烟-玲珑词表失败"
+        cat data/output.txt >> "${HAO}/hao/hao.sy.linglong.dict.yaml"
     popd
 
     log "生成雪凇多字全息码表..."

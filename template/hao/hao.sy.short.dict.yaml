@@ -2,7 +2,7 @@
 ---
 name: "hao.sy.short"
 version: "20250528"
-sort: original
+sort: by_weight
 columns:
   - text
   - code
