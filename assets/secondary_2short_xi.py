@@ -20,7 +20,7 @@ prefixes = [a + b for a in "abcdefghijklmnopqrstuvwxyz" for b in "abcdefghijklmn
 prefix_map = {p: [] for p in prefixes}
 secondary_results = {}   # {prefix: char}
 
-# ---------- 2. 读取原始码表，收集二简二重 ----------
+# ---------- 2. 读取原始码表，收集二简码 ----------
 with SRC_FILE.open("r", encoding="utf-8") as f:
     for line in f:
         line = line.strip()
@@ -35,15 +35,22 @@ with SRC_FILE.open("r", encoding="utf-8") as f:
             if p in prefix_map:
                 prefix_map[p].append((code, char))
 
-# ---------- 3. 写二简二重表 ----------
+# ---------- 3. 写二简一重和二简二重表 ----------
 with OUT_TABLE.open("w", encoding="utf-8") as out_f:
     for p in prefixes:
         entries = prefix_map[p]
+        # 写入二简一重（不加分号）
+        if len(entries) >= 1:
+            first_code, first_char = entries[0]
+            out_f.write(f"{p}\t{first_char}\n")
+        else:
+            out_f.write(f"{p}\t\n")
+        
+        # 写入二简二重（加分号）
         if len(entries) >= 2:
-            # 取第二个出现的条目
             second_code, second_char = entries[1]
-            secondary_results[p] = second_char
             out_f.write(f"{p};\t{second_char}\n")
+            secondary_results[p] = second_char  # 记录二简二重字符
         else:
             out_f.write(f"{p};\t\n")
 
@@ -86,12 +93,12 @@ with SRC_FILE.open("r", encoding="utf-8") as f:
         else:
             fixed_lines.append(line)
 
-# ---------- 5. 处理“原码表里没有出现”的二简二重字 ----------
+# ---------- 5. 处理"原码表里没有出现"的二简二重字 ----------
 for p, char in secondary_results.items():
     if char not in handled_chars:
         new_entry = f"{p};\t{char}"
         if INSERT_BEFORE:
-            # 直接追加到文件末尾（因为找不到对应的“前一行”）
+            # 直接追加到文件末尾（因为找不到对应的"前一行"）
             fixed_lines.append(new_entry)
         else:
             fixed_lines.append(new_entry)
@@ -104,6 +111,6 @@ with OUT_FIX.open("w", encoding="utf-8") as out_f:
 
 # ---------- 7. 完成提示 ----------
 print("处理完成！")
-print(f"二简二重表已写入: {OUT_TABLE}")
+print(f"二简一重和二简二重表已写入: {OUT_TABLE}")
 print(f"修正后的码表已写入: {OUT_FIX}")
 print(f"当前模式：{'在前一行插入' if INSERT_BEFORE else '直接替换'}")

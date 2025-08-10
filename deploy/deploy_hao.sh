@@ -283,6 +283,7 @@ gen_schema() {
     log "运行五二顶二简二重表生成脚本..."
     pushd ${WD}/../assets || error "无法切换到 assets 目录"
         python secondary_2short_xi.py || error "生成五二顶二简二重表失败"
+        python gen_52tips.py ../schemas/hao/淅码五二顶二简二重表.txt ../schemas/hao/lua/tips/tips_show.txt
     popd
 
     # 删除临时目录
