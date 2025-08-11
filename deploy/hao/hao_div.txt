@@ -87013,7 +87013,7 @@
 𮋊	[⺈厂矢羽,,CJK-F,U+2E2CA]
 𮋋	[白王羽,,CJK-F,U+2E2CB]
 𮋌	[羽宀𣄼一,,CJK-F,U+2E2CC]
-𮋍	[十田心羽,,CJK-F,U+2E2CD]
+𮋍	[𣄼丨心羽,,CJK-F,U+2E2CD]
 𮋎	[羽鬲,,CJK-F,U+2E2CE]
 𮋏	[罒一水羽,,CJK-F,U+2E2CF]
 𮋐	[宀井羽,,CJK-F,U+2E2D0]

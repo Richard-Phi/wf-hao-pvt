@@ -86615,7 +86615,7 @@
 𮋊	roee
 𮋋	dgeh
 𮋌	eetf
-𮋍	gsne
+𮋍	tkne
 𮋎	epwk
 𮋏	yfhe
 𮋐	ebve
@@ -190105,7 +190105,7 @@
 𮋊	roee
 𮋋	dgeh
 𮋌	eetf
-𮋍	gsne
+𮋍	tkne
 𮋎	epwk
 𮋏	yfhe
 𮋐	ebve
