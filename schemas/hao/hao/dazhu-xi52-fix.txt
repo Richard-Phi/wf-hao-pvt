@@ -29858,7 +29858,7 @@ kydb/	𠑖
 kwcd/	𠑗
 kggw/	𠑘
 keyi/	𠑙
-kfcj;	𠑚
+kfco/	𠑚
 kwtr/	𠑛
 sfib/	𠑜
 sze/	𠑝
@@ -85190,7 +85190,7 @@ majo9	𭩼
 amgo/	𭩽
 anew/	𭩾
 ddaj;	𭩿
-jvvy/	𭪀
+fvv/	𭪀
 akkk;	𭪁
 ahjb/	𭪂
 bwaj/	𭪃
@@ -116577,7 +116577,7 @@ kujj/	𠋩
 kweb/	𠋿
 sgfm;	𠌆
 kqfc/	𠌐
-kfcj'	𠌘
+kfcj;	𠌘
 kkgo;	𠌙
 kkcg/	𠌚
 kptk/	𠌢
@@ -120674,6 +120674,7 @@ jcry'	𭧇
 jpty/	𭧈
 fjmd/	𭨿
 abop/	𭩛
+fvvy/	𭪀
 avjw/	𭫷
 ayuc/	𭬯
 rafy/	𭭅
