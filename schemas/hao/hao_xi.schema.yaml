@@ -112,7 +112,7 @@ translator:
   dictionary: hao_xi
   prism: hao_xi
   db_class: tabledb
-  enable_completion: false
+  enable_completion: ture # 编码预测
   enable_sentence: false
   enable_user_dict: true
   enable_encoder: true
