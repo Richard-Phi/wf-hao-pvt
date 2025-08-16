@@ -36,7 +36,8 @@ if [ -f "${INPUT_DIR}/hao/hao.sy.short.dict.yaml" ]; then
         sed 's/^\(.*\)\t\(.*\)/\1\t\2/g' | \
         sed 's/\t/{TAB}/g' | \
         grep '.*{TAB}.*' | \
-        sed 's/{TAB}/\t/g' \
+        sed 's/{TAB}/\t/g' | \
+        awk '{print $1 "\t" $2}' \
         >>"${OUTPUT_DIR}/hao/跟打词提-松烟.txt"
     
     cat "${INPUT_DIR}/hao/hao.sy.quicks.dict.yaml" | \
@@ -44,7 +45,8 @@ if [ -f "${INPUT_DIR}/hao/hao.sy.short.dict.yaml" ]; then
         sed 's/\t/{TAB}/g' | \
         grep '.*{TAB}.*' | \
         sed 's/{TAB}/\t/g' | \
-        awk '{print $2 "\t" $1}' \
+        awk '{print $2 "\t" $1}' | \
+        awk '{print $1 "\t" $2}' \
         >>"${OUTPUT_DIR}/hao/跟打词提-松烟.txt"
     
     cat "${INPUT_DIR}/hao/hao.sy.full.dict.yaml" | \

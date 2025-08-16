@@ -3,7 +3,7 @@
 
 schema:
   schema_id: hao_sy
-  name: '好码・松烟(前缀码)'
+  name: '好码・松烟(前缀码全码纯单)'
   version: '20250520'
   author:
     - 作者 荒
@@ -20,7 +20,10 @@ switches:
   - name: hao_autocommit
     reset: 1
     abbrev: [松, 烟]
-    states: [☐选重上屏, ☑自动上屏]
+    states: [☐连打, ☑前缀]
+  - name: hao_embeded_cands
+    states: [ 普通, 嵌入 ]
+    #reset: 1
   - options:
       - hao_spelling.off
       - hao_spelling.lv1
@@ -28,14 +31,6 @@ switches:
       - hao_spelling.lv3
     states: [无注解, 一重注解, 二重注解, 多重注解]
     #reset: 0
-  - name: lazy_clock
-    abbrev: [无, 時]
-    states: [ 开启候选时间, 关闭候选时间 ]
-    reset: 0
-  - name: preedit_lazy_clock
-    abbrev: [无, 時]
-    states: [ 开启编辑区时间, 关闭编辑区时间 ]
-    reset: 0
   - name: traditionalization
     states: [简保持, 简转繁]
     #reset: 0
@@ -77,34 +72,48 @@ engine:
     - punct_segmentor
     - fallback_segmentor
   translators:
+    - lua_translator@*hao.hao_switch*tr@hao
     - punct_translator
     - lua_translator@*hao.hao_shijian
     - lua_translator@*hao.hao_number
     - history_translator@history
     - script_translator@hao_pinyin_lookup
     - table_translator@hao_stroke_lookup
-    - table_translator
+    - script_translator
     - lua_translator@*hao.hao_os*os_env_translator
-    - lua_translator@*hao.hao_switch*tr@hao
   filters:
     - simplifier@traditionalize
     - simplifier@simplify
+    - simplifier@emoji_suggestion
     - reverse_lookup_filter@reverse_lookup
     - lua_filter@*hao.hao_spelling*filter
-    - lua_filter@*hao.hao_os*lazy_clock_filter
-    - lua_filter@*hao.hao_os*preedit_lazy_clock_filter
+    - lua_filter@*hao.hao_embeded_cands
     - uniquifier
+
+sy_cool_algebra:
+  # 多根字
+  - xform/([^WERUIOa-z ][^weruioA-Z ]?)[weruio]([^WERUIOa-z ])[^weruioA-Z ]?[weruio]([^WERUIOa-z ])[^weruioA-Z ]?[weruio]([^WERUIOa-z][^weruioA-Z ]?[weruio])/$1$2$3$4/
+  # 三根字
+  - xform/([^WERUIOa-z ][^weruioA-Z ]?)[weruio]([^WERUIOa-z ])[^weruioA-Z ]?[weruio]([^WERUIOa-z ][^weruioA-Z ]?[weruio])/$1$2$3/
+  # 两根字
+  - xform/([^WERUIOa-z ][^weruioA-Z ]?)[weruio]([^WERUIOa-z ][^weruioA-Z ]?[weruio])/$1$2/
+  # 字根字
+  - xform/([^WERUIOa-z ][^weruioA-Z ]?[weruio])/$1/
+
+  #- xform/^([A-Z]{2,5})([weruio]?)$/\L$1$2/
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba;'/
   initials: zyxwvutsrqponmlkjihgfedcba;'/
-  delimiter: "`"
+  delimiter: []
   auto_select: true
   auto_clear: auto  # 3种选择， manual|auto|max_length 空码按下一键确认清屏|空码自动清|达到最长码时后码顶上清屏
   # max_code_length: 5
   # auto_select_pattern: ^;\w+|^\w+;
-  # algebra:
-  #   - xform/^([a-z]{1,5})[a-z]*$/$1/
+  algebra:
+    __include: /sy_cool_algebra
+    __append:
+      - xlit/ZYXVTSQPNMLKJHGFDCBA/zyxvtsqpnmlkjhgfdcba/
 
 translator:
   dictionary: hao_sy
@@ -143,7 +152,8 @@ hao:
   macros:
     hao:
       - { type: tip, name: ❖松烟配置中心 }
-      - { type: switch, name: hao_autocommit, states: [☐选重上屏, ☑自动上屏] }
+      - { type: switch, name: hao_autocommit, states: [☐连打, ☑前缀] }
+      - { type: switch, name: hao_embeded_cands, states: [☐嵌入, ☑嵌入] }
       - {
           type: radio,
           names:
@@ -155,8 +165,6 @@ hao:
             ],
           states: [☐☐☐注解, ☑☐☐注解, ☐☑☐注解, ☐☐☑注解],
         }
-      - { type: switch, name: lazy_clock, states: [☐候选时间, ☑候选时间] }
-      - { type: switch, name: preedit_lazy_clock, states: [☐编辑区时间, ☑编辑区时间] }
       - { type: switch, name: traditionalization, states: [☐简保持, ☑简转繁] }
       - { type: switch, name: simplification, states: [☐繁保持, ☑繁转简] }
       - { type: switch, name: full_shape, states: [☐半角, ☑全角] }
@@ -169,7 +177,9 @@ hao:
       - { type: eval, name: Ⓣ时间, expr: return os.date("%Y%m%d%H%M") }
       - { type: eval, name: Ⓢ时间戳, expr: return tostring(os.time()) }
     auto:
-      - { type: switch, name: hao_autocommit, states: [☐选重上屏, ☑自动上屏] }
+      - { type: switch, name: hao_autocommit, states: [☐连打, ☑前缀] }
+    a:
+      - { type: switch, name: hao_autocommit, states: [☐连打, ☑前缀] }
     div:
       - {
           type: radio,
@@ -194,8 +204,6 @@ hao:
       - { type: switch, name: ascii_punct, states: [☐中文标点, ☑英文标点] }
     dot:
       - { type: switch, name: ascii_punct, states: [☐中文标点, ☑英文标点] }
-    lazy:
-      - { type: switch, name: lazy_clock, states: [☐候选时间, ☑候选时间] }
     dist:
       - type: eval
         expr: >
@@ -253,6 +261,22 @@ reverse_lookup:
   extra_tags:
     - hao_pinyin_lookup
     - hao_stroke_lookup
+  comment_format:
+    __include: /sy_cool_algebra
+    __append:
+      # 多根字
+      - xform/([^WERUIOa-z ][^weruioA-Z ]?)[weruio]([^WERUIOa-z ])[^weruioA-Z ]?[weruio]([^WERUIOa-z ])[^weruioA-Z ]?[weruio]([^WERUIOa-z][^weruioA-Z ]?[weruio])/$1$2$3$4/
+      # 三根字
+      - xform/([^WERUIOa-z ][^weruioA-Z ]?)[weruio]([^WERUIOa-z ])[^weruioA-Z ]?[weruio]([^WERUIOa-z ][^weruioA-Z ]?[weruio])/$1$2$3/
+      # 两根字
+      - xform/([^WERUIOa-z ][^weruioA-Z ]?)[weruio]([^WERUIOa-z ][^weruioA-Z ]?[weruio])/$1$2/
+      # 字根字
+      - xform/([^WERUIOa-z ][^weruioA-Z ]?[weruio])/$1/
+      
+      - xlit/ZYXVTSQPNMLKJHGFDCBA/zyxvtsqpnmlkjhgfdcba/
+      - xform|/[a-z]{3,4}||
+      - xform/^([^ ]{5})[a-z]{1,2}/$1/
+      - xform/^ //
 
 hao_pinyin_lookup:
   tag: hao_pinyin_lookup
@@ -292,6 +316,7 @@ punctuator:
     "}": "」"
     "/": "/"
     "|": "|"
+  digit_separators: ",."
 
 key_binder:
   bindings:
@@ -303,6 +328,9 @@ key_binder:
     - { when: has_menu, accept: Tab, send: KP_2 } # 製表符次选
     - { when: has_menu, accept: minus, send: Page_Up } # 減號上翻頁
     - { when: has_menu, accept: equal, send: Page_Down } # 等號下翻頁
+    - { when: composing, accept: "Control+d", send: Delete }
+    - { when: composing, accept: "Control+k", send: "Shift+Delete" }
+    - { when: always, accept: "Control+Shift+E", toggle: hao_embeded_cands }
 
 recognizer:
   import_preset: default

@@ -3,6 +3,7 @@
 *.gram
 /librime-lua
 /assets/gendict/target
+/assets/gendict_sy/target
 /deploy/generator
 /schemas/hao/build
 /schemas/hao/installation.yaml
@@ -10,11 +11,11 @@
 /schemas/hao/hao_sy.custom.yaml
 /schemas/hao/user.yaml
 /schemas/hao/sync
-/schemas/hao/hao.smart
 /schemas/hao/*.userdb
 /schemas/hao/*.userdb.bak
 /schemas/hao/dicts/*.userdb
 /schemas/hao/hao_xi.txt
+/schemas/hao/hao_xi_52p.txt
 /schemas/hao/squirrel.yaml
 /schemas/hao/weasel.yaml
 #/schemas/hao/weasel.custom.yaml

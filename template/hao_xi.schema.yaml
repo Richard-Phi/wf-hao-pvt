@@ -3,7 +3,7 @@
 
 schema:
   schema_id: hao_xi
-  name: '好码・淅码(双乱)'
+  name: '好码・淅码(双乱四定)'
   version: '20250425'
   author:
     - 作者 荒
@@ -21,6 +21,9 @@ switches:
     reset: 1
     abbrev: [原, 后]
     states: [ ＝原始排序, ↓全码后置 ]
+  - name: hao_embeded_cands
+    states: [ 普通, 嵌入 ]
+    #reset: 1
   - options:
       - hao_spelling.off
       - hao_spelling.lv1
@@ -28,13 +31,16 @@ switches:
       - hao_spelling.lv3
     states: [无注解, 一重注解, 二重注解, 多重注解]
     #reset: 0
+  - name: hao_spelling_source
+    states: [陸標拆分, 臺標拆分]
+    #reset: 0
   - name: lazy_clock
     abbrev: [无, 時]
-    states: [ 开启候选时间, 关闭候选时间 ]
+    states: [ 关闭候选时间, 开启候选时间 ]
     reset: 0
   - name: preedit_lazy_clock
     abbrev: [无, 時]
-    states: [ 开启编辑区时间, 关闭编辑区时间 ]
+    states: [ 关闭编辑区时间, 开启编辑区时间 ]
     reset: 0
   - name: traditionalization
     states: [简保持, 简转繁]
@@ -62,6 +68,7 @@ engine:
     - lua_processor@*hao.hao_spelling*processor
     - key_binder
     - speller
+    - lua_processor@*hao.hao_space_proc
     - punctuator
     - selector
     - navigator
@@ -77,6 +84,8 @@ engine:
     - punct_segmentor
     - fallback_segmentor
   translators:
+    #- echo_translator
+    - lua_translator@*hao.hao_switch*tr@hao
     - punct_translator
     - lua_translator@*hao.hao_shijian
     - lua_translator@*hao.hao_number
@@ -87,7 +96,6 @@ engine:
     - table_translator
     - table_translator@zaoci  # 用户造詞
     - lua_translator@*hao.hao_os*os_env_translator
-    - lua_translator@*hao.hao_switch*tr@hao
   filters:
     - simplifier@traditionalize
     - simplifier@simplify
@@ -96,6 +104,7 @@ engine:
     - lua_filter@*hao.hao_postpone_fullcode
     - lua_filter@*hao.hao_os*lazy_clock_filter
     - lua_filter@*hao.hao_os*preedit_lazy_clock_filter
+    - lua_filter@*hao.hao_embeded_cands
     - uniquifier
 
 speller:
@@ -160,6 +169,7 @@ hao:
     hao:
       - { type: tip, name: ❖淅码配置中心 }
       - { type: switch, name: hao_postpone_fullcode, states: [☐原始排序, ☑全码后置] }
+      - { type: switch, name: hao_embeded_cands, states: [☐嵌入, ☑嵌入] }
       - {
           type: radio,
           names:
@@ -171,8 +181,6 @@ hao:
             ],
           states: [☐☐☐注解, ☑☐☐注解, ☐☑☐注解, ☐☐☑注解],
         }
-      - { type: switch, name: lazy_clock, states: [☐候选时间, ☑候选时间] }
-      - { type: switch, name: preedit_lazy_clock, states: [☐编辑区时间, ☑编辑区时间] }
       - { type: switch, name: traditionalization, states: [☐简保持, ☑简转繁] }
       - { type: switch, name: simplification, states: [☐繁保持, ☑繁转简] }
       - { type: switch, name: full_shape, states: [☐半角, ☑全角] }
@@ -262,7 +270,7 @@ history:
 
 reverse_lookup:
   tag: reverse_lookup
-  dictionary: haoxi
+  dictionary: hao_xi
   prefix: "`"    # 反查引导符「`」
   # suffix:   # 反查关闭符，暂不定义
   tips: 【反查：拼音+笔画(hspnz)】
@@ -310,11 +318,10 @@ punctuator:
     "}": "」"
     "/": "/"
     "|": "|"
+  digit_separators: ",."
 
 key_binder:
   bindings:
-    - { when: composing, accept: space, send: Escape }
-    - { when: has_menu, accept: space, send: space }
     - { when: always, accept: "Control+Shift+J", toggle: simplification }
     - { when: always, accept: "Control+Shift+F", toggle: traditionalization }
     - { when: has_menu, accept: semicolon, send: KP_2 } # 分号次选
@@ -322,6 +329,9 @@ key_binder:
     - { when: has_menu, accept: Tab, send: KP_2 } # 製表符次选
     - { when: has_menu, accept: minus, send: Page_Up } # 減號上翻頁
     - { when: has_menu, accept: equal, send: Page_Down } # 等號下翻頁
+    - { when: composing, accept: "Control+d", send: Delete }
+    - { when: composing, accept: "Control+k", send: "Shift+Delete" }
+    - { when: always, accept: "Control+Shift+E", toggle: hao_embeded_cands }
 
 recognizer:
   import_preset: default

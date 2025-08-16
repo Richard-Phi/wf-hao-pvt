@@ -84,7 +84,8 @@ gen_schema() {
     if [ -d "${NAME}" ]; then
         log "应用自定义配置..."
         cp -r "${NAME}"/*.txt "${HAO}"
-        cat "${NAME}"/short_sy.txt >> "${HAO}"/hao/hao.sy.short.dict.yaml
+        awk '/手动简码/ {system("cat ./hao/short_sy.txt"); next} 1' ${HAO}/hao/hao.sy.short.dict.yaml > ${HAO}/temp && mv ${HAO}/temp ${HAO}/hao/hao.sy.short.dict.yaml
+        #cat "${NAME}"/short_sy.txt >> "${HAO}"/hao/hao.sy.short.dict.yaml
         cat "${NAME}"/quicks_sy.txt >> "${HAO}"/hao/hao.sy.quicks.dict.yaml
     fi
 
@@ -133,6 +134,37 @@ gen_schema() {
         cat div_xi.txt | sed "s/(/[/g" | sed "s/)/]/g" >>"hao_xi_chaifen.dict.yaml"
         awk '/单字全码/ {system("cat fullcode_sy_modified.txt"); next} 1' hao/hao.sy.full.dict.yaml > temp && mv temp hao/hao.sy.full.dict.yaml
         cat div_sy.txt | sed "s/(/[/g" | sed "s/)/]/g" >>"hao_sy_chaifen.dict.yaml"
+        cat div_sy.txt | \
+            awk -F '[\t(),]' -v OFS='\t' 'NR==FNR{freq[$1]=$2; next} {print $1, $4, freq[$1]}' "${HAO}/freq.txt" - | \
+            sort -k3,3nr \
+        >>"hao/hao.sy.fullinformation.dict.yaml"
+        cat div_sy.txt | \
+            awk -F '[\t(),]' -v OFS='\t' 'NR==FNR{freq[$1]=$2; next} {print $1, $4, freq[$1]}' "${HAO}/freq.txt" - | \
+            sort -k3,3nr \
+        >"${WD}/../assets/gendict_sy/data/单字全码表.txt"
+    popd
+
+    # 生成松烟-玲珑词表
+    pushd ${WD}/../assets/gendict_sy || error "无法切换到 gendict_sy 目录"
+        cargo run src/mail.rs || error "生成松烟-玲珑词表失败"
+        cat data/output.txt >> "${HAO}/hao/hao.sy.linglong.dict.yaml"
+    popd
+
+    log "生成雪凇多字全息码表..."
+    pushd ${WD}/../assets/sy_snow || error "无法切换到 sy_snow 目录"
+        python sy_snow_dict_gen.py --single-code "${HAO}/hao/hao.sy.fullinformation.dict.yaml" \
+            --inout "${HAO}/dict_sy_1base.txt:${HAO}/sy_base.txt" \
+            --inout "${HAO}/dict_sy_2correlation.txt:${HAO}/sy_correlation.txt" \
+            --inout "${HAO}/dict_sy_3suggestion.txt:${HAO}/sy_suggestion.txt" \
+            --inout "${HAO}/dict_sy_4poetry.txt:${HAO}/sy_poetry.txt" \
+            --inout "${HAO}/dict_sy_5place.txt:${HAO}/sy_place.txt" \
+            --inout "${HAO}/dict_sy_6user.txt:${HAO}/sy_user.txt"
+        cat ${HAO}/sy_base.txt >> ${HAO}/hao/hao.sy.snow.base.dict.yaml
+        cat ${HAO}/sy_correlation.txt >> ${HAO}/hao/hao.sy.snow.correlation.dict.yaml
+        cat ${HAO}/sy_suggestion.txt >> ${HAO}/hao/hao.sy.snow.suggestion.dict.yaml
+        cat ${HAO}/sy_poetry.txt >> ${HAO}/hao/hao.sy.snow.poetry.dict.yaml
+        cat ${HAO}/sy_place.txt >> ${HAO}/hao/hao.sy.snow.place.dict.yaml
+        cat ${HAO}/sy_user.txt >> ${HAO}/hao/hao.sy.snow.user.dict.yaml
     popd
 
     cat "${HAO}/map_xi.txt" | \
@@ -167,14 +199,28 @@ gen_schema() {
     # 检查必要文件是否存在
     for f in "${HAO}/hao/hao.xi.full.dict.yaml" "${HAO}/freq.txt"; do
         if [ ! -f "$f" ]; then
-            error "缺少必要的文件: $f"
+            error "缺少淅码必要的文件: $f"
         fi
     done
+    for f in "${HAO}/fullcode_sy_modified.txt" "${HAO}/freq.txt"; do
+        if [ ! -f "$f" ]; then
+            error "缺少松烟必要的文件: $f"
+        fi
+    done
+    #head -n 10 ${HAO}/fullcode_sy_modified.txt
     
     # 运行简码生成脚本
+    log "运行简码生成脚本..."
     pushd ${WD}/../assets/simpcode || error "无法切换到 simpcode 目录"
-        python simpcode.py || error "生成简码失败"
+        python simpcode.py || error "生成淅码简码失败"
+        python simpcode_sy.py || error "生成松烟简码失败"
         awk '/单字标记/ {system("cat res.txt"); next} 1' ${HAO}/hao/hao.xi.short.dict.yaml > ${HAO}/temp && mv ${HAO}/temp ${HAO}/hao/hao.xi.short.dict.yaml
+        awk '/单字标记/ {system("cat res_sy.txt"); next} 1' ${HAO}/hao/hao.sy.short.dict.yaml > ${HAO}/temp && mv ${HAO}/temp ${HAO}/hao/hao.sy.short.dict.yaml
+    popd
+
+    log "运行五二顶动态码表生成脚本..."
+    pushd ${WD}/../assets/genwuer || error "无法切换到 genwuer 目录"
+        python genwuer.py || error "生成五二顶动态码表失败"
     popd
 
     #log "生成淅全码后置元素..."
@@ -200,6 +246,7 @@ gen_schema() {
     log "生成大竹词提..."
     export INPUT_DIR="${HAO}"
     export OUTPUT_DIR="${HAO}"
+    export WD="${WD}"
     bash ../assets/gen_dazhu.sh || error "生成大竹词提失败"
 
     # 将最终文件复制到目标目录
@@ -215,14 +262,29 @@ gen_schema() {
               --exclude='/div*.txt' \
               --exclude='/freq*.txt' \
               --exclude='/fullcode*.txt' \
-              --exclude='/hao_*.txt' \
+              --exclude='/hao_div.txt' \
+              --exclude='/hao_map.txt' \
+              --exclude='/hao_stroke.txt' \
+              --exclude='/hao_quick_tc.txt' \
+              --exclude='/hao_quick.txt' \
+              --exclude='/hao_simp_tc.txt' \
+              --exclude='/hao_simp.txt' \
               --exclude='/map_*.txt' \
               --exclude='/simp_*.txt' \
               --exclude='/quicks_*.txt' \
               --exclude='/short_*.txt' \
               --exclude='/roots_*.txt' \
               --exclude='/llama_personal.txt' \
+              --exclude='/sy_*.txt' \
+              --exclude='/xi_*.txt' \
+              --exclude='/dict_*.txt' \
               "${HAO}/" "${SCHEMAS}/${NAME}/" || error "复制文件失败"
+
+    log "运行五二顶二简二重表生成脚本..."
+    pushd ${WD}/../assets || error "无法切换到 assets 目录"
+        python secondary_2short_xi.py || error "生成五二顶二简二重表失败"
+        python gen_52tips.py ../schemas/hao/淅码五二顶二简二重表.txt ../schemas/hao/lua/tips/tips_show.txt
+    popd
 
     # 删除临时目录
     log "删除临时目录、文件..."

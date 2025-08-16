@@ -2,7 +2,7 @@
 ---
 name: "hao.sy.short"
 version: "20250528"
-sort: original
+sort: by_weight
 columns:
   - text
   - code
@@ -10,3 +10,7 @@ columns:
   - stem
 ...
 
+#----------单字开始----------#
+[手动简码]
+[单字标记]
+#----------单字结束----------#
