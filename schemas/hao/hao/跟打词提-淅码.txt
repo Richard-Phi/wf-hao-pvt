@@ -23989,7 +23989,7 @@
 㵫	hyyj
 㵬	hmvb
 㵭	hrjy
-㵮	hxgo
+㵮	hxgf
 㵯	hpft
 㵰	hwfv
 㵱	hqdl
@@ -29115,7 +29115,7 @@
 𠐨	kirm
 𠐩	karw
 𠐪	kwrq
-𠐫	kzsn
+𠐫	kzsl
 𠐬	kzvw
 𠐭	kwkd
 𠐮	kwoy
@@ -29162,7 +29162,7 @@
 𠑗	kwcd
 𠑘	kggw
 𠑙	keyi
-𠑚	kfcj
+𠑚	kfco
 𠑛	kwtr
 𠑜	sfib
 𠑝	sze
@@ -40674,7 +40674,7 @@
 𣅯	fkjf
 𣅰	fdpj
 𣅱	otef
-𣅲	pjef
+𣅲	ngje
 𣅳	jpx
 𣅴	jpbm
 𣅵	jngo
@@ -84497,7 +84497,7 @@
 𭩽	amgo
 𭩾	anew
 𭩿	ddaj
-𭪀	jvvy
+𭪀	fvv
 𭪁	akkk
 𭪂	ahjb
 𭪃	bwaj
@@ -86615,7 +86615,7 @@
 𮋊	roee
 𮋋	dgeh
 𮋌	eetf
-𮋍	gsne
+𮋍	tkne
 𮋎	epwk
 𮋏	yfhe
 𮋐	ebve
@@ -103486,27 +103486,8 @@
 ㆽ	fpck
 ㆾ	fpvp
 ㆿ	vyco
-：“	q
-→	t
-·	y
-——	p
-！	a
-……	s
-、	d
-“	f
-”	g
-「	h
-」	j
-？	k
-￥	l
-；	;
-《	z
-》	x
-（	c
-）	v
-：	b
-『	n
-』	m
+℃	pqgx
+℉	kqgx
 的	dsoe
 一	fhff
 是	jkfo
@@ -127498,7 +127479,7 @@
 㵫	hyyj
 㵬	hmvb
 㵭	hrjy
-㵮	hxgo
+㵮	hxgf
 㵯	hpft
 㵰	hwfv
 㵱	hqdl
@@ -132624,7 +132605,7 @@
 𠐨	kirm
 𠐩	karw
 𠐪	kwrq
-𠐫	kzsn
+𠐫	kzsl
 𠐬	kzvw
 𠐭	kwkd
 𠐮	kwoy
@@ -132671,7 +132652,7 @@
 𠑗	kwcd
 𠑘	kggw
 𠑙	keyi
-𠑚	kfcj
+𠑚	kfco
 𠑛	kwtr
 𠑜	sfib
 𠑝	szev
@@ -144183,7 +144164,7 @@
 𣅯	fkjf
 𣅰	fdpj
 𣅱	otef
-𣅲	pjef
+𣅲	ngje
 𣅳	jpxi
 𣅴	jpbm
 𣅵	jngo
@@ -188006,7 +187987,7 @@
 𭩽	amgo
 𭩾	anew
 𭩿	ddaj
-𭪀	jvvy
+𭪀	fvvy
 𭪁	akkk
 𭪂	ahjb
 𭪃	bwaj
@@ -190124,7 +190105,7 @@
 𮋊	roee
 𮋋	dgeh
 𮋌	eetf
-𮋍	gsne
+𮋍	tkne
 𮋎	epwk
 𮋏	yfhe
 𮋐	ebve

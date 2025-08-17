@@ -9,7 +9,7 @@ with open('../simpcode/res.txt', encoding='utf-8') as f:
         频 = '0' if len(码) == 1 else 频
         码表.append([字, 码, 频])
         if len(码) > 2:
-            码表.append([字, ';' + 码, 频])
+            码表.append([字, "'" + 码, 频])
 
 with open('../../schemas/hao/hao/hao.xi.dynamic.dict.yaml', 'w', encoding='utf-8') as f:
     f.write(

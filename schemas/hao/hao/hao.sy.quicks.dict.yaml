@@ -9,6 +9,20 @@ columns:
   - weight
 ...
 
+哈！	dw	1
+Ciallo～(∠・ω< )⌒☆	calo	1
+Ciallo～(∠・ω< )⌒★	callo	1
+哈？	qw	1
+说：“	fq;	1
+道：“	hq;	1
+曰：“	jq;	1
+！”	ag;	1
+？”	qg;	1
+。”	tg;	1
+℃	ssdu	1
+℉	fsdu	1
+吗？	kdfe	1
+呢？	kdfw	1
 #==== 末码简词 ====#
 松烟	hao	1
 说话	ffu	1
@@ -58,7 +72,6 @@ columns:
 事实	lgi	1
 规则	jse	1
 必须	hfe	1
-容易	gvw	1
 即使	fjo	1
 偷懒	jhr	1
 默默	mmu	1
@@ -95,6 +108,7 @@ columns:
 暂停	aji	1
 纪录	tau	1
 恐怖	jhi	1
+福州	sdw	1
 发生	gju	1
 睡觉	dhi	1
 撤回	kzi	1
@@ -117,6 +131,14 @@ columns:
 许多	fxe	1
 功能	jbe	1
 空格	vtw	1
+全球	agr	1
+地区	ppo	1
+普遍	jlu	1
+地震	pki	1
+东西	fdw	1
+延长	sdr	1
+重置	kae	1
+密码	gfe	1
 
 #==== 联绵词 ====#
 尴尬	mm;	1
@@ -131,7 +153,7 @@ columns:
 馄饨	tvtlr	1
 踌躇	xx;	1
 踌躇	xmxco	1
-眼睛	dku	1
+眼睛	ddmu	1
 眼睛	dfdmu	1
 价值	jjae	1
 价值	jajae	1
@@ -140,13 +162,11 @@ columns:
 葡萄	cscsr	1
 继续	tti	1
 继续	tktai	1
-憧憬	hdhd;	1
+憧憬	hhvr	1
 憧憬	hjhvr	1
-荏苒	clcl;	1
 荏苒	cjcdu	1
 渐渐	hho	1
 渐渐	hahao	1
-灿烂	cmcm;	1
 灿烂	cmcje	0
 喷嚏	kku	1
 喷嚏	kakau	0
@@ -157,7 +177,7 @@ columns:
 蟑螂	ggw	1
 蟑螂	gjgnw	0
 饕餮	klcai	1
-凛冽	gge	1
+凛冽	ggce	1
 凛冽	gjgce	1
 葫芦	cci	1
 葫芦	cscli	1
@@ -173,16 +193,34 @@ columns:
 陆离	lkjsw	1
 顑颔	kce	1
 顑颔	klcxe	1
-鹦鹉	sslo	1
+鹦鹉	slqo	1
 鹦鹉	sslqo	1
-浩荡	hmw	1
 浩荡	hmchw	1
-滂沱	hhe	1
 滂沱	hjhge	1
 魑魅魍魉	kkko	1
 魑魅魍魉	kkkko	1
 
 #==== 高频简词 ====#
+越来越	a/	2
+对不起	b/	2
+来不及	c/	2
+的时候	d/	2
+说起来	f/	2
+无所谓	g/	2
+没关系	h/	2
+并不是	j/	2
+每个人	k/	2
+一部分	l/	2
+基本上	m/	2
+为什么	n/	2
+！松烟	p/	2
+！松烟	q/	2
+只不过	s/	2
+差不多	t/	2
+怎么办	v/	2
+！松烟	x/	2
+！松烟	y/	2
+！松烟	z/	2
 如果	gz;	1
 但是	jv;	1
 哪个	ka;	1
@@ -207,7 +245,7 @@ columns:
 应该	ff;	1
 当然	fc;	1
 可以	sv;	1
-我想	st;	1
+系统	st;	1
 想想	tt;	1
 天天	ll;	1
 等等	pp;	1
@@ -252,7 +290,6 @@ columns:
 情况	hg;	1
 问题	qv;	1
 同时	dv;	1
-东西	fd;	1
 笑死	pc;	1
 最好	vg;	1
 最坏	vp;	1
@@ -268,7 +305,7 @@ columns:
 时候	vj;	1
 得到	fk;	1
 遇到	zk;	1
-最差	vt;	1
+怎样	vt;	1
 明白	vd;	1
 时刻	vh;	1
 时间	vq;	1
@@ -297,7 +334,7 @@ columns:
 复杂	kg;	1
 这种	xm;	1
 这是	xv;	1
-而是	gv;	1
+容易	gv;	1
 这些	xd;	1
 而已	gy;	1
 办法	sh;	1
@@ -378,8 +415,6 @@ columns:
 环境	gp;	1
 优秀	jm;	1
 承担	xk;	1
-女子	gq;	1
-男子	zq;	1
 表达	my;	1
 期望	mn;	1
 基本	mt;	1
@@ -405,8 +440,28 @@ columns:
 始终	gt;	1
 道路	jx;	1
 道理	jg;	1
-为什么	njs;	1
+勉强	dn;	1
+经验	tf;	1
+预算	bp;	1
+落地	cp;	1
+当地	sp;	1
+回应	zf;	1
+质疑	zv;	1
+遭遇	lz;	1
+地图	pz;	1
+消耗	hs;	1
+流年	hk;	1
+微笑	yp;	1
+空气	vy;	1
+北京	sd;	1
+上海	fh;	1
+广州	fd;	1
+厦门	zq;	1
+深圳	hp;	1
+针对	qb;	1
+互相	lt;	1
 你们好	jjg;	1
+大家好	ygg;	1
 输入法	azh;	1
 太强了	ynd;	1
 太强了	tql;	1
@@ -415,12 +470,14 @@ columns:
 鈦鏹釕	ttt;	1
 向日葵	svc;	1
 公积金	jmt;	1
+互联网	lhd;	1
 特朗普	mnj;	1
 马斯克	fms;	1
 俄罗斯	jam;	1
 乌克兰	caj;	1
 意大利	sym;	1
 墨西哥	mds;	1
+太平洋	ylh;	1
 
 #==== 四键简词 ====#
 #  首字双编，次字首根取全
@@ -498,6 +555,8 @@ columns:
 数据	kkgr	1
 却将	psbo	1
 连接	akne	1
+女子	gqli	1
+男子	zqsi	1
 
 #==== 自用无理码 ====#
 上传词提 好拆	jfju	1

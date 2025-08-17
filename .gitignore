@@ -3,6 +3,7 @@
 *.gram
 /librime-lua
 /assets/gendict/target
+/assets/gendict_sy/target
 /deploy/generator
 /schemas/hao/build
 /schemas/hao/installation.yaml

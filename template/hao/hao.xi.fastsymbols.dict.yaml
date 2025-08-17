@@ -4,8 +4,8 @@
 # 伪并击快符
 
 ---
-name: "hao.fastsymbols"
-version: "20250528"
+name: "hao.xi.fastsymbols"
+version: "20250804"
 sort: original
 columns:
   - text
@@ -32,27 +32,26 @@ columns:
 ：	;b
 『	;n
 』	;m
+
+：“	q
+→	t
+·	y
+——	p
+！	a
+……	s
+、	d
+“	f
+”	g
+「	h
+」	j
+？	k
+￥	l
 ：	;
 ；	;
-
-：“	q;
-→	t;
-·	y;
-——	p;
-！	a;
-……	s;
-、	d;
-“	f;
-”	g;
-「	h;
-」	j;
-？	k;
-￥	l;
-；	;;
-《	z;
-》	x;
-（	c;
-）	v;
-：	b;
-『	n;
-』	m;
+《	z
+》	x
+（	c
+）	v
+：	b
+『	n
+』	m
