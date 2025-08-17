@@ -130,9 +130,14 @@ gen_schema() {
     # 合并码表文件
     log "合并码表文件..."
     pushd ${HAO}/ || error "无法切换到临时目录"
-        awk '/单字全码/ {system("cat fullcode_xi_modified.txt"); next} 1' hao/hao.xi.full.dict.yaml > temp && mv temp hao/hao.xi.full.dict.yaml
+        awk '/单字全码/ {system("cat fullcode_xi_modified.txt"); next} 1' hao/hao.xi.full.dict.yaml > temp && \
+            cat temp | sed 's/\t\([0-9]*\)\.[0-9]*/\t\1/g' > hao/hao.xi.full.dict.yaml
+        cat fullcode_xi_modified.txt | \
+            sed 's/\t\([0-9]*\)\.[0-9]*/\t\1/g' \
+            > ${WD}/../assets/gendict/data/单字全码表.txt
         cat div_xi.txt | sed "s/(/[/g" | sed "s/)/]/g" >>"hao_xi_chaifen.dict.yaml"
-        awk '/单字全码/ {system("cat fullcode_sy_modified.txt"); next} 1' hao/hao.sy.full.dict.yaml > temp && mv temp hao/hao.sy.full.dict.yaml
+        awk '/单字全码/ {system("cat fullcode_sy_modified.txt"); next} 1' hao/hao.sy.full.dict.yaml > temp && \
+            cat temp | sed 's/\t\([0-9]*\)\.[0-9]*/\t\1/g' > hao/hao.sy.full.dict.yaml
         cat div_sy.txt | sed "s/(/[/g" | sed "s/)/]/g" >>"hao_sy_chaifen.dict.yaml"
         cat div_sy.txt | \
             awk -F '[\t(),]' -v OFS='\t' 'NR==FNR{freq[$1]=$2; next} {print $1, $4, freq[$1]}' "${HAO}/freq.txt" - | \
@@ -144,9 +149,14 @@ gen_schema() {
         >"${WD}/../assets/gendict_sy/data/单字全码表.txt"
     popd
 
+    # 生成淅码-玲珑词表
+    pushd ${WD}/../assets/gendict || error "无法切换到 gendict 目录"
+        cargo run src/main.rs || error "生成淅码-玲珑词表失败"
+    popd
+
     # 生成松烟-玲珑词表
     pushd ${WD}/../assets/gendict_sy || error "无法切换到 gendict_sy 目录"
-        cargo run src/mail.rs || error "生成松烟-玲珑词表失败"
+        cargo run src/main.rs || error "生成松烟-玲珑词表失败"
         cat data/output.txt >> "${HAO}/hao/hao.sy.linglong.dict.yaml"
     popd
 

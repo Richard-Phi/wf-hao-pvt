@@ -127,45 +127,51 @@ except Exception as e:
 print(f"4. 加载词频数据... {time.time() - start_time:.2f}秒")
 # 加载词频数据
 freq = {}
+freq_raw = {}  # 存储原始词频字符串
 try:
     with open(fFreq, 'r', encoding='utf8') as f:  # 载入字词频表
         for line in f:
             parts = line.strip('\n').split('\t')
             if len(parts) >= 2:
-                # 将词频值转换为浮点数，并确保在0~1之间
-                freq_value = float(parts[1])
-                freq_value = max(0.0, min(1.0, freq_value))  # 限制在0~1之间
+                # 保存原始词频字符串
+                raw_freq = parts[1].strip()
+                # 将词频值转换为浮点数用于排序
+                freq_value = float(raw_freq) if raw_freq else 0.0
                 freq[parts[0]] = freq_value
+                freq_raw[parts[0]] = raw_freq  # 存储原始字符串
     print(f"成功加载词频数据，共{len(freq)}条记录")
 except Exception as e:
     print(f"加载词频文件出错: {e}")
+    freq = {}
+    freq_raw = {}
 
 print(f"5. 处理排序... {time.time() - start_time:.2f}秒")
-# 为每个词语添加词频信息（默认为0）
+# 为每个词语添加词频信息
 for i in range(len(word_codes)):
     if len(word_codes[i]) >= 1:
         char = word_codes[i][0]
-        word_freq = freq.get(char, 0.0)  # 默认值改为0.0
-        # 如果词代码中已经有词频（weight），则保留，否则添加
-        if len(word_codes[i]) >= 3:
-            try:
-                # 尝试转换现有的权重值为浮点数
-                existing_weight = float(word_codes[i][2])
-                # 如果转换成功且在有效范围内，则保留
-                if 0.0 <= existing_weight <= 1.0:
-                    word_freq = existing_weight
-            except:
-                pass
+        # 获取原始词频字符串
+        raw_freq = freq_raw.get(char, "0")
         
         # 确保word_codes[i]至少有3个元素
         while len(word_codes[i]) < 3:
             word_codes[i].append('')
         
-        word_codes[i][2] = f"{word_freq:.10f}"  # 设置词频，保留6位小数
+        # 保存原始词频字符串
+        word_codes[i][2] = raw_freq
 
-# 排序
+# 排序 - 使用数值型词频进行排序
 if isFreq:
-    word_codes.sort(key=lambda x: float(x[2]) if len(x) >= 3 and x[2] else 0.0, reverse=True)
+    # 创建临时排序键函数
+    def get_freq_key(item):
+        if len(item) >= 3 and item[2]:
+            try:
+                return float(item[2])
+            except ValueError:
+                return 0.0
+        return 0.0
+    
+    word_codes.sort(key=get_freq_key, reverse=True)
 
 print(f"6. 开始生成简码... {time.time() - start_time:.2f}秒")
 # 出简不出全，考虑当量手感
@@ -192,7 +198,10 @@ for idx, word in enumerate(word_codes):
         if force_code not in force_allocations:
             force_allocations[force_code] = []
         # 获取词频权重
-        weight = float(word[2]) if len(word) >= 3 and word[2] else 0.0
+        try:
+            weight = float(word[2]) if len(word) >= 3 and word[2] else 0.0
+        except ValueError:
+            weight = 0.0
         force_allocations[force_code].append((idx, char, full_code, weight))
 
 # 分配强制简码
@@ -240,7 +249,10 @@ for idx, word in enumerate(word_codes):
         if code_prefix not in custom_allocations:
             custom_allocations[code_prefix] = []
         # 获取词频权重
-        weight = float(word[2]) if len(word) >= 3 and word[2] else 0.0
+        try:
+            weight = float(word[2]) if len(word) >= 3 and word[2] else 0.0
+        except ValueError:
+            weight = 0.0
         custom_allocations[code_prefix].append((idx, char, full_code, weight))
 
 # 分配自定义级数简码
@@ -322,7 +334,7 @@ for idx, word in enumerate(word_codes):
         #print(f"    使用全码: {char} -> {full_code} (无合适简码)")
 
 print(f"7. 保存结果... {time.time() - start_time:.2f}秒")
-# 保存结果，包含字频信息
+# 保存结果，包含原始词频信息
 try:
     with open(fRes, 'w', encoding='utf8') as f:
         for i in range(min(len(word_codes), len(simplified_codes))):
