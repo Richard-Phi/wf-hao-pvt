@@ -44,7 +44,6 @@ columns:
 会	aw	299964
 得	fhvo	299961
 下	lfe	299960	# 无理码
-下	lfr	299960
 能	be	299959
 过	ju	299958
 于	lw	299955
@@ -105,7 +104,6 @@ columns:
 相	tldw	299854
 重	kcjo	299852
 头	ghi	299850
-头	ghyi	299850
 声	ldu	299849
 性	hdju	299848
 应	flu	299847	# 无理码
@@ -191,7 +189,6 @@ columns:
 资	ghdr	299716
 清	hsmu	299714
 嗯	kdu	299712
-嗯	kdzu	299712
 统	tkr	299711
 书	xxr	299710
 市	jvji	299709
@@ -319,7 +316,6 @@ columns:
 病	qkw	299532
 质	zkar	299531
 称	msr	299530
-称	msfe	299530
 江	hsji	299527
 绝	tkfr	299526
 敌	hvi	299525
@@ -813,6 +809,7 @@ columns:
 碰	fjju	298727
 皆	vkve	298726
 尖	flyi	298725
+享	dhi	298722
 聚	hbsu	298721
 胆	cve	298720
 厅	zkli	298719
@@ -1461,7 +1458,7 @@ columns:
 谬	fzw	297449
 膨	ctw	297446
 珊	gfr	297445
-隙	lfvr	297443
+隙	lfr	297443
 垒	bkbu	297442
 嫩	glni	297441
 韵	ssw	297438
@@ -2086,6 +2083,7 @@ columns:
 瞌	dkpi	295899
 窿	vklu	295898
 诙	face	295897
+喟	kdzu	295896
 匍	slsw	295894
 坷	psse	295892
 缮	tkti	295888
@@ -5177,6 +5175,7 @@ columns:
 稉	msfo	283957
 稖	msji	283950
 稛	mszu	283948
+稢	msfe	283943
 稤	msdr	283942
 穈	hamu	283918
 穌	nmu	283914
@@ -8581,6 +8580,7 @@ columns:
 𠛎	tyve	270210
 𠛏	bkde	270209
 𠛒	mtve	270206
+𠛝	lfvr	270195
 𠛣	vlve	270189
 𠛦	smne	270186
 𠛨	skve	270184
@@ -12782,6 +12782,7 @@ columns:
 𨹡	lbgu	235638
 𨹣	lmfr	235636
 𨹦	lktr	235633
+𨹧	lmw	235632
 𨹩	lcji	235630
 𨹪	ljkr	235629
 𨹭	lkki	235626
@@ -14873,6 +14874,7 @@ columns:
 𭐸	xkso	218075
 𭑅	ydpr	218062
 𭑌	jgpo	218055
+𭑛	ghyi	218040
 𭒒	hbge	217986
 𭓊	qyse	217930
 𭓍	qgse	217927

@@ -79,7 +79,6 @@ bjo	对
 aw	会
 fhvo	得
 lfe	下
-lfr	下
 be	能
 ju	过
 lw	于
@@ -140,7 +139,6 @@ pi	等
 tldw	相
 kcjo	重
 ghi	头
-ghyi	头
 ldu	声
 hdju	性
 flu	应
@@ -226,7 +224,6 @@ mtu	期
 ghdr	资
 hsmu	清
 kdu	嗯
-kdzu	嗯
 tkr	统
 xxr	书
 jvji	市
@@ -354,7 +351,6 @@ tkw	级
 qkw	病
 zkar	质
 msr	称
-msfe	称
 hsji	江
 tkfr	绝
 hvi	敌
@@ -848,6 +844,7 @@ alko	暂
 fjju	碰
 vkve	皆
 flyi	尖
+dhi	享
 hbsu	聚
 cve	胆
 zkli	厅
@@ -1496,7 +1493,7 @@ cmge	烛
 fzw	谬
 ctw	膨
 gfr	珊
-lfvr	隙
+lfr	隙
 bkbu	垒
 glni	嫩
 ssw	韵
@@ -2121,6 +2118,7 @@ tkjo	纣
 dkpi	瞌
 vklu	窿
 face	诙
+kdzu	喟
 slsw	匍
 psse	坷
 tkti	缮
@@ -5212,6 +5210,7 @@ dhmu	稁
 msfo	稉
 msji	稖
 mszu	稛
+msfe	稢
 msdr	稤
 hamu	穈
 nmu	穌
@@ -8616,6 +8615,7 @@ hfve	𠛍
 tyve	𠛎
 bkde	𠛏
 mtve	𠛒
+lfvr	𠛝
 vlve	𠛣
 smne	𠛦
 skve	𠛨
@@ -12817,6 +12817,7 @@ lplu	𨹟
 lbgu	𨹡
 lmfr	𨹣
 lktr	𨹦
+lmw	𨹧
 lcji	𨹩
 ljkr	𨹪
 lkki	𨹭
@@ -14908,6 +14909,7 @@ sczw	𭐣
 xkso	𭐸
 ydpr	𭑅
 jgpo	𭑌
+ghyi	𭑛
 hbge	𭒒
 qyse	𭓊
 qgse	𭓍
@@ -16518,7 +16520,6 @@ kkw	看看
 kau	还有
 ffi	谢谢
 lmu	一种
-lmw	与其
 mkr	甚至
 fco	上来
 fce	既然
@@ -16546,7 +16547,6 @@ khe	哪怕
 kje	成功
 ssi	失败
 ado	有些
-jpr	过去
 sbo	面对
 yti	大概
 mku	选择
@@ -16597,7 +16597,6 @@ tau	纪录
 jhi	恐怖
 sdw	福州
 gju	发生
-dhi	睡觉
 kzi	撤回
 kjw	撤离
 hgw	游客

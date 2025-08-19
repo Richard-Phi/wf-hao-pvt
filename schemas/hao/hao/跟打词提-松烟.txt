@@ -31,7 +31,6 @@
 会	aw
 得	fhvo
 下	lfe
-下	lfr
 能	be
 过	ju
 于	lw
@@ -92,7 +91,6 @@
 相	tldw
 重	kcjo
 头	ghi
-头	ghyi
 声	ldu
 性	hdju
 应	flu
@@ -178,7 +176,6 @@
 资	ghdr
 清	hsmu
 嗯	kdu
-嗯	kdzu
 统	tkr
 书	xxr
 市	jvji
@@ -306,7 +303,6 @@
 病	qkw
 质	zkar
 称	msr
-称	msfe
 江	hsji
 绝	tkfr
 敌	hvi
@@ -800,6 +796,7 @@
 碰	fjju
 皆	vkve
 尖	flyi
+享	dhi
 聚	hbsu
 胆	cve
 厅	zkli
@@ -1448,7 +1445,7 @@
 谬	fzw
 膨	ctw
 珊	gfr
-隙	lfvr
+隙	lfr
 垒	bkbu
 嫩	glni
 韵	ssw
@@ -2073,6 +2070,7 @@
 瞌	dkpi
 窿	vklu
 诙	face
+喟	kdzu
 匍	slsw
 坷	psse
 缮	tkti
@@ -5164,6 +5162,7 @@
 稉	msfo
 稖	msji
 稛	mszu
+稢	msfe
 稤	msdr
 穈	hamu
 穌	nmu
@@ -8568,6 +8567,7 @@
 𠛎	tyve
 𠛏	bkde
 𠛒	mtve
+𠛝	lfvr
 𠛣	vlve
 𠛦	smne
 𠛨	skve
@@ -12769,6 +12769,7 @@
 𨹡	lbgu
 𨹣	lmfr
 𨹦	lktr
+𨹧	lmw
 𨹩	lcji
 𨹪	ljkr
 𨹭	lkki
@@ -14860,6 +14861,7 @@
 𭐸	xkso
 𭑅	ydpr
 𭑌	jgpo
+𭑛	ghyi
 𭒒	hbge
 𭓊	qyse
 𭓍	qgse
@@ -16470,7 +16472,6 @@ Ciallo～(∠・ω<	300001
 还有	300001
 谢谢	300001
 一种	300001
-与其	300001
 甚至	300001
 上来	300001
 既然	300001
@@ -16498,7 +16499,6 @@ Ciallo～(∠・ω<	300001
 成功	300001
 失败	300001
 有些	300001
-过去	300001
 面对	300001
 大概	300001
 选择	300001
@@ -16549,7 +16549,6 @@ Ciallo～(∠・ω<	300001
 恐怖	300001
 福州	300001
 发生	300001
-睡觉	300001
 撤回	300001
 撤离	300001
 游客	300001
