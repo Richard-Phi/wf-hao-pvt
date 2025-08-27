@@ -81875,12 +81875,12 @@ nca/	𭄠
 zkka'	𭄡
 aicn/	𭄢
 ltau/	𭄣
-jajb/	𭄤
+fauc'	𭄤
 siau/	𭄥
-zkau'	𭄦
-niea/	𭄧
+bmau/	𭄦
+fiep/	𭄧
 lauc9	𭄨
-wauc8	𭄩
+tauc='	𭄩
 niga/	𭄪
 vsau;	𭄫
 biau;	𭄬
@@ -81892,7 +81892,7 @@ aiqj/	𭄱
 znau;	𭄲
 wrau;	𭄳
 udau;	𭄴
-qauc=_	𭄵
+iauc9	𭄵
 mcra;	𭄶
 ahbk;	𭄷
 mloa/	𭄸
@@ -83924,7 +83924,7 @@ gpoo/	𭤣
 jsio=_	𭤤
 kjsk/	𭤥
 ysjo/	𭤦
-fauc'	𭤧
+fauc8	𭤧
 mldf;	𭤨
 mndo'	𭤩
 fpmx/	𭤪
@@ -89650,7 +89650,7 @@ lxps;	𮰉
 byps;	𮰊
 bdbp/	𮰋
 gmkg/	𮰌
-fauc8	𮰍
+fauc9	𮰍
 aqbj;	𮰎
 gwah9	𮰏
 glht/	𮰐
@@ -90487,7 +90487,7 @@ wozo;	𲋛
 prlf/	𲋄
 sbmf'	𱎛
 qnb/	𰷲
-qauc=;	𱐮
+qauc=_	𱐮
 uwio=_	𰭃
 updo'	𱺱
 exje8	𱇷
@@ -97858,7 +97858,7 @@ qrwi;	𰲡
 qryb/	𲎥
 qcvp/	𱿓
 qruw/	𰴜
-qauc='	𱿎
+qauc=;	𱿎
 qkdo'	𱿐
 jvaj8	𱢪
 okdi/	𱐧
@@ -99296,7 +99296,7 @@ ykgk9	刻
 otkg'	剆
 ezik/	割
 yodk;	剷
-fauc9	㔕
+fauc=_	㔕
 nsau;	勇
 zaau;	勉
 xiza'	勤
@@ -104661,7 +104661,7 @@ rsoe/	约
 efpf;	写
 sdup'	包
 rkdo;	级
-iauc9	另
+iauc=_	另
 xfzs8	病
 ogdj/	质
 zrot;	称
@@ -105641,7 +105641,7 @@ lwkw'	艘
 hcno/	滚
 ddiq'	贴
 xdjo/	赏
-wauc9	劝
+wauc8	劝
 vsfi/	兽
 cmsl'	番
 iwfu;	哼
@@ -106605,7 +106605,7 @@ tkco;	丸
 qwwi8	聂
 okvh/	雁
 gaaj8	琳
-qauc=8	虏
+qauc='	虏
 hsmf'	汝
 mbho8	肢
 iqmf8	咕
@@ -108908,7 +108908,7 @@ kall/	佻
 amxc;	枋
 tesb8	醪
 ugpx/	黩
-tauc='	劬
+tauc=8	劬
 wzvi;	莠
 agtj/	鄣
 wffc/	芗

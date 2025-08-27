@@ -81165,12 +81165,12 @@
 𭄡	zkka	218864
 𭄢	aicn	218863
 𭄣	ltau	218862
-𭄤	jajb	218861
+𭄤	fauc	218861
 𭄥	siau	218860
-𭄦	zkau	218859
-𭄧	niea	218858
+𭄦	bmau	218859
+𭄧	fiep	218858
 𭄨	lauc	218857
-𭄩	wauc	218856
+𭄩	tauc	218856
 𭄪	niga	218855
 𭄫	vsau	218854
 𭄬	biau	218853
@@ -81182,7 +81182,7 @@
 𭄲	znau	218847
 𭄳	wrau	218846
 𭄴	udau	218845
-𭄵	qauc	218844
+𭄵	iauc	218844
 𭄶	mcra	218843
 𭄷	ahbk	218842
 𭄸	mloa	218841
