@@ -13,7 +13,7 @@ with open('../simpcode/res.txt', encoding='utf-8') as f:
 
 with open('../../schemas/hao/hao/hao.xi.dynamic.dict.yaml', 'w', encoding='utf-8') as f:
     f.write(
-        '#Rime dictionary\n\nname: dongtaiwuer\nversion: "0"\ncolumns:\n  - text\n  - code\n  - weight\nsort: original\n...\n\n\n'
+        '#Rime dictionary\n\nname: hao.xi.dynamic\nversion: "0"\ncolumns:\n  - text\n  - code\n  - weight\nsort: by_weight\n...\n\n\n'
         + '\n'.join([f'{字}\t{码}\t{频}' for 字, 码, 频 in 码表])
     )
 

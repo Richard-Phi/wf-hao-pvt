@@ -195,6 +195,6 @@ with open(output_path, 'w', encoding='utf-8') as f:
     for char, code, freq in fullcodes:
         simp = simp_dict.get(char, '')
         if simp:
-            f.write(f'{char}\t{simp}\t{freq:.10f}\n')
+            f.write(f'{char}\t{simp}\t{freq:.0f}\n')
 
 print(f'松烟简码生成完毕，输出到 {output_path}，共{len(simp_dict)}条。') 
