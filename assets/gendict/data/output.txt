@@ -2361,7 +2361,7 @@
 冲击	lipz	14277
 南方	gzmx	14267
 名称	xizr	14259
-优惠	kggs	14252
+优惠	kgtn	14252
 工艺	nvwj	14252
 好玩	sygr	14240
 市场上	ubdf	14212
@@ -7028,7 +7028,7 @@
 丢人	cbsi	3932
 柔和	mczi	3932
 高压	wnob	3931
-优惠券	kgvs	3930
+优惠券	ktvs	3930
 助力	raau	3930
 不掉	cipd	3929
 母语	qtvj	3928
@@ -7384,7 +7384,7 @@
 买东西	plqp	3698
 外交	xdco	3698
 越来越好	qjqs	3698
-实惠	elgs	3697
+实惠	eltn	3697
 美洲	ixhj	3697
 交付	cokl	3696
 骨骼	fvfq	3695
@@ -22383,7 +22383,7 @@
 半斤八两	vova	715
 半部	vpyi	715
 哥本哈根	zaia	715
-惠州	gsjj	715
+惠州	tnjj	715
 才子	gcyd	715
 星河	jdhz	715
 本名	afxi	715
@@ -29273,7 +29273,7 @@
 异国他乡	dukf	424
 征稿	jfzw	424
 急得	rsjj	424
-惠普	gsvo	424
+惠普	tnvo	424
 惹得	wgjj	424
 战略目标	dsga	424
 放大器	mxrl	424
@@ -31955,7 +31955,7 @@
 常来	xujv	348
 平白无故	lduq	348
 底图	gquj	348
-恩惠	uxgs	348
+恩惠	uxtn	348
 惹怒	wgsw	348
 拳打	vspu	348
 普渡	vohg	348
@@ -33311,7 +33311,7 @@
 补品	odir	318
 讲法	vbhb	318
 论著	vhwr	318
-贤惠	kwgs	318
+贤惠	kwtn	318
 蹦极	udak	318
 退守	tlel	318
 送行	vxfj	318
@@ -34179,7 +34179,7 @@
 与世无争	fxur	298
 专心致志	rncm	298
 主干道	olvc	298
-互惠	fsgs	298
+互惠	fstn	298
 伴舞	kvld	298
 倒刺	kcaz	298
 假账	kmdx	298
@@ -34524,7 +34524,7 @@
 氤氲	fufj	291
 求真	fhgg	291
 流变	hpuy	291
-特惠	lbgs	291
+特惠	lbtn	291
 甲午战争	sldr	291
 疯掉	xppd	291
 白术	dyao	291
@@ -34927,7 +34927,7 @@
 家父	ekvo	283
 年少无知	loue	283
 总署	viyr	283
-惠及	gskd	283
+惠及	tnkd	283
 扫视	psdu	283
 找事	pifi	283
 招工	pknv	283
@@ -38645,7 +38645,7 @@
 难如	wvsi	219
 雨露	tftu	219
 高高挂起	wwpq	219
-麦穗	zjzg	219
+麦穗	zjzt	219
 上溯	dfhv	218
 专权	rpaw	218
 书香	ppzj	218
@@ -39245,7 +39245,7 @@
 思想文化	sawk	209
 急刹	rsoa	209
 恋上	uydf	209
-惠民	gsns	209
+惠民	tnns	209
 扬名立万	pxyf	209
 扭捏	pppj	209
 拂晓	puji	209
@@ -41937,7 +41937,7 @@
 参加者	narj	171
 发包	iwsd	171
 发热量	ipjf	171
-受惠	tegs	171
+受惠	tetn	171
 变心	uyng	171
 可怜兮兮	znvv	171
 叹道	iwvc	171
@@ -42079,7 +42079,7 @@
 世态炎凉	xxyl	169
 为非作歹	odkq	169
 二手货	rpkh	169
-互惠互利	fgfz	169
+互惠互利	ftfz	169
 人多势众	sxps	169
 俗字	kpey	169
 偷梁换柱	khpa	169
@@ -45911,7 +45911,7 @@
 孰能	wynm	126
 害人不浅	esch	126
 射进	llbl	126
-小恩小惠	ouog	126
+小恩小惠	ouot	126
 尾骨	mofv	126
 崇山峻岭	dddd	126
 川剧	jvmq	126
@@ -54571,7 +54571,7 @@
 大头针	xlcg	56
 始料不及	smck	56
 寒冬腊月	ejmm	56
-小惠	otgs	56
+小惠	ottn	56
 小计	otvg	56
 就坡下驴	wbfx	56
 屋前	mcvm	56
@@ -57120,7 +57120,7 @@
 磷矿	qmqg	42
 票证	qdvf	42
 福晋	dffo	42
-稻穗	ztzg	42
+稻穗	ztzt	42
 空想社会主义	zado	42
 窥测	zshd	42
 童贞	yddd	42
@@ -60205,7 +60205,7 @@
 打拐	pupi	28
 执法不严	phcf	28
 抄没	pohq	28
-抽穗	pizg	28
+抽穗	pizt	28
 指手划脚	ppim	28
 挥毫泼墨	pwhu	28
 捆缚	purg	28
@@ -60429,7 +60429,7 @@
 总工会	vnsp	27
 惊恐万状	nnfn	27
 惜贷	nxkn	27
-惠阳	gstj	27
+惠阳	tntj	27
 惶然	ndml	27
 愣怔	nynf	27
 战鹰	digk	27
@@ -61643,7 +61643,7 @@
 怨仇	xwkd	22
 恒河沙数	nhhm	22
 惑乱	iivp	22
-惠顾	gsow	22
+惠顾	tnow	22
 愁怨	zyxw	22
 愁眉	zymg	22
 意韵	anas	22
@@ -62214,7 +62214,7 @@
 暂借	yokx	20
 暗哨	jaio	20
 曲径	rwjw	20
-最惠国待遇	jgus	20
+最惠国待遇	jtus	20
 有借有还	gkgc	20
 有凭有据	gkgp	20
 木鞋	ajgb	20
@@ -62944,7 +62944,7 @@
 反腐倡廉	ogkg	17
 发怔	iwnf	17
 叠翠	wweu	17
-口惠而实不至	iguc	17
+口惠而实不至	ituc	17
 可知论	zevh	17
 台港	nihx	17
 合家	tiek	17
@@ -63010,7 +63010,7 @@
 忧心如焚	nnsa	17
 恶因	foux	17
 悔过自新	nlcy	17
-惠存	gsgk	17
+惠存	tngk	17
 惨祸	nndi	17
 愚顽	sfra	17
 扶老携幼	prpb	17
@@ -66278,7 +66278,7 @@
 悔之不及	ndck	7
 悲不自胜	dccm	7
 悲悲戚戚	dduu	7
-惠安	gses	7
+惠安	tnes	7
 惨厉	nnof	7
 惨毒	nnzq	7
 意乱神迷	avdm	7
@@ -66695,7 +66695,7 @@
 本戏	afwi	6
 本证	afvf	6
 林产	aayo	6
-果穗	sazg	6
+果穗	sazt	6
 枣阳	aztj	6
 架得住	ajko	6
 柔细	mcrs	6
@@ -66965,7 +66965,7 @@
 双日	wwje	5
 双阳	wwtj	5
 发网	iwzo	5
-口惠	iqgs	5
+口惠	iqtn	5
 另定	iaek	5
 叩见	iwuw	5
 可意	zjan	5
@@ -68153,7 +68153,7 @@
 尖脐	oxma	2
 弃旧图新	pkuy	2
 怆痛	nsxn	2
-惠赠	gsdv	2
+惠赠	tndv	2
 战云	dipd	2
 承应	phgh	2
 拂煦	pujt	2
@@ -69060,7 +69060,7 @@
 吁求	iffh	0
 同庚	zfgs	0
 后厦	ofof	0
-吐穗	ibzg	0
+吐穗	ibzt	0
 向火	czyv	0
 向隅而泣	ctuh	0
 吠影吠声	ijim	0

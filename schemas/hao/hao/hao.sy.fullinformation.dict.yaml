@@ -104,7 +104,7 @@ columns:
 分	JdoVje	299908
 把	KsuFyr	299907
 开	LeClr	299906
-军	GkeAle	299905
+字	GkeQi	299905
 又	Bu	299904
 两	Kso	299903
 本	TlrLe	299902
@@ -167,7 +167,7 @@ columns:
 话	FeHvu	299845
 文	Xo	299844
 给	TkwCjoKdi	299843
-美	ToYdi	299842
+吗	KdiFye	299842
 业	Su	299841
 物	MdoSliFyw	299840
 真	AkwDkwJdo	299839
@@ -391,7 +391,7 @@ columns:
 深	HsuGkeJdoTlr	299621
 联	HeJdoYdi	299620
 争	FmiDo	299619
-吗	KdiFye	299618
+美	ToYdi	299618
 院	LwGkeZoLr	299617
 轻	AleBuJti	299616
 火	Cme	299615
@@ -417,7 +417,7 @@ columns:
 官	GkeNw	299595
 整	NsuHfiLeDi	299594
 爱	HoGkeAkwBu	299593
-字	GkeQi	299592
+军	GkeAle	299592
 持	KsuPsuJfo	299591
 跟	XuFhe	299590
 突	VkwLqu	299589
@@ -684,7 +684,7 @@ columns:
 药	ClrTkwSliNr	299328
 久	FmiNr	299327
 印	JsuLeLgi	299326
-卫	LgiLe	299325
+欢	BuDlw	299325
 助	SyeSle	299324
 掌	NdoKsu	299323
 织	TkwKdiJdo	299322
@@ -735,7 +735,7 @@ columns:
 福	SjwLeKdiZhe	299277
 弟	JdoAmr	299276
 怀	HduKgi	299275
-欢	BuDlw	299274
+卫	LgiLe	299274
 环	GuKgi	299273
 招	KsuVjeKdi	299272
 模	TlrClrVoYdi	299271
@@ -1018,7 +1018,7 @@ columns:
 输	AleCjoCuVje	298994
 洛	HsuVyw	298993
 祖	SjwSye	298992
-缓	TkwHoLeBu	298991
+缓	TkwHoLvuBu	298991
 迎	JsuLgiNdu	298990
 虎	Vhe	298989
 票	DhwSjw	298988
@@ -1262,7 +1262,7 @@ columns:
 厚	ZkrVoQi	298750
 措	KsuAkrVo	298749
 瓦	Pr	298748
-援	KsuHoLeBu	298747
+援	KsuHoLvuBu	298747
 汇	HsuPgo	298746
 触	FmiAiGje	298745
 售	HqoKdi	298744
@@ -1621,7 +1621,7 @@ columns:
 慕	ClrVoYdiHdu	298391
 晋	LeSuVo	298390
 卢	FjrMfu	298389
-惠	AkwZheBkrHdu	298388
+惠	FkwBkrHdu	298388
 储	JoFeFkeVo	298387
 汤	HsuXiFyw	298386
 宪	GkeMdoLr	298385
@@ -1829,7 +1829,7 @@ columns:
 雕	DjrPsuKdiHqo	298183
 邮	MeLw	298182
 誉	HsuJdoDu	298181
-暖	VoHoLeBu	298180
+暖	VoHoLvuBu	298180
 阔	QlrHsuHvu	298179
 乾	AkwVoAkwJr	298178
 祸	SjwKdiDjrAu	298177
@@ -3504,7 +3504,7 @@ columns:
 诣	FeVkeVo	296508
 锈	QjrMsuFnw	296507
 辗	AleMfuAkrYr	296506
-穗	MsuAkwZheHdu	296505
+穗	MsuFkwBkrHdu	296505
 惰	HduAkwJtiCu	296504
 鲨	HsuFlrSiBo	296503
 柿	TlrJvuJfi	296502
@@ -3935,7 +3935,7 @@ columns:
 芥	ClrAuVje	296077
 叁	BkrYdiSme	296076
 憬	HduVoDheFlr	296075
-媛	GleHoLeBu	296074
+媛	GleHoLvuBu	296074
 碘	FjeFhrJdo	296073
 嗳	KdiHoGkeBu	296072
 彤	DjrJvuFyw	296071
@@ -3973,7 +3973,7 @@ columns:
 缄	TkwKeLeKdi	296039
 垛	PsuAnwTlr	296038
 瘢	QkrMoLdu	296037
-蕙	ClrAkwZheHdu	296036
+蕙	ClrFkwBkrHdu	296036
 浒	HsuFeKfeAkw	296035
 甥	JfuZheSle	296034
 迳	BuJtiNdu	296033
@@ -4785,7 +4785,7 @@ columns:
 祜	SjwSkr	295227
 霰	KoAkrCuHfi	295226
 盥	JziHsuPdi	295225
-谖	FeHoLeBu	295224
+谖	FeHoLvuBu	295224
 锨	QjrKfoDlw	295223
 徭	FhwHoAyr	295222
 肓	NeCu	295221
@@ -4965,7 +4965,7 @@ columns:
 歙	CjoKdiZuDlw	295047
 氅	NdoHfiGye	295046
 煲	JoKdiTlrCme	295045
-爰	HoLeAkwBu	295044
+爰	HoLvuBu	295044
 璎	GuSmrSmrGle	295043
 篾	PuAheKeNr	295042
 铉	QjrJvuLi	295041
@@ -5147,7 +5147,7 @@ columns:
 仃	JoLfi	294865
 圜	ZeAheLeYr	294864
 氩	YsoLeSu	294863
-蟪	GjeAkwZheHdu	294862
+蟪	GjeFkwBkrHdu	294862
 逶	MsuGleNdu	294861
 锴	QjrVkeVkeDle	294860
 頁	Ar	294859
@@ -6125,7 +6125,7 @@ columns:
 娈	JvuCmeGle	293887
 嫫	GleClrVoYdi	293886
 搦	KsuNsiGhwGhw	293885
-瑗	GuHoLeBu	293884
+瑗	GuHoLvuBu	293884
 疋	Jgu	293883
 豐	MgiMvuMvuKqo	293882
 撐	KsuNdoTu	293881
@@ -6606,7 +6606,7 @@ columns:
 酾	SeLeCuCu	293406
 钐	QjrFyw	293405
 锬	QjrCmeCme	293404
-锾	QjrHoLeBu	293403
+锾	QjrHoLvuBu	293403
 镙	QjrZheYfo	293402
 陧	LwVoPsu	293401
 顸	LvuPe	293400
@@ -6751,12 +6751,12 @@ columns:
 級	YfoSyw	293261
 併	JoJdoClr	293260
 兩	LeJfiZiZi	293259
-轉	QneAkwZheJfo	293258
+轉	QneFkwBkrJfo	293258
 塊	PsuKci	293257
 線	YfoDleHsu	293256
 黃	Ghr	293255
 難	AkrKdiJgiHqo	293254
-傳	JoAkwZheJfo	293253
+傳	JoFkwBkrJfo	293253
 樣	TlrToNrHsu	293252
 門	Yxi	293251
 夠	XkeXkeTyw	293250
@@ -6835,7 +6835,7 @@ columns:
 現	GuXyr	293177
 華	ClrKsuClr	293176
 養	ToNrNrFhe	293175
-團	ZeAkwZheJfo	293174
+團	ZeFkwBkrJfo	293174
 補	YrSpw	293173
 樂	DleLiLiTlr	293172
 煩	CmeAr	293171
@@ -6996,7 +6996,7 @@ columns:
 掙	KsuHoDo	293016
 爾	LeXcu	293015
 脫	CuJdoKdiLr	293014
-專	AkwZheBkrJfo	293013
+專	FkwBkrJfo	293013
 稅	MsuJdoKdiLr	293012
 視	SjwXyr	293011
 錄	TmrAlrHsu	293010
@@ -7065,7 +7065,7 @@ columns:
 慶	KtuXiHduMw	292947
 緣	YfoAlrDne	292946
 舉	JziLeXiKsu	292945
-蕭	ClrDoShrLe	292944
+蕭	ClrDoShrShr	292944
 衛	DyrQr	292943
 訓	DuDyw	292942
 載	AkwFjwQne	292941
@@ -7120,7 +7120,7 @@ columns:
 營	CmeCmeGkeAmw	292892
 譚	DuDhwVoAkw	292891
 殘	CkeFjwFjw	292890
-磚	FjeAkwZheJfo	292889
+磚	FjeFkwBkrJfo	292889
 賢	QheBuZye	292888
 備	JoAkrSiAi	292887
 撥	KsuJdoNsiLdu	292886
@@ -7298,7 +7298,7 @@ columns:
 妝	ShrGle	292714
 決	HsuPgoAu	292713
 瓊	GuFmiDjrMw	292712
-緩	YfoHoLeBu	292711
+緩	YfoHoLvuBu	292711
 腸	CuVoLeFyw	292710
 適	JsiDjrSkrNdu	292709
 銷	TmrFlrCu	292708
@@ -7306,7 +7306,7 @@ columns:
 鶴	GkeHqoBle	292706
 務	BiSiMwSle	292705
 態	BkrCuVkeHdu	292704
-繡	YfoDoShrLe	292703
+繡	YfoDoShrShr	292703
 蒼	ClrAuLsiKdi	292702
 訴	DuKfoNr	292701
 醬	ShrCuJfoSe	292700
@@ -7393,7 +7393,7 @@ columns:
 鈴	TmrCjoBkr	292619
 閱	YxiJdoKdiLr	292618
 駕	SleKdiAje	292617
-嘯	KdiDoShrLe	292616
+嘯	KdiDoShrShr	292616
 徑	FhwLeDywJti	292615
 揀	KsuNsuJdo	292614
 攪	KsuJziSoXyr	292613
@@ -7806,7 +7806,7 @@ columns:
 㪗	JsiKdiHfi	292204
 㫚	SliFywVo	292203
 㫰	VoNrFhe	292202
-㬊	VoHoLeBu	292201
+㬊	VoHoLvuBu	292201
 㬎	VoLiLiCme	292200
 㬚	VoHwCuHfi	292199
 㬤	VoVoLiCme	292198
@@ -8062,7 +8062,7 @@ columns:
 剚	LeKdiDoVje	291948
 剟	BuBuBuVje	291947
 剳	ClrCjoKdiVje	291946
-剸	AkwZheBkrVje	291945
+剸	FkwBkrJfoVje	291945
 剹	ZuAuFywVje	291944
 剺	CoHfiZkrVje	291943
 劀	BiSiDjrVje	291942
@@ -8800,7 +8800,7 @@ columns:
 樛	TlrZuAuFyw	291211
 樸	TlrSuToNr	291210
 橑	TlrYdiJdoFlr	291209
-橞	TlrAkwZheHdu	291208
+橞	TlrFkwBkrHdu	291208
 橤	HduHduHduTlr	291207
 橦	TlrJsiJgo	291206
 檇	TlrHqoDjr	291205
@@ -8923,7 +8923,7 @@ columns:
 湝	HsuVkeVkeDle	291088
 湣	HsuHtiVo	291087
 湪	HsuAlrDne	291086
-湲	HsuHoLeBu	291085
+湲	HsuHoLvuBu	291085
 湴	HsuJdoSu	291084
 湻	HsuDheVo	291083
 溁	HsuClrGkeTlr	291082
@@ -9088,7 +9088,7 @@ columns:
 猄	LquDheFlr	290923
 猇	LquVhe	290922
 猋	LquLquLqu	290921
-猨	LquHoLeBu	290920
+猨	LquHoLvuBu	290920
 猯	LquMgiGo	290919
 猰	LquMvuVjeYdi	290918
 猺	LquHoAyr	290917
@@ -9633,7 +9633,7 @@ columns:
 蝘	GjePgoVoGle	290378
 蝡	GjeGoYdi	290377
 蝨	XiAkwGjeGje	290376
-蝯	GjeHoLeBu	290375
+蝯	GjeHoLvuBu	290375
 蝲	GjeNsuVje	290374
 螀	ShrXkeJfoGje	290373
 螗	GjeFkrDoKdi	290372
@@ -10360,7 +10360,7 @@ columns:
 𬣳	FeFhe	289651
 𬤇	FeDhwPsu	289650
 𬤊	FeVoJgu	289649
-𬤝	FeAkwZheHdu	289648
+𬤝	FeFkwBkrHdu	289648
 𬤨	FeKdiLfuTlr	289647
 𬧀	XuShrXkeJfo	289646
 𬨂	AleCmw	289645
@@ -10882,7 +10882,7 @@ columns:
 僛	JoMtoJdoDlw	289128
 僟	JoLiLiAu	289127
 僠	JoSiKaiZhe	289126
-僡	JoAkwZheHdu	289125
+僡	JoFkwBkrHdu	289125
 僢	JoHoGkeKsu	289124
 僣	JoJgiJgiVo	289123
 僤	JoLfuZheAkw	289122
@@ -11353,7 +11353,7 @@ columns:
 喕	KdiSmw	288657
 喖	KdiTlrSkr	288656
 喗	KdiGkeQne	288655
-喛	KdiHoLeBu	288654
+喛	KdiHoLvuBu	288654
 喞	KdiDleVkeLgi	288653
 喠	KdiKcoJgo	288652
 喡	KdiQr	288651
@@ -11494,7 +11494,7 @@ columns:
 嚽	KdiBwZye	288516
 嚾	KdiClrLfuHqo	288515
 嚿	KdiClrHqoJzi	288514
-囀	KdiQneAkwJfo	288513
+囀	KdiQneFkwJfo	288513
 囁	KdiHeHeHe	288512
 囂	LfuArLfu	288511
 囃	KdiJvuAuHqo	288510
@@ -11693,7 +11693,7 @@ columns:
 塹	QneKfoPsu	288317
 塺	HauPsu	288316
 塻	PsuClrVoYdi	288315
-塼	PsuAkwZheJfo	288314
+塼	PsuFkwBkrJfo	288314
 塿	PsuLuKdiGle	288313
 墂	PsuDhwSjw	288312
 墄	PsuKeFjrFlr	288311
@@ -12009,7 +12009,7 @@ columns:
 嫟	GlePgoClrKdi	288001
 嫢	JgiXyrGle	288000
 嫤	GleAkrKdiMvu	287999
-嫥	GleAkwZheJfo	287998
+嫥	GleFkwBkrJfo	287998
 嫧	GleMvuZye	287997
 嫨	GleAkrKdiJgi	287996
 嫬	GleFkrAkrCme	287995
@@ -12151,7 +12151,7 @@ columns:
 寠	GkeLuKdiGle	287859
 寣	GkeShrDu	287858
 寪	GkeHoSiCme	287857
-寭	GkeAkwZheHdu	287856
+寭	GkeFkwBkrHdu	287856
 寯	GkeHqoDjr	287855
 寱	GkeShrFoTlr	287854
 寲	GkeVkeHfuJgu	287853
@@ -12311,7 +12311,7 @@ columns:
 嵃	MgiJsiZkrFyw	287699
 嵄	MgiToYdi	287698
 嵆	MsuMrMgi	287697
-嵈	MgiHoLeBu	287696
+嵈	MgiHoLvuBu	287696
 嵉	MgiDheLfi	287695
 嵍	BiSiHfiMgi	287694
 嵏	MgiSoDjrMw	287693
@@ -12590,7 +12590,7 @@ columns:
 彃	NsiZheClrKsu	287420
 彄	NsiPgoKdiLfu	287419
 彆	XcuHfiNsi	287418
-彇	NsiDoShrLe	287417
+彇	NsiDoShrShr	287417
 彉	NsiGhr	287416
 彊	NsiLeZheLe	287415
 彋	NsiAheLeYr	287414
@@ -12782,7 +12782,7 @@ columns:
 愄	HduZheLeYr	287228
 愅	HduNfi	287227
 愇	HduQr	287226
-愋	HduHoLeBu	287225
+愋	HduHoLvuBu	287225
 愌	HduFmiDjrYdi	287224
 愑	HduBkrAiSle	287223
 愓	HduVoLeFyw	287222
@@ -12841,7 +12841,7 @@ columns:
 慫	FhwAuAuHdu	287169
 慮	VheZheHdu	287168
 慯	HduKfeVoFyw	287167
-慱	HduAkwZheJfo	287166
+慱	HduFkwBkrJfo	287166
 慲	HduAkrJfiZi	287165
 慳	HduQheBuPsu	287164
 慴	HduZuDle	287163
@@ -12861,7 +12861,7 @@ columns:
 憌	TmrSliGhwHdu	287149
 憍	HduSiYdiKdi	287148
 憒	HduGjeZye	287147
-憓	HduAkwZheHdu	287146
+憓	HduFkwBkrHdu	287146
 憖	TlrAuAuHdu	287145
 憗	TlrAuAuHdu	287144
 憘	HduTiKdi	287143
@@ -13206,7 +13206,7 @@ columns:
 摱	KsuVoAheBu	286804
 摲	KsuQneKfo	286803
 摵	KsuKeFjrFlr	286802
-摶	KsuAkwZheJfo	286801
+摶	KsuFkwBkrJfo	286801
 摷	KsuDywZheTlr	286800
 摼	KsuQheBuPsu	286799
 摾	KsuNsiKdiGje	286798
@@ -13363,7 +13363,7 @@ columns:
 斉	Mdu	286647
 斊	XoHe	286646
 斍	XoXyr	286645
-斎	MduFlr	286644
+斎	MduSjw	286644
 斏	XoNrFhe	286643
 斒	XoLsiFhr	286642
 斔	XoGjeJziAu	286641
@@ -13491,7 +13491,7 @@ columns:
 暯	VoClrVoYdi	286519
 暰	VoFhwAuDi	286518
 暳	VoMvuMvuAlr	286517
-暷	VoAkwZheJfo	286516
+暷	VoFkwBkrJfo	286516
 暸	VoYdiJdoFlr	286515
 暺	VoLfuZheAkw	286514
 暻	VoVoDheFlr	286513
@@ -13830,7 +13830,7 @@ columns:
 楟	TlrDheLfi	286180
 楡	TlrCjoCuDyw	286179
 楤	TlrSliFywHdu	286178
-楥	TlrHoLeBu	286177
+楥	TlrHoLvuBu	286177
 楧	TlrClrDjrYdi	286176
 楨	TlrFjrZye	286175
 楰	TlrJziAu	286174
@@ -13901,7 +13901,7 @@ columns:
 槨	TlrDheQiLw	286109
 槩	FheGiTlr	286108
 槪	TlrDleVkeGi	286107
-槫	TlrAkwZheJfo	286106
+槫	TlrFkwBkrJfo	286106
 槬	TlrYdiZoMti	286105
 槮	TlrBkrBkrFyw	286104
 槯	TlrMgiHqo	286103
@@ -13976,7 +13976,7 @@ columns:
 橕	TlrNdoTu	286034
 橖	TlrNdoTlr	286033
 橗	TlrClrVoCu	286032
-橚	TlrDoShrLe	286031
+橚	TlrDoShrShr	286031
 橜	ZkrJdoGyrTlr	286030
 橝	TlrDhwVoAkw	286029
 橠	TlrJvuXkeYr	286028
@@ -14039,7 +14039,7 @@ columns:
 檯	TlrLdoKdiKr	285971
 檰	TlrYfoDleJfi	285970
 檱	TlrPuMtoJdo	285969
-檲	TlrZeAkwJfo	285968
+檲	TlrZeFkwJfo	285968
 檳	TlrGkeLeZye	285967
 檴	TlrClrHqoBu	285966
 檶	TlrYdiPgoLfu	285965
@@ -14104,7 +14104,7 @@ columns:
 櫵	TlrClrHqoCme	285906
 櫷	TlrMdi	285905
 櫸	TlrJziLeKsu	285904
-櫹	TlrClrDoLe	285903
+櫹	TlrClrDoShr	285903
 櫽	LwHoJtiTlr	285902
 櫾	TlrHoAyrYfo	285901
 櫿	TlrCmeCmeAmw	285900
@@ -14574,7 +14574,7 @@ columns:
 漑	HsuDleVkeGi	285436
 漗	HsuSiNfoHdu	285435
 漘	HsuHgiCu	285434
-漙	HsuAkwZheJfo	285433
+漙	HsuFkwBkrJfo	285433
 漚	HsuPgoKdiLfu	285432
 漛	HsuJdoJgiHsu	285431
 漜	HsuTlrTlrPsu	285430
@@ -14605,11 +14605,11 @@ columns:
 潎	HsuXcuHfi	285405
 潐	HsuHqoCme	285404
 潒	HsuDjw	285403
-潓	HsuAkwZheHdu	285402
+潓	HsuFkwBkrHdu	285402
 潕	HsuKfeKauCme	285401
 潗	HsuHqoTlr	285400
 潙	HsuHoSiCme	285399
-潚	HsuDoShrLe	285398
+潚	HsuDoShrShr	285398
 潠	HsuKviKviJdo	285397
 潡	HsuDheQiHfi	285396
 潣	HsuYxiXo	285395
@@ -14731,7 +14731,7 @@ columns:
 瀙	HsuJsiTlrXyr	285279
 瀜	HsuQmwGje	285278
 瀝	HsuZkrMsuDi	285277
-瀟	HsuClrDoLe	285276
+瀟	HsuClrDoShr	285276
 瀠	HsuCmeCmeYfo	285275
 瀡	HsuLwAkwNdu	285274
 瀢	HsuGjeZyeNdu	285273
@@ -14914,7 +14914,7 @@ columns:
 煑	FkeVoCme	285096
 煔	CmeCmeFjrKdi	285095
 煕	QheKviCme	285094
-煖	CmeHoLeBu	285093
+煖	CmeHoLvuBu	285093
 煗	CmeGoYdi	285092
 煘	CmeKeLeKdi	285091
 煛	DkwDkwCme	285090
@@ -14976,7 +14976,7 @@ columns:
 熷	CmeJdoZeVo	285034
 熸	CmeGiGiVo	285033
 熼	CmeZheAkrJdo	285032
-熽	CmeDoShrLe	285031
+熽	CmeDoShrShr	285031
 熾	CmeSrFjw	285030
 燀	CmeLfuZheAkw	285029
 燂	CmeDhwVoAkw	285028
@@ -15307,7 +15307,7 @@ columns:
 瑹	GuClrAuMsu	284703
 瑺	GuNdoJfi	284702
 瑻	GuLuZye	284701
-瑼	GuAkwZheJfo	284700
+瑼	GuFkwBkrJfo	284700
 瑽	GuFhwAuDi	284699
 瑿	PgoHfuLduNr	284698
 璂	GuMtoJdoPsu	284697
@@ -15326,12 +15326,12 @@ columns:
 璗	HsuVoLeNr	284684
 璙	GuYdiJdoFlr	284683
 璚	GuBiSiKdi	284682
-璛	GuDoShrLe	284681
+璛	GuDoShrShr	284681
 璝	GuGjeZye	284680
 璡	GuHqoNdu	284679
 璢	GuClrPgoZhe	284678
 璣	GuLiLiAu	284677
-璤	GuAkwZheHdu	284676
+璤	GuFkwBkrHdu	284676
 璦	GuHoGkeMw	284675
 璫	GuNdoZhe	284674
 璭	GuGkeQneNdu	284673
@@ -15397,7 +15397,7 @@ columns:
 甊	LuKdiGlePr	284613
 甋	JsiDjrSkrPr	284612
 甌	PgoKdiLfuPr	284611
-甎	AkwZheBkrPr	284610
+甎	FkwBkrJfoPr	284610
 甐	KaiXkeKsuPr	284609
 甒	KfeKauLePr	284608
 甔	FmiZkrJdoPr	284607
@@ -15982,7 +15982,7 @@ columns:
 禉	SjwJdoSe	284028
 禌	SjwJdoLiLi	284027
 禎	SjwFjrZye	284026
-禐	SjwHoLeBu	284025
+禐	SjwHoLvuBu	284025
 禑	SjwZheGw	284024
 禓	SjwVoLeFyw	284023
 禕	SjwQr	284022
@@ -16185,7 +16185,7 @@ columns:
 竪	QheBuJsi	283825
 竬	JsiSiKdiGw	283824
 竮	JsiMfuJdoClr	283823
-竱	JsiAkwZheJfo	283822
+竱	JsiFkwBkrJfo	283822
 竲	JsiJdoZeVo	283821
 竳	JsiJdoKqo	283820
 竴	JsiJdoSeJfo	283819
@@ -16330,7 +16330,7 @@ columns:
 篺	PuKsuDleAkw	283680
 篻	PuDhwSjw	283679
 篽	PuFhwAyrLgi	283678
-篿	PuAkwZheJfo	283677
+篿	PuFkwBkrJfo	283677
 簀	PuMvuZye	283676
 簁	PuFhwDiDi	283675
 簂	PuZeFjwLe	283674
@@ -16358,7 +16358,7 @@ columns:
 簥	PuSiYdiKdi	283652
 簨	PuKviKviJdo	283651
 簩	PuCmeCmeSle	283650
-簫	PuDoShrLe	283649
+簫	PuDoShrShr	283649
 簬	PuXuVyw	283648
 簭	PuJtiAuKdi	283647
 簮	PuJgiJgiVo	283646
@@ -16482,7 +16482,7 @@ columns:
 糬	KaiAheFkeVo	283528
 糭	KaiKaiDjrMw	283527
 糮	KaiQhePuPdi	283526
-糰	KaiZeAkwJfo	283525
+糰	KaiZeFkwJfo	283525
 糱	GyrSiNwKai	283524
 糲	KaiZkrClrGw	283523
 糳	SuToJziKai	283522
@@ -16745,7 +16745,7 @@ columns:
 縯	YfoGkeLeJdo	283265
 縰	YfoFhwDiDi	283264
 縲	YfoZheYfo	283263
-縳	YfoAkwZheJfo	283262
+縳	YfoFkwBkrJfo	283262
 縴	YfoJvuLiMdo	283261
 縵	YfoVoAheBu	283260
 縶	PsuToYeYfo	283259
@@ -16768,7 +16768,7 @@ columns:
 繍	YfoDoKaiVje	283242
 繎	YfoCuLquCme	283241
 繏	YfoKviKviJdo	283240
-繐	YfoAkwZheHdu	283239
+繐	YfoFkwBkrHdu	283239
 繑	YfoSiYdiKdi	283238
 繒	YfoJdoZeVo	283237
 繓	YfoVoHeBu	283236
@@ -16995,7 +16995,7 @@ columns:
 聾	JsiCuKqiHe	283015
 肁	LsiDo	283014
 肂	CkeDo	283013
-肅	DoShrShrLe	283012
+肅	DoShrShr	283012
 肈	LsiFjwDo	283011
 肊	CuJr	283010
 肍	CuGmr	283009
@@ -17109,7 +17109,7 @@ columns:
 膕	CuZeFjwLe	282901
 膖	CuMwMvuNdu	282900
 膚	VheZheCu	282899
-膞	CuAkwZheJfo	282898
+膞	CuFkwBkrJfo	282898
 膟	CuJvuLiAkw	282897
 膡	CuJdoJgiDkw	282896
 膢	CuLuKdiGle	282895
@@ -17395,7 +17395,7 @@ columns:
 萮	ClrCjoCuVje	282615
 萯	ClrFmiZye	282614
 萰	ClrNsuJdo	282613
-萲	ClrHoLeBu	282612
+萲	ClrHoLvuBu	282612
 萴	ClrZyeVje	282611
 萵	ClrNdiKdi	282610
 萶	ClrMvuNrVo	282609
@@ -17982,7 +17982,7 @@ columns:
 蟬	GjeLfuZheAkw	282028
 蟭	GjeHqoCme	282027
 蟯	GjePsuPsuLr	282026
-蟰	GjeDoShrLe	282025
+蟰	GjeDoShrShr	282025
 蟱	GjeKfeKauCme	282024
 蟳	GjeAlrJtiJfo	282023
 蟴	MtoJdoKfoGje	282022
@@ -18024,7 +18024,7 @@ columns:
 蠥	GyrSiNwGje	281986
 蠦	GjeVheZhePdi	281985
 蠧	LdoGkeFjeGje	281984
-蠨	GjeClrDoLe	281983
+蠨	GjeClrDoShr	281983
 蠩	GjeDuFkeVo	281982
 蠪	JsiCuKqiGje	281981
 蠫	QeVjeGjeGje	281980
@@ -18146,7 +18146,7 @@ columns:
 褋	YrAkrXiTlr	281864
 褌	YrGkeQne	281863
 褍	YrMgiGo	281862
-褑	YrHoLeBu	281861
+褑	YrHoLvuBu	281861
 褔	YrLeKdiZhe	281860
 褖	YrAlrDne	281859
 褗	YrPgoVoGle	281858
@@ -18506,7 +18506,7 @@ columns:
 諹	DuVoLeFyw	281504
 諺	DuJsiZkrFyw	281503
 諻	DuDleGu	281502
-諼	DuHoLeBu	281501
+諼	DuHoLvuBu	281501
 諽	DuNfi	281500
 諿	DuKdiHe	281499
 謁	DuVoSliNe	281498
@@ -18581,7 +18581,7 @@ columns:
 譐	DuJdoSeJfo	281429
 譑	DuSiYdiKdi	281428
 譒	DuSiKaiZhe	281427
-譓	DuAkwZheHdu	281426
+譓	DuFkwBkrHdu	281426
 譔	DuKviKviJdo	281425
 譕	DuKfeKauCme	281424
 譖	DuGiGiVo	281423
@@ -19290,7 +19290,7 @@ columns:
 鄖	KdiZyeLw	280720
 鄛	DywZheTlrLw	280719
 鄝	ZuAuFywLw	280718
-鄟	AkwZheBkrLw	280717
+鄟	FkwBkrJfoLw	280717
 鄡	BleTlrLw	280716
 鄤	VoAheBuLw	280715
 鄥	BleLw	280714
@@ -19739,7 +19739,7 @@ columns:
 鍭	TmrJoPgoHfu	280271
 鍮	TmrCjoCuVje	280270
 鍯	TmrSliFywHdu	280269
-鍰	TmrHoLeBu	280268
+鍰	TmrHoLvuBu	280268
 鍱	TmrAkrXiTlr	280267
 鍲	TmrHtiVo	280266
 鍴	TmrMgiGo	280265
@@ -19814,7 +19814,7 @@ columns:
 鏁	TmrDywZheTlr	280196
 鏂	TmrPgoKdiLfu	280195
 鏃	TmrHfoKfeHfu	280194
-鏄	TmrAkwZheJfo	280193
+鏄	TmrFkwBkrJfo	280193
 鏅	TmrJoFuCu	280192
 鏆	TmrLuZye	280191
 鏉	TmrNsuDlw	280190
@@ -19861,12 +19861,12 @@ columns:
 鏵	TmrClrKsuClr	280149
 鏶	TmrHqoTlr	280148
 鏷	TmrSuToNr	280147
-鏸	TmrAkwZheHdu	280146
+鏸	TmrFkwBkrHdu	280146
 鏹	TmrNsiKdiGje	280145
 鏺	TmrJdoNsiLdu	280144
 鏻	TmrKaiXkeKsu	280143
 鏼	TmrPuTlrDjr	280142
-鏽	TmrDoShrLe	280141
+鏽	TmrDoShrShr	280141
 鏾	TmrAkrCuHfi	280140
 鏿	TmrNdoTlr	280139
 鐀	TmrGjeZye	280138
@@ -20330,7 +20330,7 @@ columns:
 韟	QrDleYdiAkw	279680
 韠	QrZheClrKsu	279679
 韡	QrClrKsuClr	279678
-韢	QrAkwZheHdu	279677
+韢	QrFkwBkrHdu	279677
 韣	QrAheSliGje	279676
 韤	QrClrAheNr	279675
 韥	QrLdoAheZye	279674
@@ -20744,7 +20744,7 @@ columns:
 驉	AjeVheSu	279266
 驊	AjeClrKsuClr	279265
 驋	AjeJdoNsiLdu	279264
-驌	AjeDoShrLe	279263
+驌	AjeDoShrShr	279263
 驍	AjePsuPsuLr	279262
 驎	AjeKaiXkeKsu	279261
 驏	AjeMfuQiQi	279260
@@ -21035,7 +21035,7 @@ columns:
 鯽	NwFheLgi	278975
 鯾	NwJoFkwSo	278974
 鯿	NwLsiFhr	278973
-鰀	NwHoLeBu	278972
+鰀	NwHoLvuBu	278972
 鰁	NwDleHsu	278971
 鰂	NwZyeVje	278970
 鰃	NwZheLeYr	278969
@@ -21103,7 +21103,7 @@ columns:
 鱁	NwDneNdu	278907
 鱂	NwShrCuJfo	278906
 鱃	NwToXiPsu	278905
-鱄	NwAkwZheJfo	278904
+鱄	NwFkwBkrJfo	278904
 鱅	NwFkrDoAi	278903
 鱆	NwSrAkw	278902
 鱇	NwFkrAlrHsu	278901
@@ -21115,7 +21115,7 @@ columns:
 鱍	NwJdoNsiLdu	278895
 鱎	NwSiYdiKdi	278894
 鱏	NwDhwVoAkw	278893
-鱐	NwDoShrLe	278892
+鱐	NwDoShrShr	278892
 鱑	NwGhr	278891
 鱒	NwJdoSeJfo	278890
 鱓	NwLfuZheAkw	278889
@@ -21341,7 +21341,7 @@ columns:
 鶟	VkwLquBle	278669
 鶠	PgoVoGleBle	278668
 鶡	VoSliNeBle	278667
-鶢	HoLeAkwBle	278666
+鶢	HoLvuBuBle	278666
 鶣	LsiFhrBle	278665
 鶤	GkeQneBle	278664
 鶥	MfuDkwBle	278663
@@ -21388,7 +21388,7 @@ columns:
 鷏	AkwDkwJdoBle	278622
 鷐	VoHgiBle	278621
 鷑	PuJsiBle	278620
-鷒	AkwZheBkrBle	278619
+鷒	FkwBkrJfoBle	278619
 鷓	FkrAkrCmeBle	278618
 鷔	BwBle	278617
 鷕	KdiHqoBle	278616
@@ -22884,7 +22884,7 @@ columns:
 㣧	FhwLiCuXi	277126
 㣨	FhwGleSkr	277125
 㣩	FhwTlrTlr	277124
-㣪	FhwHoLeBu	277123
+㣪	FhwHoLvuBu	277123
 㣫	FhwKcoJgo	277122
 㣬	FhwKdiHe	277121
 㣭	FhwSoDjrMw	277120
@@ -23220,7 +23220,7 @@ columns:
 㩈	KsuVkwAlrKdi	276790
 㩉	KsuCjoKdiZu	276789
 㩊	KsuHoAheJfo	276788
-㩋	KsuDoShrLe	276787
+㩋	KsuDoShrShr	276787
 㩌	KsuAmrZye	276786
 㩍	KsuPuTlrDjr	276785
 㩎	KsuVoCuLqu	276784
@@ -23236,7 +23236,7 @@ columns:
 㩘	KsuToSiFjw	276774
 㩙	KsuGkeLfoPsu	276773
 㩚	KsuClrGkeDne	276772
-㩛	KsuZeAkwJfo	276771
+㩛	KsuZeFkwJfo	276771
 㩜	KsuQhePuPdi	276770
 㩝	KsuDheDne	276769
 㩞	KsuCmeCmeTlr	276768
@@ -23418,7 +23418,7 @@ columns:
 㬕	VoSjwTo	276592
 㬖	VoLsiHfiKdi	276591
 㬗	VoCuLquCme	276590
-㬘	VoDoShrLe	276589
+㬘	VoDoShrShr	276589
 㬙	VoHoSiCme	276588
 㬛	VoCjoKdiZu	276587
 㬜	KrKrVo	276586
@@ -23720,7 +23720,7 @@ columns:
 㱊	ArHduMwDlw	276290
 㱋	KoHqoDlw	276289
 㱌	HeHeHeDlw	276288
-㱍	YfoDuYfoDlw	276287
+㱍	DuYfoYfoDlw	276287
 㱎	AheHsuNwDlw	276286
 㱏	ZoDi	276285
 㱐	ZoDiNr	276284
@@ -24720,7 +24720,7 @@ columns:
 䁑	DkwVoLeFyw	275290
 䁒	DkwKdiHe	275289
 䁓	DkwSoDjrMw	275288
-䁔	DkwHoLeBu	275287
+䁔	DkwHoLvuBu	275287
 䁕	DkwHtiVo	275286
 䁗	DkwMgiKqo	275285
 䁘	DkwHoAyr	275284
@@ -24734,7 +24734,7 @@ columns:
 䁠	DkwJdoAlrCme	275276
 䁡	DkwYxiAu	275275
 䁢	DkwHfoKfeJgu	275274
-䁣	DkwAkwZheJfo	275273
+䁣	DkwFkwBkrJfo	275273
 䁤	DkwJsiDjrSkr	275272
 䁥	DkwPgoClrKdi	275271
 䁦	DkwVheSye	275270
@@ -24860,7 +24860,7 @@ columns:
 䃡	FjeGiGiVo	275150
 䃢	FjeTmrDlw	275149
 䃣	FjeHoSiCme	275148
-䃤	FjeDoShrLe	275147
+䃤	FjeDoShrShr	275147
 䃥	FjeJsiJgo	275146
 䃦	DheQiHfiFje	275145
 䃧	LwMwLeFje	275144
@@ -25172,7 +25172,7 @@ columns:
 䈝	PuJguCu	274838
 䈞	PuDheVo	274837
 䈟	PuZyeVje	274836
-䈠	PuHoLeBu	274835
+䈠	PuHoLvuBu	274835
 䈡	PuSliFywHdu	274834
 䈢	PuBkrKdiTlr	274833
 䈣	PuLeDiHfi	274832
@@ -25296,7 +25296,7 @@ columns:
 䊙	FjeLeClrKai	274714
 䊚	KaiSiNwNdu	274713
 䊛	KaiSoTlrLdu	274712
-䊜	KaiAkwZheJfo	274711
+䊜	KaiFkwBkrJfo	274711
 䊝	KaiSiKaiHdu	274710
 䊞	KaiJsiDjrSkr	274709
 䊟	KaiAkrJfiZi	274708
@@ -25305,7 +25305,7 @@ columns:
 䊢	ShrCuJfoKai	274705
 䊣	KaiGhr	274704
 䊤	KaiDhwVoAkw	274703
-䊥	KaiDoShrLe	274702
+䊥	KaiDoShrShr	274702
 䊦	KaiLdoGkeKqo	274701
 䊧	KaiAmrZye	274700
 䊨	NeKdiCuAnw	274699
@@ -25662,7 +25662,7 @@ columns:
 䐕	CuKdiHe	274348
 䐖	CuMfuKai	274347
 䐗	CuFkeVo	274346
-䐘	CuHoLeBu	274345
+䐘	CuHoLvuBu	274345
 䐙	CuNfi	274344
 䐚	CuFheLgi	274343
 䐜	CuAkwDkwJdo	274342
@@ -25694,7 +25694,7 @@ columns:
 䐶	CuGiGiVo	274316
 䐷	CuLfuZheAkw	274315
 䐸	CuDoZheLe	274314
-䐹	CuDoShrLe	274313
+䐹	CuDoShrShr	274313
 䐺	CuDhwVoAkw	274312
 䐻	CuSkrSne	274311
 䐼	CuMvuVjeYfo	274310
@@ -27016,7 +27016,7 @@ columns:
 䦀	QjrZu	272994
 䦁	QjrMvuLw	272993
 䦂	QjrLsiZu	272992
-䦄	QjrAkwZheYr	272991
+䦄	QjrFkwBkrYr	272991
 䦅	QjrToJdoKdi	272990
 䦇	YsiJdoXi	272989
 䦈	YsiAkwJti	272988
@@ -27105,12 +27105,12 @@ columns:
 䧝	LwGyrLeGje	272905
 䧞	LwAje	272904
 䧟	LwHoJzi	272903
-䧠	LwAkwZheJfo	272902
+䧠	LwFkwBkrJfo	272902
 䧡	LwFkrDoAi	272901
 䧢	LwPgoKdiLfu	272900
 䧣	LwDhwSjw	272899
 䧤	LwSuToNr	272898
-䧥	LwAkwZheHdu	272897
+䧥	LwFkwBkrHdu	272897
 䧦	LwHoSiCme	272896
 䧧	LwToSiFjw	272895
 䧨	LwSuJdoCo	272894
@@ -28796,7 +28796,7 @@ columns:
 𠋝	JoDkwFlrSi	271216
 𠋞	JoGjeKw	271215
 𠋟	JoJziAu	271214
-𠋠	JoHoLeBu	271213
+𠋠	JoHoLvuBu	271213
 𠋡	JoNai	271212
 𠋢	JoGkeCmeBu	271211
 𠋣	JoJsiSke	271210
@@ -29035,7 +29035,7 @@ columns:
 𠏍	JoAkwJtiNdu	270977
 𠏎	CjoKdiKdiKsu	270976
 𠏏	AkrKdiPsuAu	270975
-𠏐	JoDoShrLe	270974
+𠏐	JoDoShrShr	270974
 𠏑	JoVoLeFyw	270973
 𠏒	JoClrKoXo	270972
 𠏓	AuLsiKdiKdi	270971
@@ -30556,7 +30556,7 @@ columns:
 𠦺	VjeKsuJdoKsu	269463
 𠦻	JdoKsuPsuMw	269462
 𠦼	LiHqoAkw	269461
-𠦽	AkwAkwZheHdu	269460
+𠦽	AkwFkwBkrHdu	269460
 𠦾	AkwDiDiDi	269459
 𠦿	MsuFmiFlrClr	269458
 𠧀	LquAjeAkw	269457
@@ -31991,7 +31991,7 @@ columns:
 𠽞	KdiHsuVoVke	268031
 𠽟	KdiJdoGje	268030
 𠽠	SkrKsuLeLdu	268029
-𠽡	KdiAkwZheHdu	268028
+𠽡	KdiFkwBkrHdu	268028
 𠽢	KdiAkwSpwJfo	268027
 𠽣	KdiMfuLvuJzi	268026
 𠽤	KdiAkwVoFjw	268025
@@ -32197,7 +32197,7 @@ columns:
 𡀬	KdiFjeJvuAkw	267825
 𡀭	KdiJziZheSle	267824
 𡀮	KdiBleYr	267823
-𡀯	KdiJoAkwJfo	267822
+𡀯	KdiJoFkwJfo	267822
 𡀰	KdiJoMgiHqo	267821
 𡀱	KdiKdiLeVhe	267820
 𡀲	KdiDuHco	267819
@@ -32266,7 +32266,7 @@ columns:
 𡁱	KdiQheKviCme	267756
 𡁲	KdiLdoGkeJgu	267755
 𡁳	LfuZheAkwNr	267754
-𡁴	KdiZeAkwJfo	267753
+𡁴	KdiZeFkwJfo	267753
 𡁵	KdiQheBuYfo	267752
 𡁶	KdiAkwFjwHqo	267751
 𡁷	KdiDneCuJfo	267750
@@ -32505,7 +32505,7 @@ columns:
 𡅠	KdiYfoQhr	267517
 𡅡	GuLfuLfuVyw	267516
 𡅢	KdiYrTlrSjw	267515
-𡅣	KdiPuDoLe	267514
+𡅣	KdiPuDoShr	267514
 𡅤	TiKdiAkrPsu	267513
 𡅥	KdiAkwDkwAr	267512
 𡅦	TiKdiBuKdi	267511
@@ -32705,7 +32705,7 @@ columns:
 𡈩	ZeJsiJgo	267317
 𡈪	ZeDleFmiFyw	267316
 𡈫	ZeBkrGyrYfo	267315
-𡈬	ZeJoAkwJfo	267314
+𡈬	ZeJoFkwJfo	267314
 𡈭	ZeLquDuLqu	267313
 𡈮	ZeClrPsuPdi	267312
 𡈯	KgiZeKdiZye	267311
@@ -34436,7 +34436,7 @@ columns:
 𡣻	GleClrQneNdu	265586
 𡣼	JvuAuAuGle	265585
 𡣽	GleYxiFmiJzi	265584
-𡣾	GleClrDoLe	265583
+𡣾	GleClrDoShr	265583
 𡣿	JziSkrFmwGle	265582
 𡤀	GleKdiDkwShr	265581
 𡤁	GleGkeZoCme	265580
@@ -34465,7 +34465,7 @@ columns:
 𡤘	GleLeXcuHdu	265557
 𡤙	GleHeHeHe	265556
 𡤚	GleJziSiCme	265555
-𡤛	GleQneAkwJfo	265554
+𡤛	GleQneFkwJfo	265554
 𡤜	LdoGkeKqoGle	265553
 𡤝	GleSiKsuBle	265552
 𡤞	GleMdi	265551
@@ -34585,7 +34585,7 @@ columns:
 𡦒	QiMgiVoVke	265437
 𡦓	QiFlrHqo	265436
 𡦔	JsiGkeJfiQi	265435
-𡦕	QiAkwZheJfo	265434
+𡦕	QiFkwBkrJfo	265434
 𡦖	QiAkrJfiZi	265433
 𡦗	QiFkwFuCme	265432
 𡦘	QiGoGo	265431
@@ -35018,15 +35018,15 @@ columns:
 𡭄	PsuPsuPsuJfo	265004
 𡭅	DheQiJdoJfo	265003
 𡭆	ClrZeLfoJfo	265002
-𡭇	AkwZheBkrAu	265001
+𡭇	FkwBkrJfoAu	265001
 𡭈	LfuPsuPsuJfo	265000
 𡭉	JdoKsuKfiJfo	264999
 𡭊	SuToKdiJfo	264998
 𡭋	LeAuZeJfo	264997
 𡭌	TlrMfuDkwJfo	264996
-𡭍	ZkrFyrAkwJfo	264995
+𡭍	ZkrFyrFkwJfo	264995
 𡭎	DywLeFoJfo	264994
-𡭏	AkwZheBkrJfo	264993
+𡭏	FkwBkrHvuJfo	264993
 𡭐	ZkrLeFyrJfo	264992
 𡭑	DyrDywLeJfo	264991
 𡭒	HoMfuFhrKdi	264990
@@ -35768,7 +35768,7 @@ columns:
 𡸵	MgiHoDo	264256
 𡸶	MgiGkeSjw	264255
 𡸷	MgiMtoJdo	264254
-𡸸	AkwZheBkrMgi	264253
+𡸸	FkwBkrMgi	264253
 𡸹	MgiKo	264252
 𡸺	MgiMvuCu	264251
 𡸻	MgiTlrAuVje	264250
@@ -36002,7 +36002,7 @@ columns:
 𡼠	MgiLiLiAu	264022
 𡼡	MgiMau	264021
 𡼢	MgiAlrJtiJfo	264020
-𡼣	MgiDoShrLe	264019
+𡼣	MgiDoShrShr	264019
 𡼤	MgiLfuZheAkw	264018
 𡼥	MgiYxiCu	264017
 𡼦	MgiGkeSjwHfi	264016
@@ -37313,7 +37313,7 @@ columns:
 𢐾	NsiPsuAuNsi	262713
 𢐿	NsiJvuLfuYr	262712
 𢑀	NsiHauKai	262711
-𢑁	NsiClrDoLe	262710
+𢑁	NsiClrDoShr	262710
 𢑂	HoAyrSiNsi	262709
 𢑃	NsiLeXcuPsu	262708
 𢑄	NsiCuAyrYfo	262707
@@ -38189,7 +38189,7 @@ columns:
 𢞬	HduYo	261839
 𢞭	SyrZheHdu	261838
 𢞮	HduHsuZeKdi	261837
-𢞯	AkwZheBkrHdu	261836
+𢞯	FkwBkrJfoHdu	261836
 𢞰	HtiZheHdu	261835
 𢞱	QkrHfuHdu	261834
 𢞲	HduVkwVi	261833
@@ -38386,7 +38386,7 @@ columns:
 𢡱	LgiLeAnwHdu	261642
 𢡲	HeHvuHdu	261641
 𢡳	ClrLeGyrHdu	261640
-𢡴	AkwZheBkrHdu	261639
+𢡴	FkwBkrBiHdu	261639
 𢡵	GoGoHdu	261638
 𢡶	YdiToXiHdu	261637
 𢡷	CoJdoHfiHdu	261636
@@ -38584,7 +38584,7 @@ columns:
 𢤷	PuAjeHdu	261444
 𢤸	HduLwJdoNdu	261443
 𢤹	TmrMfuSkrHdu	261442
-𢤺	HduClrAkwHdu	261441
+𢤺	HduClrFkwHdu	261441
 𢤻	HduToMsuFnw	261440
 𢤼	HduClrHqoCme	261439
 𢤽	HduJziDjrJdo	261438
@@ -39191,7 +39191,7 @@ columns:
 𢮘	GkeXkeLgiKsu	260838
 𢮙	KsuJdoJgiSle	260837
 𢮚	KsuVoLeYdi	260836
-𢮛	KsuAkwZheBkr	260835
+𢮛	KsuFkwBkr	260835
 𢮜	MtoJdoKsu	260834
 𢮝	HeBuKsu	260833
 𢮞	KsuBuNrHo	260832
@@ -39584,7 +39584,7 @@ columns:
 𢴢	KsuAkwClrZye	260445
 𢴣	KsuJdoZeVo	260444
 𢴤	KsuNdoTlr	260443
-𢴥	KsuAkwZheHdu	260442
+𢴥	KsuFkwBkrHdu	260442
 𢴦	KsuJtiAr	260441
 𢴧	KsuQoZoZye	260440
 𢴨	KsuJsiGkeKdi	260439
@@ -39854,7 +39854,7 @@ columns:
 𢸰	KsuKrKrVo	260175
 𢸱	KsuPsuJdoCme	260174
 𢸲	KsuKoVoVo	260173
-𢸳	KsuClrDoLe	260172
+𢸳	KsuClrDoShr	260172
 𢸴	KsuYxiFmiJzi	260171
 𢸵	KsuKvuPsu	260170
 𢸶	KsuVoHeBu	260169
@@ -39916,7 +39916,7 @@ columns:
 𢹮	KsuZheZhePsu	260113
 𢹯	KsuVoGyrKai	260112
 𢹰	KsuJziSiCme	260111
-𢹱	KsuPuDoLe	260110
+𢹱	KsuPuDoShr	260110
 𢹲	KsuKtuAlrKdi	260109
 𢹳	KsuJziLePdi	260108
 𢹴	KsuMgiLiLi	260107
@@ -41254,7 +41254,7 @@ columns:
 𣎨	CuClrSliHdu	258775
 𣎩	ZkrVoCuCu	258774
 𣎪	CuDheCu	258773
-𣎫	CuZeAkwJfo	258772
+𣎫	CuZeFkwJfo	258772
 𣎬	AkwCuGkeZhe	258771
 𣎭	CuSoSoKqu	258770
 𣎮	CuToMsuXi	258769
@@ -41959,7 +41959,7 @@ columns:
 𣙫	TlrPuJsi	258070
 𣙬	DhwTlrPgoPgo	258069
 𣙭	TlrPuVjeKdi	258068
-𣙮	TlrMduFlr	258067
+𣙮	TlrMduSjw	258067
 𣙯	TlrPsuHqo	258066
 𣙰	MfuVkeBuTlr	258065
 𣙱	TlrPuTyw	258064
@@ -42960,7 +42960,7 @@ columns:
 𣩕	CkeNw	257069
 𣩖	HoDjrKsuVke	257068
 𣩗	CkeShrCuJfo	257067
-𣩘	CkeAkwZheJfo	257066
+𣩘	CkeFkwBkrJfo	257066
 𣩙	CkeLeDiCme	257065
 𣩚	CkeHeFjrKdi	257064
 𣩛	CkePgoKdiLfu	257063
@@ -44680,7 +44680,7 @@ columns:
 𤄖	HsuJvuAuHqo	255349
 𤄗	HsuVoGyrKai	255348
 𤄘	HsuVkwDkwMw	255347
-𤄙	HsuPuDoLe	255346
+𤄙	HsuPuDoShr	255346
 𤄚	HsuJziSiCme	255345
 𤄛	HsuKciHqo	255344
 𤄜	HsuKaiSiZhe	255343
@@ -44726,7 +44726,7 @@ columns:
 𤅄	HsuPuFkrCme	255303
 𤅅	HsuYdiAkrTlr	255302
 𤅆	HsuDleTlrAr	255301
-𤅇	HsuYfoDuYfo	255300
+𤅇	HsuDuYfoYfo	255300
 𤅈	HsuJvuHjuLe	255299
 𤅉	HsuKoNrCu	255298
 𤅊	HsuVheQmwLqu	255297
@@ -45291,7 +45291,7 @@ columns:
 𤍼	CmeCjoKdiFhr	254738
 𤍽	PsuJdoPsuCme	254737
 𤍾	TlrTlrYdiCme	254736
-𤍿	CmeAkwZheJfo	254735
+𤍿	CmeFkwBkrJfo	254735
 𤎀	SuToCme	254734
 𤎁	DywLeDleCme	254733
 𤎂	SmwSleCme	254732
@@ -45535,7 +45535,7 @@ columns:
 𤑰	BoFjrKdiCme	254494
 𤑱	CmeZuGkeQne	254493
 𤑲	CmeKaiXkeLw	254492
-𤑳	CmeClrDoLe	254491
+𤑳	CmeClrDoShr	254491
 𤑴	CmeDheVoTo	254490
 𤑵	NsiSliGyrCme	254489
 𤑶	DhwVoAkwCme	254488
@@ -47144,7 +47144,7 @@ columns:
 𤫀	CkeFmwDkwNr	252886
 𤫁	GuCmeCmeGje	252885
 𤫂	GuJziDjrJdo	252884
-𤫃	GuClrAkwHdu	252883
+𤫃	GuClrFkwHdu	252883
 𤫄	GuDyrBo	252882
 𤫅	GuJziKci	252881
 𤫆	AuLeXcuNr	252880
@@ -47344,7 +47344,7 @@ columns:
 𤮊	FkrAlrHsuPr	252686
 𤮋	ZeFjwKdiPr	252685
 𤮌	PrKsuJsiGle	252684
-𤮍	PrAkwZheJfo	252683
+𤮍	PrFkwBkrJfo	252683
 𤮎	BkrBkrBkrPr	252682
 𤮏	GhrPr	252681
 𤮐	JdoSeJfoPr	252680
@@ -47625,7 +47625,7 @@ columns:
 𤲨	ZheJdoJgiLgi	252405
 𤲩	ZheCmeCme	252404
 𤲪	ZhePsuLrMw	252403
-𤲫	ZheHoLeBu	252402
+𤲫	ZheHoLvuBu	252402
 𤲬	ZheGoYdi	252401
 𤲭	ZheTlrZhe	252400
 𤲮	ZheNsiJtiJti	252399
@@ -47738,7 +47738,7 @@ columns:
 𤴚	NsuJgu	252292
 𤴛	LeMeBkrDi	252291
 𤴜	TlrJguTlr	252290
-𤴝	AkwZheBkrJgu	252289
+𤴝	FkwBkrJgu	252289
 𤴞	LdoAheBkrDi	252288
 𤴟	KauGkeJfiJgu	252287
 𤴠	ShrCuJfoJgu	252286
@@ -48082,7 +48082,7 @@ columns:
 𤹲	QkrAkrJdoZhe	251948
 𤹳	QkrTlrTlrMgi	251947
 𤹴	QkrTlrTlrGle	251946
-𤹵	QkrAkwZheJfo	251945
+𤹵	QkrFkwBkrJfo	251945
 𤹶	QkrKoYdi	251944
 𤹷	QkrBle	251943
 𤹸	QkrFmiZheHdu	251942
@@ -49779,7 +49779,7 @@ columns:
 𥔘	FjeZheGw	250251
 𥔙	FjeClrXkeLgi	250250
 𥔚	FjeAuQne	250249
-𥔛	FjeHoLeBu	250248
+𥔛	FjeHoLvuBu	250248
 𥔜	FjeMsuVo	250247
 𥔝	FjeMsuVo	250246
 𥔞	FjeJdoVjePdi	250245
@@ -50233,7 +50233,7 @@ columns:
 𥛢	SjwMgiGkeSjw	249797
 𥛣	SjwKauGkeJfi	249796
 𥛤	VkeSjwVjeZye	249795
-𥛥	SjwAkwZheJfo	249794
+𥛥	SjwFkwBkrJfo	249794
 𥛦	SjwDhwSjw	249793
 𥛧	SjwZheYfo	249792
 𥛨	SjwFhwDiDi	249791
@@ -50252,7 +50252,7 @@ columns:
 𥛵	SjwClrKsuClr	249778
 𥛶	SjwToJdoKdi	249777
 𥛷	SjwKaiXkeKsu	249776
-𥛸	SjwAkwZheHdu	249775
+𥛸	SjwFkwBkrHdu	249775
 𥛹	SjwMfuHsuMdo	249774
 𥛺	SjwVkeAkwJdo	249773
 𥛻	SjwTiFyw	249772
@@ -50634,7 +50634,7 @@ columns:
 𥡲	MsuFkrDoAi	249397
 𥡳	MsuMrFjrVo	249396
 𥡴	MsuMrFjrFkw	249395
-𥡵	MsuAkwZheJfo	249394
+𥡵	MsuFkwBkrJfo	249394
 𥡶	MsuMgiGkeSjw	249393
 𥡷	MsuLeDiHdu	249392
 𥡸	MsuClrVoYdi	249391
@@ -51977,7 +51977,7 @@ columns:
 𥶵	PuJziKaiLdu	248056
 𥶶	PuPsuToKai	248055
 𥶷	PuKviKviNdu	248054
-𥶸	PuAkwZhePr	248053
+𥶸	PuFkwBkrPr	248053
 𥶹	PuMvuCuDo	248052
 𥶺	PuMtoJdoTlr	248051
 𥶻	PuLwAkwNdu	248050
@@ -52862,12 +52862,12 @@ columns:
 𦄬	YfoMgiVoVke	247171
 𦄭	YfoMsuFnwNdu	247170
 𦄮	YfoHoGkeNw	247169
-𦄯	AkwZheBkrYfo	247168
+𦄯	FkwBkrJfoYfo	247168
 𦄰	YfoZeFjwLe	247167
 𦄱	YfoJoLeHfi	247166
 𦄲	YfoGkeJoAu	247165
 𦄳	AlrKaiAuYfo	247164
-𦄴	YfoMduFlr	247163
+𦄴	YfoMduSjw	247163
 𦄵	YfoSiKaiHdu	247162
 𦄶	YfoKdiClrVje	247161
 𦄷	YfoBkrAiNdu	247160
@@ -53039,7 +53039,7 @@ columns:
 𦇝	YfoCmeCmeYfo	246994
 𦇞	YfoGjeZyeNdu	246993
 𦇟	YfoZkrKcoMau	246992
-𦇠	YfoClrAkwHdu	246991
+𦇠	YfoClrFkwHdu	246991
 𦇡	YfoDjrLiLi	246990
 𦇢	YfoKrKrVo	246989
 𦇣	YfoJziAuZye	246988
@@ -53669,7 +53669,7 @@ columns:
 𦑘	KeLeKdiZu	246364
 𦑙	AlrDneZu	246363
 𦑚	ZuFmiZkrHfu	246362
-𦑛	ZuHoLeBu	246361
+𦑛	ZuHoLvuBu	246361
 𦑜	NfiZu	246360
 𦑝	KcoJgoZu	246359
 𦑞	ZuLeKdiZhe	246358
@@ -53719,7 +53719,7 @@ columns:
 𦒊	ZuSpwHfo	246314
 𦒋	AkwVoAkwZu	246313
 𦒌	DleKfeKsuZu	246312
-𦒎	ZuAkwZheHdu	246311
+𦒎	ZuFkwBkrHdu	246311
 𦒏	ZuPsuPsuLr	246310
 𦒐	ZuXcuHfi	246309
 𦒑	BiSiDjrZu	246308
@@ -54013,7 +54013,7 @@ columns:
 𦖲	HeMfuZoBu	246020
 𦖳	HeJziFuXi	246019
 𦖴	FhwAuAuHe	246018
-𦖵	HeHoLeBu	246017
+𦖵	HeHoLvuBu	246017
 𦖶	HeSiSyeBkr	246016
 𦖷	ZheHduHe	246015
 𦖸	HeSoDjrMw	246014
@@ -54421,7 +54421,7 @@ columns:
 𦝌	CuHsuPsuBkr	245612
 𦝍	ShrTlrDjrAu	245611
 𦝎	HsuPsuBkrAu	245610
-𦝏	CuAkwZheBkr	245609
+𦝏	CuFkwBkr	245609
 𦝐	CuYdiSyr	245608
 𦝑	CuHwCu	245607
 𦝒	CuHeBu	245606
@@ -54765,7 +54765,7 @@ columns:
 𦢦	CuNwMsu	245268
 𦢧	CuClrAheDkw	245267
 𦢨	CuYxiFmiJzi	245266
-𦢩	CuClrDoLe	245265
+𦢩	CuClrDoShr	245265
 𦢪	CuLwAkwNdu	245264
 𦢫	CuJsiCuKqi	245263
 𦢬	CuClrHduHdu	245262
@@ -55217,7 +55217,7 @@ columns:
 𦩫	MoJdoJgiJfi	244816
 𦩬	MoKeLeGle	244815
 𦩭	MoZheHdu	244814
-𦩮	MoHoLeBu	244813
+𦩮	MoHoLvuBu	244813
 𦩯	MoMfuKqu	244812
 𦩰	MoKcoJgo	244811
 𦩱	MoJdoJgiPsu	244810
@@ -55254,7 +55254,7 @@ columns:
 𦪐	MoSiNfoHdu	244779
 𦪑	MoJdoNsiLdu	244778
 𦪒	MoGjeZye	244777
-𦪓	MoDoShrLe	244776
+𦪓	MoDoShrShr	244776
 𦪔	MoDheQiHfi	244775
 𦪕	MoYdiJdoFlr	244774
 𦪖	MoSiKaiZhe	244773
@@ -55337,7 +55337,7 @@ columns:
 𦫣	ZoSliHfoFyr	244696
 𦫤	FmiFyrAr	244695
 𦫥	SmwFmiFyr	244694
-𦫦	HoLeAkwFyr	244693
+𦫦	HoLvuBuFyr	244693
 𦫧	ToYdiFmiFyr	244692
 𦫨	XoZkrFywFyr	244691
 𦫩	LfuZoXiFyr	244690
@@ -57682,7 +57682,7 @@ columns:
 𧐒	GjeNsuNdu	242352
 𧐓	JgoBiGje	242351
 𧐔	GjeZuDle	242350
-𧐕	GjeAkwZheJfo	242349
+𧐕	GjeFkwBkrJfo	242349
 𧐖	GjeQneNdu	242348
 𧐗	GjeHfoKfeJgu	242347
 𧐘	BkrJfiGjeGje	242346
@@ -57752,7 +57752,7 @@ columns:
 𧑘	HsuVoLeGje	242282
 𧑙	GjeDheFlrMr	242281
 𧑚	GjeGkeLfoGhw	242280
-𧑛	GjeDoShrLe	242279
+𧑛	GjeDoShrShr	242279
 𧑜	GjeGuGuVke	242278
 𧑝	KsuAlrDneGje	242277
 𧑞	GjeJdoJgiGje	242276
@@ -57858,7 +57858,7 @@ columns:
 𧓃	VoSliNeGje	242176
 𧓄	GjeKvu	242175
 𧓅	GjeKquHgi	242174
-𧓆	GjeJoAkwJfo	242173
+𧓆	GjeJoFkwJfo	242173
 𧓇	GjeMfuAkrLdu	242172
 𧓈	GjeHqoDjr	242171
 𧓉	JvuHjuVjeGje	242170
@@ -57876,7 +57876,7 @@ columns:
 𧓕	TlrVoGjeGje	242158
 𧓖	CuFyrGjeGje	242157
 𧓗	GjeZkrVheDlw	242156
-𧓘	GjeZeAkwJfo	242155
+𧓘	GjeZeFkwJfo	242155
 𧓙	GjeMoLduTlr	242154
 𧓚	DheGjeGje	242153
 𧓛	GjeGmrGhr	242152
@@ -58562,7 +58562,7 @@ columns:
 𧞅	YrPsuToNdu	241472
 𧞆	YrDuTo	241471
 𧞇	YrHoGkeMw	241470
-𧞈	VoHoLeYr	241469
+𧞈	VoHoLvuYr	241469
 𧞉	TlrBiSiYr	241468
 𧞊	YrFmiAiMdo	241467
 𧞋	YrFkrJdoCme	241466
@@ -58786,7 +58786,7 @@ columns:
 𧡦	SiNwClrXyr	241248
 𧡧	GkeAyrXyr	241247
 𧡨	VoJguXyr	241246
-𧡩	HoLeAkwXyr	241245
+𧡩	HoLvuBuXyr	241245
 𧡪	MtoJdoXiXyr	241244
 𧡫	JdoLeYdiXyr	241243
 𧡬	MoFywXyr	241242
@@ -59943,7 +59943,7 @@ columns:
 𧳪	QeZheCu	240092
 𧳫	QeJdoSe	240091
 𧳬	QeMfuDkw	240090
-𧳭	QeHoLeBu	240089
+𧳭	QeHoLvuBu	240089
 𧳮	QeKcoJgo	240088
 𧳯	QeFkeVo	240087
 𧳰	QeGkeQne	240086
@@ -60282,7 +60282,7 @@ columns:
 𧸽	ZyeGjeZyeNdu	239753
 𧸾	VheLeQoZye	239752
 𧸿	ZyeGkeJziCme	239751
-𧹀	ZyeClrDoLe	239750
+𧹀	ZyeClrDoShr	239750
 𧹁	LeQoDiZye	239749
 𧹂	VheVheZye	239748
 𧹃	JtiZyeMwZye	239747
@@ -60572,7 +60572,7 @@ columns:
 𧽟	AoFlrHqo	239463
 𧽠	AoMgiHqo	239462
 𧽡	AoQheBuPsu	239461
-𧽢	AoAkwZheJfo	239460
+𧽢	AoFkwBkrJfo	239460
 𧽣	AoSrAkw	239459
 𧽤	AoDhwSjw	239458
 𧽥	AoKtu	239457
@@ -60593,7 +60593,7 @@ columns:
 𧽴	AoFkrJsiKdi	239442
 𧽵	AoFhwAuDi	239441
 𧽶	AoHoSiCme	239440
-𧽷	AoDoShrLe	239439
+𧽷	AoDoShrShr	239439
 𧽸	AoZkrJdoDlw	239438
 𧽹	AoClrCuCu	239437
 𧽺	AoZkrMsuMsu	239436
@@ -61003,7 +61003,7 @@ columns:
 𨄑	XuSliLeZhe	239032
 𨄒	XuGkeHeBu	239031
 𨄓	XuDywZheTlr	239030
-𨄔	XuAkwZheJfo	239029
+𨄔	XuFkwBkrJfo	239029
 𨄕	XuHfoKfeHfu	239028
 𨄖	XuKsuMsuGle	239027
 𨄗	XuFkrAlrHsu	239026
@@ -61059,7 +61059,7 @@ columns:
 𨅈	XuClrHwTlr	238977
 𨅉	XuNrFheCu	238976
 𨅊	XuHwCuHfi	238975
-𨅋	XuDoShrLe	238974
+𨅋	XuDoShrShr	238974
 𨅌	XuHoSiCme	238973
 𨅍	XuYxiVo	238972
 𨅎	XuVoHeBu	238971
@@ -61661,7 +61661,7 @@ columns:
 𨎢	QneBkrAiHdu	238375
 𨎣	QneVkwVyw	238374
 𨎤	QneJdoKqo	238373
-𨎥	QneAkwZheHdu	238372
+𨎥	QneFkwBkrHdu	238372
 𨎦	QneFoGhwHqo	238371
 𨎧	QneTiFyw	238370
 𨎨	QneGjeZye	238369
@@ -62140,7 +62140,7 @@ columns:
 𨖄	GkeMdoKdiNdu	237896
 𨖅	NrFheLwNdu	237895
 𨖆	VheSyeNdu	237894
-𨖇	AkwZheBkrNdu	237893
+𨖇	FkwBkrJfoNdu	237893
 𨖈	CuDuNdu	237892
 𨖉	CmeCmeClrNdu	237891
 𨖊	MvuZyeNdu	237890
@@ -65024,7 +65024,7 @@ columns:
 𩃕	KoShrTlr	235012
 𩃖	KoLeAlrDi	235011
 𩃗	KoYdiVoXi	235010
-𩃘	KoAkwZheBkr	235009
+𩃘	KoFkwBkr	235009
 𩃙	KoZheYdi	235008
 𩃚	KoHsuJvuLi	235007
 𩃛	KoVoCjoXi	235006
@@ -65130,7 +65130,7 @@ columns:
 𩄿	KoAkwGkeHfi	234906
 𩅀	KoPsuToYe	234905
 𩅁	KoClrLquClr	234904
-𩅂	KoAkwZheJfo	234903
+𩅂	KoFkwBkrJfo	234903
 𩅃	KoMgiGkeSjw	234902
 𩅄	KoKtu	234901
 𩅅	KoHsuSiLvu	234900
@@ -65554,7 +65554,7 @@ columns:
 𩋨	NfiLeKdiZhe	234482
 𩋩	NfiKrHfi	234481
 𩋪	NfiClrMfuVke	234480
-𩋫	NfiHoLeBu	234479
+𩋫	NfiHoLvuBu	234479
 𩋬	NfiVoLeFyw	234478
 𩋭	NfiDsoLrSle	234477
 𩋮	NfiPsuPsuJfo	234476
@@ -65772,7 +65772,7 @@ columns:
 𩏂	QrDleSiAkw	234264
 𩏃	QrFhwDme	234263
 𩏄	QrMwZhe	234262
-𩏅	QrHoLeBu	234261
+𩏅	QrHoLvuBu	234261
 𩏆	QrGkeFkwLe	234260
 𩏇	QrKsuLeLdu	234259
 𩏈	QrGmeKdiLr	234258
@@ -66090,7 +66090,7 @@ columns:
 𩔀	JdoDneAr	233946
 𩔁	SmwAr	233945
 𩔂	AlrDneAr	233944
-𩔃	HoLeAkwAr	233943
+𩔃	HoLvuBuAr	233943
 𩔄	LdoKdiLeAr	233942
 𩔅	SiNfoClrAr	233941
 𩔆	JdoLeYdiAr	233940
@@ -66390,7 +66390,7 @@ columns:
 𩘬	KqiFheNdu	233646
 𩘭	KqiToXiPsu	233645
 𩘮	BwKqi	233644
-𩘯	KqiAkwZheJfo	233643
+𩘯	KqiFkwBkrJfo	233643
 𩘰	KqiGkeJoDle	233642
 𩘱	KqiJvuLiAkw	233641
 𩘲	KqiBle	233640
@@ -66400,7 +66400,7 @@ columns:
 𩘶	KqiHfoKfeJgu	233636
 𩘷	ZuAuFywKqi	233635
 𩘸	ZuAuHduKqi	233634
-𩘹	KqiDoShrLe	233633
+𩘹	KqiDoShrShr	233633
 𩘺	KqiGjeZye	233632
 𩘻	KqiBiSiKdi	233631
 𩘼	KqiJdoKqo	233630
@@ -66433,7 +66433,7 @@ columns:
 𩙗	KqiKfoKfoTmr	233603
 𩙘	KqiJsiCuKqi	233602
 𩙙	KqiVheZhePdi	233601
-𩙚	KqiClrDoLe	233600
+𩙚	KqiClrDoShr	233600
 𩙛	KqiClrAheVke	233599
 𩙜	DuCmeCmeKqi	233598
 𩙝	HeHeHeKqi	233597
@@ -67321,7 +67321,7 @@ columns:
 𩧐	AjeAkwKdiTlr	232715
 𩧑	AjeJsiCuFyw	232714
 𩧒	AjeMsuBle	232713
-𩧓	AjeClrDoLe	232712
+𩧓	AjeClrDoShr	232712
 𩧔	CmeCmeArAje	232711
 𩧕	FjeQneFjeAje	232710
 𩧖	AjeKcoAuYfo	232709
@@ -67330,7 +67330,7 @@ columns:
 𩧙	AjeJziSiCme	232706
 𩧚	DkwDkwHqoAje	232705
 𩧛	AjeNfiSliDu	232704
-𩧜	AjeQneAkwJfo	232703
+𩧜	AjeQneFkwJfo	232703
 𩧝	AjeJvuJtiYr	232702
 𩧞	AjeMsuAuKsu	232701
 𩧟	AjeDuCmeCme	232700
@@ -68160,7 +68160,7 @@ columns:
 𩴗	KciAkrKdiMvu	231877
 𩴘	KciVheMwAnw	231876
 𩴙	KciHsuGkeTlr	231875
-𩴚	KciMduFlr	231874
+𩴚	KciMduSjw	231874
 𩴛	VheKfoLeKci	231873
 𩴜	KciZheAkrJdo	231872
 𩴝	KciJdoKqo	231871
@@ -68693,7 +68693,7 @@ columns:
 𩼬	NwClrSpwJfo	231344
 𩼭	GoYdiPrNw	231343
 𩼮	AkrJdoNwCu	231342
-𩼯	NwZeAkwJfo	231341
+𩼯	NwZeFkwJfo	231341
 𩼰	NwClrLiHdu	231340
 𩼱	NwNsuZye	231339
 𩼲	NwJtiZyeHdu	231338
@@ -69243,7 +69243,7 @@ columns:
 𪅕	DywZheTlrBle	230794
 𪅖	MvuNrJziBle	230793
 𪅗	CoHfiZkrBle	230792
-𪅘	BleAkwZheJfo	230791
+𪅘	BleFkwBkrJfo	230791
 𪅙	NsuHfiBle	230790
 𪅚	DkwZkrYrBle	230789
 𪅛	BleLuKdiGle	230788
@@ -69328,7 +69328,7 @@ columns:
 𪆪	LgiLeAnwBle	230709
 𪆫	BleHsuPgoTlr	230708
 𪆬	BleXuVyw	230707
-𪆭	BleDoShrLe	230706
+𪆭	BleDoShrShr	230706
 𪆮	BleGkeHduPdi	230705
 𪆯	KquHgiBle	230704
 𪆰	ClrVoSliBle	230703
@@ -70077,7 +70077,7 @@ columns:
 𪒙	MauVoHeBu	229960
 𪒚	MsuAuHsuMau	229959
 𪒛	MauLwJdoDne	229958
-𪒜	MauAkwZheHdu	229957
+𪒜	MauFkwBkrHdu	229957
 𪒝	MauKoHw	229956
 𪒞	VoCuLquMau	229955
 𪒟	MauJdoZeVo	229954
@@ -71489,7 +71489,7 @@ columns:
 𪩊	MgiZeYdiHdu	228549
 𪩋	MgiKaiJdoVje	228548
 𪩌	MgiVkeAr	228547
-𪩍	MgiAkwZheJfo	228546
+𪩍	MgiFkwBkrJfo	228546
 𪩎	MgiSmrSmrGle	228545
 𪩏	MgiKtu	228544
 𪩐	MgiGkeHqo	228543
@@ -71625,7 +71625,7 @@ columns:
 𪫓	FhwDoFmiFu	228413
 𪫔	FhwBo	228412
 𪫕	FhwYfoHfi	228411
-𪫖	FhwAkwZheJfo	228410
+𪫖	FhwFkwBkrJfo	228410
 𪫗	FhwYgiVi	228409
 𪫘	FhwDiKdiDi	228408
 𪫙	FhwAhePsuTo	228407
@@ -71993,7 +71993,7 @@ columns:
 𪱄	VoGkeLeJdo	228045
 𪱅	VoHsuFkeVo	228044
 𪱆	VoVoLfoYr	228043
-𪱇	VoAkwZheHdu	228042
+𪱇	VoFkwBkrHdu	228042
 𪱈	VoVoVoVo	228041
 𪱉	VoClrTlrAu	228040
 𪱊	VoJfuJoSke	228039
@@ -72428,7 +72428,7 @@ columns:
 𪷷	HsuGkeYdiFlr	227610
 𪷸	HsuKtuXiMw	227609
 𪷹	HguHsuSke	227608
-𪷺	HsuClrAkwHdu	227607
+𪷺	HsuClrFkwHdu	227607
 𪷻	HsuTmrFjwFjw	227606
 𪷼	HsuTmrYdiSke	227605
 𪷽	HsuMdoLrSmr	227604
@@ -73101,7 +73101,7 @@ columns:
 𫂝	PuFmiDjrXke	226937
 𫂞	PuFkrAlrHsu	226936
 𫂟	PuHau	226935
-𫂠	PuAkwZheHdu	226934
+𫂠	PuFkwBkrHdu	226934
 𫂡	PuTlrDjrDjr	226933
 𫂢	PuMvuNrZye	226932
 𫂣	PuMtoJdoCu	226931
@@ -73371,7 +73371,7 @@ columns:
 𫆲	CuClrAkwQi	226667
 𫆳	CuVoAheBu	226666
 𫆴	GkeHduSiCu	226665
-𫆵	CuAkwZheHdu	226664
+𫆵	CuFkwBkrHdu	226664
 𫆶	FjrVoAkwCu	226663
 𫆷	CuXoSjwNsi	226662
 𫆸	DjrAuAuJfo	226661
@@ -73596,7 +73596,7 @@ columns:
 𫊖	ClrCuJvuZo	226442
 𫊗	ClrQhePuPdi	226441
 𫊘	ClrVoAkwJfi	226440
-𫊙	ClrTmrAkwJfo	226439
+𫊙	ClrTmrFkwJfo	226439
 𫊚	ClrDleGhwNsu	226438
 𫊛	ClrXuJdoLw	226437
 𫊜	ClrZheZheSye	226436
@@ -73900,7 +73900,7 @@ columns:
 𫏓	XuKcoShrVke	226138
 𫏔	SmwXu	226137
 𫏕	AleBuJtiXu	226136
-𫏖	XuHoLeBu	226135
+𫏖	XuHoLvuBu	226135
 𫏗	XuKsuLeLdu	226134
 𫏘	XuHsuPdi	226133
 𫏙	XuKsuHoGle	226132
@@ -73936,7 +73936,7 @@ columns:
 𫏷	QneDiPsu	226102
 𫏸	QneFmiZkrLgi	226101
 𫏹	QneKsuKsu	226100
-𫏺	QneHoLeBu	226099
+𫏺	QneHoLvuBu	226099
 𫏻	KaiGleQne	226098
 𫏼	JgiJgiGkeQne	226097
 𫏽	HguQne	226096
@@ -74259,7 +74259,7 @@ columns:
 𫕆	LwLeKdiFhr	225779
 𫕇	LwYdiNsiPsu	225778
 𫕈	LwVoSliNe	225777
-𫕉	LwHoLeBu	225776
+𫕉	LwHoLvuBu	225776
 𫕊	LwHoLiBu	225775
 𫕋	LwHoDjrPsu	225774
 𫕌	LwLsiFhr	225773
@@ -75288,7 +75288,7 @@ columns:
 𫥿	GmeSoVje	224751
 𫦀	DneVje	224750
 𫦁	FlrSmrVje	224749
-𫦂	AkwZheBkrVje	224748
+𫦂	FkwBkrVje	224748
 𫦃	YdiAkwClrVje	224747
 𫦄	GkeSyeVje	224746
 𫦅	DoVjeJdoVje	224745
@@ -75386,7 +75386,7 @@ columns:
 𫧡	SkrMvu	224653
 𫧢	KcoKcoKco	224652
 𫧣	AkwDjrToFu	224651
-𫧤	AkwAkwZheJfo	224650
+𫧤	AkwFkwBkrJfo	224650
 𫧥	AkwAkrJfiZi	224649
 𫧦	JvuLiGhwFu	224648
 𫧧	QneNduSiClr	224647
@@ -75481,7 +75481,7 @@ columns:
 𫩁	AlrFmiJfiBu	224558
 𫩂	DheVoBu	224557
 𫩃	MsiDleVkeBu	224556
-𫩄	AkwZheBkrBu	224555
+𫩄	FkwBkrMsiBu	224555
 𫩅	BuBuJvuAkw	224554
 𫩆	GuJgoBu	224553
 𫩇	HqoQiBu	224552
@@ -75799,7 +75799,7 @@ columns:
 𫮇	PsuFjeAuAu	224241
 𫮈	PsuZkrJgo	224240
 𫮉	LdoClrLvuJdo	224239
-𫮊	PsuHoLeBu	224238
+𫮊	PsuHoLvuBu	224238
 𫮋	XkeFjrAuPsu	224237
 𫮌	PsuDheAnw	224236
 𫮍	PsuJsiSke	224235
@@ -75836,7 +75836,7 @@ columns:
 𫮬	PsuNsiKdiGje	224204
 𫮭	AkrKdiMvuSke	224203
 𫮮	PsuClrZheGw	224202
-𫮯	JoAkwZhePsu	224201
+𫮯	JoFkwBkrPsu	224201
 𫮰	PsuPsuAuKdi	224200
 𫮱	MtoJdoPsuKsu	224199
 𫮲	PsuClrVoPsu	224198
@@ -76023,7 +76023,7 @@ columns:
 𫱫	GleYfoZhe	224017
 𫱬	GleSkrMfuGye	224016
 𫱭	GleKoXo	224015
-𫱮	GleAkwZheHdu	224014
+𫱮	GleFkwBkrHdu	224014
 𫱯	GleLeDleDle	224013
 𫱰	GleClrSliAyr	224012
 𫱱	GleSuXcu	224011
@@ -76032,7 +76032,7 @@ columns:
 𫱴	JziDkwGle	224008
 𫱵	GleJdoSeJfo	224007
 𫱶	BiSiFlrGle	224006
-𫱷	GleDoShrLe	224005
+𫱷	GleDoShrShr	224005
 𫱸	GleLvuMvuHsu	224004
 𫱹	GleLeHsuYr	224003
 𫱺	GleTiJe	224002
@@ -76447,7 +76447,7 @@ columns:
 𫸙	XiLeKdiClr	223593
 𫸚	HgiClr	223592
 𫸛	MfuGyeClr	223591
-𫸜	AkwZheBkrClr	223590
+𫸜	FkwBkrClr	223590
 𫸝	LtoClr	223589
 𫸞	SliQneClr	223588
 𫸟	JziNsiClr	223587
@@ -76997,7 +76997,7 @@ columns:
 𬁃	VoPsuKeXi	223043
 𬁄	VoAkwPsuDlw	223042
 𬁅	VoGjeJti	223041
-𬁆	HoLeAkwVo	223040
+𬁆	HoLvuBuVo	223040
 𬁇	VoKcoJgo	223039
 𬁈	VoNrFheLw	223038
 𬁉	MfuVkeCjoVo	223037
@@ -77623,7 +77623,7 @@ columns:
 𬋂	CmeFhwVoJfo	222417
 𬋃	CmeCjoHsuHfi	222416
 𬋄	CmeLiLiClr	222415
-𬋅	CmeAkwZheHdu	222414
+𬋅	CmeFkwBkrHdu	222414
 𬋆	CmeNsuJdoFu	222413
 𬋇	HeHeCme	222412
 𬋈	TlrHqoCme	222411
@@ -77661,7 +77661,7 @@ columns:
 𬋨	HoDoLfi	222379
 𬋩	HoGkeNw	222378
 𬋪	HoGkeLeBu	222377
-𬋫	HoLeAkwFu	222376
+𬋫	HoLvuBuFu	222376
 𬋬	HoDjrPsuKdi	222375
 𬋭	HoKsuDkw	222374
 𬋮	HoGkeBuDi	222373
@@ -78143,7 +78143,7 @@ columns:
 𬓓	SjwXiTlrFhe	221897
 𬓔	SjwSiNfoHdu	221896
 𬓕	SjwGmeKdiYr	221895
-𬓖	SjwMduFlr	221894
+𬓖	SjwMduSjw	221894
 𬓗	SjwAlrHsuFu	221893
 𬓘	DhwSjwZkrYr	221892
 𬓙	SjwVoHeBu	221891
@@ -78442,7 +78442,7 @@ columns:
 𬘁	YfoLiLiAu	221598
 𬘂	YfoBiAr	221597
 𬘃	YfoLeZoYfo	221596
-𬘄	YfoAkwZheYfo	221595
+𬘄	YfoFkwBkrYfo	221595
 𬘅	YfoZheToYdi	221594
 𬘆	YfoDjrKsuAi	221593
 𬘇	YfoFmiFmrLr	221592
@@ -78452,7 +78452,7 @@ columns:
 𬘋	YfoKfoKfoZye	221588
 𬘌	YfoCmeCmeNr	221587
 𬘍	YfoQneKdiYfo	221586
-𬘎	YfoClrDoLe	221585
+𬘎	YfoClrDoShr	221585
 𬘏	YfoCmePsuLr	221584
 𬘐	YfoKoMfuBu	221583
 𬘑	YfoSuXcuZhe	221582
@@ -78859,7 +78859,7 @@ columns:
 𬞳	ClrCuJdoHdu	221181
 𬞴	ClrKciYdo	221180
 𬞵	ClrTmrFhe	221179
-𬞶	ClrJoAkwHdu	221178
+𬞶	ClrJoFkwHdu	221178
 𬞷	ClrDuLquGu	221177
 𬞸	ClrGkeClrXyr	221176
 𬞹	ClrDheKai	221175
@@ -78877,7 +78877,7 @@ columns:
 𬟆	ClrJoSrHdu	221163
 𬟇	ClrSkoVoPdi	221162
 𬟈	ClrQeSiLr	221161
-𬟉	ClrHsuAkwHdu	221160
+𬟉	ClrHsuFkwHdu	221160
 𬟊	ClrHauHdu	221159
 𬟋	ClrYfoFkeVo	221158
 𬟌	ClrLwJdoJfo	221157
@@ -78892,7 +78892,7 @@ columns:
 𬟕	ClrYfoAkwJdo	221148
 𬟖	YdiJdoVoKdi	221147
 𬟗	ClrFuVoGle	221146
-𬟘	ClrMsuAkwHdu	221145
+𬟘	ClrMsuFkwHdu	221145
 𬟙	ClrCuJdoDu	221144
 𬟚	ClrHsuKdiCme	221143
 𬟛	GkeKaiGleVo	221142
@@ -79129,11 +79129,11 @@ columns:
 𬣆	DuTlrAuNdu	220911
 𬣇	DuClrSliKai	220910
 𬣈	DuJoClrAi	220909
-𬣉	DuDoShrLe	220908
+𬣉	DuDoShrShr	220908
 𬣊	DuClrHoBu	220907
-𬣋	DuJoAkwJfo	220906
+𬣋	DuJoFkwJfo	220906
 𬣌	DuMtoTlrSyr	220905
-𬣍	DuZeAkwJfo	220904
+𬣍	DuZeFkwJfo	220904
 𬣎	DuMqoAuGu	220903
 𬣏	JziFmiAiDu	220902
 𬣐	DuJdoLiHdu	220901
@@ -79274,7 +79274,7 @@ columns:
 𬥟	ZyeZoJdo	220766
 𬥠	QoZoZyeSyw	220765
 𬥡	CkeKfoZye	220764
-𬥢	ZyeHoLeBu	220763
+𬥢	ZyeHoLvuBu	220763
 𬥣	JdoVjeZyeLgi	220762
 𬥤	ZyeGkeLeGje	220761
 𬥥	ZyeGkeDneNr	220760
@@ -79489,8 +79489,8 @@ columns:
 𬨹	BkrKdiMdoNdu	220551
 𬨺	QneFjrLeNdu	220550
 𬨻	NsuFmiFuNdu	220549
-𬨼	AkwZheBkrNdu	220548
-𬨽	JoAkwZheNdu	220547
+𬨼	FkwBkrVjeNdu	220548
+𬨽	JoFkwBkrNdu	220547
 𬨾	MsuShrVkeNdu	220546
 𬨿	KaiHwNdu	220545
 𬩀	KgiKdiSiNdu	220544
@@ -79511,13 +79511,13 @@ columns:
 𬩏	NrHsuNsuNdu	220529
 𬩐	BkrAiGyrNdu	220528
 𬩑	NfiJoVkeNdu	220527
-𬩒	AkwZheBkrNdu	220526
+𬩒	FkwBkrJfoNdu	220526
 𬩓	ZkrDiNsuNdu	220525
 𬩔	ZheGwSywNdu	220524
 𬩕	NdiKdiKfeNdu	220523
 𬩖	NdoZheNdu	220522
 𬩗	MgiGoMrNdu	220521
-𬩘	JoAkwZheNdu	220520
+𬩘	JoFkwBkrNdu	220520
 𬩙	MdoKdiToNdu	220519
 𬩚	JziHgiNdu	220518
 𬩛	XoJfoDneNdu	220517
@@ -79959,7 +79959,7 @@ columns:
 𬰳	PwFjrKdi	220081
 𬰴	PwJoJfo	220080
 𬰵	PwVoSliNe	220079
-𬰶	PwAkwZheHdu	220078
+𬰶	PwFkwBkrHdu	220078
 𬰷	PwFmiZkrDu	220077
 𬰸	TlrAyrTlrPw	220076
 𬰹	SrMe	220075
@@ -80255,7 +80255,7 @@ columns:
 𬵧	NwJfiHqo	219785
 𬵨	NwGkeHduMgi	219784
 𬵩	NwZuAuFyw	219783
-𬵪	NwAkwZheHdu	219782
+𬵪	NwFkwBkrHdu	219782
 𬵫	NwZheAkrJdo	219781
 𬵬	NwYxiTlr	219780
 𬵭	NwPuLeClr	219779
@@ -80487,7 +80487,7 @@ columns:
 𬹟	GkeFkwQhr	219553
 𬹠	ZyeQhr	219552
 𬹡	AuMsuQhr	219551
-𬹢	AkwZheBkrQhr	219550
+𬹢	FkwBkrQhr	219550
 𬹣	SiCoQhr	219549
 𬹤	JdoZheAkwQhr	219548
 𬹥	DkwShrShrAkw	219547
@@ -80547,7 +80547,7 @@ columns:
 𬺞	DsoVoXi	219493
 𬺟	MqoKsi	219492
 𬺠	AlrHsuMqo	219491
-𬺡	AkwZheBkrMqo	219490
+𬺡	FkwBkrHduMqo	219490
 𬺰	Akw	219489
 𬺱	AkwSi	219488
 𬺲	AnwLe	219487
@@ -81523,7 +81523,7 @@ columns:
 𭉻	KdiGleNrFhe	218519
 𭉼	KdiBuHqo	218518
 𭉽	AuXoKdiBkr	218517
-𭉾	KdiAkwZheJfo	218516
+𭉾	KdiFkwBkrJfo	218516
 𭉿	KdiPeXke	218515
 𭊀	KdiSkeYr	218514
 𭊁	KdiKsuYdiSjw	218513
@@ -81631,7 +81631,7 @@ columns:
 𭋧	LfuLwDkwJdo	218411
 𭋨	KdiAuPeNr	218410
 𭋩	KdiKfeKauKsu	218409
-𭋪	KdiHduAkwJfo	218408
+𭋪	KdiHduFkwJfo	218408
 𭋫	KdiHsuClrYdi	218407
 𭋬	KdiJsiMgiGo	218406
 𭋭	KdiDuBkrAi	218405
@@ -81700,7 +81700,7 @@ columns:
 𭌬	KdiPuDhe	218342
 𭌭	KdiJoKfoZye	218341
 𭌮	KdiGleLeXcu	218340
-𭌯	KdiYfoAkwJfo	218339
+𭌯	KdiYfoFkwJfo	218339
 𭌰	KdiMvuVjeGyw	218338
 𭌱	KdiPgoHfuDu	218337
 𭌲	KdiHoLiHqo	218336
@@ -82230,7 +82230,7 @@ columns:
 𭕀	LdoGkeKqoJfo	217812
 𭕁	VoHeBuJfo	217811
 𭕂	ZeKdiZyeJfo	217810
-𭕃	AkwZheBkrPsu	217809
+𭕃	FkwBkrJfoPsu	217809
 𭕄	Hsu	217808
 𭕅	FlrSyw	217807
 𭕆	FlrSmr	217806
@@ -82910,7 +82910,7 @@ columns:
 𭟨	HduDkwDkwFhw	217133
 𭟩	HduHqoHqoJdo	217132
 𭟪	SrAkwVkeHdu	217131
-𭟫	HduAkwZheBle	217130
+𭟫	HduFkwBkrBle	217130
 𭟬	HduPuJsiKqi	217129
 𭟭	HduClrAheKqo	217128
 𭟮	FjwLe	217127
@@ -83194,7 +83194,7 @@ columns:
 𭤅	SpwJfoHfi	216849
 𭤆	DiKaiHfi	216848
 𭤇	BiSiHfiGle	216847
-𭤈	AkwZheBkrHfi	216846
+𭤈	LeMeBkrHfi	216846
 𭤉	CmwVoHfiMgi	216845
 𭤊	SrAkwHfi	216844
 𭤋	KdiTlrGleNr	216843
@@ -83249,7 +83249,7 @@ columns:
 𭤼	HfoDheFlr	216794
 𭤽	HfoBkrGje	216793
 𭤾	HfoMfuGyrDjr	216792
-𭤿	HfoHoLeBu	216791
+𭤿	HfoHoLvuBu	216791
 𭥀	HfoMfuJdoClr	216790
 𭥁	HfoJsiGkeHfo	216789
 𭥂	QneLduHfo	216788
@@ -84094,7 +84094,7 @@ columns:
 𭲊	HsuJdoJgiSjw	215949
 𭲋	HsuNeCuHfi	215948
 𭲌	HsuJdoJgiHfu	215947
-𭲍	HsuMduFlr	215946
+𭲍	HsuMduSjw	215946
 𭲎	HsuShrCuJfo	215945
 𭲏	HsuLwSliAyr	215944
 𭲐	MfuSjwJfoHsu	215943
@@ -84449,7 +84449,7 @@ columns:
 𭷭	MdoFkeVo	215594
 𭷮	LdoKdiLduMdo	215593
 𭷯	MdoHfiZkrMdo	215592
-𭷰	MdoAkwZheJfo	215591
+𭷰	MdoFkwBkrJfo	215591
 𭷱	MdoClrVoYdi	215590
 𭷲	BkrMdoKeKdi	215589
 𭷳	BiSiHfiMdo	215588
@@ -85065,7 +85065,7 @@ columns:
 𮁔	FjeClrKeQhe	214979
 𮁕	FjeJziDjrJdo	214978
 𮁖	FjeHeHeHe	214977
-𮁗	FjeQneAkwJfo	214976
+𮁗	FjeQneFkwJfo	214976
 𮁘	FjeAjeBuBu	214975
 𮁙	FjeAkrKdiHqo	214974
 𮁚	FjeClrDleTlr	214973
@@ -85696,7 +85696,7 @@ columns:
 𮋒	KaiZheZu	214348
 𮋓	ZuLiLiClr	214347
 𮋔	KoCjoBkrZu	214346
-𮋕	ZuDoShrLe	214345
+𮋕	ZuDoShrShr	214345
 𮋖	AkwVoAkwZu	214344
 𮋗	XuHwDywZu	214343
 𮋘	JgiJgiZyeZu	214342
@@ -85867,7 +85867,7 @@ columns:
 𮍽	HvuJvuCmeNsi	214177
 𮍾	HvuHsuZhe	214176
 𮍿	AkwVoAkwHvu	214175
-𮎀	HvuQneAkwJfo	214174
+𮎀	HvuQneFkwJfo	214174
 𮎁	GiXkeKsu	214173
 𮎂	DuYfoYfoKsu	214172
 𮎃	MoGkeAnw	214171
@@ -86188,7 +86188,7 @@ columns:
 𮒾	ClrJziLeKsu	213857
 𮒿	ClrJdoBo	213856
 𮓀	ClrMsuLrKci	213855
-𮓁	ClrYfoAkwJfo	213854
+𮓁	ClrYfoFkwJfo	213854
 𮓂	ClrKvuKsu	213853
 𮓃	ClrLwJsiGle	213852
 𮓄	ClrSkrAuGw	213851
@@ -87068,7 +87068,7 @@ columns:
 𮠶	SeNdiKdi	212978
 𮠷	SeMsuVo	212977
 𮠸	SeKfeVoMw	212976
-𮠹	SeHoLeBu	212975
+𮠹	SeHoLvuBu	212975
 𮠺	SeJsiGkeJfi	212974
 𮠻	SeToYdi	212973
 𮠼	SeYsoKai	212972
@@ -87568,7 +87568,7 @@ columns:
 𮨰	AnwSoVkeJdo	212478
 𮨱	AnwSoJdoGje	212477
 𮨲	AnwSoTiJe	212476
-𮨳	AnwSoPuLe	212475
+𮨳	AnwSoPuShr	212475
 𮨴	TlrTlrAnwSo	212474
 𮨵	AnwSoZuFyw	212473
 𮨶	KdoPsuBkr	212472
@@ -87627,7 +87627,7 @@ columns:
 𮩭	MsuVoVoSle	212419
 𮩮	MsuVoAlrNdu	212418
 𮩯	MsuVoKcoMau	212417
-𮩰	MsuVoDoLe	212416
+𮩰	MsuVoDoShr	212416
 𮩱	MsuVoGkeZye	212415
 𮩲	AjeVke	212414
 𮩳	AjeYe	212413
@@ -87694,7 +87694,7 @@ columns:
 𮪱	NdiDywSiNfo	212352
 𮪲	NdiFheNdu	212351
 𮪳	NdiPgoClrKdi	212350
-𮪴	NdiAkwZheJfo	212349
+𮪴	NdiFkwBkrJfo	212349
 𮪵	NdiGkeLfoPsu	212348
 𮪶	ClrVoYdiNdi	212347
 𮪷	ClrVoYdiNdi	212346
@@ -88788,7 +88788,7 @@ columns:
 𰍤	JsiCuGkeNr	211258
 𰍥	BkrGjePsuJfo	211257
 𰍦	AlrJfoMtoTlr	211256
-𰍧	SiFu	211255
+𰍧	FuSi	211255
 𰍨	FuNr	211254
 𰍩	FlrAu	211253
 𰍪	DiFlr	211252
@@ -90426,7 +90426,7 @@ columns:
 𱄹	AjeAoFjrAkw	208610
 𱄫	AjeAkwKdiKdi	208609
 鿗	AuJoAlrLe	208608
-𲋿	AjeAkwZheJfo	208607
+𲋿	AjeFkwBkrJfo	208607
 𲌂	AjeBkrBkrHdu	208606
 𱄢	AjeBkrFlrBu	208605
 𱄜	AjeBuXiPsu	208604
@@ -90686,7 +90686,7 @@ columns:
 𲍎	BoAkrJdo	208350
 𱑵	BuAlrKdi	208349
 𲍘	BoAkwVoJr	208348
-𱈐	BoAkwZheJfo	208347
+𱈐	BoFkwBkrJfo	208347
 𱊍	BuBuBuJbo	208346
 𱈎	BoBuBuTlr	208345
 𱇳	BoBkrJdoMw	208344
@@ -90712,7 +90712,7 @@ columns:
 𱈈	BoHduFkwLe	208324
 𱍾	BuHqoFmiNr	208323
 𲍔	BoHsuFlrSi	208322
-𲍗	BoHoLeBu	208321
+𲍗	BoHoLvuBu	208321
 𱈇	BoHduLeLe	208320
 𱇘	BoJvuAnw	208319
 𱉠	BuJtiJbo	208318
@@ -91757,7 +91757,7 @@ columns:
 𰏄	DywVoAkw	207279
 𰫹	DuYfoYfoAkw	207278
 𰙹	DiYfoYfo	207277
-𲆤	YfoDuYfoLw	207276
+𲆤	DuYfoYfoLw	207276
 𰢸	DywZhe	207275
 𱊎	DywZheJbo	207274
 𰒱	DywZheTlrFjw	207273
@@ -91820,7 +91820,7 @@ columns:
 𱝭	FhwLeJfi	207216
 𱝰	FhwLeJfiZi	207215
 𱝲	FhwLsiLqu	207214
-𰐰	FhwLeMeBkr	207213
+𰐰	FhwFkwBkr	207213
 𰐶	FhwLiMwDi	207212
 𰵾	FeHoLiYdi	207211
 𱝱	FhwMdoJfiVje	207210
@@ -92500,7 +92500,7 @@ columns:
 𱚘	GkeCmwVoHe	206536
 𱚊	GkeDjrPsuKdi	206535
 𱚋	GkeDleSiAkw	206534
-𱚕	GkeDoShrLe	206533
+𱚕	GkeDoShrShr	206533
 𰃱	GkeDywZhe	206532
 𲂛	GkeFmwGkeKdi	206531
 𱚖	GkeFjrLeYfo	206530
@@ -92972,8 +92972,8 @@ columns:
 𰕖	HeKdiGuHfi	206064
 𱻺	HeKfeLsi	206063
 𰠀	HoKdiTlr	206062
-𱡟	HoLeAkwHfi	206061
-𱊒	HoLeAkwJbo	206060
+𱡟	HoLvuBuHfi	206061
+𱊒	HoLvuBuJbo	206060
 𲋵	HoLeAje	206059
 鿢	HeLwCjoKdi	206058
 𱤷	HeLwDlw	206057
@@ -93630,7 +93630,7 @@ columns:
 𰗃	JdoZeFlrVo	205407
 𱎄	JrFlrAlr	205406
 𱏍	JoFliAnw	205405
-𱜵	JfiAkwZheHdu	205404
+𱜵	JfiFkwBkrHdu	205404
 𱜸	JfiDheDne	205403
 𱜬	JfiDheFlr	205402
 𱜪	JfiDleJfi	205401
@@ -94828,7 +94828,7 @@ columns:
 𱘚	LiLiLePsu	204209
 𰺰	LeLrNdu	204208
 𱚯	LeLrQeLr	204207
-𰺿	LeMeBkrNdu	204206
+𰺿	FkwBkrNdu	204206
 𱀒	LwMgiFlrSi	204205
 𱀚	LwMsuGle	204204
 𰙳	LwMwKsuDi	204203
@@ -95267,7 +95267,7 @@ columns:
 𰨮	MsuCmeVo	203770
 𰩃	MsuDkwDkwHqo	203769
 𰥚	MsuDkw	203768
-𰨻	MsuDoShrLe	203767
+𰨻	MsuDoShrShr	203767
 𰨬	MsuFmiFuVo	203766
 𱶅	MsuFmiFyr	203765
 𰨿	MsuFkrJdoCme	203764
@@ -95968,7 +95968,7 @@ columns:
 𰿊	QjrAiTo	203069
 𲈕	QjrAkwVoJr	203068
 𰾕	QjrAkrXiTlr	203067
-𰾶	QjrAkwZheHdu	203066
+𰾶	QjrFkwBkrHdu	203066
 𲈑	QjrBkrAiSle	203065
 𲇵	QjrBuBu	203064
 𰿃	QjrClrAheNr	203063
@@ -96248,7 +96248,7 @@ columns:
 𰹮	QneClrYxiCme	202789
 𰺟	QneDjrLduAle	202788
 𲄸	QneDjrLeAkw	202787
-𰹧	QneDoShrLe	202786
+𰹧	QneDoShrShr	202786
 𰹣	QneFmiFuHdu	202785
 𰹪	QneFkrJdoCme	202784
 𰹓	QneFjwKdiLe	202783
@@ -96690,7 +96690,7 @@ columns:
 𱺔	TkwAkwJfi	202348
 𱺰	TkwAkwKdiYr	202347
 𰬀	TkwAuVje	202346
-𰬸	TkwAkwZheHdu	202345
+𰬸	TkwFkwBkrHdu	202345
 𰬻	TkwBiSiKdi	202344
 𰬧	TkwCmeCme	202343
 𱺣	TkwClrGkeSle	202342
@@ -97564,7 +97564,7 @@ columns:
 𱙶	YdiNrQi	201474
 𲌇	YdiSkeFye	201473
 𱊁	YdiSkeJbo	201472
-𲁆	YrDoShrLe	201471
+𲁆	YrDoShrShr	201471
 𱶇	YdiSiYdiMsu	201470
 𱂘	YdiTlrAr	201469
 𰤭	YdiToDme	201468
@@ -99690,7 +99690,7 @@ columns:
 𲗮	TiKdiClrNe	199350
 𲗯	KdiClrHqoCme	199349
 𲗰	KdiMgiYwAnw	199348
-𲗱	KdiClrDoLe	199347
+𲗱	KdiClrDoShr	199347
 𲗲	KdiClrAheDkw	199346
 𲗳	HqoHqoKdi	199345
 𲗴	KdiMsuDleFyw	199344
@@ -101501,7 +101501,7 @@ columns:
 𲴀	FjeZheClrKsu	197540
 𲴁	FjeZkrAkwZye	197539
 𲴂	FjeJsiDjrKdi	197538
-𲴃	FjeAkwZheHdu	197537
+𲴃	FjeFkwBkrHdu	197537
 𲴄	FjeVoVoVo	197536
 𲴅	FjeDiVkeYfo	197535
 𲴆	FjeGjeZye	197534
@@ -101810,7 +101810,7 @@ columns:
 𲸵	AyrMvuNrKsu	197231
 𲸶	AyrAuAuClr	197230
 𲸷	AyrVoZu	197229
-𲸸	AyrAkwZheJfo	197228
+𲸸	AyrFkwBkrJfo	197228
 𲸹	AyrFlrSiFlr	197227
 𲸺	AyrSiYdiKdi	197226
 𲸻	AyrJdoZeVo	197225
@@ -102739,7 +102739,7 @@ columns:
 𳇕	TmrHqoDjrKdi	196303
 𳇖	TmrToNrFhe	196302
 𳇗	TmrDuDleJfi	196301
-𳇘	TmrClrDoLe	196300
+𳇘	TmrClrDoShr	196300
 𳇙	TmrMvuCuDo	196299
 𳇚	TmrKsuKdiTlr	196298
 𳇛	TmrKcoMauSle	196297
@@ -102994,7 +102994,7 @@ columns:
 𳋛	NaiDjrPsuKdi	196041
 𳋜	NaiQiPdi	196040
 𳋝	NaiGleBuNsi	196039
-𳋞	NaiHoLeBu	196038
+𳋞	NaiHoLvuBu	196038
 𳋟	NaiDiVkeTlr	196037
 𳋠	NaiVjeKsuKsu	196036
 𳋡	NaiGkeFmw	196035
@@ -103057,7 +103057,7 @@ columns:
 𳌚	NdiYdiAkwClr	195978
 𳌛	NdiFjwKdiLe	195977
 𳌜	NdiYxiVo	195976
-𳌝	NdiDoShrLe	195975
+𳌝	NdiDoShrShr	195975
 𳌞	DheXu	195974
 𳌟	DheSiClrPsu	195973
 𳌠	KdiZyeDhe	195972

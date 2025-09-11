@@ -2361,7 +2361,7 @@
 冲击	GKKDr	14277
 南方	ADHo	14267
 名称	XKMFr	14259
-优惠	JMAZu	14252
+优惠	JMFBu	14252
 工艺	JCJr	14252
 好玩	GQGZr	14240
 市场上	JPFe	14212
@@ -7028,7 +7028,7 @@
 丢人	SPAu	3932
 柔和	BSMKi	3932
 高压	DZPr	3931
-优惠券	JAJe	3930
+优惠券	JFJe	3930
 助力	SSSe	3930
 不掉	KKFw	3929
 母语	DFQi	3928
@@ -7384,7 +7384,7 @@
 买东西	XFDw	3698
 外交	XFGSo	3698
 越来越好	ACAGi	3698
-实惠	GGAZu	3697
+实惠	GGFBu	3697
 美洲	TYHDw	3697
 交付	GSJJo	3696
 骨骼	NNVw	3695
@@ -22383,7 +22383,7 @@
 半斤八两	JKJKo	715
 半部	JKJKw	715
 哥本哈根	STKTe	715
-惠州	AZDDw	715
+惠州	FBDDw	715
 才子	ASQi	715
 星河	VJHSe	715
 本名	TLXKi	715
@@ -29273,7 +29273,7 @@
 异国他乡	KZJDw	424
 征稿	FLMDe	424
 急得	FAFVo	424
-惠普	AZJSo	424
+惠普	FBJSo	424
 惹得	CAFVo	424
 战略目标	FZDTw	424
 放大器	HYLu	424
@@ -31955,7 +31955,7 @@
 常来	NJCJo	348
 平白无故	LDGSi	348
 底图	FCZMw	348
-恩惠	ZYAZu	348
+恩惠	ZYFBu	348
 惹怒	CAGBu	348
 拳打	JJKLi	348
 普渡	JSHFu	348
@@ -33311,7 +33311,7 @@
 补品	YFKLu	318
 讲法	FLHPr	318
 论著	FKCFo	318
-贤惠	VBAZu	318
+贤惠	VBFBu	318
 蹦极	XMTSw	318
 退守	FNGJo	318
 送行	JYDr	318
@@ -34179,7 +34179,7 @@
 与世无争	LAGFo	298
 专心致志	ZHKLu	298
 主干道	NLJu	298
-互惠	LAAZu	298
+互惠	LAFBu	298
 伴舞	JJKKu	298
 倒刺	JKTDe	298
 假账	JMSDr	298
@@ -34524,7 +34524,7 @@
 氤氲	YZYVi	291
 求真	LHADo	291
 流变	HHJCu	291
-特惠	MPAZu	291
+特惠	MPFBu	291
 甲午战争	YKFFo	291
 疯掉	QAKFw	291
 白术	DTNr	291
@@ -34927,7 +34927,7 @@
 家父	GDJSo	283
 年少无知	KFGHi	283
 总署	JKAFo	283
-惠及	AZSw	283
+惠及	FBSw	283
 扫视	KASKi	283
 找事	KFLKo	283
 招工	KVJi	283
@@ -38645,7 +38645,7 @@
 难如	BHGKi	219
 雨露	KKXw	219
 高高挂起	DDKAo	219
-麦穗	MMMAu	219
+麦穗	MMMFu	219
 上溯	FLHJu	218
 专权	ZXTBu	218
 书香	XXMVo	218
@@ -39245,7 +39245,7 @@
 思想文化	ZTXJe	209
 急刹	FASTe	209
 恋上	JCFLe	209
-惠民	AZHi	209
+惠民	FBHi	209
 扬名立万	KXJLe	209
 扭捏	KXKVu	209
 拂晓	KAVFr	209
@@ -41937,7 +41937,7 @@
 参加者	BSFo	171
 发包	GBSKi	171
 发热量	GKVo	171
-受惠	HGAZu	171
+受惠	HGFBu	171
 变心	JCHu	171
 可怜兮兮	SHJJi	171
 叹道	KBJFu	171
@@ -42079,7 +42079,7 @@
 世态炎凉	AYCGr	169
 为非作歹	NLJCe	169
 二手货	ZKJr	169
-互惠互利	LALMe	169
+互惠互利	LFLMe	169
 人多势众	AXKAu	169
 俗字	JFGQi	169
 偷梁换柱	JHKTu	169
@@ -45911,7 +45911,7 @@
 孰能	DQBCe	126
 害人不浅	GAKHw	126
 射进	KJLNu	126
-小恩小惠	FZFAu	126
+小恩小惠	FZFFu	126
 尾骨	MGNi	126
 崇山峻岭	MMMMr	126
 川剧	DMSe	126
@@ -54571,7 +54571,7 @@
 大头针	YGQw	56
 始料不及	GKKSw	56
 寒冬腊月	GMCCu	56
-小惠	FAZu	56
+小惠	FFBu	56
 小计	FFAw	56
 就坡下驴	DPLFi	56
 屋前	MKJCe	56
@@ -57120,7 +57120,7 @@
 磷矿	FKFFr	42
 票证	DSFLi	42
 福晋	SLLSo	42
-稻穗	MHMAu	42
+稻穗	MHMFu	42
 空想社会主义	VTSNo	42
 窥测	VJHSe	42
 童贞	JJFSr	42
@@ -60205,7 +60205,7 @@
 打拐	KLKKe	28
 执法不严	KHKLr	28
 抄没	KFHLu	28
-抽穗	KMMAu	28
+抽穗	KMMFu	28
 指手划脚	KKFCi	28
 挥毫泼墨	KDHMu	28
 捆缚	KZTSo	28
@@ -60429,7 +60429,7 @@
 总工会	JJAw	27
 惊恐万状	HJLSu	27
 惜贷	HAJQr	27
-惠阳	AZLVo	27
+惠阳	FBLVo	27
 惶然	HDCLe	27
 愣怔	HAHLi	27
 战鹰	FKFJo	27
@@ -61643,7 +61643,7 @@
 怨仇	XLJGr	22
 恒河沙数	HHHKi	22
 惑乱	FKHXi	22
-惠顾	AZZLe	22
+惠顾	FBZLe	22
 愁怨	MCXLu	22
 愁眉	MCMDw	22
 意韵	SHSSw	22
@@ -62214,7 +62214,7 @@
 暂借	AKJAo	20
 暗哨	VSKFu	20
 曲径	KFBi	20
-最惠国待遇	VAZZu	20
+最惠国待遇	VFZZu	20
 有借有还	AJAKu	20
 有凭有据	AJAKr	20
 木鞋	TNPu	20
@@ -62944,7 +62944,7 @@
 反腐倡廉	ZFJFe	17
 发怔	GBHLi	17
 叠翠	BBZJw	17
-口惠而实不至	KAGKr	17
+口惠而实不至	KFGKr	17
 可知论	SHFi	17
 台港	BKHAi	17
 合家	CKGDe	17
@@ -63010,7 +63010,7 @@
 忧心如焚	HHGTe	17
 恶因	LSZYi	17
 悔过自新	HJFJo	17
-惠存	AZAFi	17
+惠存	FBAFi	17
 惨祸	HBSKu	17
 愚顽	ZGZLe	17
 扶老携幼	KFKLe	17
@@ -66278,7 +66278,7 @@
 悔之不及	HFKSw	7
 悲不自胜	LKFCu	7
 悲悲戚戚	LLKKr	7
-惠安	AZGGe	7
+惠安	FBGGe	7
 惨厉	HBZLe	7
 惨毒	HBMDe	7
 意乱神迷	SHSKu	7
@@ -66695,7 +66695,7 @@
 本戏	TLBFw	6
 本证	TLFLi	6
 林产	TTJZr	6
-果穗	ZTMAu	6
+果穗	ZTMFu	6
 枣阳	TDLVo	6
 架得住	SFJu	6
 柔细	BSTZe	6
@@ -66965,7 +66965,7 @@
 双日	BBVo	5
 双阳	BBLVo	5
 发网	GBDSo	5
-口惠	KAZu	5
+口惠	KFBu	5
 另定	KSGJu	5
 叩见	KLKi	5
 可意	SSHu	5
@@ -68153,7 +68153,7 @@
 尖脐	FYCMu	2
 弃旧图新	HFZJo	2
 怆痛	HAQBi	2
-惠赠	AZSJo	2
+惠赠	FBSJo	2
 战云	FKHw	2
 承应	XHFHe	2
 拂煦	KAVTe	2
@@ -69060,7 +69060,7 @@
 吁求	KLLHr	0
 同庚	DLFAu	0
 后厦	ZLZLw	0
-吐穗	KPMAu	0
+吐穗	KPMFu	0
 向火	SDCe	0
 向隅而泣	SLGHi	0
 吠影吠声	KVKLu	0

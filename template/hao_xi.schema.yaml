@@ -108,20 +108,24 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcba;'/
-  initials: zyxwvutsrqponmlkjihgfedcba;'/
+  alphabet: zyxwvutsrqponmlkjihgfedcba/*
+  initials: zyxwvutsrqponmlkjihgfedcba/*
   delimiter: "`"
   max_code_length: 4
   auto_select: true
   auto_clear: max_length
   auto_select_pattern: ^;\w+
-  algebra:
+  algebra: # 以下四行，实现“*”的通配符功能
+    - derive/^.(.*)$/\*$1/
+    - derive/^(.).(.*)$/$1\*$2/
+    - derive/^(..).(.*)$/$1\*$2/
+    - derive/^(...).(.*)$/$1\*$2/
 
 translator:
   dictionary: hao_xi
   prism: hao_xi
   db_class: tabledb
-  enable_completion: false
+  enable_completion: true # 编码预测（其实这个是默认开启的）
   enable_sentence: false
   enable_user_dict: true
   enable_encoder: true
@@ -168,7 +172,8 @@ hao:
   macros:
     hao:
       - { type: tip, name: ❖淅码配置中心 }
-      - { type: switch, name: hao_postpone_fullcode, states: [☐原始排序, ☑全码后置] }
+      - { type: switch, name: hao_postpone_fullcode, states: [☐后置, ☑后置] }
+      - { type: switch, name: enable_completion, states: [☐预测, ☑预测] }
       - { type: switch, name: hao_embeded_cands, states: [☐嵌入, ☑嵌入] }
       - {
           type: radio,
@@ -181,10 +186,10 @@ hao:
             ],
           states: [☐☐☐注解, ☑☐☐注解, ☐☑☐注解, ☐☐☑注解],
         }
-      - { type: switch, name: traditionalization, states: [☐简保持, ☑简转繁] }
-      - { type: switch, name: simplification, states: [☐繁保持, ☑繁转简] }
-      - { type: switch, name: full_shape, states: [☐半角, ☑全角] }
-      - { type: switch, name: ascii_punct, states: [☐中文标点, ☑英文标点] }
+      - { type: switch, name: traditionalization, states: [☐简转繁, ☑简转繁] }
+      - { type: switch, name: simplification, states: [☐繁转简, ☑繁转简] }
+      - { type: switch, name: full_shape, states: [☑半角, ☑全角] }
+      - { type: switch, name: ascii_punct, states: [☑，。, '☑, . '] }
     date:
       - { type: eval, name: ☀日期, expr: return os.date("%Y-%m-%d") }
       - { type: eval, name: ⛅年月日, expr: return os.date("%Y年%m月%d日") }
@@ -306,27 +311,17 @@ hao_stroke_lookup:
 
 punctuator:
   import_preset: symbols
-  half_shape:
-    "`": "`"
-    "#": "#"
-    "%": "%"
-    "*": "*"
-    "\\": "、"
-    "[": "【"
-    "]": "】"
-    "{": "「"
-    "}": "」"
-    "/": "/"
-    "|": "|"
   digit_separators: ",."
 
 key_binder:
   bindings:
+    - { when: has_menu, accept: Tab, send: Escape } # tab退出
+    - { when: composing, accept: space, send: Escape }
+    - { when: has_menu, accept: space, send: KP_1 }
     - { when: always, accept: "Control+Shift+J", toggle: simplification }
     - { when: always, accept: "Control+Shift+F", toggle: traditionalization }
     - { when: has_menu, accept: semicolon, send: KP_2 } # 分号次选
     - { when: has_menu, accept: apostrophe, send: KP_3 } # 引号三选
-    - { when: has_menu, accept: Tab, send: KP_2 } # 製表符次选
     - { when: has_menu, accept: minus, send: Page_Up } # 減號上翻頁
     - { when: has_menu, accept: equal, send: Page_Down } # 等號下翻頁
     - { when: composing, accept: "Control+d", send: Delete }

@@ -68,7 +68,7 @@ pa	动
 vk	分
 pe	把
 fw	开
-ey	军
+ey	字
 wi	又
 am	两
 af	本
@@ -129,7 +129,7 @@ bj	间
 vv	话
 wm	文
 rt	给
-ix	美
+ix	吗
 oq	业
 ls	物
 gg	真
@@ -503,7 +503,7 @@ ld	止
 qi	职
 wr	药
 nf	印
-wf	卫
+wf	欢
 tj	阳
 jb	待
 cu	追
