@@ -326,8 +326,8 @@ gg	真
 gg;	直
 gh	应
 gh;	睡
-gi	王
-gi;	右
+gi	右
+gi;	王
 gj	朝
 gj;	韩
 gk	存

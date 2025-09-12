@@ -213,7 +213,7 @@
 化	khsp	299788
 通	nqlt	299787
 感	ufin	299786
-王	giff	299785
+右	giqf	299785
 各	qycf	299784
 口	iqkf	299783
 气	fqcp	299782
@@ -745,7 +745,7 @@
 挥	peyf	299256
 敢	pqry	299255
 置	yggf	299254
-右	giqf	299253
+王	giff	299253
 压	oboe	299252
 香	zjef	299251
 层	mpdo	299250

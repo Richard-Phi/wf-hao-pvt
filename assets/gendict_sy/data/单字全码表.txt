@@ -213,7 +213,7 @@
 化	JoVke	299788
 通	BkrAiNdu	299787
 感	KeLeKdiHdu	299786
-王	Gu	299785
+右	AkwKdi	299785
 各	Vyw	299784
 口	Kdi	299783
 气	Yso	299782
@@ -745,7 +745,7 @@
 挥	KsuGkeAle	299256
 敢	XiHeHfi	299255
 置	AheAkwDkwLe	299254
-右	AkwKdi	299253
+王	Gu	299253
 压	ZkrPsuNr	299252
 香	MsuVo	299251
 层	MfuHw	299250

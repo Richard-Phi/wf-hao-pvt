@@ -213,7 +213,7 @@
 化	kh
 通	nq
 感	uf
-王	gi
+右	gi
 各	qy
 口	iq
 气	fq
@@ -745,7 +745,7 @@
 挥	pey
 敢	pqr
 置	yg
-右	giq
+王	gif
 压	ob
 香	zje
 层	mpd
@@ -20663,7 +20663,7 @@
 駽	gimd
 駾	gvi
 騀	gcpi
-騁	gif
+騁	gifp
 騂	gjt
 騃	gneu
 騄	gshg
@@ -24707,7 +24707,7 @@
 䁏	gqsm
 䁐	gwzx
 䁑	gjfb
-䁒	giqg
+䁒	giq
 䁓	gozj
 䁔	gtlw
 䁕	gnje
@@ -103703,7 +103703,7 @@
 化	khsp
 通	nqlt
 感	ufin
-王	giff
+右	giqf
 各	qycf
 口	iqkf
 气	fqcp
@@ -104235,7 +104235,7 @@
 挥	peyf
 敢	pqry
 置	yggf
-右	giqf
+王	giff
 压	oboe
 香	zjef
 层	mpdo

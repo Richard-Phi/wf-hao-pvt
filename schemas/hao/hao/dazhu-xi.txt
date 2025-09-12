@@ -250,7 +250,7 @@ gt	眼
 kh	化
 nq	通
 uf	感
-gi	王
+gi	右
 qy	各
 iq	口
 fq	气
@@ -782,7 +782,7 @@ wea	劳
 pey	挥
 pqr	敢
 yg	置
-giq	右
+gif	王
 ob	压
 zje	香
 mpd	层
@@ -20700,7 +20700,7 @@ gszp	駼
 gimd	駽
 gvi	駾
 gcpi	騀
-gif	騁
+gifp	騁
 gjt	騂
 gneu	騃
 gshg	騄
@@ -24744,7 +24744,7 @@ gwu	䁎
 gqsm	䁏
 gwzx	䁐
 gjfb	䁑
-giqg	䁒
+giq	䁒
 gozj	䁓
 gtlw	䁔
 gnje	䁕
@@ -103733,7 +103733,7 @@ gtpo	眼
 khsp	化
 nqlt	通
 ufin	感
-giff	王
+giqf	右
 qycf	各
 iqkf	口
 fqcp	气
@@ -104265,7 +104265,7 @@ weau	劳
 peyf	挥
 pqry	敢
 yggf	置
-giqf	右
+giff	王
 oboe	压
 zjef	香
 mpdo	层
@@ -114322,7 +114322,6 @@ gygo	駭
 gjjv	駲
 gsew	駸
 gvia	駾
-gifp	騁
 gjtk	騂
 gsus	騊
 gsaj	騍
@@ -115188,6 +115187,7 @@ dwgy	䁂
 frgy	䁈
 figy	䁉
 gwue	䁎
+giqg	䁒
 ulgy	䁿
 mcwp	䂊
 ekiq	䂏

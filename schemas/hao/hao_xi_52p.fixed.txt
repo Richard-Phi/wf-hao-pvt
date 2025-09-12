@@ -181,7 +181,7 @@ gt	眼
 kh	化
 nq	通
 uf	感
-gi	王
+gi	右
 qy	各
 iq	口
 fq	气
