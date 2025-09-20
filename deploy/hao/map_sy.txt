@@ -85,7 +85,6 @@ Lsi	戸
 Lsi	
 Syr	卯
 Syr	
-Syr	
 Tjr	饣
 Pr	瓦
 Yso	气
@@ -184,6 +183,7 @@ Dyw	
 Dyw	
 Dyw	〣
 Gje	虫
+Gje	𠀐
 Co	未
 Fhr	册
 Fhr	冊
@@ -422,7 +422,6 @@ Sli	勹
 Ysu	甲
 Jgi	夫
 Mqo	侖
-Mqo	龠
 Fkw	𣄼
 Ko	雨
 Ko	⻗

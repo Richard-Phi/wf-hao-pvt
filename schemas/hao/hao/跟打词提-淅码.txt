@@ -2755,7 +2755,7 @@
 兀	fah
 铅	cpiq
 砂	qoc
-兮	vfp
+兮	vpvp
 牟	nlz
 哉	gii
 浆	nxh
@@ -6076,7 +6076,7 @@
 眬	gjho
 蕤	wkdh
 遊	mly
-龢	szpo
+龢	tirz
 翥	rjeh
 幾	bbis
 耒	fuf
@@ -6118,7 +6118,7 @@
 疋	kfp
 豐	dzze
 撐	pxy
-殼	vfps
+殼	vfp
 柰	addo
 殂	qrhf
 糨	moij
@@ -6301,7 +6301,7 @@
 惝	nxy
 掎	pxz
 柽	awb
-瀹	hsy
+瀹	htij
 猞	lsvl
 疔	xue
 癀	xbx
@@ -6403,7 +6403,7 @@
 陔	tyg
 骀	xni
 髫	bkiq
-龠	syc
+龠	tirj
 兌	viah
 坫	bdi
 埝	btpn
@@ -7950,7 +7950,7 @@
 佽	klf
 侁	klah
 侂	kgc
-侖	syck
+侖	syc
 侘	kec
 侜	klk
 侴	tpbk
@@ -8701,13 +8701,13 @@
 杴	afyo
 杻	apbm
 枅	afwh
-枍	avf
+枍	avp
 枑	afsi
 枒	ayb
 枠	adg
 枲	niaj
 枹	asd
-柈	avp
+柈	avpc
 柊	ajlv
 柖	akiq
 柮	aizv
@@ -9041,7 +9041,7 @@
 爊	ycyv
 爔	yiz
 爕	myyy
-爚	ysy
+爚	ytij
 爟	ywr
 爧	ytis
 爫	tocc
@@ -9245,7 +9245,7 @@
 盦	tpt
 盩	bir
 盷	gsl
-盻	gvfp
+盻	gvp
 眊	gou
 眜	gfa
 眥	lhgy
@@ -9386,7 +9386,7 @@
 籐	zmvh
 籝	zosm
 籤	zssf
-籥	zsy
+籥	ztij
 籧	zqkl
 籰	zggw
 籹	msmf
@@ -9867,7 +9867,7 @@
 靰	gfah
 靸	gkd
 靺	gfaj
-靽	gvp
+靽	gvpc
 靿	gba
 鞁	gemo
 鞌	esg
@@ -11195,7 +11195,7 @@
 厺	xnd
 厼	noto
 厽	nnnd
-叀	fin
+叀	gsn
 叅	nnnn
 収	hwio
 叏	gwi
@@ -11781,7 +11781,7 @@
 夡	xxm
 夣	pyex
 夦	mvpx
-夨	fpo
+夨	pfoe
 夰	xkg
 夲	xgl
 夳	xrl
@@ -12266,7 +12266,7 @@
 崈	edds
 崉	dhr
 崊	daa
-崋	dfwp
+崋	dpw
 崍	das
 崏	dqj
 崓	duqm
@@ -12709,7 +12709,7 @@
 恱	nvna
 恲	nvw
 恴	ujng
-恵	fing
+恵	fin
 恷	kang
 恾	nwxc
 悀	nnq
@@ -13810,7 +13810,7 @@
 楎	aejl
 楏	axbb
 楐	assk
-楑	avfx
+楑	avf
 楕	agnm
 楖	atw
 楘	mcra
@@ -14419,7 +14419,7 @@
 淣	hwah
 淥	hshg
 淧	henc
-淪	hsyk
+淪	hsy
 淭	hfaj
 淰	htpn
 淲	hqbj
@@ -15310,7 +15310,7 @@
 璑	gldy
 璓	gwzv
 璔	gvuj
-璕	gsn
+璕	gsnl
 璖	ghea
 璗	hjfo
 璙	gxvo
@@ -15993,7 +15993,7 @@
 禰	dfk
 禱	dmpl
 禲	dowf
-禴	dsyk
+禴	dtij
 禶	dlai
 禷	dmlw
 禼	dlf
@@ -16042,7 +16042,7 @@
 稉	ztos
 稊	zvu
 稏	zfwu
-稐	zsyk
+稐	zsy
 稒	zuqm
 稓	zxje
 稕	zwy
@@ -16400,7 +16400,7 @@
 籮	zyhv
 籯	zoic
 籱	ztvv
-籲	zswv
+籲	ztiw
 籵	mglk
 籶	mpsj
 籷	mcln
@@ -17005,7 +17005,7 @@
 肰	mleo
 肳	msbl
 肵	mozk
-肹	mvfp
+肹	mvpv
 肻	demd
 胅	mcs
 胇	muvk
@@ -17704,7 +17704,7 @@
 蘢	wymi
 蘣	wbo
 蘤	wdt
-蘥	wsyk
+蘥	wtij
 蘦	wtir
 蘨	wtuh
 蘪	wcmg
@@ -18469,7 +18469,7 @@
 諞	mfjz
 諟	mjkf
 諠	met
-諡	mvfb
+諡	mvpb
 諢	mejl
 諣	mfiq
 諤	mrrp
@@ -18620,7 +18620,7 @@
 讎	vmvh
 讏	fgim
 讐	vvme
-讑	msyk
+讑	mtij
 讒	mzhz
 讔	mtt
 讕	mauv
@@ -19963,7 +19963,7 @@
 鑭	tauv
 鑮	twh
 鑯	tssf
-鑰	tsyk
+鑰	ttij
 鑱	tzh
 鑳	teb
 鑴	tdvi
@@ -20763,7 +20763,7 @@
 驪	gfmc
 驫	gggb
 骩	fdpj
-骪	fpoe
+骪	fpo
 骫	ftko
 骬	ffg
 骮	fnd
@@ -21447,7 +21447,7 @@
 鸖	tvtl
 鸗	ymit
 鸘	tagt
-鸙	stlo
+鸙	tirt
 鸚	iist
 鸛	wrvt
 鸜	ggvt
@@ -21631,10 +21631,10 @@
 龖	ymii
 龗	tiri
 龞	krsi
-龡	sfy
-龣	sshg
-龤	shhd
-龥	swvo
+龡	tirf
+龣	tirh
+龤	tird
+龥	tirw
 龦	yxuw
 龧	jjrj
 龨	evhf
@@ -21712,10 +21712,10 @@
 㐤	dggv
 㐥	traj
 㐦	wfpj
-㐧	ogc
+㐧	opk
 㐨	mmak
 㐩	bbz
-㐪	uds
+㐪	uio
 㐭	uuiq
 㐮	cbfo
 㐯	wizj
@@ -21828,7 +21828,7 @@
 㒟	kug
 㒠	kqwf
 㒡	ktuh
-㒢	ksyk
+㒢	ktij
 㒣	kgkn
 㒤	kqqq
 㒥	kdze
@@ -21961,7 +21961,7 @@
 㔨	snh
 㔩	sbn
 㔪	sdl
-㔫	gck
+㔫	ghsp
 㔬	hjgl
 㔭	hjkf
 㔮	xish
@@ -22738,6 +22738,7 @@
 㡠	uvei
 㡡	uoel
 㡢	ujyk
+㡢	ujym
 㡣	yeui
 㡤	uovj
 㡥	utnn
@@ -22819,7 +22820,7 @@
 㢱	ono
 㢲	oov
 㢳	olor
-㢴	oclw
+㢴	olwf
 㢵	otiq
 㢶	ofdy
 㢷	odx
@@ -22887,7 +22888,7 @@
 㣵	jbil
 㣶	juuf
 㣷	jen
-㣸	jyk
+㣸	jokd
 㣹	jgk
 㣺	ngko
 㣻	ongo
@@ -22933,6 +22934,7 @@
 㤨	nxvy
 㤩	qngo
 㤪	fxw
+㤪	qwng
 㤫	gmn
 㤬	nbbm
 㤮	lgng
@@ -23085,7 +23087,7 @@
 㧄	pzvk
 㧅	pkg
 㧆	puwk
-㧇	pmdf
+㧇	pzfh
 㧈	podp
 㧉	pfqp
 㧊	pfuw
@@ -23328,7 +23330,7 @@
 㫂	gxyo
 㫃	msio
 㫄	usmx
-㫅	msr
+㫅	mtwh
 㫆	msot
 㫇	mslp
 㫈	msli
@@ -23391,6 +23393,7 @@
 㬃	jniy
 㬄	joby
 㬅	jyfk
+㬅	jymx
 㬆	jnje
 㬇	jrz
 㬈	jjbk
@@ -23536,6 +23539,7 @@
 㮚	dusa
 㮛	ajkf
 㮜	aenm
+㮝	apt
 㮝	apwj
 㮞	alfi
 㮟	aqa
@@ -23758,7 +23762,7 @@
 㱼	dqio
 㱽	eaq
 㱾	yqio
-㱿	mmqi
+㱿	mzfq
 㲀	qqio
 㲁	znqi
 㲂	xqi
@@ -23990,6 +23994,7 @@
 㵬	hmvb
 㵭	hrjy
 㵮	hxgf
+㵮	hxgo
 㵯	hpft
 㵰	hwfv
 㵱	hqdl
@@ -23998,7 +24003,7 @@
 㵵	hqwh
 㵶	hgiv
 㵷	jhjt
-㵸	hsyk
+㵸	htr
 㵹	hdwx
 㵺	hzdg
 㵻	hmww
@@ -24015,7 +24020,7 @@
 㶇	habx
 㶈	hyyj
 㶊	hdwv
-㶋	hykd
+㶋	hokd
 㶌	hqbw
 㶍	hxid
 㶎	hyfl
@@ -24029,7 +24034,7 @@
 㶖	hkku
 㶗	lqhh
 㶘	hzqg
-㶙	hhy
+㶙	hhod
 㶚	hqgm
 㶛	hmlv
 㶜	hmvk
@@ -24080,7 +24085,7 @@
 㷊	aayv
 㷋	yyyv
 㷌	yse
-㷍	ysyk
+㷍	ysy
 㷎	yjsx
 㷏	zlg
 㷐	ywb
@@ -24089,7 +24094,7 @@
 㷓	ysbn
 㷔	ytkj
 㷕	vty
-㷖	jyki
+㷖	jyk
 㷗	cudy
 㷘	ynia
 㷙	yvm
@@ -24123,7 +24128,7 @@
 㷵	yuco
 㷶	kxcy
 㷷	ydd
-㷸	yjfp
+㷸	yjpw
 㷹	ywd
 㷺	rwry
 㷻	yld
@@ -24149,7 +24154,7 @@
 㸑	wzfy
 㸒	tcmf
 㸓	tjef
-㸔	cvgg
+㸔	hvgy
 㸕	tvwi
 㸖	vor
 㸗	vozi
@@ -24306,7 +24311,7 @@
 㺵	gfy
 㺶	gpfk
 㺷	gao
-㺸	kpog
+㺸	kpoo
 㺹	gnw
 㺺	ggyf
 㺻	gfuw
@@ -24318,7 +24323,7 @@
 㻁	guiq
 㻂	gvwh
 㻃	rgoe
-㻄	gckf
+㻄	gck
 㻅	gsp
 㻆	gnmd
 㻇	gsgi
@@ -24457,8 +24462,8 @@
 㽐	mvsy
 㽑	mqjg
 㽓	dddh
-㽔	ykd
-㽕	ixhf
+㽔	okdh
+㽕	ixhp
 㽖	sauc
 㽗	ssio
 㽘	sups
@@ -24590,10 +24595,10 @@
 㿖	xqsb
 㿗	xzpw
 㿘	xyyn
-㿙	xyyy
+㿙	xyyx
 㿚	xyhv
 㿛	xfmc
-㿜	xcsy
+㿜	xct
 㿝	dndo
 㿞	doup
 㿟	ddyf
@@ -24624,7 +24629,7 @@
 㿺	jxve
 㿻	lbkf
 㿼	fwbk
-㿽	vfpb
+㿽	vpb
 㿾	eub
 㿿	kbk
 䀀	hwbk
@@ -25764,7 +25769,7 @@
 䒇	lefs
 䒈	lgwi
 䒉	lldg
-䒊	vfpe
+䒊	vpr
 䒋	zxr
 䒌	ejce
 䒍	yeme
@@ -26302,7 +26307,7 @@
 䚴	mmdf
 䚵	mpfk
 䚶	mfxi
-䚷	mvfp
+䚷	mvpv
 䚸	mskg
 䚹	mhhs
 䚺	mryo
@@ -26577,12 +26582,12 @@
 䟎	qssi
 䟏	qdba
 䟐	qozl
-䟑	qsyk
+䟑	qtij
 䟒	qwrv
 䟓	uuek
 䟔	udho
 䟕	uwoe
-䟖	udsk
+䟖	uds
 䟗	uqu
 䟘	uups
 䟙	ulkg
@@ -26669,7 +26674,7 @@
 䠬	uvet
 䠭	uuri
 䠮	uvsg
-䠯	usyk
+䠯	utij
 䠰	uwrv
 䠱	umhj
 䠲	ltnd
@@ -26883,7 +26888,7 @@
 䤅	ttmk
 䤆	tvfx
 䤇	tzsw
-䤈	tvfb
+䤈	tvpb
 䤉	tncb
 䤊	twq
 䤋	vtif
@@ -28054,9 +28059,9 @@
 䶰	soup
 䶱	jls
 䶲	zbsi
-䶳	sups
-䶴	yfsy
-䶵	soq
+䶳	tirp
+䶴	yft
+䶵	tirq
 𠀀	fkfp
 𠀁	fpvp
 𠀂	fjgj
@@ -28073,7 +28078,7 @@
 𠀍	fhfp
 𠀎	bfhf
 𠀏	fifh
-𠀐	ikfh
+𠀐	jwkf
 𠀑	fzah
 𠀒	vfpv
 𠀓	okf
@@ -28182,12 +28187,11 @@
 𠁻	nkq
 𠁼	oooe
 𠁽	poeo
-𠁾	ppo
 𠁾	zuef
 𠁿	zfoe
 𠂀	wuef
 𠂁	kfue
-𠂂	eff
+𠂂	ozfw
 𠂃	fhot
 𠂄	zujx
 𠂅	ufvt
@@ -28212,10 +28216,10 @@
 𠂛	cld
 𠂜	cldf
 𠂝	kiqf
-𠂞	cvf
+𠂞	cvp
 𠂟	cvgl
 𠂠	cofp
-𠂠	cvp
+𠂠	cvpv
 𠂡	ppck
 𠂢	ooro
 𠂣	ospv
@@ -28272,7 +28276,7 @@
 𠃘	ofjg
 𠃙	ddp
 𠃚	jpvp
-𠃛	sksk
+𠃛	zrlf
 𠃜	mzpc
 𠃝	joto
 𠃞	fjp
@@ -28444,9 +28448,9 @@
 𠆆	wiid
 𠆇	ucz
 𠆈	uizs
-𠆉	pbf
+𠆉	pbpw
 𠆊	wfwu
-𠆋	uiti
+𠆋	uvki
 𠆌	wjvd
 𠆍	umg
 𠆎	uuiw
@@ -28488,7 +28492,7 @@
 𠆲	kgpc
 𠆳	sdfh
 𠆴	fusi
-𠆵	kvf
+𠆵	kvpv
 𠆶	keah
 𠆷	dskg
 𠆸	kryo
@@ -28591,7 +28595,7 @@
 𠈚	kgkb
 𠈛	smk
 𠈜	krew
-𠈝	kvfs
+𠈝	kvsi
 𠈞	kxgj
 𠈟	knfw
 𠈠	klgj
@@ -28751,7 +28755,7 @@
 𠊻	ktyv
 𠊼	kqwh
 𠊽	knj
-𠊾	kvfx
+𠊾	kvf
 𠊿	ket
 𠋀	knqa
 𠋁	stjz
@@ -29329,8 +29333,8 @@
 𠓾	sgsg
 𠓿	xded
 𠔀	vfhf
-𠔁	vvyp
-𠔂	nvyp
+𠔁	vvyo
+𠔂	nvyo
 𠔃	vpvp
 𠔄	vpvp
 𠔅	vmzc
@@ -29338,13 +29342,13 @@
 𠔇	vlto
 𠔈	vik
 𠔉	vsvo
-𠔊	ofvy
+𠔊	ovy
 𠔋	vlwf
 𠔌	pucf
 𠔍	vis
 𠔎	ppck
 𠔏	xfvy
-𠔐	wqv
+𠔐	fiv
 𠔑	vkv
 𠔒	vwif
 𠔓	rvy
@@ -29847,7 +29851,7 @@
 𠜄	cbkg
 𠜅	cok
 𠜆	okgk
-𠜇	uio
+𠜇	uiok
 𠜈	ukgk
 𠜉	phfk
 𠜊	jmk
@@ -29922,7 +29926,7 @@
 𠝌	nfhk
 𠝍	hnhk
 𠝎	rac
-𠝎	rmsk
+𠝎	rmzr
 𠝏	tisk
 𠝐	wkhk
 𠝑	mdkg
@@ -30118,7 +30122,7 @@
 𠠏	owsk
 𠠐	mpno
 𠠑	ztwk
-𠠒	opk
+𠠒	opkg
 𠠓	yysk
 𠠔	myik
 𠠕	wqdk
@@ -30543,7 +30547,7 @@
 𠦸	mllg
 𠦹	gklt
 𠦺	kpvp
-𠦻	vpb
+𠦻	vpbj
 𠦼	bvg
 𠦽	gtnn
 𠦾	glll
@@ -30686,7 +30690,7 @@
 𠩉	oizv
 𠩊	ohje
 𠩋	ovia
-𠩌	oclw
+𠩌	olwf
 𠩍	okbw
 𠩎	oef
 𠩏	odfo
@@ -30720,7 +30724,7 @@
 𠩫	owah
 𠩬	oas
 𠩭	owyd
-𠩮	ogcj
+𠩮	ogc
 𠩯	oncs
 𠩰	ongl
 𠩱	oafy
@@ -31028,7 +31032,7 @@
 𠮡	irl
 𠮢	wiqf
 𠮣	oiqf
-𠮤	ixhf
+𠮤	ixhp
 𠮥	zhcf
 𠮦	viqf
 𠮧	ikgk
@@ -31067,7 +31071,7 @@
 𠯈	ixio
 𠯉	kifh
 𠯊	ifgl
-𠯋	ivfp
+𠯋	ivp
 𠯌	ogiq
 𠯍	izr
 𠯎	ippc
@@ -31155,7 +31159,7 @@
 𠰟	sfpi
 𠰠	iee
 𠰡	iehs
-𠰢	ivp
+𠰢	ivpc
 𠰣	nciq
 𠰤	imks
 𠰥	vgiq
@@ -31472,7 +31476,7 @@
 𠵡	ibbz
 𠵢	ixy
 𠵣	ijpv
-𠵤	fini
+𠵤	gsni
 𠵥	jjiq
 𠵦	jilg
 𠵧	qiqf
@@ -32541,7 +32545,7 @@
 𡆏	iawo
 𡆐	xisi
 𡆑	idrr
-𡆒	xix
+𡆒	xjvi
 𡆓	iopd
 𡆔	rwrz
 𡆕	imhn
@@ -32583,7 +32587,7 @@
 𡆺	upc
 𡆻	ufb
 𡆼	ucw
-𡆽	uvfp
+𡆽	uvpv
 𡆾	uvnd
 𡆿	uqup
 𡇀	uqio
@@ -33087,7 +33091,7 @@
 𡎵	blhq
 𡎶	txsb
 𡎷	mmqb
-𡎸	xixb
+𡎸	xix
 𡎹	bsew
 𡎺	diab
 𡎻	bgsb
@@ -33594,6 +33598,7 @@
 𡖴	roea
 𡖵	ukmi
 𡖶	wjxx
+𡖷	xeg
 𡖷	xepv
 𡖸	rec
 𡖹	xxxu
@@ -33728,7 +33733,7 @@
 𡘽	aaxi
 𡘾	nlx
 𡘿	csoo
-𡙀	kfpo
+𡙀	kpfo
 𡙁	xsss
 𡙂	xjsl
 𡙃	xxog
@@ -34007,7 +34012,7 @@
 𡝙	ssdd
 𡝚	sigi
 𡝛	swlz
-𡝜	soqm
+𡝜	soq
 𡝝	hgsm
 𡝞	mesm
 𡝟	szhc
@@ -34589,7 +34594,7 @@
 𡦡	wyrj
 𡦢	tyhd
 𡦣	dtjy
-𡦤	msry
+𡦤	msr
 𡦥	moyy
 𡦦	wyty
 𡦧	zyug
@@ -34623,7 +34628,7 @@
 𡧃	ejbk
 𡧄	etko
 𡧅	ewhk
-𡧆	efvy
+𡧆	evyo
 𡧇	envf
 𡧈	erp
 𡧉	efah
@@ -35481,7 +35486,7 @@
 𡴟	zaid
 𡴠	iwbm
 𡴡	zafr
-𡴢	fiv
+𡴢	fivo
 𡴣	fitu
 𡴤	kssi
 𡴥	iuof
@@ -36588,7 +36593,7 @@
 𢅶	uzc
 𢅷	wkru
 𢅸	oruw
-𢅹	usyk
+𢅹	utij
 𢅺	ujgu
 𢅻	uvv
 𢅼	ufcj
@@ -36682,6 +36687,7 @@
 𢇔	bajo
 𢇕	dbbb
 𢇖	bbu
+𢇖	bbup
 𢇗	gfdh
 𢇘	gsmf
 𢇙	gndo
@@ -36708,7 +36714,7 @@
 𢇮	gryo
 𢇯	gkwi
 𢇰	gnah
-𢇱	gvfp
+𢇱	gvpv
 𢇲	gzpo
 𢇳	gemo
 𢇴	gguw
@@ -37157,7 +37163,7 @@
 𢎯	fop
 𢎰	orpv
 𢎱	okkc
-𢎲	ovfh
+𢎲	ovyf
 𢎳	obmf
 𢎴	oxio
 𢎵	ojvk
@@ -37331,7 +37337,7 @@
 𢑛	sbhg
 𢑜	sssl
 𢑝	ssea
-𢑞	svfu
+𢑞	svr
 𢑟	seki
 𢑠	sslh
 𢑡	sokt
@@ -37737,7 +37743,7 @@
 𢗱	ungo
 𢗲	nsv
 𢗳	noup
-𢗴	nvf
+𢗴	nvpv
 𢗵	nyp
 𢗶	nfmd
 𢗷	nhgo
@@ -37771,7 +37777,7 @@
 𢘔	tnwj
 𢘕	nmck
 𢘖	mnw
-𢘗	cikn
+𢘗	king
 𢘘	nuvc
 𢘙	njho
 𢘚	neao
@@ -38064,7 +38070,7 @@
 𢜺	nwor
 𢜻	ntz
 𢜼	nzxk
-𢜽	nvfx
+𢜽	nvf
 𢜾	ninv
 𢜿	nekt
 𢝀	nzle
@@ -38906,7 +38912,7 @@
 𢪃	plk
 𢪄	pdgl
 𢪅	pskg
-𢪆	pvfp
+𢪆	pvpv
 𢪇	npck
 𢪈	pzr
 𢪉	poks
@@ -39193,7 +39199,7 @@
 𢮥	pnxo
 𢮦	ptis
 𢮧	pswh
-𢮨	pfin
+𢮨	pgsn
 𢮩	pyqj
 𢮪	pvxv
 𢮫	pswo
@@ -39411,7 +39417,7 @@
 𢲀	pqhn
 𢲁	pzfn
 𢲂	pmvx
-𢲃	ppoi
+𢲃	ppo
 𢲄	pxpu
 𢲅	pxvp
 𢲆	pazr
@@ -40492,7 +40498,7 @@
 𣂹	dpi
 𣂺	yjoz
 𣂻	eiro
-𣂼	xibo
+𣂼	wfio
 𣂽	uiio
 𣂾	bbfo
 𣂿	ykio
@@ -40644,7 +40650,7 @@
 𣅑	vjef
 𣅒	jcln
 𣅓	jsmf
-𣅔	jfp
+𣅔	jpfo
 𣅕	jjvk
 𣅖	jxcp
 𣅗	jjcp
@@ -40949,7 +40955,7 @@
 𣊂	jyvs
 𣊃	mcrj
 𣊄	zzsj
-𣊅	cvfj
+𣊅	cvpj
 𣊆	cvkj
 𣊇	jefv
 𣊈	jcup
@@ -41558,7 +41564,7 @@
 𣓤	agxa
 𣓥	hmca
 𣓦	ahcd
-𣓧	fina
+𣓧	gsna
 𣓨	duxa
 𣓩	ajsl
 𣓪	pxpa
@@ -41653,7 +41659,7 @@
 𣕃	asfj
 𣕄	afzi
 𣕅	acmd
-𣕆	avfb
+𣕆	avpb
 𣕇	omka
 𣕈	awjf
 𣕉	awtq
@@ -42000,7 +42006,7 @@
 𣚟	akol
 𣚠	aokt
 𣚡	adaj
-𣚢	afil
+𣚢	agsl
 𣚣	asx
 𣚤	jiaw
 𣚥	awpm
@@ -42491,7 +42497,7 @@
 𣢊	sbfy
 𣢋	hhfy
 𣢌	eafy
-𣢍	vfpf
+𣢍	vpfy
 𣢎	qfyo
 𣢏	vkfy
 𣢐	ffyo
@@ -42501,7 +42507,7 @@
 𣢔	nff
 𣢕	ufyo
 𣢖	ffyo
-𣢗	sfyo
+𣢗	sfy
 𣢘	jkfy
 𣢙	lhfy
 𣢚	qfyo
@@ -43140,7 +43146,7 @@
 𣬕	zhhi
 𣬖	cssh
 𣬗	hhsw
-𣬘	hhyw
+𣬘	hhy
 𣬙	yih
 𣬚	zhhz
 𣬛	crp
@@ -43785,7 +43791,7 @@
 𣶠	hls
 𣶡	huqm
 𣶢	husm
-𣶣	hfin
+𣶣	hgsn
 𣶤	hzxi
 𣶥	hbq
 𣶦	huqq
@@ -44134,7 +44140,7 @@
 𣻿	hwjt
 𣼀	hglb
 𣼁	hioh
-𣼂	hefg
+𣼂	hevg
 𣼃	hvsz
 𣼄	hcgn
 𣼅	huba
@@ -44742,7 +44748,7 @@
 𤅟	htuq
 𤅠	hwjg
 𤅡	hchw
-𤅢	hwsy
+𤅢	hwtj
 𤅣	huwr
 𤅤	hsfk
 𤅥	htyw
@@ -44756,7 +44762,7 @@
 𤅭	huro
 𤅮	hmen
 𤅯	hamw
-𤅰	hzsy
+𤅰	hztj
 𤅱	hjjb
 𤅲	hzjg
 𤅳	hiiq
@@ -44807,7 +44813,7 @@
 𤆠	ygnd
 𤆡	yjnf
 𤆢	yhvp
-𤆣	ykdo
+𤆣	ykd
 𤆤	yeps
 𤆥	ysr
 𤆦	ygif
@@ -45268,7 +45274,7 @@
 𤍰	qmyv
 𤍱	tsyv
 𤍲	ynkn
-𤍳	ovy
+𤍳	ovyv
 𤍴	yjqn
 𤍵	nmly
 𤍶	ysht
@@ -45630,7 +45636,7 @@
 𤓚	yizy
 𤓛	ysev
 𤓜	zshy
-𤓝	ywsy
+𤓝	ywtj
 𤓞	zshy
 𤓟	wooy
 𤓠	ydlk
@@ -45892,7 +45898,7 @@
 𤗠	nhsz
 𤗡	rjnb
 𤗢	noqb
-𤗣	ngxa
+𤗣	nzka
 𤗤	nnic
 𤗥	ngwa
 𤗦	npwk
@@ -45930,7 +45936,7 @@
 𤘆	yybc
 𤘇	ydiq
 𤘈	ywif
-𤘉	yuvf
+𤘉	yuaf
 𤘊	yvkt
 𤘋	ycp
 𤘌	yxzj
@@ -46996,7 +47002,7 @@
 𤨵	gnnb
 𤨶	gxvh
 𤨷	gwia
-𤨸	gxtf
+𤨸	gwtf
 𤨹	gtfg
 𤨺	gevm
 𤨻	merg
@@ -47574,7 +47580,7 @@
 𤲀	iifp
 𤲁	snvd
 𤲂	sskd
-𤲃	sfwp
+𤲃	sbp
 𤲄	csch
 𤲅	xvjp
 𤲆	sqno
@@ -47725,7 +47731,7 @@
 𤴘	xsld
 𤴙	clk
 𤴚	ukfo
-𤴛	finl
+𤴛	gsnl
 𤴜	akaj
 𤴝	tnkf
 𤴞	mynl
@@ -47783,7 +47789,7 @@
 𤵒	xwmo
 𤵓	xwwi
 𤵔	xna
-𤵕	xvfp
+𤵕	xvpv
 𤵖	xrlf
 𤵗	xguw
 𤵘	xnck
@@ -48995,7 +49001,7 @@
 𥈒	gbbw
 𥈓	gfiq
 𥈔	gejs
-𥈕	gvfb
+𥈕	gvpb
 𥈖	gxid
 𥈗	gwvo
 𥈘	gujo
@@ -49287,7 +49293,7 @@
 𥌷	gezn
 𥌸	garw
 𥌹	gtdu
-𥌺	gsyk
+𥌺	gtij
 𥌻	gauv
 𥌼	gtir
 𥌽	giis
@@ -49510,7 +49516,7 @@
 𥐖	ofiq
 𥐗	qwjp
 𥐘	oriq
-𥐙	qvyp
+𥐙	qvyo
 𥐚	qdho
 𥐛	qkgc
 𥐜	qdpj
@@ -50625,7 +50631,7 @@
 𥡴	zgdt
 𥡵	ztnl
 𥡶	zded
-𥡷	zfln
+𥡷	zfdn
 𥡸	zwjx
 𥡹	zxux
 𥡺	zlzi
@@ -50771,7 +50777,7 @@
 𥤆	zwcy
 𥤇	zznb
 𥤈	zcmw
-𥤉	zsyk
+𥤉	ztij
 𥤊	zwrv
 𥤋	qqqz
 𥤌	zesv
@@ -50784,7 +50790,7 @@
 𥤓	zczl
 𥤔	oaku
 𥤕	zuzu
-𥤖	zszp
+𥤖	ztyz
 𥤗	zxuc
 𥤘	zggw
 𥤙	zwrw
@@ -51282,7 +51288,7 @@
 𥬈	zssi
 𥬉	zsnd
 𥬊	zozk
-𥬋	zvf
+𥬋	zvpv
 𥬌	zehs
 𥬍	zkds
 𥬎	zfaj
@@ -51419,7 +51425,7 @@
 𥮑	zjdi
 𥮒	zhdi
 𥮓	zhnw
-𥮔	zfin
+𥮔	zgsn
 𥮕	zaup
 𥮖	zggf
 𥮗	zsmg
@@ -51504,7 +51510,7 @@
 𥯧	zelt
 𥯩	zqoz
 𥯪	zzox
-𥯫	zvfx
+𥯫	zvf
 𥯬	zuxi
 𥯭	zjel
 𥯮	zwsi
@@ -51784,7 +51790,8 @@
 𥳿	zzlt
 𥴀	yfb
 𥴁	zwdn
-𥴂	zsfp
+𥴂	zsfg
+𥴂	zspw
 𥴃	zrfg
 𥴄	zevg
 𥴅	zmqp
@@ -51794,7 +51801,7 @@
 𥴉	zkkj
 𥴊	znqr
 𥴋	znqf
-𥴌	zgva
+𥴌	zgxa
 𥴍	zavl
 𥴎	zzsk
 𥴏	ztyv
@@ -52074,7 +52081,7 @@
 𥸡	zagi
 𥸢	zuuj
 𥸣	zurm
-𥸤	zswv
+𥸤	ztiw
 𥸥	pmgo
 𥸦	pmgo
 𥸧	muek
@@ -52249,7 +52256,7 @@
 𥻑	msfj
 𥻒	mxmg
 𥻓	mrfi
-𥻔	mxgw
+𥻔	mbgw
 𥻕	myjx
 𥻖	mvkt
 𥻘	mxgj
@@ -52374,7 +52381,7 @@
 𥽏	dzym
 𥽐	dsmg
 𥽑	mdmg
-𥽒	mxxa
+𥽒	mff
 𥽓	mocn
 𥽔	mhdu
 𥽕	mevd
@@ -52618,7 +52625,7 @@
 𦁃	hvsl
 𦁄	hqno
 𦁅	hokg
-𦁆	hfin
+𦁆	hgsn
 𦁇	hsln
 𦁈	hzbm
 𦁉	hysm
@@ -53040,7 +53047,7 @@
 𦇩	hwcy
 𦇪	hwyo
 𦇫	hxid
-𦇬	hsyk
+𦇬	htij
 𦇭	hdzl
 𦇮	hthd
 𦇯	hofk
@@ -53174,7 +53181,7 @@
 𦉲	eagl
 𦉳	zwwi
 𦉴	yglk
-𦉵	yvyp
+𦉵	yvyo
 𦉶	ysnp
 𦉷	ybmf
 𦉸	zoox
@@ -53314,7 +53321,7 @@
 𦋿	yfrj
 𦌀	ynnb
 𦌁	ysis
-𦌂	ysfp
+𦌂	ysbp
 𦌃	ylg
 𦌄	zonm
 𦌅	yhq
@@ -53355,7 +53362,7 @@
 𦌨	zooy
 𦌩	yxiw
 𦌪	yhyy
-𦌫	yft
+𦌫	yftk
 𦌬	yldg
 𦌭	ygik
 𦌮	ygga
@@ -53537,7 +53544,7 @@
 𦏞	ximi
 𦏟	impl
 𦏠	iyiy
-𦏡	icpp
+𦏡	wbc
 𦏢	imyi
 𦏣	izui
 𦏤	izzz
@@ -53647,7 +53654,7 @@
 𦑍	iife
 𦑎	exjp
 𦑏	evhf
-𦑐	efin
+𦑐	egsn
 𦑑	ngne
 𦑒	vie
 𦑓	zzeh
@@ -53899,7 +53906,7 @@
 𦕋	qzwi
 𦕌	qqgf
 𦕍	qeps
-𦕎	qvfp
+𦕎	qvpv
 𦕏	qiks
 𦕐	qmzf
 𦕑	qqfh
@@ -53993,7 +54000,7 @@
 𦖩	uxq
 𦖪	qzsw
 𦖫	njqg
-𦖬	qvfb
+𦖬	qvpb
 𦖭	qtmk
 𦖮	qmlh
 𦖯	qocy
@@ -54998,8 +55005,8 @@
 𦦚	wsws
 𦦛	woof
 𦦜	zowl
-𦦝	wejk
-𦦞	wejk
+𦦝	wzjk
+𦦞	wzjk
 𦦟	wzfk
 𦦠	wook
 𦦡	wzfg
@@ -56159,7 +56166,7 @@
 𦸦	wger
 𦸧	wvib
 𦸨	wvfz
-𦸩	wjfp
+𦸩	wjbp
 𦸪	whdm
 𦸫	wjvu
 𦸬	wfiv
@@ -56588,7 +56595,7 @@
 𦿓	wjiq
 𦿔	wkrw
 𦿕	wpva
-𦿖	wbc
+𦿖	wbcu
 𦿗	wwou
 𦿘	wssb
 𦿙	wrzs
@@ -56875,7 +56882,7 @@
 𧃲	womg
 𧃳	wbvo
 𧃴	whed
-𧃵	wqve
+𧃵	wqv
 𧃶	wlwk
 𧃷	wqvp
 𧃸	wyht
@@ -57020,7 +57027,7 @@
 𧆃	woej
 𧆄	uwd
 𧆅	wumo
-𧆆	wdsy
+𧆆	wdtj
 𧆇	whbj
 𧆈	wjkw
 𧆉	wrvh
@@ -57154,7 +57161,7 @@
 𧈉	qgmd
 𧈊	jsaq
 𧈋	qwzh
-𧈌	finq
+𧈌	gsnq
 𧈍	rsgq
 𧈎	qsgb
 𧈏	xvjq
@@ -57809,7 +57816,7 @@
 𧒜	tsjw
 𧒝	mxjj
 𧒞	jum
-𧒟	evfj
+𧒟	ozfj
 𧒠	jewq
 𧒡	ezjj
 𧒢	pjjj
@@ -57980,7 +57987,7 @@
 𧕈	mdlj
 𧕉	jtbp
 𧕊	jmyw
-𧕋	jsyk
+𧕋	jtij
 𧕌	sqjj
 𧕍	jyyi
 𧕎	heej
@@ -58171,7 +58178,7 @@
 𧘈	ofuk
 𧘉	ozvp
 𧘊	opsj
-𧘋	ovyp
+𧘋	ovyo
 𧘌	ovic
 𧘍	onvf
 𧘎	urpo
@@ -58613,7 +58620,7 @@
 𧟃	odvi
 𧟅	omui
 𧟆	owc
-𧟇	osyk
+𧟇	otij
 𧟈	owcy
 𧟉	ozam
 𧟊	ojim
@@ -58832,7 +58839,7 @@
 𧢟	yscp
 𧢠	sdvr
 𧢡	sygi
-𧢢	sscp
+𧢢	tirs
 𧢣	aoos
 𧢤	swyp
 𧢥	tirs
@@ -59220,7 +59227,7 @@
 𧨣	zsim
 𧨤	mjnv
 𧨥	mkj
-𧨦	mvfb
+𧨦	mvbk
 𧨧	tgnm
 𧨨	mncd
 𧨩	mfxn
@@ -60062,7 +60069,7 @@
 𧵬	ioor
 𧵭	llic
 𧵮	ioza
-𧵯	jfpi
+𧵯	jfp
 𧵰	klic
 𧵱	nnni
 𧵲	qhic
@@ -60281,7 +60288,7 @@
 𧹇	iwlf
 𧹈	iiix
 𧹉	agsi
-𧹊	isyk
+𧹊	itij
 𧹋	kniy
 𧹌	meei
 𧹍	slai
@@ -60348,7 +60355,7 @@
 𧺊	qhsp
 𧺋	qpsj
 𧺌	qxjo
-𧺍	qvyp
+𧺍	qvyo
 𧺎	qdpj
 𧺏	qhep
 𧺐	qffh
@@ -60684,7 +60691,7 @@
 𧿚	uvkg
 𧿛	ussi
 𧿜	uzue
-𧿝	uvfp
+𧿝	uvpv
 𧿞	ufyo
 𧿟	ufsi
 𧿠	ufbl
@@ -61234,13 +61241,13 @@
 𨈂	uvvw
 𨈃	uggv
 𨈄	ugiy
-𨈅	uwsy
+𨈅	uwtj
 𨈆	uwav
 𨈇	udzs
 𨈈	ussr
 𨈉	uwfj
 𨈊	umho
-𨈋	uzsy
+𨈋	uztj
 𨈌	umhn
 𨈍	uiiw
 𨈎	umht
@@ -62318,7 +62325,7 @@
 𨙁	bllw
 𨙂	tucl
 𨙃	duel
-𨙄	slto
+𨙄	tirl
 𨙅	jssl
 𨙆	kmfl
 𨙇	ebvl
@@ -63042,8 +63049,8 @@
 𨤙	cmxh
 𨤚	cmbz
 𨤛	cmep
-𨤜	cmwk
-𨤝	cmxw
+𨤜	cmxk
+𨤝	cmbw
 𨤞	cmwf
 𨤟	cmci
 𨤠	cmev
@@ -63109,7 +63116,7 @@
 𨥜	tcxi
 𨥝	ttoo
 𨥞	tsgl
-𨥟	tvfp
+𨥟	tvpv
 𨥠	tsck
 𨥡	tnp
 𨥢	wztk
@@ -63975,7 +63982,7 @@
 𨳅	szyi
 𨳆	sgio
 𨳇	ffe
-𨳈	skmz
+𨳈	zrm
 𨳉	aoep
 𨳊	adpj
 𨳋	aps
@@ -64002,7 +64009,7 @@
 𨳠	azos
 𨳡	awhf
 𨳢	akdh
-𨳣	avfp
+𨳣	avpv
 𨳤	aoks
 𨳥	avyo
 𨳦	awwi
@@ -64273,7 +64280,7 @@
 𨷯	awfp
 𨷰	atir
 𨷱	atuh
-𨷲	asyk
+𨷲	atij
 𨷳	awcy
 𨷴	ammh
 𨷵	affo
@@ -64301,7 +64308,7 @@
 𨸋	bvyv
 𨸌	bmee
 𨸍	kbbb
-𨸎	bsyk
+𨸎	btij
 𨸏	cusf
 𨸐	tvic
 𨸑	tfpv
@@ -64897,7 +64904,7 @@
 𩁡	mkxv
 𩁢	xibv
 𩁣	xno
-𩁤	xidv
+𩁤	xijv
 𩁥	ioov
 𩁦	tsvw
 𩁧	allv
@@ -65993,7 +66000,7 @@
 𩒪	ygwv
 𩒫	miwv
 𩒬	vnaw
-𩒭	vfsw
+𩒭	vswv
 𩒮	fhow
 𩒯	gtpw
 𩒰	cpiw
@@ -66948,7 +66955,7 @@
 𩡦	zjga
 𩡧	xdsk
 𩡨	cgbo
-𩡩	gvyp
+𩡩	gvyo
 𩡪	ggbo
 𩡫	pgbo
 𩡬	glvo
@@ -67393,7 +67400,7 @@
 𩨣	fmxc
 𩨤	ffbl
 𩨥	feah
-𩨦	fvf
+𩨦	fvp
 𩨧	fskg
 𩨨	fhhs
 𩨩	fowi
@@ -68860,7 +68867,7 @@
 𩿡	tniq
 𩿢	ogt
 𩿣	fatl
-𩿤	apt
+𩿤	aptl
 𩿥	rotl
 𩿦	ivtl
 𩿧	kltl
@@ -69116,7 +69123,7 @@
 𪃡	hxvt
 𪃢	gzit
 𪃣	zojt
-𪃤	bbft
+𪃤	bbpt
 𪃥	agtl
 𪃦	goct
 𪃧	goct
@@ -69372,7 +69379,7 @@
 𪇡	wvwt
 𪇢	zsmt
 𪇣	lltl
-𪇤	xct
+𪇤	xctl
 𪇥	tmlv
 𪇦	qvtl
 𪇧	emit
@@ -69955,7 +69962,7 @@
 𪐪	uifh
 𪐫	uryo
 𪐬	urah
-𪐭	uvfp
+𪐭	uvpv
 𪐮	uqio
 𪐯	usnd
 𪐰	wuco
@@ -70212,6 +70219,7 @@
 𪔪	hbiq
 𪔫	iwhb
 𪔬	hbfa
+𪔬	hbga
 𪔭	hbgd
 𪔮	hbbb
 𪔯	hbuo
@@ -70379,7 +70387,7 @@
 𪗑	uikj
 𪗒	uikj
 𪗓	uikj
-𪗔	yvyp
+𪗔	yvyo
 𪗕	yglk
 𪗖	sybk
 𪗗	ypsj
@@ -70624,19 +70632,19 @@
 𪛇	suii
 𪛈	tirs
 𪛉	sicp
-𪛊	sozk
-𪛋	sjrl
-𪛌	sqbj
-𪛍	sque
-𪛎	hcsy
-𪛏	sarf
-𪛐	izfs
-𪛑	ybas
-𪛒	zsqi
-𪛓	scup
-𪛔	zsqb
-𪛕	ssif
-𪛖	ssyv
+𪛊	tiro
+𪛋	tirr
+𪛌	tirq
+𪛍	tiru
+𪛎	hct
+𪛏	tira
+𪛐	izfj
+𪛑	ybaj
+𪛒	ztiq
+𪛓	tirc
+𪛔	ztiq
+𪛕	tirs
+𪛖	tiry
 𪛗	tzpv
 𪛘	zapv
 𪛙	pvpp
@@ -71837,7 +71845,7 @@
 𪮲	pil
 𪮳	puyj
 𪮴	pmms
-𪮵	pxvb
+𪮵	pfbv
 𪮶	purd
 𪮷	ptij
 𪮸	pqxv
@@ -71859,7 +71867,7 @@
 𪯈	sryo
 𪯉	dryo
 𪯊	xzak
-𪯋	svr
+𪯋	svry
 𪯌	cury
 𪯍	tory
 𪯎	biry
@@ -72384,7 +72392,7 @@
 𪷖	hmly
 𪷗	hmdg
 𪷘	hlup
-𪷙	hct
+𪷙	hctk
 𪷚	hznk
 𪷛	hefs
 𪷜	hhht
@@ -74160,7 +74168,7 @@
 𫓦	cyd
 𫓨	cieo
 𫓪	cvnd
-𫓫	cvfp
+𫓫	cvpv
 𫓬	ceuw
 𫓭	czxi
 𫓮	crs
@@ -74484,7 +74492,7 @@
 𫙅	pqlk
 𫙆	oklp
 𫙇	olvp
-𫙈	bvyp
+𫙈	bvyo
 𫙉	bvos
 𫙊	bidk
 𫙋	zkby
@@ -74687,7 +74695,7 @@
 𫜙	uayp
 𫜚	usbn
 𫜛	udpk
-𫜜	vfpk
+𫜜	vpok
 𫜝	rayf
 𫜞	uayf
 𫜟	vtay
@@ -74708,7 +74716,7 @@
 𫜱	xuyi
 𫜲	gmjh
 𫜳	zbsi
-𫜴	aays
+𫜴	aayj
 𫜵	tocc
 𫜶	mwyr
 𫜷	zltj
@@ -75190,7 +75198,7 @@
 𫤨	sjww
 𫤩	zssx
 𫤪	sgsg
-𫤫	vfkp
+𫤫	vkpp
 𫤬	vllv
 𫤭	czov
 𫤮	vwks
@@ -76836,7 +76844,7 @@
 𫾫	fior
 𫾬	qryo
 𫾭	cjry
-𫾮	vfkr
+𫾮	vkpr
 𫾯	glry
 𫾰	ohry
 𫾱	dryo
@@ -76977,7 +76985,7 @@
 𬀺	njsb
 𬀻	jbab
 𬀼	jfra
-𬀽	jfwp
+𬀽	jpwh
 𬀾	jbjk
 𬀿	jsyk
 𬁀	qjoc
@@ -77384,7 +77392,7 @@
 𬇗	hodp
 𬇘	hrpo
 𬇚	hbpv
-𬇛	hfmf
+𬇛	hfso
 𬇜	hxlv
 𬇝	hvkg
 𬇟	hohg
@@ -78500,7 +78508,7 @@
 𬙔	uxsl
 𬙕	ykfh
 𬙖	yfdh
-𬙗	evfg
+𬙗	evg
 𬙘	yfg
 𬙙	ymxc
 𬙚	yxpv
@@ -78839,7 +78847,7 @@
 𬞪	wvca
 𬞫	whkb
 𬞬	wsep
-𬞭	wddy
+𬞭	wdjy
 𬞮	wjlk
 𬞯	wljr
 𬞰	wkjs
@@ -79250,7 +79258,7 @@
 𬥒	scic
 𬥓	ivpc
 𬥔	oiln
-𬥕	ivfp
+𬥕	ivkp
 𬥖	ilb
 𬥗	issb
 𬥘	iliq
@@ -79653,7 +79661,7 @@
 𬫫	tuui
 𬫬	tfob
 𬫭	todn
-𬫮	txql
+𬫮	txmk
 𬫯	twuc
 𬫰	twkl
 𬫱	tvnf
@@ -79956,7 +79964,7 @@
 𬰻	azpo
 𬰼	akje
 𬰽	kkra
-𬰾	asyk
+𬰾	atij
 𬰿	kwvo
 𬱀	fgwv
 𬱁	ohwv
@@ -80007,7 +80015,7 @@
 𬱰	bcik
 𬱱	ivik
 𬱲	dzmk
-𬱳	skwo
+𬱳	tirk
 𬱴	uhdn
 𬱵	poqh
 𬱶	prbp
@@ -80138,7 +80146,7 @@
 𬳸	hexh
 𬳹	xxrp
 𬳺	xfio
-𬳻	xeg
+𬳻	xegi
 𬳼	xgmd
 𬳾	xxxu
 𬴀	xotp
@@ -80418,7 +80426,7 @@
 𬸢	dxgw
 𬸤	qdwl
 𬸥	zoww
-𬸧	xnhw
+𬸧	xinw
 𬸨	mvfw
 𬸩	czmw
 𬸫	wyrw
@@ -80534,9 +80542,9 @@
 𬺜	jajo
 𬺝	mmqj
 𬺞	zjpv
-𬺟	suwp
-𬺠	shsy
-𬺡	tnns
+𬺟	tiru
+𬺠	shtj
+𬺡	tnnj
 𬺰	glfk
 𬺱	gckc
 𬺲	pfhf
@@ -80960,7 +80968,7 @@
 𭁔	xsvy
 𭁕	skfv
 𭁖	cshg
-𭁗	vfyc
+𭁗	vyfc
 𭁘	ljca
 𭁙	vpwu
 𭁚	xvnm
@@ -81003,7 +81011,7 @@
 𭁿	edqi
 𭂀	eyfo
 𭂁	ekjy
-𭂂	evsp
+𭂂	evsx
 𭂃	eaad
 𭂄	ejcs
 𭂅	ezyn
@@ -81073,7 +81081,7 @@
 𭃅	kokg
 𭃆	wokg
 𭃇	kwoe
-𭃈	kvfp
+𭃈	kvpv
 𭃉	kwmo
 𭃊	pfpf
 𭃋	kewp
@@ -81157,7 +81165,7 @@
 𭄙	zfjk
 𭄚	wrsk
 𭄛	lalk
-𭄜	skgc
+𭄜	tirk
 𭄝	kwrf
 𭄞	sauc
 𭄟	nauc
@@ -81453,7 +81461,7 @@
 𭉀	tpim
 𭉁	tico
 𭉂	ijtp
-𭉃	ivfb
+𭉃	ivpb
 𭉄	ildu
 𭉅	mpbo
 𭉆	intp
@@ -83183,7 +83191,7 @@
 𭤅	glry
 𭤆	lmry
 𭤇	mcrs
-𭤈	finr
+𭤈	gsnr
 𭤉	qjrd
 𭤊	agry
 𭤋	iaso
@@ -83347,7 +83355,7 @@
 𭦩	jbaa
 𭦪	qdte
 𭦫	qsje
-𭦬	jggv
+𭦬	jgrv
 𭦭	jxbb
 𭦮	jzzf
 𭦯	jkqu
@@ -83448,7 +83456,7 @@
 𭨎	jfdf
 𭨏	jobx
 𭨐	nkoj
-𭨑	jsyk
+𭨑	jtij
 𭨒	jyhv
 𭨓	jqpl
 𭨔	eiji
@@ -83466,7 +83474,7 @@
 𭨠	firj
 𭨡	ujio
 𭨢	jizn
-𭨣	jsyk
+𭨣	jtij
 𭨤	mwjk
 𭨥	mfuk
 𭨦	msks
@@ -84657,7 +84665,7 @@
 𭻇	sqmf
 𭻈	bnst
 𭻉	lisl
-𭻊	sbp
+𭻊	sbpl
 𭻋	pqjc
 𭻌	qslf
 𭻍	fosl
@@ -84920,7 +84928,7 @@
 𭿎	gmxi
 𭿏	gwps
 𭿐	dqgy
-𭿑	gswp
+𭿑	gsxk
 𭿒	gtgl
 𭿓	cybi
 𭿔	giyv
@@ -85598,7 +85606,7 @@
 𮉻	uesn
 𮉼	czpc
 𮉽	yndo
-𮉾	evg
+𮉾	evgj
 𮉿	yle
 𮊀	tnyt
 𮊁	zsqm
@@ -85628,7 +85636,7 @@
 𮊙	yedy
 𮊚	ywes
 𮊛	yyyo
-𮊜	zoea
+𮊜	zsea
 𮊝	yoyo
 𮊞	zsur
 𮊟	yhii
@@ -86225,8 +86233,7 @@
 𮓮	qaoo
 𮓯	qamg
 𮓰	ikfo
-𮓱	cikf
-𮓱	kifh
+𮓱	cjwf
 𮓲	jppv
 𮓳	jbop
 𮓴	jmzc
@@ -86343,7 +86350,8 @@
 𮕦	loro
 𮕧	owio
 𮕨	oxio
-𮕩	ufwo
+𮕩	ufxo
+𮕩	upmo
 𮕪	ikor
 𮕫	uzr
 𮕬	okhs
@@ -86355,7 +86363,7 @@
 𮕲	ogyf
 𮕳	oytf
 𮕴	okhe
-𮕵	ciko
+𮕵	kior
 𮕶	oluw
 𮕷	lior
 𮕸	onsp
@@ -86741,7 +86749,7 @@
 𮛷	uvue
 𮛸	uhx
 𮛹	uljw
-𮛺	uhwf
+𮛺	uhwz
 𮛻	usgn
 𮛼	ujdj
 𮛽	uwps
@@ -87341,7 +87349,7 @@
 𮥖	tijb
 𮥗	twsa
 𮥘	tdnj
-𮥙	tcio
+𮥙	tkio
 𮥚	tssn
 𮥛	tewi
 𮥜	cugi
@@ -87502,7 +87510,7 @@
 𮧹	rarf
 𮧺	varf
 𮧻	agqn
-𮧼	ggva
+𮧼	grva
 𮧽	avwi
 𮧾	abxo
 𮧿	zyna
@@ -87663,7 +87671,7 @@
 𮪜	gfyc
 𮪝	goql
 𮪞	ggia
-𮪟	gsyk
+𮪟	gtij
 𮪠	gzqk
 𮪡	xjbl
 𮪢	xiwh
@@ -87971,14 +87979,14 @@
 𮯕	sxso
 𮯖	swzu
 𮯗	sqix
-𮯘	ssyk
+𮯘	stij
 𮯚	jtiq
 𮯛	resp
 𮯜	vzsl
 𮯝	lyso
 𮯞	zssg
 𮯟	zgpg
-𮯠	sxje
+𮯠	tirj
 𰀀	fpvp
 𰀁	pcfk
 𰀂	siff
@@ -89028,7 +89036,7 @@
 𮱣	faji
 𮱤	dswj
 𮱥	dppc
-𮱦	dpw
+𮱦	dpwi
 𮱧	dkn
 𮱨	dqgf
 𮱩	deyf
@@ -89834,7 +89842,7 @@
 𰴱	mmwi
 𱥛	jqto
 𰙋	jfyo
-𰮅	mff
+𰮅	mffc
 𱼓	mjqo
 𰮃	moto
 𱼁	mvic
@@ -89926,7 +89934,7 @@
 𰭧	rpvp
 𲂉	vfoq
 𲃕	ouzo
-𰶏	vsyk
+𰶏	vtij
 𰵊	vhtk
 𱌬	self
 𱌪	swmo
@@ -89972,7 +89980,7 @@
 𰗄	cmdf
 𱮶	gmzf
 𱮿	gztj
-𰢙	gsyk
+𰢙	gtij
 𱮷	gddo
 𰡺	gfuo
 𰢉	gqjt
@@ -90127,7 +90135,7 @@
 𱜊	dxlo
 𲉨	gvhf
 𱼶	ldup
-𱰓	sfno
+𱰓	tirf
 𰢨	mmdf
 𱃦	ouak
 䶿	oahp
@@ -90532,7 +90540,7 @@
 𱕭	xiss
 𱍨	xisf
 𱊴	xinw
-𱍥	xinf
+𱍥	wfif
 𱍓	gpco
 𱬯	xiyh
 𰝸	gcyv
@@ -92996,7 +93004,7 @@
 𰛏	hssi
 𱨦	hgnv
 𰛍	hgwi
-𱦶	hywh
+𱦶	hygp
 𰛻	hsyv
 𱥲	hgzv
 𰛬	hgzx
@@ -93250,7 +93258,7 @@
 𱧛	hvxt
 𱨞	hvxb
 𱘙	hyob
-𱪕	huud
+𱪕	hurd
 𰝔	hpsi
 𱨭	higi
 𰛓	hpnd
@@ -93292,12 +93300,12 @@
 𱪌	hmsm
 𰜻	hlxj
 𱩲	hfmn
-𱧌	hfwj
+𱧌	hfxa
 𱦾	hfyv
 𰛺	htmd
 𱧊	hfdo
 𱧱	hfrj
-𰝋	htr
+𰝋	htrn
 𱧭	http
 𰜶	hfri
 𱨴	hlvt
@@ -94962,7 +94970,7 @@
 𱻱	ffua
 𰣱	fndm
 𰤊	fnxi
-𱮡	fogo
+𱮡	fmoo
 𰤁	fnws
 𱟥	fpjh
 𲂩	fico
@@ -95232,8 +95240,8 @@
 𱟦	jzlm
 𰞓	jbyv
 𱼼	lbd
-𱊵	swlf
-𱍉	ssip
+𱊵	tirw
+𱍉	tirs
 𱜘	seeh
 𱍊	trjr
 𱶬	zygb
@@ -96005,7 +96013,7 @@
 𲈛	cydn
 𰽰	cvpc
 𲇳	cnwj
-𰾥	cvfx
+𰾥	cvf
 𰽾	cllt
 𲈇	cvoo
 𰽻	ckcm
@@ -96160,7 +96168,7 @@
 𰣵	xdua
 𱱙	xziz
 𰣼	xziv
-𱱰	xsyk
+𱱰	xtij
 𰣦	xoao
 𱱧	xbtz
 𱱊	xbop
@@ -96382,7 +96390,7 @@
 𱵌	dnfx
 𱵶	dyyo
 𰧮	dwhk
-𰨙	dwsy
+𰨙	dwtj
 𱵖	dlld
 𰨍	duvv
 𱵘	ddfl
@@ -96653,7 +96661,7 @@
 𱄅	fkkb
 𱃴	fud
 𱃾	fyiq
-𱃷	fvp
+𱃷	fvpc
 𱃳	fcio
 𰎇	ivio
 𱄊	flad
@@ -97878,7 +97886,7 @@
 ⼈	sico
 ⼉	ahcp
 ⼊	xjco
-⼋	vycp
+⼋	vyco
 ⼌	zvkp
 ⼍	erop
 ⼎	lvof
@@ -98080,7 +98088,7 @@
 ⿒	ybkk
 ⿓	ymia
 ⿔	sicf
-⿕	syck
+⿕	tirj
 豈	deif
 更	toso
 車	jlfk
@@ -98360,7 +98368,7 @@
 﨔	ahvp
 凞	ldjy
 猪	lrjo
-益	vfvb
+益	vvb
 礼	dpvp
 神	djks
 祥	didk
@@ -98829,7 +98837,7 @@
 𣽞	hjji
 𣾎	hfpy
 濆	hgwi
-瀹	hsyk
+瀹	htij
 瀞	hzmu
 瀛	hosm
 㶖	hkku
@@ -100325,7 +100333,7 @@
 𲡴	pmlr
 𲡵	pbje
 𲡶	pbaj
-𲡷	pbfw
+𲡷	pbf
 𲡸	ptsk
 𲡹	pjog
 𲡺	pluk
@@ -100478,7 +100486,7 @@
 𲤍	ujto
 𲤎	uujf
 𲤏	jbmf
-𲤐	jvfp
+𲤐	jvpv
 𲤑	jmoe
 𲤒	jfno
 𲤓	ctef
@@ -100602,7 +100610,7 @@
 𲦉	sawm
 𲦊	agpp
 𲦋	amew
-𲦌	askk
+𲦌	aksr
 𲦍	aexs
 𲦎	axvd
 𲦏	acdh
@@ -100643,7 +100651,7 @@
 𲦲	xraj
 𲦳	airp
 𲦴	alyz
-𲦵	cmxj
+𲦵	cmbj
 𲦶	aeei
 𲦷	arc
 𲦸	arbi
@@ -101262,7 +101270,7 @@
 𲰜	fspd
 𲰝	fqah
 𲰞	tyfn
-𲰟	finf
+𲰟	gsnf
 𲰠	vswf
 𲰡	feir
 𲰢	zufn
@@ -106245,7 +106253,7 @@
 兀	fahp
 铅	cpiq
 砂	qock
-兮	vfpv
+兮	vpvp
 牟	nlzk
 哉	giiq
 浆	nxhg
@@ -109566,7 +109574,7 @@
 眬	gjho
 蕤	wkdh
 遊	mlyl
-龢	szpo
+龢	tirz
 翥	rjeh
 幾	bbis
 耒	fufo
@@ -109791,7 +109799,7 @@
 惝	nxyf
 掎	pxzj
 柽	awbm
-瀹	hsyk
+瀹	htij
 猞	lsvl
 疔	xuek
 癀	xbxo
@@ -109893,7 +109901,7 @@
 陔	tygo
 骀	xniq
 髫	bkiq
-龠	syck
+龠	tirj
 兌	viah
 坫	bdiq
 埝	btpn
@@ -112191,7 +112199,7 @@
 杴	afyo
 杻	apbm
 枅	afwh
-枍	avfp
+枍	avpv
 枑	afsi
 枒	aybc
 枠	adgl
@@ -112531,7 +112539,7 @@
 爊	ycyv
 爔	yizp
 爕	myyy
-爚	ysyk
+爚	ytij
 爟	ywrv
 爧	ytis
 爫	tocc
@@ -112735,7 +112743,7 @@
 盦	tptb
 盩	birb
 盷	gslv
-盻	gvfp
+盻	gvpv
 眊	goup
 眜	gfaj
 眥	lhgy
@@ -112876,7 +112884,7 @@
 籐	zmvh
 籝	zosm
 籤	zssf
-籥	zsyk
+籥	ztij
 籧	zqkl
 籰	zggw
 籹	msmf
@@ -114685,7 +114693,7 @@
 厺	xndo
 厼	noto
 厽	nnnd
-叀	find
+叀	gsnd
 叅	nnnn
 収	hwio
 叏	gwio
@@ -115271,7 +115279,7 @@
 夡	xxmi
 夣	pyex
 夦	mvpx
-夨	fpoe
+夨	pfoe
 夰	xkgk
 夲	xglk
 夳	xrlf
@@ -115756,7 +115764,7 @@
 崈	edds
 崉	dhrl
 崊	daaj
-崋	dfwp
+崋	dpwh
 崍	dass
 崏	dqje
 崓	duqm
@@ -119483,7 +119491,7 @@
 禰	dfkt
 禱	dmpl
 禲	dowf
-禴	dsyk
+禴	dtij
 禶	dlai
 禷	dmlw
 禼	dlfj
@@ -119890,7 +119898,7 @@
 籮	zyhv
 籯	zoic
 籱	ztvv
-籲	zswv
+籲	ztiw
 籵	mglk
 籶	mpsj
 籷	mcln
@@ -120495,7 +120503,7 @@
 肰	mleo
 肳	msbl
 肵	mozk
-肹	mvfp
+肹	mvpv
 肻	demd
 胅	mcsv
 胇	muvk
@@ -121194,7 +121202,7 @@
 蘢	wymi
 蘣	wbog
 蘤	wdty
-蘥	wsyk
+蘥	wtij
 蘦	wtir
 蘨	wtuh
 蘪	wcmg
@@ -121959,7 +121967,7 @@
 諞	mfjz
 諟	mjkf
 諠	metf
-諡	mvfb
+諡	mvpb
 諢	mejl
 諣	mfiq
 諤	mrrp
@@ -122110,7 +122118,7 @@
 讎	vmvh
 讏	fgim
 讐	vvme
-讑	msyk
+讑	mtij
 讒	mzhz
 讔	mttn
 讕	mauv
@@ -123453,7 +123461,7 @@
 鑭	tauv
 鑮	twhl
 鑯	tssf
-鑰	tsyk
+鑰	ttij
 鑱	tzhz
 鑳	tebu
 鑴	tdvi
@@ -124937,7 +124945,7 @@
 鸖	tvtl
 鸗	ymit
 鸘	tagt
-鸙	stlo
+鸙	tirt
 鸚	iist
 鸛	wrvt
 鸜	ggvt
@@ -125121,10 +125129,10 @@
 龖	ymii
 龗	tiri
 龞	krsi
-龡	sfyo
-龣	sshg
-龤	shhd
-龥	swvo
+龡	tirf
+龣	tirh
+龤	tird
+龥	tirw
 龦	yxuw
 龧	jjrj
 龨	evhf
@@ -125202,10 +125210,10 @@
 㐤	dggv
 㐥	traj
 㐦	wfpj
-㐧	ogck
+㐧	opkc
 㐨	mmak
 㐩	bbzk
-㐪	udsi
+㐪	uioe
 㐭	uuiq
 㐮	cbfo
 㐯	wizj
@@ -125318,7 +125326,7 @@
 㒟	kugo
 㒠	kqwf
 㒡	ktuh
-㒢	ksyk
+㒢	ktij
 㒣	kgkn
 㒤	kqqq
 㒥	kdze
@@ -125451,7 +125459,7 @@
 㔨	snhm
 㔩	sbnb
 㔪	sdlw
-㔫	gckc
+㔫	ghsp
 㔬	hjgl
 㔭	hjkf
 㔮	xish
@@ -126228,6 +126236,7 @@
 㡠	uvei
 㡡	uoel
 㡢	ujyk
+㡢	ujym
 㡣	yeui
 㡤	uovj
 㡥	utnn
@@ -126309,7 +126318,7 @@
 㢱	onot
 㢲	oovy
 㢳	olor
-㢴	oclw
+㢴	olwf
 㢵	otiq
 㢶	ofdy
 㢷	odxu
@@ -126377,7 +126386,7 @@
 㣵	jbil
 㣶	juuf
 㣷	jenu
-㣸	jykd
+㣸	jokd
 㣹	jgkn
 㣺	ngko
 㣻	ongo
@@ -126423,6 +126432,7 @@
 㤨	nxvy
 㤩	qngo
 㤪	fxwn
+㤪	qwng
 㤫	gmng
 㤬	nbbm
 㤮	lgng
@@ -126575,7 +126585,7 @@
 㧄	pzvk
 㧅	pkgc
 㧆	puwk
-㧇	pmdf
+㧇	pzfh
 㧈	podp
 㧉	pfqp
 㧊	pfuw
@@ -126818,7 +126828,7 @@
 㫂	gxyo
 㫃	msio
 㫄	usmx
-㫅	msrk
+㫅	mtwh
 㫆	msot
 㫇	mslp
 㫈	msli
@@ -126881,6 +126891,7 @@
 㬃	jniy
 㬄	joby
 㬅	jyfk
+㬅	jymx
 㬆	jnje
 㬇	jrzx
 㬈	jjbk
@@ -127026,6 +127037,7 @@
 㮚	dusa
 㮛	ajkf
 㮜	aenm
+㮝	aptj
 㮝	apwj
 㮞	alfi
 㮟	aqaj
@@ -127248,7 +127260,7 @@
 㱼	dqio
 㱽	eaqi
 㱾	yqio
-㱿	mmqi
+㱿	mzfq
 㲀	qqio
 㲁	znqi
 㲂	xqio
@@ -127480,6 +127492,7 @@
 㵬	hmvb
 㵭	hrjy
 㵮	hxgf
+㵮	hxgo
 㵯	hpft
 㵰	hwfv
 㵱	hqdl
@@ -127488,7 +127501,7 @@
 㵵	hqwh
 㵶	hgiv
 㵷	jhjt
-㵸	hsyk
+㵸	htrj
 㵹	hdwx
 㵺	hzdg
 㵻	hmww
@@ -127505,7 +127518,7 @@
 㶇	habx
 㶈	hyyj
 㶊	hdwv
-㶋	hykd
+㶋	hokd
 㶌	hqbw
 㶍	hxid
 㶎	hyfl
@@ -127519,7 +127532,7 @@
 㶖	hkku
 㶗	lqhh
 㶘	hzqg
-㶙	hhyd
+㶙	hhod
 㶚	hqgm
 㶛	hmlv
 㶜	hmvk
@@ -127613,7 +127626,7 @@
 㷵	yuco
 㷶	kxcy
 㷷	yddv
-㷸	yjfp
+㷸	yjpw
 㷹	ywdg
 㷺	rwry
 㷻	yldy
@@ -127639,7 +127652,7 @@
 㸑	wzfy
 㸒	tcmf
 㸓	tjef
-㸔	cvgg
+㸔	hvgy
 㸕	tvwi
 㸖	vorh
 㸗	vozi
@@ -127796,7 +127809,7 @@
 㺵	gfyo
 㺶	gpfk
 㺷	gaoe
-㺸	kpog
+㺸	kpoo
 㺹	gnwh
 㺺	ggyf
 㺻	gfuw
@@ -127947,8 +127960,8 @@
 㽐	mvsy
 㽑	mqjg
 㽓	dddh
-㽔	ykdh
-㽕	ixhf
+㽔	okdh
+㽕	ixhp
 㽖	sauc
 㽗	ssio
 㽘	sups
@@ -128080,10 +128093,10 @@
 㿖	xqsb
 㿗	xzpw
 㿘	xyyn
-㿙	xyyy
+㿙	xyyx
 㿚	xyhv
 㿛	xfmc
-㿜	xcsy
+㿜	xctj
 㿝	dndo
 㿞	doup
 㿟	ddyf
@@ -128114,7 +128127,7 @@
 㿺	jxve
 㿻	lbkf
 㿼	fwbk
-㿽	vfpb
+㿽	vpbk
 㿾	eubk
 㿿	kbkf
 䀀	hwbk
@@ -129254,7 +129267,7 @@
 䒇	lefs
 䒈	lgwi
 䒉	lldg
-䒊	vfpe
+䒊	vpre
 䒋	zxre
 䒌	ejce
 䒍	yeme
@@ -129792,7 +129805,7 @@
 䚴	mmdf
 䚵	mpfk
 䚶	mfxi
-䚷	mvfp
+䚷	mvpv
 䚸	mskg
 䚹	mhhs
 䚺	mryo
@@ -130067,7 +130080,7 @@
 䟎	qssi
 䟏	qdba
 䟐	qozl
-䟑	qsyk
+䟑	qtij
 䟒	qwrv
 䟓	uuek
 䟔	udho
@@ -130159,7 +130172,7 @@
 䠬	uvet
 䠭	uuri
 䠮	uvsg
-䠯	usyk
+䠯	utij
 䠰	uwrv
 䠱	umhj
 䠲	ltnd
@@ -130373,7 +130386,7 @@
 䤅	ttmk
 䤆	tvfx
 䤇	tzsw
-䤈	tvfb
+䤈	tvpb
 䤉	tncb
 䤊	twqg
 䤋	vtif
@@ -131544,9 +131557,9 @@
 䶰	soup
 䶱	jlsi
 䶲	zbsi
-䶳	sups
-䶴	yfsy
-䶵	soqb
+䶳	tirp
+䶴	yftj
+䶵	tirq
 𠀀	fkfp
 𠀁	fpvp
 𠀂	fjgj
@@ -131563,7 +131576,7 @@
 𠀍	fhfp
 𠀎	bfhf
 𠀏	fifh
-𠀐	ikfh
+𠀐	jwkf
 𠀑	fzah
 𠀒	vfpv
 𠀓	okfh
@@ -131672,12 +131685,11 @@
 𠁻	nkqq
 𠁼	oooe
 𠁽	poeo
-𠁾	ppoe
 𠁾	zuef
 𠁿	zfoe
 𠂀	wuef
 𠂁	kfue
-𠂂	effw
+𠂂	ozfw
 𠂃	fhot
 𠂄	zujx
 𠂅	ufvt
@@ -131702,7 +131714,7 @@
 𠂛	cldf
 𠂜	cldf
 𠂝	kiqf
-𠂞	cvfp
+𠂞	cvpv
 𠂟	cvgl
 𠂠	cofp
 𠂠	cvpv
@@ -131762,7 +131774,7 @@
 𠃘	ofjg
 𠃙	ddpj
 𠃚	jpvp
-𠃛	sksk
+𠃛	zrlf
 𠃜	mzpc
 𠃝	joto
 𠃞	fjpv
@@ -131934,9 +131946,9 @@
 𠆆	wiid
 𠆇	uczx
 𠆈	uizs
-𠆉	pbfk
+𠆉	pbpw
 𠆊	wfwu
-𠆋	uiti
+𠆋	uvki
 𠆌	wjvd
 𠆍	umgv
 𠆎	uuiw
@@ -131978,7 +131990,7 @@
 𠆲	kgpc
 𠆳	sdfh
 𠆴	fusi
-𠆵	kvfp
+𠆵	kvpv
 𠆶	keah
 𠆷	dskg
 𠆸	kryo
@@ -132081,7 +132093,7 @@
 𠈚	kgkb
 𠈛	smkg
 𠈜	krew
-𠈝	kvfs
+𠈝	kvsi
 𠈞	kxgj
 𠈟	knfw
 𠈠	klgj
@@ -132819,8 +132831,8 @@
 𠓾	sgsg
 𠓿	xded
 𠔀	vfhf
-𠔁	vvyp
-𠔂	nvyp
+𠔁	vvyo
+𠔂	nvyo
 𠔃	vpvp
 𠔄	vpvp
 𠔅	vmzc
@@ -132828,13 +132840,13 @@
 𠔇	vlto
 𠔈	viks
 𠔉	vsvo
-𠔊	ofvy
+𠔊	ovyo
 𠔋	vlwf
 𠔌	pucf
 𠔍	visf
 𠔎	ppck
 𠔏	xfvy
-𠔐	wqvy
+𠔐	fivy
 𠔑	vkvk
 𠔒	vwif
 𠔓	rvyo
@@ -133412,7 +133424,7 @@
 𠝌	nfhk
 𠝍	hnhk
 𠝎	racf
-𠝎	rmsk
+𠝎	rmzr
 𠝏	tisk
 𠝐	wkhk
 𠝑	mdkg
@@ -134176,7 +134188,7 @@
 𠩉	oizv
 𠩊	ohje
 𠩋	ovia
-𠩌	oclw
+𠩌	olwf
 𠩍	okbw
 𠩎	oefh
 𠩏	odfo
@@ -134518,7 +134530,7 @@
 𠮡	irlf
 𠮢	wiqf
 𠮣	oiqf
-𠮤	ixhf
+𠮤	ixhp
 𠮥	zhcf
 𠮦	viqf
 𠮧	ikgk
@@ -134557,7 +134569,7 @@
 𠯈	ixio
 𠯉	kifh
 𠯊	ifgl
-𠯋	ivfp
+𠯋	ivpv
 𠯌	ogiq
 𠯍	izrl
 𠯎	ippc
@@ -134962,7 +134974,7 @@
 𠵡	ibbz
 𠵢	ixyv
 𠵣	ijpv
-𠵤	fini
+𠵤	gsni
 𠵥	jjiq
 𠵦	jilg
 𠵧	qiqf
@@ -136031,7 +136043,7 @@
 𡆏	iawo
 𡆐	xisi
 𡆑	idrr
-𡆒	xixi
+𡆒	xjvi
 𡆓	iopd
 𡆔	rwrz
 𡆕	imhn
@@ -136073,7 +136085,7 @@
 𡆺	upck
 𡆻	ufbl
 𡆼	ucwh
-𡆽	uvfp
+𡆽	uvpv
 𡆾	uvnd
 𡆿	uqup
 𡇀	uqio
@@ -137084,6 +137096,7 @@
 𡖴	roea
 𡖵	ukmi
 𡖶	wjxx
+𡖷	xegc
 𡖷	xepv
 𡖸	recv
 𡖹	xxxu
@@ -137218,7 +137231,7 @@
 𡘽	aaxi
 𡘾	nlxi
 𡘿	csoo
-𡙀	kfpo
+𡙀	kpfo
 𡙁	xsss
 𡙂	xjsl
 𡙃	xxog
@@ -138113,7 +138126,7 @@
 𡧃	ejbk
 𡧄	etko
 𡧅	ewhk
-𡧆	efvy
+𡧆	evyo
 𡧇	envf
 𡧈	erpv
 𡧉	efah
@@ -140078,7 +140091,7 @@
 𢅶	uzcu
 𢅷	wkru
 𢅸	oruw
-𢅹	usyk
+𢅹	utij
 𢅺	ujgu
 𢅻	uvvw
 𢅼	ufcj
@@ -140171,7 +140184,8 @@
 𢇓	bbij
 𢇔	bajo
 𢇕	dbbb
-𢇖	bbul
+𢇖	bbuo
+𢇖	bbup
 𢇗	gfdh
 𢇘	gsmf
 𢇙	gndo
@@ -140198,7 +140212,7 @@
 𢇮	gryo
 𢇯	gkwi
 𢇰	gnah
-𢇱	gvfp
+𢇱	gvpv
 𢇲	gzpo
 𢇳	gemo
 𢇴	gguw
@@ -140647,7 +140661,7 @@
 𢎯	fopc
 𢎰	orpv
 𢎱	okkc
-𢎲	ovfh
+𢎲	ovyf
 𢎳	obmf
 𢎴	oxio
 𢎵	ojvk
@@ -140821,7 +140835,7 @@
 𢑛	sbhg
 𢑜	sssl
 𢑝	ssea
-𢑞	svfu
+𢑞	svru
 𢑟	seki
 𢑠	sslh
 𢑡	sokt
@@ -141227,7 +141241,7 @@
 𢗱	ungo
 𢗲	nsvo
 𢗳	noup
-𢗴	nvfp
+𢗴	nvpv
 𢗵	nypv
 𢗶	nfmd
 𢗷	nhgo
@@ -141261,7 +141275,7 @@
 𢘔	tnwj
 𢘕	nmck
 𢘖	mnwj
-𢘗	cikn
+𢘗	king
 𢘘	nuvc
 𢘙	njho
 𢘚	neao
@@ -142396,7 +142410,7 @@
 𢪃	plkg
 𢪄	pdgl
 𢪅	pskg
-𢪆	pvfp
+𢪆	pvpv
 𢪇	npck
 𢪈	pzrl
 𢪉	poks
@@ -142683,7 +142697,7 @@
 𢮥	pnxo
 𢮦	ptis
 𢮧	pswh
-𢮨	pfin
+𢮨	pgsn
 𢮩	pyqj
 𢮪	pvxv
 𢮫	pswo
@@ -143982,7 +143996,7 @@
 𣂹	dpio
 𣂺	yjoz
 𣂻	eiro
-𣂼	xibo
+𣂼	wfio
 𣂽	uiio
 𣂾	bbfo
 𣂿	ykio
@@ -144134,7 +144148,7 @@
 𣅑	vjef
 𣅒	jcln
 𣅓	jsmf
-𣅔	jfpo
+𣅔	jpfo
 𣅕	jjvk
 𣅖	jxcp
 𣅗	jjcp
@@ -144439,7 +144453,7 @@
 𣊂	jyvs
 𣊃	mcrj
 𣊄	zzsj
-𣊅	cvfj
+𣊅	cvpj
 𣊆	cvkj
 𣊇	jefv
 𣊈	jcup
@@ -145048,7 +145062,7 @@
 𣓤	agxa
 𣓥	hmca
 𣓦	ahcd
-𣓧	fina
+𣓧	gsna
 𣓨	duxa
 𣓩	ajsl
 𣓪	pxpa
@@ -145143,7 +145157,7 @@
 𣕃	asfj
 𣕄	afzi
 𣕅	acmd
-𣕆	avfb
+𣕆	avpb
 𣕇	omka
 𣕈	awjf
 𣕉	awtq
@@ -145490,7 +145504,7 @@
 𣚟	akol
 𣚠	aokt
 𣚡	adaj
-𣚢	afil
+𣚢	agsl
 𣚣	asxv
 𣚤	jiaw
 𣚥	awpm
@@ -145981,7 +145995,7 @@
 𣢊	sbfy
 𣢋	hhfy
 𣢌	eafy
-𣢍	vfpf
+𣢍	vpfy
 𣢎	qfyo
 𣢏	vkfy
 𣢐	ffyo
@@ -147275,7 +147289,7 @@
 𣶠	hlsn
 𣶡	huqm
 𣶢	husm
-𣶣	hfin
+𣶣	hgsn
 𣶤	hzxi
 𣶥	hbqq
 𣶦	huqq
@@ -147624,7 +147638,7 @@
 𣻿	hwjt
 𣼀	hglb
 𣼁	hioh
-𣼂	hefg
+𣼂	hevg
 𣼃	hvsz
 𣼄	hcgn
 𣼅	huba
@@ -148232,7 +148246,7 @@
 𤅟	htuq
 𤅠	hwjg
 𤅡	hchw
-𤅢	hwsy
+𤅢	hwtj
 𤅣	huwr
 𤅤	hsfk
 𤅥	htyw
@@ -148246,7 +148260,7 @@
 𤅭	huro
 𤅮	hmen
 𤅯	hamw
-𤅰	hzsy
+𤅰	hztj
 𤅱	hjjb
 𤅲	hzjg
 𤅳	hiiq
@@ -149120,7 +149134,7 @@
 𤓚	yizy
 𤓛	ysev
 𤓜	zshy
-𤓝	ywsy
+𤓝	ywtj
 𤓞	zshy
 𤓟	wooy
 𤓠	ydlk
@@ -149382,7 +149396,7 @@
 𤗠	nhsz
 𤗡	rjnb
 𤗢	noqb
-𤗣	ngxa
+𤗣	nzka
 𤗤	nnic
 𤗥	ngwa
 𤗦	npwk
@@ -149420,7 +149434,7 @@
 𤘆	yybc
 𤘇	ydiq
 𤘈	ywif
-𤘉	yuvf
+𤘉	yuaf
 𤘊	yvkt
 𤘋	ycpi
 𤘌	yxzj
@@ -150486,7 +150500,7 @@
 𤨵	gnnb
 𤨶	gxvh
 𤨷	gwia
-𤨸	gxtf
+𤨸	gwtf
 𤨹	gtfg
 𤨺	gevm
 𤨻	merg
@@ -151064,7 +151078,7 @@
 𤲀	iifp
 𤲁	snvd
 𤲂	sskd
-𤲃	sfwp
+𤲃	sbpc
 𤲄	csch
 𤲅	xvjp
 𤲆	sqno
@@ -151215,7 +151229,7 @@
 𤴘	xsld
 𤴙	clkf
 𤴚	ukfo
-𤴛	finl
+𤴛	gsnl
 𤴜	akaj
 𤴝	tnkf
 𤴞	mynl
@@ -151273,7 +151287,7 @@
 𤵒	xwmo
 𤵓	xwwi
 𤵔	xnah
-𤵕	xvfp
+𤵕	xvpv
 𤵖	xrlf
 𤵗	xguw
 𤵘	xnck
@@ -152485,7 +152499,7 @@
 𥈒	gbbw
 𥈓	gfiq
 𥈔	gejs
-𥈕	gvfb
+𥈕	gvpb
 𥈖	gxid
 𥈗	gwvo
 𥈘	gujo
@@ -152777,7 +152791,7 @@
 𥌷	gezn
 𥌸	garw
 𥌹	gtdu
-𥌺	gsyk
+𥌺	gtij
 𥌻	gauv
 𥌼	gtir
 𥌽	giis
@@ -153000,7 +153014,7 @@
 𥐖	ofiq
 𥐗	qwjp
 𥐘	oriq
-𥐙	qvyp
+𥐙	qvyo
 𥐚	qdho
 𥐛	qkgc
 𥐜	qdpj
@@ -154115,7 +154129,7 @@
 𥡴	zgdt
 𥡵	ztnl
 𥡶	zded
-𥡷	zfln
+𥡷	zfdn
 𥡸	zwjx
 𥡹	zxux
 𥡺	zlzi
@@ -154261,7 +154275,7 @@
 𥤆	zwcy
 𥤇	zznb
 𥤈	zcmw
-𥤉	zsyk
+𥤉	ztij
 𥤊	zwrv
 𥤋	qqqz
 𥤌	zesv
@@ -154274,7 +154288,7 @@
 𥤓	zczl
 𥤔	oaku
 𥤕	zuzu
-𥤖	zszp
+𥤖	ztyz
 𥤗	zxuc
 𥤘	zggw
 𥤙	zwrw
@@ -154772,7 +154786,7 @@
 𥬈	zssi
 𥬉	zsnd
 𥬊	zozk
-𥬋	zvfp
+𥬋	zvpv
 𥬌	zehs
 𥬍	zkds
 𥬎	zfaj
@@ -154909,7 +154923,7 @@
 𥮑	zjdi
 𥮒	zhdi
 𥮓	zhnw
-𥮔	zfin
+𥮔	zgsn
 𥮕	zaup
 𥮖	zggf
 𥮗	zsmg
@@ -155274,7 +155288,8 @@
 𥳿	zzlt
 𥴀	yfbm
 𥴁	zwdn
-𥴂	zsfp
+𥴂	zsfg
+𥴂	zspw
 𥴃	zrfg
 𥴄	zevg
 𥴅	zmqp
@@ -155284,7 +155299,7 @@
 𥴉	zkkj
 𥴊	znqr
 𥴋	znqf
-𥴌	zgva
+𥴌	zgxa
 𥴍	zavl
 𥴎	zzsk
 𥴏	ztyv
@@ -155564,7 +155579,7 @@
 𥸡	zagi
 𥸢	zuuj
 𥸣	zurm
-𥸤	zswv
+𥸤	ztiw
 𥸥	pmgo
 𥸦	pmgo
 𥸧	muek
@@ -155739,7 +155754,7 @@
 𥻑	msfj
 𥻒	mxmg
 𥻓	mrfi
-𥻔	mxgw
+𥻔	mbgw
 𥻕	myjx
 𥻖	mvkt
 𥻘	mxgj
@@ -155864,7 +155879,7 @@
 𥽏	dzym
 𥽐	dsmg
 𥽑	mdmg
-𥽒	mxxa
+𥽒	mffa
 𥽓	mocn
 𥽔	mhdu
 𥽕	mevd
@@ -156108,7 +156123,7 @@
 𦁃	hvsl
 𦁄	hqno
 𦁅	hokg
-𦁆	hfin
+𦁆	hgsn
 𦁇	hsln
 𦁈	hzbm
 𦁉	hysm
@@ -156530,7 +156545,7 @@
 𦇩	hwcy
 𦇪	hwyo
 𦇫	hxid
-𦇬	hsyk
+𦇬	htij
 𦇭	hdzl
 𦇮	hthd
 𦇯	hofk
@@ -156664,7 +156679,7 @@
 𦉲	eagl
 𦉳	zwwi
 𦉴	yglk
-𦉵	yvyp
+𦉵	yvyo
 𦉶	ysnp
 𦉷	ybmf
 𦉸	zoox
@@ -156804,7 +156819,7 @@
 𦋿	yfrj
 𦌀	ynnb
 𦌁	ysis
-𦌂	ysfp
+𦌂	ysbp
 𦌃	ylgl
 𦌄	zonm
 𦌅	yhqf
@@ -157027,7 +157042,7 @@
 𦏞	ximi
 𦏟	impl
 𦏠	iyiy
-𦏡	icpp
+𦏡	wbcp
 𦏢	imyi
 𦏣	izui
 𦏤	izzz
@@ -157137,7 +157152,7 @@
 𦑍	iife
 𦑎	exjp
 𦑏	evhf
-𦑐	efin
+𦑐	egsn
 𦑑	ngne
 𦑒	vieh
 𦑓	zzeh
@@ -157389,7 +157404,7 @@
 𦕋	qzwi
 𦕌	qqgf
 𦕍	qeps
-𦕎	qvfp
+𦕎	qvpv
 𦕏	qiks
 𦕐	qmzf
 𦕑	qqfh
@@ -157483,7 +157498,7 @@
 𦖩	uxqg
 𦖪	qzsw
 𦖫	njqg
-𦖬	qvfb
+𦖬	qvpb
 𦖭	qtmk
 𦖮	qmlh
 𦖯	qocy
@@ -158488,8 +158503,8 @@
 𦦚	wsws
 𦦛	woof
 𦦜	zowl
-𦦝	wejk
-𦦞	wejk
+𦦝	wzjk
+𦦞	wzjk
 𦦟	wzfk
 𦦠	wook
 𦦡	wzfg
@@ -159649,7 +159664,7 @@
 𦸦	wger
 𦸧	wvib
 𦸨	wvfz
-𦸩	wjfp
+𦸩	wjbp
 𦸪	whdm
 𦸫	wjvu
 𦸬	wfiv
@@ -160510,7 +160525,7 @@
 𧆃	woej
 𧆄	uwda
 𧆅	wumo
-𧆆	wdsy
+𧆆	wdtj
 𧆇	whbj
 𧆈	wjkw
 𧆉	wrvh
@@ -160644,7 +160659,7 @@
 𧈉	qgmd
 𧈊	jsaq
 𧈋	qwzh
-𧈌	finq
+𧈌	gsnq
 𧈍	rsgq
 𧈎	qsgb
 𧈏	xvjq
@@ -161299,7 +161314,7 @@
 𧒜	tsjw
 𧒝	mxjj
 𧒞	jumm
-𧒟	evfj
+𧒟	ozfj
 𧒠	jewq
 𧒡	ezjj
 𧒢	pjjj
@@ -161470,7 +161485,7 @@
 𧕈	mdlj
 𧕉	jtbp
 𧕊	jmyw
-𧕋	jsyk
+𧕋	jtij
 𧕌	sqjj
 𧕍	jyyi
 𧕎	heej
@@ -161661,7 +161676,7 @@
 𧘈	ofuk
 𧘉	ozvp
 𧘊	opsj
-𧘋	ovyp
+𧘋	ovyo
 𧘌	ovic
 𧘍	onvf
 𧘎	urpo
@@ -162103,7 +162118,7 @@
 𧟃	odvi
 𧟅	omui
 𧟆	owcy
-𧟇	osyk
+𧟇	otij
 𧟈	owcy
 𧟉	ozam
 𧟊	ojim
@@ -162322,7 +162337,7 @@
 𧢟	yscp
 𧢠	sdvr
 𧢡	sygi
-𧢢	sscp
+𧢢	tirs
 𧢣	aoos
 𧢤	swyp
 𧢥	tirs
@@ -162710,7 +162725,7 @@
 𧨣	zsim
 𧨤	mjnv
 𧨥	mkje
-𧨦	mvfb
+𧨦	mvbk
 𧨧	tgnm
 𧨨	mncd
 𧨩	mfxn
@@ -163771,7 +163786,7 @@
 𧹇	iwlf
 𧹈	iiix
 𧹉	agsi
-𧹊	isyk
+𧹊	itij
 𧹋	kniy
 𧹌	meei
 𧹍	slai
@@ -163838,7 +163853,7 @@
 𧺊	qhsp
 𧺋	qpsj
 𧺌	qxjo
-𧺍	qvyp
+𧺍	qvyo
 𧺎	qdpj
 𧺏	qhep
 𧺐	qffh
@@ -164174,7 +164189,7 @@
 𧿚	uvkg
 𧿛	ussi
 𧿜	uzue
-𧿝	uvfp
+𧿝	uvpv
 𧿞	ufyo
 𧿟	ufsi
 𧿠	ufbl
@@ -164724,13 +164739,13 @@
 𨈂	uvvw
 𨈃	uggv
 𨈄	ugiy
-𨈅	uwsy
+𨈅	uwtj
 𨈆	uwav
 𨈇	udzs
 𨈈	ussr
 𨈉	uwfj
 𨈊	umho
-𨈋	uzsy
+𨈋	uztj
 𨈌	umhn
 𨈍	uiiw
 𨈎	umht
@@ -165808,7 +165823,7 @@
 𨙁	bllw
 𨙂	tucl
 𨙃	duel
-𨙄	slto
+𨙄	tirl
 𨙅	jssl
 𨙆	kmfl
 𨙇	ebvl
@@ -166532,8 +166547,8 @@
 𨤙	cmxh
 𨤚	cmbz
 𨤛	cmep
-𨤜	cmwk
-𨤝	cmxw
+𨤜	cmxk
+𨤝	cmbw
 𨤞	cmwf
 𨤟	cmci
 𨤠	cmev
@@ -166599,7 +166614,7 @@
 𨥜	tcxi
 𨥝	ttoo
 𨥞	tsgl
-𨥟	tvfp
+𨥟	tvpv
 𨥠	tsck
 𨥡	tnps
 𨥢	wztk
@@ -167465,7 +167480,7 @@
 𨳅	szyi
 𨳆	sgio
 𨳇	ffek
-𨳈	skmz
+𨳈	zrmz
 𨳉	aoep
 𨳊	adpj
 𨳋	apsj
@@ -167492,7 +167507,7 @@
 𨳠	azos
 𨳡	awhf
 𨳢	akdh
-𨳣	avfp
+𨳣	avpv
 𨳤	aoks
 𨳥	avyo
 𨳦	awwi
@@ -167763,7 +167778,7 @@
 𨷯	awfp
 𨷰	atir
 𨷱	atuh
-𨷲	asyk
+𨷲	atij
 𨷳	awcy
 𨷴	ammh
 𨷵	affo
@@ -167791,7 +167806,7 @@
 𨸋	bvyv
 𨸌	bmee
 𨸍	kbbb
-𨸎	bsyk
+𨸎	btij
 𨸏	cusf
 𨸐	tvic
 𨸑	tfpv
@@ -168387,7 +168402,7 @@
 𩁡	mkxv
 𩁢	xibv
 𩁣	xnov
-𩁤	xidv
+𩁤	xijv
 𩁥	ioov
 𩁦	tsvw
 𩁧	allv
@@ -169483,7 +169498,7 @@
 𩒪	ygwv
 𩒫	miwv
 𩒬	vnaw
-𩒭	vfsw
+𩒭	vswv
 𩒮	fhow
 𩒯	gtpw
 𩒰	cpiw
@@ -170438,7 +170453,7 @@
 𩡦	zjga
 𩡧	xdsk
 𩡨	cgbo
-𩡩	gvyp
+𩡩	gvyo
 𩡪	ggbo
 𩡫	pgbo
 𩡬	glvo
@@ -170883,7 +170898,7 @@
 𩨣	fmxc
 𩨤	ffbl
 𩨥	feah
-𩨦	fvfp
+𩨦	fvpv
 𩨧	fskg
 𩨨	fhhs
 𩨩	fowi
@@ -172606,7 +172621,7 @@
 𪃡	hxvt
 𪃢	gzit
 𪃣	zojt
-𪃤	bbft
+𪃤	bbpt
 𪃥	agtl
 𪃦	goct
 𪃧	goct
@@ -173445,7 +173460,7 @@
 𪐪	uifh
 𪐫	uryo
 𪐬	urah
-𪐭	uvfp
+𪐭	uvpv
 𪐮	uqio
 𪐯	usnd
 𪐰	wuco
@@ -173702,6 +173717,7 @@
 𪔪	hbiq
 𪔫	iwhb
 𪔬	hbfa
+𪔬	hbga
 𪔭	hbgd
 𪔮	hbbb
 𪔯	hbuo
@@ -173869,7 +173885,7 @@
 𪗑	uikj
 𪗒	uikj
 𪗓	uikj
-𪗔	yvyp
+𪗔	yvyo
 𪗕	yglk
 𪗖	sybk
 𪗗	ypsj
@@ -174114,19 +174130,19 @@
 𪛇	suii
 𪛈	tirs
 𪛉	sicp
-𪛊	sozk
-𪛋	sjrl
-𪛌	sqbj
-𪛍	sque
-𪛎	hcsy
-𪛏	sarf
-𪛐	izfs
-𪛑	ybas
-𪛒	zsqi
-𪛓	scup
-𪛔	zsqb
-𪛕	ssif
-𪛖	ssyv
+𪛊	tiro
+𪛋	tirr
+𪛌	tirq
+𪛍	tiru
+𪛎	hctj
+𪛏	tira
+𪛐	izfj
+𪛑	ybaj
+𪛒	ztiq
+𪛓	tirc
+𪛔	ztiq
+𪛕	tirs
+𪛖	tiry
 𪛗	tzpv
 𪛘	zapv
 𪛙	pvpp
@@ -175327,7 +175343,7 @@
 𪮲	pilf
 𪮳	puyj
 𪮴	pmms
-𪮵	pxvb
+𪮵	pfbv
 𪮶	purd
 𪮷	ptij
 𪮸	pqxv
@@ -177650,7 +177666,7 @@
 𫓦	cydf
 𫓨	cieo
 𫓪	cvnd
-𫓫	cvfp
+𫓫	cvpv
 𫓬	ceuw
 𫓭	czxi
 𫓮	crsi
@@ -177974,7 +177990,7 @@
 𫙅	pqlk
 𫙆	oklp
 𫙇	olvp
-𫙈	bvyp
+𫙈	bvyo
 𫙉	bvos
 𫙊	bidk
 𫙋	zkby
@@ -178177,7 +178193,7 @@
 𫜙	uayp
 𫜚	usbn
 𫜛	udpk
-𫜜	vfpk
+𫜜	vpok
 𫜝	rayf
 𫜞	uayf
 𫜟	vtay
@@ -178198,7 +178214,7 @@
 𫜱	xuyi
 𫜲	gmjh
 𫜳	zbsi
-𫜴	aays
+𫜴	aayj
 𫜵	tocc
 𫜶	mwyr
 𫜷	zltj
@@ -178680,7 +178696,7 @@
 𫤨	sjww
 𫤩	zssx
 𫤪	sgsg
-𫤫	vfkp
+𫤫	vkpp
 𫤬	vllv
 𫤭	czov
 𫤮	vwks
@@ -180326,7 +180342,7 @@
 𫾫	fior
 𫾬	qryo
 𫾭	cjry
-𫾮	vfkr
+𫾮	vkpr
 𫾯	glry
 𫾰	ohry
 𫾱	dryo
@@ -180467,7 +180483,7 @@
 𬀺	njsb
 𬀻	jbab
 𬀼	jfra
-𬀽	jfwp
+𬀽	jpwh
 𬀾	jbjk
 𬀿	jsyk
 𬁀	qjoc
@@ -180874,7 +180890,7 @@
 𬇗	hodp
 𬇘	hrpo
 𬇚	hbpv
-𬇛	hfmf
+𬇛	hfso
 𬇜	hxlv
 𬇝	hvkg
 𬇟	hohg
@@ -181990,7 +182006,7 @@
 𬙔	uxsl
 𬙕	ykfh
 𬙖	yfdh
-𬙗	evfg
+𬙗	evgl
 𬙘	yfgl
 𬙙	ymxc
 𬙚	yxpv
@@ -182329,7 +182345,7 @@
 𬞪	wvca
 𬞫	whkb
 𬞬	wsep
-𬞭	wddy
+𬞭	wdjy
 𬞮	wjlk
 𬞯	wljr
 𬞰	wkjs
@@ -182740,7 +182756,7 @@
 𬥒	scic
 𬥓	ivpc
 𬥔	oiln
-𬥕	ivfp
+𬥕	ivkp
 𬥖	ilbm
 𬥗	issb
 𬥘	iliq
@@ -183143,7 +183159,7 @@
 𬫫	tuui
 𬫬	tfob
 𬫭	todn
-𬫮	txql
+𬫮	txmk
 𬫯	twuc
 𬫰	twkl
 𬫱	tvnf
@@ -183446,7 +183462,7 @@
 𬰻	azpo
 𬰼	akje
 𬰽	kkra
-𬰾	asyk
+𬰾	atij
 𬰿	kwvo
 𬱀	fgwv
 𬱁	ohwv
@@ -183497,7 +183513,7 @@
 𬱰	bcik
 𬱱	ivik
 𬱲	dzmk
-𬱳	skwo
+𬱳	tirk
 𬱴	uhdn
 𬱵	poqh
 𬱶	prbp
@@ -183908,7 +183924,7 @@
 𬸢	dxgw
 𬸤	qdwl
 𬸥	zoww
-𬸧	xnhw
+𬸧	xinw
 𬸨	mvfw
 𬸩	czmw
 𬸫	wyrw
@@ -184024,9 +184040,9 @@
 𬺜	jajo
 𬺝	mmqj
 𬺞	zjpv
-𬺟	suwp
-𬺠	shsy
-𬺡	tnns
+𬺟	tiru
+𬺠	shtj
+𬺡	tnnj
 𬺰	glfk
 𬺱	gckc
 𬺲	pfhf
@@ -184450,7 +184466,7 @@
 𭁔	xsvy
 𭁕	skfv
 𭁖	cshg
-𭁗	vfyc
+𭁗	vyfc
 𭁘	ljca
 𭁙	vpwu
 𭁚	xvnm
@@ -184493,7 +184509,7 @@
 𭁿	edqi
 𭂀	eyfo
 𭂁	ekjy
-𭂂	evsp
+𭂂	evsx
 𭂃	eaad
 𭂄	ejcs
 𭂅	ezyn
@@ -184563,7 +184579,7 @@
 𭃅	kokg
 𭃆	wokg
 𭃇	kwoe
-𭃈	kvfp
+𭃈	kvpv
 𭃉	kwmo
 𭃊	pfpf
 𭃋	kewp
@@ -184647,7 +184663,7 @@
 𭄙	zfjk
 𭄚	wrsk
 𭄛	lalk
-𭄜	skgc
+𭄜	tirk
 𭄝	kwrf
 𭄞	sauc
 𭄟	nauc
@@ -184943,7 +184959,7 @@
 𭉀	tpim
 𭉁	tico
 𭉂	ijtp
-𭉃	ivfb
+𭉃	ivpb
 𭉄	ildu
 𭉅	mpbo
 𭉆	intp
@@ -186673,7 +186689,7 @@
 𭤅	glry
 𭤆	lmry
 𭤇	mcrs
-𭤈	finr
+𭤈	gsnr
 𭤉	qjrd
 𭤊	agry
 𭤋	iaso
@@ -186837,7 +186853,7 @@
 𭦩	jbaa
 𭦪	qdte
 𭦫	qsje
-𭦬	jggv
+𭦬	jgrv
 𭦭	jxbb
 𭦮	jzzf
 𭦯	jkqu
@@ -186938,7 +186954,7 @@
 𭨎	jfdf
 𭨏	jobx
 𭨐	nkoj
-𭨑	jsyk
+𭨑	jtij
 𭨒	jyhv
 𭨓	jqpl
 𭨔	eiji
@@ -186956,7 +186972,7 @@
 𭨠	firj
 𭨡	ujio
 𭨢	jizn
-𭨣	jsyk
+𭨣	jtij
 𭨤	mwjk
 𭨥	mfuk
 𭨦	msks
@@ -188410,7 +188426,7 @@
 𭿎	gmxi
 𭿏	gwps
 𭿐	dqgy
-𭿑	gswp
+𭿑	gsxk
 𭿒	gtgl
 𭿓	cybi
 𭿔	giyv
@@ -189118,7 +189134,7 @@
 𮊙	yedy
 𮊚	ywes
 𮊛	yyyo
-𮊜	zoea
+𮊜	zsea
 𮊝	yoyo
 𮊞	zsur
 𮊟	yhii
@@ -189715,8 +189731,7 @@
 𮓮	qaoo
 𮓯	qamg
 𮓰	ikfo
-𮓱	cikf
-𮓱	kifh
+𮓱	cjwf
 𮓲	jppv
 𮓳	jbop
 𮓴	jmzc
@@ -189833,7 +189848,8 @@
 𮕦	loro
 𮕧	owio
 𮕨	oxio
-𮕩	ufwo
+𮕩	ufxo
+𮕩	upmo
 𮕪	ikor
 𮕫	uzro
 𮕬	okhs
@@ -189845,7 +189861,7 @@
 𮕲	ogyf
 𮕳	oytf
 𮕴	okhe
-𮕵	ciko
+𮕵	kior
 𮕶	oluw
 𮕷	lior
 𮕸	onsp
@@ -190231,7 +190247,7 @@
 𮛷	uvue
 𮛸	uhxz
 𮛹	uljw
-𮛺	uhwf
+𮛺	uhwz
 𮛻	usgn
 𮛼	ujdj
 𮛽	uwps
@@ -190831,7 +190847,7 @@
 𮥖	tijb
 𮥗	twsa
 𮥘	tdnj
-𮥙	tcio
+𮥙	tkio
 𮥚	tssn
 𮥛	tewi
 𮥜	cugi
@@ -190992,7 +191008,7 @@
 𮧹	rarf
 𮧺	varf
 𮧻	agqn
-𮧼	ggva
+𮧼	grva
 𮧽	avwi
 𮧾	abxo
 𮧿	zyna
@@ -191153,7 +191169,7 @@
 𮪜	gfyc
 𮪝	goql
 𮪞	ggia
-𮪟	gsyk
+𮪟	gtij
 𮪠	gzqk
 𮪡	xjbl
 𮪢	xiwh
@@ -191461,14 +191477,14 @@
 𮯕	sxso
 𮯖	swzu
 𮯗	sqix
-𮯘	ssyk
+𮯘	stij
 𮯚	jtiq
 𮯛	resp
 𮯜	vzsl
 𮯝	lyso
 𮯞	zssg
 𮯟	zgpg
-𮯠	sxje
+𮯠	tirj
 𰀀	fpvp
 𰀁	pcfk
 𰀂	siff
@@ -193416,7 +193432,7 @@
 𰭧	rpvp
 𲂉	vfoq
 𲃕	ouzo
-𰶏	vsyk
+𰶏	vtij
 𰵊	vhtk
 𱌬	self
 𱌪	swmo
@@ -193462,7 +193478,7 @@
 𰗄	cmdf
 𱮶	gmzf
 𱮿	gztj
-𰢙	gsyk
+𰢙	gtij
 𱮷	gddo
 𰡺	gfuo
 𰢉	gqjt
@@ -193617,7 +193633,7 @@
 𱜊	dxlo
 𲉨	gvhf
 𱼶	ldup
-𱰓	sfno
+𱰓	tirf
 𰢨	mmdf
 𱃦	ouak
 䶿	oahp
@@ -194022,7 +194038,7 @@
 𱕭	xiss
 𱍨	xisf
 𱊴	xinw
-𱍥	xinf
+𱍥	wfif
 𱍓	gpco
 𱬯	xiyh
 𰝸	gcyv
@@ -196486,7 +196502,7 @@
 𰛏	hssi
 𱨦	hgnv
 𰛍	hgwi
-𱦶	hywh
+𱦶	hygp
 𰛻	hsyv
 𱥲	hgzv
 𰛬	hgzx
@@ -196740,7 +196756,7 @@
 𱧛	hvxt
 𱨞	hvxb
 𱘙	hyob
-𱪕	huud
+𱪕	hurd
 𰝔	hpsi
 𱨭	higi
 𰛓	hpnd
@@ -196782,7 +196798,7 @@
 𱪌	hmsm
 𰜻	hlxj
 𱩲	hfmn
-𱧌	hfwj
+𱧌	hfxa
 𱦾	hfyv
 𰛺	htmd
 𱧊	hfdo
@@ -198452,7 +198468,7 @@
 𱻱	ffua
 𰣱	fndm
 𰤊	fnxi
-𱮡	fogo
+𱮡	fmoo
 𰤁	fnws
 𱟥	fpjh
 𲂩	fico
@@ -198722,8 +198738,8 @@
 𱟦	jzlm
 𰞓	jbyv
 𱼼	lbdn
-𱊵	swlf
-𱍉	ssip
+𱊵	tirw
+𱍉	tirs
 𱜘	seeh
 𱍊	trjr
 𱶬	zygb
@@ -199650,7 +199666,7 @@
 𰣵	xdua
 𱱙	xziz
 𰣼	xziv
-𱱰	xsyk
+𱱰	xtij
 𰣦	xoao
 𱱧	xbtz
 𱱊	xbop
@@ -199872,7 +199888,7 @@
 𱵌	dnfx
 𱵶	dyyo
 𰧮	dwhk
-𰨙	dwsy
+𰨙	dwtj
 𱵖	dlld
 𰨍	duvv
 𱵘	ddfl
@@ -201368,7 +201384,7 @@
 ⼈	sico
 ⼉	ahcp
 ⼊	xjco
-⼋	vycp
+⼋	vyco
 ⼌	zvkp
 ⼍	erop
 ⼎	lvof
@@ -201570,7 +201586,7 @@
 ⿒	ybkk
 ⿓	ymia
 ⿔	sicf
-⿕	syck
+⿕	tirj
 豈	deif
 更	toso
 車	jlfk
@@ -201850,7 +201866,7 @@
 﨔	ahvp
 凞	ldjy
 猪	lrjo
-益	vfvb
+益	vvbk
 礼	dpvp
 神	djks
 祥	didk
@@ -202319,7 +202335,7 @@
 𣽞	hjji
 𣾎	hfpy
 濆	hgwi
-瀹	hsyk
+瀹	htij
 瀞	hzmu
 瀛	hosm
 㶖	hkku
@@ -203968,7 +203984,7 @@
 𲤍	ujto
 𲤎	uujf
 𲤏	jbmf
-𲤐	jvfp
+𲤐	jvpv
 𲤑	jmoe
 𲤒	jfno
 𲤓	ctef
@@ -204092,7 +204108,7 @@
 𲦉	sawm
 𲦊	agpp
 𲦋	amew
-𲦌	askk
+𲦌	aksr
 𲦍	aexs
 𲦎	axvd
 𲦏	acdh
@@ -204133,7 +204149,7 @@
 𲦲	xraj
 𲦳	airp
 𲦴	alyz
-𲦵	cmxj
+𲦵	cmbj
 𲦶	aeei
 𲦷	arcp
 𲦸	arbi
@@ -204752,7 +204768,7 @@
 𲰜	fspd
 𲰝	fqah
 𲰞	tyfn
-𲰟	finf
+𲰟	gsnf
 𲰠	vswf
 𲰡	feir
 𲰢	zufn

@@ -18,6 +18,6 @@
 /schemas/hao/hao_xi_52p.txt
 /schemas/hao/squirrel.yaml
 /schemas/hao/weasel.yaml
-/schemas/hao/weasel.custom.yaml
+#/schemas/hao/weasel.custom.yaml
 /schemas/releases
 /schemas/hao/lua/tips.userdb

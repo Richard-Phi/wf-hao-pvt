@@ -2755,7 +2755,7 @@
 兀	LeLr	297246
 铅	QjrAnwKdi	297245
 砂	FjeFlrSi	297244
-兮	JdoLeXi	297243
+兮	JdoXi	297243
 牟	BkrMdo	297242
 哉	AkwFjwKdi	297241
 浆	ShrXkeHsu	297240
@@ -6076,7 +6076,7 @@
 眬	DkwHgu	293925
 蕤	ClrDneJfu	293924
 遊	HfoKfeQiNdu	293923
-龢	MqoMsu	293922
+龢	CjoKdiLfuMsu	293922
 翥	FkeVoZu	293921
 幾	LiLiFjwAu	293920
 耒	Sko	293919
@@ -6301,7 +6301,7 @@
 惝	HduNdo	293700
 掎	KsuYdiSke	293699
 柽	TlrBuPsu	293698
-瀹	HsuMqo	293697
+瀹	HsuCjoKdiFhr	293697
 猞	LquAuHvu	293696
 疔	QkrLfi	293695
 癀	QkrGhr	293694
@@ -6403,7 +6403,7 @@
 陔	LwHco	293598
 骀	FyeBkrKdi	293597
 髫	FliVjeKdi	293596
-龠	Mqo	293595
+龠	CjoKdiLfuFhr	293595
 兌	JdoKdiLr	293594
 坫	PsuFjrKdi	293593
 埝	PsuCjoXiHdu	293592
@@ -8701,7 +8701,7 @@
 杴	TlrDlw	291299
 杻	TlrXiPsu	291298
 枅	TlrLeClr	291297
-枍	TlrJdoLeXi	291296
+枍	TlrJdoXi	291296
 枑	TlrLeAlr	291295
 枒	TlrTu	291294
 枠	TlrGmrAkw	291293
@@ -9041,7 +9041,7 @@
 爊	CmeKtuCme	290959
 爔	CmeToMsuXi	290958
 爕	DuCmeCmeCme	290957
-爚	CmeMqo	290956
+爚	CmeCjoKdiFhr	290956
 爟	CmeClrLfuHqo	290955
 爧	CmeKoKdiAu	290954
 爫	Ho	290953
@@ -9245,7 +9245,7 @@
 盦	CjoXiSePdi	290755
 盩	PsuToHfiPdi	290754
 盷	DkwSliGhw	290753
-盻	DkwJdoLeXi	290752
+盻	DkwJdoXi	290752
 眊	DkwGye	290751
 眜	DkwLeTlr	290750
 眥	DiVkeDkw	290749
@@ -9386,7 +9386,7 @@
 籐	PuCuJdoHsu	290614
 籝	PuAiGle	290613
 籤	PuAuAuLe	290612
-籥	PuMqo	290611
+籥	PuCjoKdiFhr	290611
 籧	PuVheDneNdu	290610
 籰	PuDkwDkwBu	290609
 籹	KaiGle	290608
@@ -11195,7 +11195,7 @@
 厺	YdiBkr	288804
 厼	BkrFlr	288803
 厽	BkrBkrBkr	288802
-叀	LeMeBkr	288801
+叀	AkwZheBkr	288801
 叅	BkrBkrBkrHdu	288800
 収	MsiBu	288799
 叏	KsuBu	288798
@@ -11781,7 +11781,7 @@
 夡	XkeXkeLdoKdi	288218
 夣	HwAheGkeXke	288217
 夦	MtoJdoXiXke	288216
-夨	LeXiNr	288215
+夨	XiLeNr	288215
 夰	YdiVje	288214
 夲	YdiAkw	288213
 夳	YdiZo	288212
@@ -12266,7 +12266,7 @@
 崈	GkeSjwMgi	287733
 崉	MgiHsuJw	287732
 崊	MgiTlrTlr	287731
-崋	MgiLeClrKsu	287730
+崋	MgiKsuClr	287730
 崍	MgiTlrAuAu	287729
 崏	MgiCmwVo	287728
 崓	MgiZeSkr	287727
@@ -15993,7 +15993,7 @@
 禰	SjwLeXcu	284006
 禱	SjwLdoXiJfo	284005
 禲	SjwZkrClrGw	284004
-禴	SjwMqo	284003
+禴	SjwCjoKdiFhr	284003
 禶	SjwMdoLrZye	284002
 禷	SjwKaiLquAr	284001
 禼	FjrNfoGw	284000
@@ -16400,7 +16400,7 @@
 籮	PuAheYfoHqo	283599
 籯	PuAiZye	283598
 籱	PuKoHqoHqo	283597
-籲	PuMqoAr	283596
+籲	PuCjoKdiAr	283596
 籵	KaiAkw	283595
 籶	KaiAnw	283594
 籷	KaiSiFkw	283593
@@ -17005,7 +17005,7 @@
 肰	CuLqu	282994
 肳	CuSliFyw	282993
 肵	CuKfo	282992
-肹	CuJdoLeXi	282991
+肹	CuJdoXi	282991
 肻	FjrGkeCu	282990
 胅	CuSiJgi	282989
 胇	CuAmr	282988
@@ -17704,7 +17704,7 @@
 蘢	ClrJsiCuKqi	282295
 蘣	ClrGhrNrGu	282294
 蘤	ClrDleHoCme	282293
-蘥	ClrMqo	282292
+蘥	ClrCjoKdiFhr	282292
 蘦	ClrKoKdiLfu	282291
 蘨	ClrHoAyrYfo	282290
 蘪	ClrKtuKai	282289
@@ -18469,7 +18469,7 @@
 諞	DuLsiFhr	281530
 諟	DuVoJgu	281529
 諠	DuGkeFkwLe	281528
-諡	DuJdoLePdi	281527
+諡	DuJdoXiPdi	281527
 諢	DuGkeQne	281526
 諣	DuNdiKdi	281525
 諤	DuLfuZoXi	281524
@@ -18620,7 +18620,7 @@
 讎	HqoDuHqo	281379
 讏	DyrKsuKdiDu	281378
 讐	HqoHqoDu	281377
-讑	DuMqo	281376
+讑	DuCjoKdiFhr	281376
 讒	DuDsoVkeDso	281375
 讔	DuLwHoHdu	281374
 讕	DuYxiNsuJdo	281373
@@ -19963,7 +19963,7 @@
 鑭	TmrYxiNsuJdo	280036
 鑮	TmrClrHsuJfo	280035
 鑯	TmrAuAuLe	280034
-鑰	TmrMqo	280033
+鑰	TmrCjoKdiFhr	280033
 鑱	TmrDsoVkeDso	280032
 鑳	TmrGkeLfoXu	280031
 鑴	TmrMgiHqoKdi	280030
@@ -21447,7 +21447,7 @@
 鸖	KoHqoBle	278552
 鸗	JsiCuKqiBle	278551
 鸘	KoTlrDkwBle	278550
-鸙	MqoBle	278549
+鸙	CjoKdiLfuBle	278549
 鸚	ZyeZyeGleBle	278548
 鸛	ClrLfuHqoBle	278547
 鸜	DkwDkwHqoBle	278546
@@ -21631,10 +21631,10 @@
 龖	JsiCuKqiKqi	278368
 龗	KoKdiLfuKqi	278367
 龞	XcuHfiMdi	278366
-龡	MqoDlw	278365
-龣	MqoAlrHsu	278364
-龤	MqoVkeVkeDle	278363
-龥	MqoAr	278362
+龡	CjoKdiLfuDlw	278365
+龣	CjoKdiLfuHsu	278364
+龤	CjoKdiLfuDle	278363
+龥	CjoKdiLfuAr	278362
 龦	CmeNdoJfi	278361
 龧	VoVoFkeVo	278360
 龨	PgoHqo	278359
@@ -21712,10 +21712,10 @@
 㐤	GmrAkwDkwJdo	278287
 㐥	TmrSyeSleJr	278286
 㐦	JziLeXiJr	278285
-㐧	NrAkwSi	278284
+㐧	NrXiFuSi	278284
 㐨	BiBi	278283
 㐩	LfoLfo	278282
-㐪	JvuMgiAu	278281
+㐪	JvuGyrNr	278281
 㐭	JvuZeKdi	278280
 㐮	GmeLfoLeYr	278279
 㐯	DheKdiMsuVo	278278
@@ -21828,7 +21828,7 @@
 㒟	JoJvuAjeYr	278171
 㒠	JoCkeBuLe	278170
 㒡	JoHoAyrYfo	278169
-㒢	JoMqo	278168
+㒢	JoCjoKdiFhr	278168
 㒣	JoFkrJoHdu	278167
 㒤	JoHeHeHe	278166
 㒥	JoMgiMvuKqo	278165
@@ -21961,7 +21961,7 @@
 㔨	SliShrVkeCu	278038
 㔩	SliPsuBkrPdi	278037
 㔪	SliFjrNfo	278036
-㔫	MrSi	278035
+㔫	AkwVke	278035
 㔬	VkeVoAkw	278034
 㔭	VkeVoJgu	278033
 㔮	AkrKdiJgiVke	278032
@@ -22737,6 +22737,7 @@
 㡟	JfiLeKquVo	277262
 㡠	JfiJdoKqo	277261
 㡡	JfiZkrKqoJfo	277260
+㡢	JfiVoAheHfo	277259
 㡢	JfiVoAheVje	277259
 㡣	JsiGkeJfiKqi	277258
 㡤	JfiSuJdoCo	277257
@@ -22819,7 +22820,7 @@
 㢱	NsiBkrFlr	277180
 㢲	NsiNsiJdo	277179
 㢳	NsiKfeYr	277178
-㢴	NsiSiNfo	277177
+㢴	NsiNfo	277177
 㢵	NsiCjoKdi	277176
 㢶	NsiLeDle	277175
 㢷	NsiMgiXke	277174
@@ -22887,7 +22888,7 @@
 㣵	FhwPsuToNdu	277112
 㣶	FhwJvuZeLe	277111
 㣷	FhwGkeHduLfi	277110
-㣸	FhwCmeDneJfu	277109
+㣸	FhwSuDneJfu	277109
 㣹	FhwFkrJoHdu	277108
 㣺	Hdu	277107
 㣻	SoHdu	277106
@@ -22932,6 +22933,7 @@
 㤧	HduZkrLeKdi	277067
 㤨	HduAkrJdo	277066
 㤩	VywHdu	277065
+㤪	CkeLgiHdu	277064
 㤪	LeXkeLgiHdu	277064
 㤫	AkwCuHdu	277063
 㤬	HduPsuPsu	277062
@@ -23085,7 +23087,7 @@
 㧄	KsuDjr	276914
 㧅	KsuVje	276913
 㧆	KsuJfi	276912
-㧇	KsuCu	276911
+㧇	KsuDjrLe	276911
 㧈	KsuNsi	276910
 㧉	KsuYso	276909
 㧊	KsuLeJfi	276908
@@ -23328,7 +23330,7 @@
 㫂	FkrAkrCmeKfo	276671
 㫃	HfoAu	276670
 㫄	JvuSliHfo	276669
-㫅	HfoAuZoVje	276668
+㫅	HfoCjoClr	276668
 㫆	HfoAuFlr	276667
 㫇	HfoAuGhwXi	276666
 㫈	HfoAuGhwKdi	276665
@@ -23390,6 +23392,7 @@
 㬂	VoZheGw	276609
 㬃	VoBkrKdiCme	276608
 㬄	VoZkrPsuCme	276607
+㬅	VoAheHfo	276606
 㬅	VoAheLeVje	276606
 㬆	VoHtiVo	276605
 㬇	VoFmiDjrYdi	276604
@@ -23537,6 +23540,7 @@
 㮛	TlrVoJgu	276462
 㮜	TlrPgoShrLdo	276461
 㮝	TlrFmwLgi	276460
+㮝	TlrFmwLw	276460
 㮞	TlrGhwDlwKdi	276459
 㮟	TlrFjeTlr	276458
 㮠	TlrClrGkeTlr	276457
@@ -23758,7 +23762,7 @@
 㱼	KviLdu	276241
 㱽	GkeLrLdu	276240
 㱾	HcoLdu	276239
-㱿	LdoCuLdu	276238
+㱿	LdoDjrLeLdu	276238
 㲀	HgiLdu	276237
 㲁	VkwJtiLdu	276236
 㲂	NdoLdu	276235
@@ -23989,6 +23993,7 @@
 㵫	HsuQiQiVo	276010
 㵬	HsuCuFnwPdi	276009
 㵭	HsuFkeVoCme	276008
+㵮	HsuYdiNfi	276007
 㵮	HsuYdiNfiLe	276007
 㵯	HsuAnwLeBle	276006
 㵰	HsuJziLeJdo	276005
@@ -23998,7 +24003,7 @@
 㵵	HsuHeBuHsu	276001
 㵶	HsuAkwFjwHqo	276000
 㵷	SneHsuSne	275999
-㵸	HsuMqo	275998
+㵸	HsuCjoLfuFhr	275998
 㵹	HsuMgiClrYdi	275997
 㵺	HsuPuDleAkw	275996
 㵻	HsuCuJziBu	275995
@@ -24015,7 +24020,7 @@
 㶇	HsuTlrGhr	275984
 㶈	HsuCmeCmeGje	275983
 㶊	HsuQheAr	275982
-㶋	HsuCmeDneJfu	275981
+㶋	HsuSuDneJfu	275981
 㶌	HsuHeLiClr	275980
 㶍	HsuNwTo	275979
 㶎	HsuAheLeNdu	275978
@@ -24029,7 +24034,7 @@
 㶖	HsuJoFuMau	275970
 㶗	KfeDkeYfoHsu	275969
 㶘	HsuPuDhwAkw	275968
-㶙	HsuHsuCmeJfu	275967
+㶙	HsuHsuSuJfu	275967
 㶚	HsuDhwNfiCu	275966
 㶛	HsuHfoKfeJdo	275965
 㶜	HsuMfuJdoVje	275964
@@ -24123,7 +24128,7 @@
 㷵	CmeMau	275876
 㷶	JoAkrSiCme	275875
 㷷	CmeKviKviJdo	275874
-㷸	CmeVoLeKsu	275873
+㷸	CmeVoKsuClr	275873
 㷹	CmeClrFjrAkw	275872
 㷺	FmiJziHfiCme	275871
 㷻	CmeKfeKauCme	275870
@@ -24149,7 +24154,7 @@
 㸑	JziDjrLeCme	275850
 㸒	HoSiLdo	275849
 㸓	HoVo	275848
-㸔	SiJdoAkwDkw	275847
+㸔	KcoJdoDkw	275847
 㸕	HoHqoBu	275846
 㸖	JdoSoSye	275845
 㸗	JdoSoDjrKdi	275844
@@ -24306,7 +24311,7 @@
 㺵	GuDlw	275693
 㺶	GuYdo	275692
 㺷	GuTlrNr	275691
-㺸	JoAnwNrGu	275690
+㺸	JoAnwNrNr	275690
 㺹	GuBkrClr	275689
 㺺	GuDkw	275688
 㺻	GuLeJfi	275687
@@ -24457,7 +24462,7 @@
 㽐	MtoJdoAlrCme	275542
 㽑	MtoDhwVoAkw	275541
 㽓	JfuJfuJfu	275540
-㽔	CmeDneJfu	275539
+㽔	SuDneJfu	275539
 㽕	MeFye	275538
 㽖	ZheSle	275537
 㽗	ZheAu	275536
@@ -24590,10 +24595,10 @@
 㿖	QkrVheZhePdi	275409
 㿗	QkrMsuAnwAr	275408
 㿘	QkrCmeCmeAmw	275407
-㿙	QkrAheAheAhe	275406
+㿙	QkrAheAheYdi	275406
 㿚	QkrAheYfoHqo	275405
 㿛	QkrLeCuKtu	275404
-㿜	QkrFoMqo	275403
+㿜	QkrFoCjoFhr	275403
 㿝	DleBkr	275402
 㿞	DleGye	275401
 㿟	DleDle	275400
@@ -24624,7 +24629,7 @@
 㿺	VoAkrJdoDme	275375
 㿻	LvuPdi	275374
 㿼	LeClrPdi	275373
-㿽	JdoLeXiPdi	275372
+㿽	JdoXiPdi	275372
 㿾	GkeLfiPdi	275371
 㿿	JguPdi	275370
 䀀	HsuLgiPdi	275369
@@ -25764,7 +25769,7 @@
 䒇	MoGkeLeZhe	274235
 䒈	MoAkwClrZye	274234
 䒉	MoKfeKauKsu	274233
-䒊	JdoLeXiFyr	274232
+䒊	JdoXiFmiFyr	274232
 䒋	DjrYdiFmiFyr	274231
 䒌	GkeVoGmeFyr	274230
 䒍	JsiGkeHfoFyr	274229
@@ -26302,7 +26307,7 @@
 䚴	DuCu	273697
 䚵	DuYdo	273696
 䚶	DuLeYdi	273695
-䚷	DuJdoLeXi	273694
+䚷	DuJdoXi	273694
 䚸	DuAuVje	273693
 䚹	DuVkeVke	273692
 䚺	DuHfi	273691
@@ -26577,7 +26582,7 @@
 䟎	AoJgiJgiZye	273422
 䟏	AoDleLiTlr	273421
 䟐	AoZkrMsuDi	273420
-䟑	AoMqo	273419
+䟑	AoCjoKdiFhr	273419
 䟒	AoClrLfuHqo	273418
 䟓	XuLfi	273417
 䟔	XuFjr	273416
@@ -26669,7 +26674,7 @@
 䠬	XuJdoKqoLw	273330
 䠭	XuNsuFmiZye	273329
 䠮	XuJdoJgiAje	273328
-䠯	XuMqo	273327
+䠯	XuCjoKdiFhr	273327
 䠰	XuClrLfuHqo	273326
 䠱	XuMfuHsuGje	273325
 䠲	KfiCjoBkr	273324
@@ -26883,7 +26888,7 @@
 䤅	SeCjoCuVje	273116
 䤆	SeJdoLeYdi	273115
 䤇	SeVkwAuBu	273114
-䤈	SeJdoLePdi	273113
+䤈	SeJdoXiPdi	273113
 䤉	SeHduSiPdi	273112
 䤊	SeClrHe	273111
 䤋	JdoSeFjwLe	273110
@@ -28054,9 +28059,9 @@
 䶰	MdiGye	271945
 䶱	MwGhwMdi	271944
 䶲	DjrPsuMdi	271943
-䶳	MqoJvuAnw	271942
-䶴	CmeDlwMqo	271941
-䶵	MqoZkrVhe	271940
+䶳	CjoKdiLfuAnw	271942
+䶴	CmeDlwCjoFhr	271941
+䶵	CjoKdiLfuVhe	271940
 𠀀	LeFuLeXi	271939
 𠀁	LeXi	271938
 𠀂	LeJr	271937
@@ -28073,7 +28078,7 @@
 𠀍	Dko	271926
 𠀎	LfoLe	271925
 𠀏	LeGyrLe	271924
-𠀐	KdiFuLe	271923
+𠀐	Gje	271923
 𠀑	LeDjrLr	271922
 𠀒	JdoLeXi	271921
 𠀓	NsiFuLe	271920
@@ -28183,11 +28188,10 @@
 𠁼	NrNrNr	271816
 𠁽	AnwNr	271815
 𠁾	DjrJvu	271814
-𠁾	XiXiNr	271814
 𠁿	DjrLeNr	271813
 𠂀	ClrJvu	271812
 𠂁	VjeLeJvu	271811
-𠂂	GkeLeLeClr	271810
+𠂂	NrDjrLeClr	271810
 𠂃	LeHsuNrYe	271809
 𠂄	DjrJvuVoNe	271808
 𠂅	JvuDnwHqoYe	271807
@@ -28212,7 +28216,7 @@
 𠂛	SiDi	271787
 𠂜	SiDi	271786
 𠂝	JoKdi	271785
-𠂞	SiJdoLeXi	271784
+𠂞	SiJdoXi	271784
 𠂟	SiJdoAkw	271783
 𠂠	SiFlrLeXi	271782
 𠂠	SiJdoXi	271782
@@ -28272,7 +28276,7 @@
 𠃘	ZkrLeJr	271728
 𠃙	GmrGmr	271727
 𠃚	MfoXi	271726
-𠃛	AlrFu	271725
+𠃛	DjrZo	271725
 𠃜	Mfu	271724
 𠃝	JrFlr	271723
 𠃞	LeDywXi	271722
@@ -28444,9 +28448,9 @@
 𠆆	DheKdiTo	271556
 𠆇	JvuSiDjrYdi	271555
 𠆈	JvuHjuDjrGle	271554
-𠆉	HwLfoLeFu	271553
+𠆉	HwLfoKsuClr	271553
 𠆊	DheLeZo	271552
-𠆋	JvuHjuCjoKdi	271551
+𠆋	JvuJdoFuKdi	271551
 𠆌	DheVoJdoDle	271550
 𠆍	JvuCuAkwJdo	271549
 𠆎	JvuZeQrBu	271548
@@ -28488,7 +28492,7 @@
 𠆲	JoFkr	271512
 𠆳	AuFjrLe	271511
 𠆴	LeJfiAu	271510
-𠆵	JoJdoLeXi	271509
+𠆵	JoJdoXi	271509
 𠆶	JoGkeLr	271508
 𠆷	GmrAuVje	271507
 𠆸	JoHfi	271506
@@ -28591,7 +28595,7 @@
 𠈚	JoAkwFuPsu	271409
 𠈛	AuCuVje	271408
 𠈜	JoFmiFyr	271407
-𠈝	JoJdoLeAlr	271406
+𠈝	JoJdoAlr	271406
 𠈞	JoXkeKsu	271405
 𠈟	JoJsuLeLgi	271404
 𠈠	JoKfeKsu	271403
@@ -29338,13 +29342,13 @@
 𠔇	JdoNdu	270663
 𠔈	JdoKdiFu	270662
 𠔉	JdoJgi	270661
-𠔊	KfoLeJdo	270660
+𠔊	KfoJdo	270660
 𠔋	JdoNfo	270659
 𠔌	Fmw	270658
 𠔍	JdoMe	270657
 𠔎	FmwKsu	270656
 𠔏	AkrLeJdo	270655
-𠔐	ClrSmeJdo	270654
+𠔐	LeKdiJdo	270654
 𠔑	JdoVjeJdoVje	270653
 𠔒	JdoJzi	270652
 𠔓	KquJdo	270651
@@ -29921,7 +29925,7 @@
 𠝋	MfuSjwVje	270085
 𠝌	BkrLeHsuVje	270084
 𠝍	KcoShrVkeVje	270083
-𠝎	FmiMfuAlrFu	270082
+𠝎	FmiMfuDjrZo	270082
 𠝎	FmiYxi	270082
 𠝏	CjoKdiAuVje	270081
 𠝐	ClrJoVkeVje	270080
@@ -30686,7 +30690,7 @@
 𠩉	ZkrGyrDjr	269322
 𠩊	ZkrVkeVo	269321
 𠩋	ZkrJdoGyr	269320
-𠩌	ZkrSiNfo	269319
+𠩌	ZkrNfo	269319
 𠩍	ZkrFuPsuBu	269318
 𠩎	ZkrViLe	269317
 𠩏	ZkrFjrLeFlr	269316
@@ -31067,7 +31071,7 @@
 𠯈	KdiYdi	268943
 𠯉	VjeKdiLe	268942
 𠯊	KdiLeAkw	268941
-𠯋	KdiJdoLeXi	268940
+𠯋	KdiJdoXi	268940
 𠯌	SoAkwKdi	268939
 𠯍	KdiDjrZo	268938
 𠯎	KdiXiKsu	268937
@@ -31472,7 +31476,7 @@
 𠵡	KdiLfoLfo	268539
 𠵢	KdiAkrCme	268538
 𠵣	KdiQneXi	268537
-𠵤	LeMeBkrKdi	268536
+𠵤	AkwZheBkrKdi	268536
 𠵥	QuQuKdi	268535
 𠵦	QuKdiKfeAkw	268534
 𠵧	HgiKdi	268533
@@ -32541,7 +32545,7 @@
 𡆏	KdiYxiZoKfo	267470
 𡆐	AkrKdiAuKdi	267469
 𡆑	KdiMgiLfuHfi	267468
-𡆒	AkrKdiYdiKdi	267467
+𡆒	AkrGjeJdoKdi	267467
 𡆓	KdiFlrXiDle	267466
 𡆔	LfuArLfuSke	267465
 𡆕	KdiDuYfoHdu	267464
@@ -32583,7 +32587,7 @@
 𡆺	ZeKsu	267428
 𡆻	ZeLeLi	267427
 𡆼	ZeSiClr	267426
-𡆽	ZeJdoLeXi	267425
+𡆽	ZeJdoXi	267425
 𡆾	ZeJdoBkr	267424
 𡆿	ZeCmw	267423
 𡇀	ZeLdu	267422
@@ -33594,6 +33598,7 @@
 𡖴	FmiNrGkeLr	266417
 𡖵	JvuJoCuKdi	266416
 𡖶	ClrVoYdiXke	266415
+𡖷	XkeGkeGuGme	266414
 𡖷	XkeGkeKsuJdo	266414
 𡖸	FmiGkeSiJdo	266413
 𡖹	NdoXkeXke	266412
@@ -33728,7 +33733,7 @@
 𡘽	TlrTlrYdi	266283
 𡘾	ShrLquYdi	266282
 𡘿	SiJgiZkrYr	266281
-𡙀	XcuLeXiNr	266280
+𡙀	XcuXiLeNr	266280
 𡙁	YdiAuAuAu	266279
 𡙂	YdiDywZhe	266278
 𡙃	YdiYdiNrGu	266277
@@ -34623,7 +34628,7 @@
 𡧃	GkeFhw	265388
 𡧄	GkeYe	265387
 𡧅	GkeClr	265386
-𡧆	GkeLeJdo	265385
+𡧆	GkeJdo	265385
 𡧇	GkeJti	265384
 𡧈	GkeZoXi	265383
 𡧉	GkeLeLr	265382
@@ -36588,7 +36593,7 @@
 𢅶	JfiPuFmrKe	263425
 𢅷	ClrXcuHfiJfi	263424
 𢅸	VhrHfiJfi	263423
-𢅹	JfiMqo	263422
+𢅹	JfiCjoKdiFhr	263422
 𢅺	DoVoFkrJfi	263421
 𢅻	JfiHqoHqoBu	263420
 𢅼	JfiLeFoMw	263419
@@ -36681,7 +36686,8 @@
 𢇓	LiLiFjwJr	263332
 𢇔	LiSleVoFlr	263331
 𢇕	MgiLiLiLi	263330
-𢇖	LiLiJvuFkw	263329
+𢇖	LiLiJvuNr	263329
+𢇖	LiLiJvuXi	263329
 𢇗	FkrLeFjr	263328
 𢇘	FkrGle	263327
 𢇙	FkrQo	263326
@@ -36708,7 +36714,7 @@
 𢇮	FkrHfi	263305
 𢇯	FkrJoBu	263304
 𢇰	FkrBkrLr	263303
-𢇱	FkrJdoLeXi	263302
+𢇱	FkrJdoXi	263302
 𢇲	FkrMsu	263301
 𢇳	FkrDme	263300
 𢇴	FkrAkwJfi	263299
@@ -37157,7 +37163,7 @@
 𢎯	LeNsiXiSi	262856
 𢎰	NsiZoXi	262855
 𢎱	NsiFuFuSi	262854
-𢎲	NsiJdoLe	262853
+𢎲	NsiJdo	262853
 𢎳	NsiPsu	262852
 𢎴	NsiYdi	262851
 𢎵	NsiDyw	262850
@@ -37331,7 +37337,7 @@
 𢑛	AlrFywHsu	262684
 𢑜	AlrSliZhe	262683
 𢑝	AlrAlrGkeLr	262682
-𢑞	AlrJdoLeJfi	262681
+𢑞	AlrJdoFmiJfi	262681
 𢑟	AlrGkeJoFjw	262680
 𢑠	AlrAlrKfeKw	262679
 𢑡	AlrZkrDne	262678
@@ -37737,7 +37743,7 @@
 𢗱	DoHdu	262280
 𢗲	HduJgi	262279
 𢗳	HduGye	262278
-𢗴	HduJdoLeXi	262277
+𢗴	HduJdoXi	262277
 𢗵	HduQiXi	262276
 𢗶	HduLeCu	262275
 𢗷	HduHsu	262274
@@ -37771,7 +37777,7 @@
 𢘔	CjoHduLgi	262246
 𢘕	HduBiSi	262245
 𢘖	CuHduLgi	262244
-𢘗	SiKdiFuHdu	262243
+𢘗	JoKdiHdu	262243
 𢘘	HduAmr	262242
 𢘙	HduHgu	262241
 𢘚	HduGkeLrNr	262240
@@ -38906,7 +38912,7 @@
 𢪃	KsuFkwVje	261112
 𢪄	KsuGmrAkw	261111
 𢪅	KsuAuVje	261110
-𢪆	KsuJdoLeXi	261109
+𢪆	KsuJdoXi	261109
 𢪇	ShrKsu	261108
 𢪈	KsuDjrZo	261107
 𢪉	KsuNsiFu	261106
@@ -39193,7 +39199,7 @@
 𢮥	KsuBkrYdiFlr	260825
 𢮦	KsuCjoKdiAu	260824
 𢮧	KsuZheClr	260823
-𢮨	KsuLeMeBkr	260822
+𢮨	KsuAkwZheBkr	260822
 𢮩	KsuQiMti	260821
 𢮪	KsuJdoAkrJdo	260820
 𢮫	KsuGleBuNsi	260819
@@ -40492,7 +40498,7 @@
 𣂹	MgiFmwGyrKfo	259526
 𣂺	JsiCoKfo	259525
 𣂻	PgoKdiLfuKfo	259524
-𣂼	AkrKdiPsuKfo	259523
+𣂼	ClrLeKdiKfo	259523
 𣂽	ZeFjwKdiKfo	259522
 𣂾	LiLiLeKfo	259521
 𣂿	AheJoFjwKfo	259520
@@ -40644,7 +40650,7 @@
 𣅑	JdoVo	259374
 𣅒	VoSiFkw	259373
 𣅓	VoGle	259372
-𣅔	VoLeXiNr	259371
+𣅔	VoXiLeNr	259371
 𣅕	VoDyw	259370
 𣅖	VoNe	259369
 𣅗	VoMfo	259368
@@ -40949,7 +40955,7 @@
 𣊂	VoJsiJdoAu	259069
 𣊃	BiSiHfiVo	259068
 𣊄	MvuMvuAlrVo	259067
-𣊅	FoJdoLeVo	259066
+𣊅	FoJdoXiVo	259066
 𣊆	FoJdoVjeVo	259065
 𣊇	VoGkeLeJdo	259064
 𣊈	VoKtu	259063
@@ -41558,7 +41564,7 @@
 𣓤	TlrAkwAkrLr	258460
 𣓥	HsuBiSiTlr	258459
 𣓦	TlrHsuSiFi	258458
-𣓧	LeMeBkrTlr	258457
+𣓧	AkwZheBkrTlr	258457
 𣓨	FjrZeXkeTlr	258456
 𣓩	TlrDywZhe	258455
 𣓪	HwAkrXiTlr	258454
@@ -41653,7 +41659,7 @@
 𣕃	TlrZheGw	258365
 𣕄	TlrLsiDjrKdi	258364
 𣕅	TlrSiLdoKvi	258363
-𣕆	TlrJdoLePdi	258362
+𣕆	TlrJdoXiPdi	258362
 𣕇	FlrCuVjeTlr	258361
 𣕈	TlrClrVoLe	258360
 𣕉	TlrClrTyw	258359
@@ -42000,7 +42006,7 @@
 𣚟	TlrVjeNrDi	258018
 𣚠	TlrSuXcu	258017
 𣚡	TlrLtoTlr	258016
-𣚢	TlrLeMeNdu	258015
+𣚢	TlrAkwZheNdu	258015
 𣚣	TlrZheAkrJdo	258014
 𣚤	VoKdiTlrBu	258013
 𣚥	TlrClrHwCu	258012
@@ -42491,7 +42497,7 @@
 𣢊	SliFywDlw	257527
 𣢋	VkeVkeDlw	257526
 𣢌	GkeLrDlw	257525
-𣢍	JdoLeXiDlw	257524
+𣢍	JdoXiDlw	257524
 𣢎	CmwDlw	257523
 𣢏	JdoVjeDlw	257522
 𣢐	DlwDlw	257521
@@ -43785,7 +43791,7 @@
 𣶠	HsuFkwAuHdu	256233
 𣶡	HsuZeCke	256232
 𣶢	HsuJvuSliHfo	256231
-𣶣	HsuLeMeBkr	256230
+𣶣	HsuAkwZheBkr	256230
 𣶤	HsuDjrYdiKdi	256229
 𣶥	HsuPsuFje	256228
 𣶦	HsuZeFje	256227
@@ -44134,7 +44140,7 @@
 𣻿	HsuClrSne	255884
 𣼀	HsuFkrFkwFyw	255883
 𣼁	HsuToNrHsu	255882
-𣼂	HsuGkeLeDkw	255881
+𣼂	HsuGkeJdoDkw	255881
 𣼃	HsuJdoJgiMsu	255880
 𣼄	HsuKtuAkwBkr	255879
 𣼅	HsuJvuLiTlr	255878
@@ -44742,7 +44748,7 @@
 𤅟	HsuKoXuVyw	255276
 𤅠	HsuClrVoAje	255275
 𤅡	HsuFoHsuAr	255274
-𤅢	HsuClrMqo	255273
+𤅢	HsuClrCjoFhr	255273
 𤅣	HsuJvuJziSye	255272
 𤅤	HsuYsiLeXcu	255271
 𤅥	HsuHoAheBu	255270
@@ -44756,7 +44762,7 @@
 𤅭	HsuJvuLfuYr	255262
 𤅮	HsuLdoGkeHdu	255261
 𤅯	HsuTlrMfuBu	255260
-𤅰	HsuPuMqo	255259
+𤅰	HsuPuCjoFhr	255259
 𤅱	HsuGjeGjePdi	255258
 𤅲	HsuPuVoAje	255257
 𤅳	HsuFjwKdiAi	255256
@@ -45630,7 +45636,7 @@
 𤓚	CmeToMsuCme	254388
 𤓛	CmeYgiZuHqo	254387
 𤓜	MsuAuHsuCme	254386
-𤓝	CmeClrMqo	254385
+𤓝	CmeClrCjoFhr	254385
 𤓞	MsuAuHsuCme	254384
 𤓟	JziSoSoCme	254383
 𤓠	CmeFjrNfoFu	254382
@@ -45892,7 +45898,7 @@
 𤗠	ShrKcoAuDjr	254126
 𤗡	FkeVoShr	254125
 𤗢	ShrZkrVhe	254124
-𤗣	ShrAkwAkrTlr	254123
+𤗣	ShrMvuFuTlr	254123
 𤗤	ShrJtiZye	254122
 𤗥	ShrAkwClrTlr	254121
 𤗦	ShrQmw	254120
@@ -45930,7 +45936,7 @@
 𤘆	TuTu	254088
 𤘇	TuFjrKdi	254087
 𤘈	TuJzi	254086
-𤘉	TuZeJdoLe	254085
+𤘉	TuZeLrLe	254085
 𤘊	TuJdoVjeLw	254084
 𤘋	TuSiKsuFjw	254083
 𤘌	TuYdiSke	254082
@@ -46996,7 +47002,7 @@
 𤨵	GuBkrBkrFyw	253023
 𤨶	GuAkrJdoHsu	253022
 𤨷	GuClrKdiTlr	253021
-𤨸	GuAkrKo	253020
+𤨸	GuClrKo	253020
 𤨹	GuKoLeAkw	253019
 𤨺	GuGkeJdoKai	253018
 𤨻	LdoGkeLfuGu	253017
@@ -47574,7 +47580,7 @@
 𤲀	MeMeLeXi	252445
 𤲁	ZheBkrJdoMgi	252444
 𤲂	ZheAuVjeFjr	252443
-𤲃	ZheLeClrKsu	252442
+𤲃	ZheLfoKsu	252442
 𤲄	SiZheSiHsu	252441
 𤲅	AkrJdoVoXi	252440
 𤲆	ZheHgi	252439
@@ -47725,7 +47731,7 @@
 𤴘	ZiAlrDi	252294
 𤴙	SiNfoJgu	252293
 𤴚	NsuJgu	252292
-𤴛	LeMeBkrDi	252291
+𤴛	AkwZheBkrDi	252291
 𤴜	TlrJguTlr	252290
 𤴝	FkwBkrJgu	252289
 𤴞	LdoAheBkrDi	252288
@@ -47783,7 +47789,7 @@
 𤵒	QkrXo	252236
 𤵓	QkrLgiBu	252235
 𤵔	QkrBkrLr	252234
-𤵕	QkrJdoLeXi	252233
+𤵕	QkrJdoXi	252233
 𤵖	QkrJw	252232
 𤵗	QkrAkwJfi	252231
 𤵘	QkrHduSi	252230
@@ -48995,7 +49001,7 @@
 𥈒	DkwLiLiClr	251024
 𥈓	DkwNdiKdi	251023
 𥈔	DkwPgoVoGle	251022
-𥈕	DkwJdoLePdi	251021
+𥈕	DkwJdoXiPdi	251021
 𥈖	DkwYdiTo	251020
 𥈗	DkwAr	251019
 𥈘	DkwJvuVoFlr	251018
@@ -49287,7 +49293,7 @@
 𥌷	DkwGkeMvuHdu	250732
 𥌸	DkwYxiFmiJzi	250731
 𥌹	DkwTmrDleJfi	250730
-𥌺	DkwMqo	250729
+𥌺	DkwCjoKdiFhr	250729
 𥌻	DkwYxiNsuJdo	250728
 𥌼	DkwKoKdiLfu	250727
 𥌽	DkwZyeZyeGle	250726
@@ -50625,7 +50631,7 @@
 𥡴	MsuMrFjrFkw	249395
 𥡵	MsuFkwBkrJfo	249394
 𥡶	MsuMgiGkeSjw	249393
-𥡷	MsuLeDiHdu	249392
+𥡷	MsuLeFjrHdu	249392
 𥡸	MsuClrVoYdi	249391
 𥡹	MsuAkrJfiZi	249390
 𥡺	MsuKfeDjrKdi	249389
@@ -50771,7 +50777,7 @@
 𥤆	MsuClrKtuCme	249249
 𥤇	MsuPuBkrFyw	249248
 𥤈	MsuSiKaiBu	249247
-𥤉	MsuMqo	249246
+𥤉	MsuCjoKdiFhr	249246
 𥤊	MsuClrLfuHqo	249245
 𥤋	HeHeHeMsu	249244
 𥤌	MsuZuZheJdo	249243
@@ -50784,7 +50790,7 @@
 𥤓	MsuFoVkwNdu	249236
 𥤔	SoTlrVjeNsu	249235
 𥤕	MsuNsuMsuNsu	249234
-𥤖	PuMqoMsu	249233
+𥤖	PuCjoAheMsu	249233
 𥤗	MsuNdoMau	249232
 𥤘	MsuDkwDkwBu	249231
 𥤙	MsuClrLfuBu	249230
@@ -51282,7 +51288,7 @@
 𥬈	PuAuAu	248739
 𥬉	PuSliBkr	248738
 𥬊	PuKfo	248737
-𥬋	PuJdoLeXi	248736
+𥬋	PuJdoXi	248736
 𥬌	PuGkeVke	248735
 𥬍	PuJoMgi	248734
 𥬎	PuLeTlr	248733
@@ -51419,7 +51425,7 @@
 𥮑	PuMwFjrKdi	248602
 𥮒	PuHsuFjrKdi	248601
 𥮓	PuHsuBkrClr	248600
-𥮔	PuLeMeBkr	248599
+𥮔	PuAkwZheBkr	248599
 𥮕	PuTlrJvuAnw	248598
 𥮖	PuAkwDkwLe	248597
 𥮗	PuSliKai	248596
@@ -51784,7 +51790,8 @@
 𥳿	PuDsoNdu	248238
 𥴀	CmeSkoPsu	248237
 𥴁	PuDheJgo	248236
-𥴂	PuZheLeKsu	248235
+𥴂	PuZheKsuClr	248235
+𥴂	PuZheLeAkw	248235
 𥴃	PuZoDlwAkw	248234
 𥴄	PuGkeJdoAkw	248233
 𥴅	PuKaiDhw	248232
@@ -51794,7 +51801,7 @@
 𥴉	PuSywSywVo	248228
 𥴊	PuJtiHeHfi	248227
 𥴋	PuJtiHeDlw	248226
-𥴌	PuDkwJdoTlr	248225
+𥴌	PuDkwYdiTlr	248225
 𥴍	PuTlrJdoLvu	248224
 𥴎	PuDjrAuDne	248223
 𥴏	PuTmrCme	248222
@@ -52074,7 +52081,7 @@
 𥸡	PuSrAkwZye	247948
 𥸢	PuGiGiGje	247947
 𥸣	PuMauFmiDu	247946
-𥸤	PuMqoAr	247945
+𥸤	PuCjoKdiAr	247945
 𥸥	XiKai	247944
 𥸦	XiKai	247943
 𥸧	KaiLfi	247942
@@ -52249,7 +52256,7 @@
 𥻑	KaiZheGw	247773
 𥻒	KaiXkeKai	247772
 𥻓	KaiZoDlwKdi	247771
-𥻔	KaiAkrAkwClr	247770
+𥻔	KaiLfoAkwClr	247770
 𥻕	KaiCmeCo	247769
 𥻖	KaiJdoDne	247768
 𥻘	KaiXkeKsuDyw	247767
@@ -52326,7 +52333,7 @@
 𥼟	KaiSiPdiHsu	247696
 𥼠	KaiLtoTlr	247695
 𥼡	KaiFmiKtu	247694
-𥼢	KaiClrZheTlr	247693
+𥼢	KaiClrLuTlr	247693
 𥼣	KaiKfeKauCme	247692
 𥼤	KaiMtoJdoKfo	247691
 𥼥	KaiLeMeCme	247690
@@ -52374,7 +52381,7 @@
 𥽏	QhePuAheKai	247648
 𥽐	QheMqoKai	247647
 𥽑	KaiLtoKai	247646
-𥽒	KaiAkrAkrTlr	247645
+𥽒	KaiDkoDkoTlr	247645
 𥽓	KaiHauSiBkr	247644
 𥽔	KaiYfoDleJfi	247643
 𥽕	KaiGkeJdoSjw	247642
@@ -52618,7 +52625,7 @@
 𦁃	YfoJdoZhe	247404
 𦁄	YfoHgi	247403
 𦁅	YfoYrVje	247402
-𦁆	YfoLeMeBkr	247401
+𦁆	YfoAkwZheBkr	247401
 𦁇	YfoAuGhwHdu	247400
 𦁈	YfoVkwPsu	247399
 𦁉	YfoJsiGle	247398
@@ -53040,7 +53047,7 @@
 𦇩	YfoClrKtuCme	246982
 𦇪	YfoClrAheNr	246981
 𦇫	YfoNwTo	246980
-𦇬	YfoMqo	246979
+𦇬	YfoCjoKdiFhr	246979
 𦇭	YfoDleVkwNdu	246978
 𦇮	YfoTmrKcoJgo	246977
 𦇯	YfoNsiLeXcu	246976
@@ -53314,7 +53321,7 @@
 𦋿	AheLeKquVo	246708
 𦌀	AheBkrBkrFyw	246707
 𦌁	AheLuKdiGle	246706
-𦌂	AheZheLeKsu	246705
+𦌂	AheZheLfoKsu	246705
 𦌃	AheNfoAkw	246704
 𦌄	DjrSoBkrCu	246703
 𦌅	AheYfoCmwLe	246702
@@ -53537,7 +53544,7 @@
 𦏞	NeKdiCuTo	246485
 𦏟	ToLdoXiJfo	246484
 𦏠	ToCmeToCme	246483
-𦏡	ToSiKsuXi	246482
+𦏡	ClrPsuSiXi	246482
 𦏢	ToLdoAheZye	246481
 𦏣	ToPuKeKdi	246480
 𦏤	ToSkeSkeSke	246479
@@ -53647,7 +53654,7 @@
 𦑍	FjwKdiLeZu	246375
 𦑎	ZuYdiVoXi	246374
 𦑏	ZuHqo	246373
-𦑐	ZuLeMeBkr	246372
+𦑐	ZuAkwZheBkr	246372
 𦑑	HduAkwJtiZu	246371
 𦑒	JdoToZu	246370
 𦑓	MvuMvuZu	246369
@@ -53899,7 +53906,7 @@
 𦕋	HeDjrBu	246123
 𦕌	CmwHe	246122
 𦕍	HeGkeAnw	246121
-𦕎	HeJdoLeXi	246120
+𦕎	HeJdoXi	246120
 𦕏	HeKdiFu	246119
 𦕐	HeMto	246118
 𦕑	HeCmwLe	246117
@@ -53993,7 +54000,7 @@
 𦖩	GoYdiHe	246029
 𦖪	HeVkwAuBu	246028
 𦖫	HtiVoHe	246027
-𦖬	HeJdoLePdi	246026
+𦖬	HeJdoXiPdi	246026
 𦖭	HeCjoCuVje	246025
 𦖮	HeHfoKfeKw	246024
 𦖯	HeNrSiCme	246023
@@ -54998,8 +55005,8 @@
 𦦚	JziAuJziAu	245024
 𦦛	JziSoSoLe	245023
 𦦜	MvuNrJziDi	245022
-𦦝	JziGkeFhwFu	245021
-𦦞	JziGkeFhwFu	245020
+𦦝	JziDjrFhwFu	245021
+𦦞	JziDjrFhwFu	245020
 𦦟	JziDjrLeVje	245019
 𦦠	JziSoSoFu	245018
 𦦡	JziDjrLeAkw	245017
@@ -56159,7 +56166,7 @@
 𦸦	ClrAkwGkeHfi	243864
 𦸧	ClrJdoKdiPsu	243863
 𦸨	ClrJdoLeMvu	243862
-𦸩	ClrVoLeKsu	243861
+𦸩	ClrVoLfoKsu	243861
 𦸪	ClrHsuLto	243860
 𦸫	ClrVoJdoAmr	243859
 𦸬	ClrLeGyrJdo	243858
@@ -57020,7 +57027,7 @@
 𧆃	ClrAiGkeQne	243003
 𧆄	NsuClrDleTlr	243002
 𧆅	ClrJvuDuNsi	243001
-𧆆	ClrSjwMqo	243000
+𧆆	ClrSjwCjoFhr	243000
 𧆇	ClrHsuPdiGje	242999
 𧆈	ClrSneDneAr	242998
 𧆉	ClrLfuHqoYfo	242997
@@ -57154,7 +57161,7 @@
 𧈉	VheNfiCu	242869
 𧈊	DywZheTlrVhe	242868
 𧈋	VheClrDso	242867
-𧈌	LeMeBkrVhe	242866
+𧈌	AkwZheBkrVhe	242866
 𧈍	LfuZheAkwVhe	242865
 𧈎	VheAuNfiFyw	242864
 𧈏	YdiJdoVoVhe	242863
@@ -57809,7 +57816,7 @@
 𧒜	KoZheGje	242214
 𧒝	MfuAkrGjeGje	242213
 𧒞	GjeZeKaiCu	242212
-𧒟	GkeJdoLeGje	242211
+𧒟	NrDjrLeGje	242211
 𧒠	GjeGkeBuAi	242210
 𧒡	GkeMvuGjeGje	242209
 𧒢	XiGjeGjeGje	242208
@@ -57980,7 +57987,7 @@
 𧕈	MfuSjwJfoGje	242043
 𧕉	GjeHoLiFmw	242042
 𧕊	GjeDuCmeBu	242041
-𧕋	GjeMqo	242040
+𧕋	GjeCjoKdiFhr	242040
 𧕌	ZheVywGjeGje	242039
 𧕍	GjeCmeCmeKdi	242038
 𧕎	HsuPgoPgoGje	242037
@@ -58613,7 +58620,7 @@
 𧟃	YrMgiHqoKdi	241410
 𧟅	YrLdoZeZye	241409
 𧟆	YrClrKtuCme	241408
-𧟇	YrMqo	241407
+𧟇	YrCjoKdiFhr	241407
 𧟈	YrJziSiCme	241406
 𧟉	YrPuYxiCu	241405
 𧟊	YrVoGyrKai	241404
@@ -58832,7 +58839,7 @@
 𧢟	GywXyr	241191
 𧢠	XyrMgiHqoHfi	241190
 𧢡	XyrYwGu	241189
-𧢢	MqoXyr	241188
+𧢢	CjoKdiLfuXyr	241188
 𧢣	TlrSoSoXyr	241187
 𧢤	XyrClrYwAnw	241186
 𧢥	KoKdiLfuXyr	241185
@@ -59220,7 +59227,7 @@
 𧨣	DjrAuKdiDu	240803
 𧨤	DuVoJti	240802
 𧨥	DuVjeVo	240801
-𧨦	DuJdoLePdi	240800
+𧨦	DuJdoPdi	240800
 𧨧	LwAkwJtiDu	240799
 𧨨	DuHduSiMgi	240798
 𧨩	DuLeYdiHdu	240797
@@ -60281,7 +60288,7 @@
 𧹇	ZyeJziNfoGw	239743
 𧹈	ZyeZyeZyeYdi	239742
 𧹉	SrAkwAuZye	239741
-𧹊	ZyeMqo	239740
+𧹊	ZyeCjoKdiFhr	239740
 𧹋	JoQoZyeCme	239739
 𧹌	LdoGkeKqoZye	239738
 𧹍	YgiMdoLrZye	239737
@@ -60684,7 +60691,7 @@
 𧿚	XuJdoVje	239340
 𧿛	XuAuAu	239339
 𧿜	XuDjrJvu	239338
-𧿝	XuJdoLeXi	239337
+𧿝	XuJdoXi	239337
 𧿞	XuDlw	239336
 𧿟	XuLeAlr	239335
 𧿠	XuLeLi	239334
@@ -61234,13 +61241,13 @@
 𨈂	XuHqoHqoBu	238791
 𨈃	XuAkwDkwJdo	238790
 𨈄	XuAkwFjwGyw	238789
-𨈅	XuClrMqo	238788
+𨈅	XuClrCjoFhr	238788
 𨈆	XuClrYxiJdo	238787
 𨈇	XuQhePuXyr	238786
 𨈈	XuZheZheSye	238785
 𨈉	XuClrLeMw	238784
 𨈊	XuDuYfoNsi	238783
-𨈋	XuPuMqo	238782
+𨈋	XuPuCjoFhr	238782
 𨈌	XuDuYfoHdu	238781
 𨈍	XuZyeZyeBu	238780
 𨈎	XuDuYfoBle	238779
@@ -62318,7 +62325,7 @@
 𨙁	FywDiQeAr	237707
 𨙂	HoAyrSiNdu	237706
 𨙃	FjrZePgoNdu	237705
-𨙄	MqoNdu	237704
+𨙄	CjoKdiLfuNdu	237704
 𨙅	MwZheAlrNdu	237703
 𨙆	DneCuLeNdu	237702
 𨙇	GkeLfoJdoNdu	237701
@@ -63042,8 +63049,8 @@
 𨤙	SiKaiYdiYfo	236983
 𨤚	SiKaiLfoDjr	236982
 𨤛	SiKaiGkeFmw	236981
-𨤜	SiKaiClrDne	236980
-𨤝	SiKaiAkrClr	236979
+𨤜	SiKaiAkrDne	236980
+𨤝	SiKaiLfoClr	236979
 𨤞	SiKaiClrGw	236978
 𨤟	SiKaiSiTo	236977
 𨤠	SiKaiZuHqo	236976
@@ -63109,7 +63116,7 @@
 𨥜	TmrSiYdi	236916
 𨥝	TmrHo	236915
 𨥞	TmrAuAkw	236914
-𨥟	TmrJdoLeXi	236913
+𨥟	TmrJdoXi	236913
 𨥠	TmrAlrSi	236912
 𨥡	TmrBkrAnw	236911
 𨥢	BuDjrTmr	236910
@@ -63975,7 +63982,7 @@
 𨳅	YsiVkwJsiKqi	236050
 𨳆	YsiAkwKdiYr	236049
 𨳇	LsiLePgoFu	236048
-𨳈	AlrFuMfu	236047
+𨳈	DjrZoMfu	236047
 𨳉	YxiNr	236046
 𨳊	YxiGmr	236045
 𨳋	YxiAnw	236044
@@ -64002,7 +64009,7 @@
 𨳠	YxiDjrSo	236023
 𨳡	YxiClr	236022
 𨳢	YxiJoFjr	236021
-𨳣	YxiJdoLeXi	236020
+𨳣	YxiJdoXi	236020
 𨳤	YxiNsiFu	236019
 𨳥	YxiJdo	236018
 𨳦	YxiBuBu	236017
@@ -64273,7 +64280,7 @@
 𨷯	YxiJziLeKsu	235752
 𨷰	YxiKoKdiLfu	235751
 𨷱	YxiHoAyrYfo	235750
-𨷲	YxiMqo	235749
+𨷲	YxiCjoKdiFhr	235749
 𨷳	YxiClrKtuCme	235748
 𨷴	YxiCuDuYfo	235747
 𨷵	YxiSyrLeKfo	235746
@@ -64301,7 +64308,7 @@
 𨸋	QlrHqoCme	235724
 𨸌	QlrLdoGkeKqo	235723
 𨸍	SywQlrPsuPdi	235722
-𨸎	QlrMqo	235721
+𨸎	QlrCjoKdiFhr	235721
 𨸏	SiNw	235720
 𨸐	LwFnw	235719
 𨸑	LwLeXi	235718
@@ -64897,7 +64904,7 @@
 𩁡	DuJoXkeHqo	235128
 𩁢	AkrKdiPsuHqo	235127
 𩁣	AkrAmwFlrHqo	235126
-𩁤	AkrKdiJgoHqo	235125
+𩁤	AkrKdiVoHqo	235125
 𩁥	ToNrNrHqo	235124
 𩁦	KoZheHqoBu	235123
 𩁧	LrGhwGhwHqo	235122
@@ -65993,7 +66000,7 @@
 𩒪	CmeAkwAr	234032
 𩒫	MfuKdiAr	234031
 𩒬	JdoBkrLrAr	234030
-𩒭	JdoLeGleAr	234029
+𩒭	JdoGleAr	234029
 𩒮	LeHsuNrAr	234028
 𩒯	FkrCjoXiAr	234027
 𩒰	SiKsuFjwAr	234026
@@ -67393,7 +67400,7 @@
 𩨣	NdiHfo	232632
 𩨤	NdiLeLi	232631
 𩨥	NdiGkeLr	232630
-𩨦	NdiJdoLeXi	232629
+𩨦	NdiJdoXi	232629
 𩨧	NdiAuVje	232628
 𩨨	NdiVkeVke	232627
 𩨩	NdiZkrBu	232626
@@ -69116,7 +69123,7 @@
 𪃡	HsuAkrJdoBle	230910
 𪃢	AkwDjrToBle	230909
 𪃣	MvuNrVoBle	230908
-𪃤	PsuPsuLeBle	230907
+𪃤	PsuPsuXiBle	230907
 𪃥	TlrDkwBle	230906
 𪃦	DkwFlrSiBle	230905
 𪃧	DkwFlrSiBle	230904
@@ -69955,7 +69962,7 @@
 𪐪	MauKdiLe	230071
 𪐫	MauHfi	230070
 𪐬	MauZoLr	230069
-𪐭	MauJdoLeXi	230068
+𪐭	MauJdoXi	230068
 𪐮	MauLdu	230067
 𪐯	MauSliBkr	230066
 𪐰	XoMau	230065
@@ -70211,6 +70218,7 @@
 𪔩	TiJeKeKdi	229816
 𪔪	TiJeKdiHe	229815
 𪔫	GyrClrTiJe	229814
+𪔬	TiJeAkwTlr	229813
 𪔬	TiJeLeTlr	229813
 𪔭	TiJeAkwSmr	229812
 𪔮	TiJePsuPdi	229811
@@ -70624,19 +70632,19 @@
 𪛇	MdiZeKdiKdi	229403
 𪛈	KoKdiLfuMdi	229402
 𪛉	Mdi	229401
-𪛊	MqoKfo	229400
-𪛋	MqoVoJw	229399
-𪛌	MqoVhe	229398
-𪛍	MqoVheLfi	229397
-𪛎	HsuFoMqo	229396
-𪛏	MqoSr	229395
-𪛐	GyrDjrDlwMqo	229394
-𪛑	CmeFywLrMqo	229393
-𪛒	PuMqoLdu	229392
-𪛓	MqoKtu	229391
-𪛔	PuMqoVhe	229390
-𪛕	MqoMdi	229389
-𪛖	MqoMdiCme	229388
+𪛊	CjoKdiLfuKfo	229400
+𪛋	CjoKdiLfuJw	229399
+𪛌	CjoKdiLfuVhe	229398
+𪛍	CjoKdiLfuLfi	229397
+𪛎	HsuFoCjoFhr	229396
+𪛏	CjoKdiLfuSr	229395
+𪛐	GyrDjrDlwFhr	229394
+𪛑	CmeFywLrFhr	229393
+𪛒	PuCjoKdiLdu	229392
+𪛓	CjoKdiLfuKtu	229391
+𪛔	PuCjoKdiVhe	229390
+𪛕	CjoKdiLfuMdi	229389
+𪛖	CjoKdiLfuCme	229388
 𪛗	CjoDjrXi	229387
 𪛘	DjrLrXi	229386
 𪛙	Xi	229385
@@ -71837,7 +71845,7 @@
 𪮲	KsuToGhwDlw	228190
 𪮳	KsuJvuCmeGje	228189
 𪮴	KsuMfuKaiGle	228188
-𪮵	KsuAkrJdoLi	228187
+𪮵	KsuLeLiJdo	228187
 𪮶	KsuNsuFmiSmr	228186
 𪮷	KsuCjoKdiSne	228185
 𪮸	KsuDhwYdiHr	228184
@@ -74160,7 +74168,7 @@
 𫓦	QjrQi	225867
 𫓨	QjrFjw	225866
 𫓪	QjrJdoBkr	225865
-𫓫	QjrJdoLeXi	225864
+𫓫	QjrJdoXi	225864
 𫓬	QjrPgoJfi	225863
 𫓭	QjrDjrYdi	225862
 𫓮	QjrFmiAlr	225861
@@ -74687,7 +74695,7 @@
 𫜙	MauQhr	225340
 𫜚	MauSliFywHdu	225339
 𫜛	MauJdi	225338
-𫜜	JdoLeXiXcu	225337
+𫜜	JdoXiSuXcu	225337
 𫜝	LfuQhr	225336
 𫜞	MauQhr	225335
 𫜟	JdoSeQhr	225334
@@ -74708,7 +74716,7 @@
 𫜱	AkrJfiJsiKqi	225319
 𫜲	AkwCuHgu	225318
 𫜳	DjrPsuMdi	225317
-𫜴	TlrTlrCmeMqo	225316
+𫜴	TlrTlrCmeFhr	225316
 𫜵	Ho	225315
 𫜶	CuDheQiHfi	225314
 𫜷	MvuJfoLw	225313
@@ -75190,7 +75198,7 @@
 𫤨	YgiVoClrClr	224838
 𫤩	DjrAuAlrXke	224837
 𫤪	AuGuAuGu	224836
-𫤫	JdoLeFuXi	224835
+𫤫	JdoFuXiXi	224835
 𫤬	JdoGhwGhw	224834
 𫤭	SiDjrSoJdo	224833
 𫤮	JdoJziFu	224832
@@ -76836,7 +76844,7 @@
 𫾫	LeKdiSoHfi	223193
 𫾬	HeHfi	223192
 𫾭	SiCoHfi	223191
-𫾮	JdoLeFuHfi	223190
+𫾮	JdoFuXiHfi	223190
 𫾯	FkrLvuHfi	223189
 𫾰	NsiHsuHfi	223188
 𫾱	QheHfi	223187
@@ -76977,7 +76985,7 @@
 𬀺	YwVoSliFyw	223052
 𬀻	VoPsuLrPsu	223051
 𬀼	VoLeSyeSle	223050
-𬀽	VoLeClrKsu	223049
+𬀽	VoKsuClr	223049
 𬀾	VoPsuVoFu	223048
 𬀿	VoMqo	223047
 𬁀	CmwVoFlrSi	223046
@@ -77384,7 +77392,7 @@
 𬇗	HsuNsi	222645
 𬇘	HsuZoXiNr	222644
 𬇚	HsuLiXi	222643
-𬇛	HsuLeCuLe	222642
+𬇛	HsuLeAlrNr	222642
 𬇜	HsuYdiGhw	222641
 𬇝	HsuJdoVje	222640
 𬇟	HsuNrHsu	222639
@@ -78500,7 +78508,7 @@
 𬙔	AyrNdoZhe	221529
 𬙕	AheFuLe	221528
 𬙖	AheLeFjr	221527
-𬙗	GkeJdoLeAkw	221526
+𬙗	GkeJdoAkw	221526
 𬙘	AheLeAkw	221525
 𬙙	AheHfo	221524
 𬙚	AheAkrXi	221523
@@ -78839,7 +78847,7 @@
 𬞪	ClrJdoFoLr	221190
 𬞫	ClrHsuVjePdi	221189
 𬞬	ClrGleGkeFmw	221188
-𬞭	ClrQheKviCme	221187
+𬞭	ClrQheMfoCme	221187
 𬞮	ClrQneNduFu	221186
 𬞯	ClrDiVoHfi	221185
 𬞰	ClrFuVoGle	221184
@@ -79250,7 +79258,7 @@
 𬥒	AlrSiZye	220779
 𬥓	ZyeJdoKsu	220778
 𬥔	KfoZyeFkw	220777
-𬥕	ZyeJdoLeXi	220776
+𬥕	ZyeJdoFuXi	220776
 𬥖	ZyeDiPsu	220775
 𬥗	ZyeAuAuPsu	220774
 𬥘	ZyeMdoKdi	220773
@@ -79653,7 +79661,7 @@
 𬫫	TmrJvuZeKdi	220376
 𬫬	TmrDmwNrPdi	220375
 𬫭	TmrZkrJgo	220374
-𬫮	TmrAkrAi	220373
+𬫮	TmrAkrCuFu	220373
 𬫯	TmrClrKe	220372
 𬫰	TmrClrJoJfo	220371
 𬫱	TmrJdoBkrPr	220370
@@ -79956,7 +79964,7 @@
 𬰻	SrMsu	220073
 𬰼	SrVjeVo	220072
 𬰽	JoFuHfiSr	220071
-𬰾	SrMqo	220070
+𬰾	SrCjoKdiFhr	220070
 𬰿	VjeAr	220069
 𬱀	LeAkwAr	220068
 𬱁	NrHsuAr	220067
@@ -80007,7 +80015,7 @@
 𬱰	FywKgiKdiPe	220022
 𬱱	ToJdoKdiPe	220021
 𬱲	DleVkwHfoPe	220020
-𬱳	MqoPe	220019
+𬱳	CjoKdiLfuPe	220019
 𬱴	KqiKcoJgo	220018
 𬱵	AnwSoPw	220017
 𬱶	AnwZoLiXi	220016
@@ -80418,7 +80426,7 @@
 𬸢	DleYdiAkwJbo	219611
 𬸤	DhwSjwJbo	219610
 𬸥	MvuNrJziJbo	219609
-𬸧	AkrShrVkeJbo	219608
+𬸧	AkrKdiShrJbo	219608
 𬸨	MtoJdoDlwJbo	219607
 𬸩	SiDjrKaiJbo	219606
 𬸫	DheQiHfiJbo	219605
@@ -80534,9 +80542,9 @@
 𬺜	HguTlr	219495
 𬺝	LdoMfuLduHgu	219494
 𬺞	DsoVoXi	219493
-𬺟	MqoKsi	219492
-𬺠	AlrHsuMqo	219491
-𬺡	FkwBkrHduMqo	219490
+𬺟	CjoKdiLfuKsi	219492
+𬺠	AlrHsuCjoFhr	219491
+𬺡	FkwBkrHduFhr	219490
 𬺰	Akw	219489
 𬺱	AkwSi	219488
 𬺲	AnwLe	219487
@@ -80960,7 +80968,7 @@
 𭁔	AkrYsuJdo	219069
 𭁕	AuFuLeJdo	219068
 𭁖	GmeAlrHsu	219067
-𭁗	JdoLeAheSi	219066
+𭁗	JdoAheLeSi	219066
 𭁘	LquGjeGme	219065
 𭁙	JdoKsuDheLfi	219064
 𭁚	AkrJdoShrCu	219063
@@ -81003,7 +81011,7 @@
 𭁿	GkeSjwLdu	219026
 𭂀	GkeAheLeYr	219025
 𭂁	GkeFuVoCme	219024
-𭂂	GkeJdoZheKsu	219023
+𭂂	GkeJdoYsuAkr	219023
 𭂃	GkeTlrTlrSjw	219022
 𭂄	GkeVoGmeAu	219021
 𭂅	GkeMvuAheHdu	219020
@@ -81073,7 +81081,7 @@
 𭃅	VjeNrVje	218956
 𭃆	BuNrVje	218955
 𭃇	VjeBuNr	218954
-𭃈	VjeJdoLeXi	218953
+𭃈	VjeJdoXi	218953
 𭃉	VjeXo	218952
 𭃊	XiLeXiLe	218951
 𭃋	VjeFyr	218950
@@ -81157,7 +81165,7 @@
 𭄙	PuLsiFhrVje	218872
 𭄚	ClrLfuZheVje	218871
 𭄛	MdoLrMdoVje	218870
-𭄜	MqoVje	218869
+𭄜	CjoKdiLfuVje	218869
 𭄝	VjeClrLfuDlw	218868
 𭄞	AuSle	218867
 𭄟	JtiSle	218866
@@ -81453,7 +81461,7 @@
 𭉀	CjoXiKdiMto	218578
 𭉁	CjoKdiGmeSo	218577
 𭉂	KdiFhwFhe	218576
-𭉃	KdiJdoLePdi	218575
+𭉃	KdiJdoXiPdi	218575
 𭉄	KdiMoKvi	218574
 𭉅	CuXiFywSo	218573
 𭉆	KdiHduFhe	218572
@@ -83183,7 +83191,7 @@
 𭤅	SpwJfoHfi	216849
 𭤆	DiKaiHfi	216848
 𭤇	BiSiHfiGle	216847
-𭤈	LeMeBkrHfi	216846
+𭤈	AkwZheBkrHfi	216846
 𭤉	CmwVoHfiMgi	216845
 𭤊	SrAkwHfi	216844
 𭤋	KdiTlrGleNr	216843
@@ -83347,7 +83355,7 @@
 𭦩	VoPsuLrLr	216685
 𭦪	DhwFjrFkw	216684
 𭦫	DhwGleVo	216683
-𭦬	VoAkwDkwJdo	216682
+𭦬	VoAkwSyeJdo	216682
 𭦭	VoYdiPsuPsu	216681
 𭦮	VoMvuMvuLe	216680
 𭦯	VoJguCmw	216679
@@ -83448,7 +83456,7 @@
 𭨎	VoLeJgoLe	216584
 𭨏	VoSuGhr	216583
 𭨐	BkrVjeNrVo	216582
-𭨑	VoMqo	216581
+𭨑	VoCjoKdiFhr	216581
 𭨒	VoAheYfoHqo	216580
 𭨓	VoVheQmwLqu	216579
 𭨔	HfuKdiVoKdi	216578
@@ -83466,7 +83474,7 @@
 𭨠	LsiKdiHfiVo	216566
 𭨡	DoVoKdiSo	216565
 𭨢	VoGyrDjrHdu	216564
-𭨣	VoMqo	216563
+𭨣	VoCjoKdiFhr	216563
 𭨤	CuLgi	216562
 𭨥	CuDmw	216561
 𭨦	CuAuFu	216560
@@ -84920,7 +84928,7 @@
 𭿎	DkwKaiYdi	215113
 𭿏	DkwDheAnw	215112
 𭿐	QheLduDkw	215111
-𭿑	DkwZheClrKsu	215110
+𭿑	DkwYsuAkr	215110
 𭿒	DkwTmrAkw	215109
 𭿓	SiAhePsuTo	215108
 𭿔	DkwToCme	215107
@@ -85628,7 +85636,7 @@
 𮊙	AheZuDle	214405
 𮊚	AheClrPgoZhe	214404
 𮊛	AheCmeCmeGye	214403
-𮊜	DjrSoGkeSle	214402
+𮊜	DjrAuGkeSle	214402
 𮊝	AheZkrCmeGye	214401
 𮊞	DjrAuJvuZo	214400
 𮊟	AheYfoKdiZye	214399
@@ -86225,8 +86233,7 @@
 𮓮	VheLrFlrFlr	213809
 𮓯	VheLrKaiKsu	213808
 𮓰	KdiFuLeNr	213807
-𮓱	JoKdiLe	213806
-𮓱	SiKdiFuLe	213806
+𮓱	SiGje	213806
 𮓲	GjeXiXi	213805
 𮓳	GjeQlr	213804
 𮓴	GjeMfu	213803
@@ -86343,7 +86350,8 @@
 𮕦	KfeYr	213692
 𮕧	YrBu	213691
 𮕨	YrYdi	213690
-𮕩	JvuLeClrYr	213689
+𮕩	JvuLeAkrYr	213689
+𮕩	JvuXiLdoYr	213689
 𮕪	KdiFuYr	213688
 𮕫	JvuDjrZoYr	213687
 𮕬	YrJoVke	213686
@@ -86355,7 +86363,7 @@
 𮕲	YrDkw	213680
 𮕳	YrAhe	213679
 𮕴	YrJoKw	213678
-𮕵	SiKdiFuYr	213677
+𮕵	JoKdiYr	213677
 𮕶	YrKfeJfi	213676
 𮕷	KfeKdiYr	213675
 𮕸	YrHti	213674
@@ -86741,7 +86749,7 @@
 𮛷	XuJdoLfi	213294
 𮛸	XuKcoAkrDjr	213293
 𮛹	XuLquGje	213292
-𮛺	XuKcoClrLe	213291
+𮛺	XuKcoClrMvu	213291
 𮛻	XuSliSpw	213290
 𮛼	XuMwFjrVo	213289
 𮛽	XuDheAnw	213288
@@ -87341,7 +87349,7 @@
 𮥖	LwKdiVoFyw	212694
 𮥗	LwClrAuTlr	212693
 𮥘	LwMgiBkrMw	212692
-𮥙	LwSiKdiYr	212691
+𮥙	LwJoKdiYr	212691
 𮥚	LwAlrAlrHdu	212690
 𮥛	LwPgoClrKdi	212689
 𮥜	SiNwAkwZye	212688
@@ -87502,7 +87510,7 @@
 𮧹	FkeSr	212533
 𮧺	HvuSr	212532
 𮧻	SrMrSme	212531
-𮧼	AkwDkwJdoSr	212530
+𮧼	AkwSyeJdoSr	212530
 𮧽	SrHqoBu	212529
 𮧾	SrGhr	212528
 𮧿	MsuCmeHduSr	212527
@@ -87663,7 +87671,7 @@
 𮪜	AjeLeCmeKtu	212372
 𮪝	AjeZkrDhwJfo	212371
 𮪞	AjeAkwKdiTlr	212370
-𮪟	AjeMqo	212369
+𮪟	AjeCjoKdiFhr	212369
 𮪠	AjeVkwGmw	212368
 𮪡	FyeHguFyw	212367
 𮪢	FyeFjwClr	212366
@@ -87971,14 +87979,14 @@
 𮯕	FmeYdiZheYr	212064
 𮯖	FmeClrMvuJvu	212063
 𮯗	FmeVheKdiYdi	212062
-𮯘	FmeMqo	212061
+𮯘	FmeCjoKdiFhr	212061
 𮯚	HguCjoKdi	212060
 𮯛	FmiGkeAlrXi	212059
 𮯜	JdoDjrAuNfo	212058
 𮯝	KfeAheAlrNr	212057
 𮯞	DsoAlrAlrDkw	212056
 𮯟	DsoDkwXiDkw	212055
-𮯠	MqoAkrVo	212054
+𮯠	CjoKdiLfuVo	212054
 𰀀	LeXi	212053
 𰀁	Ksu	212052
 𰀂	Alr	212051
@@ -89926,7 +89934,7 @@
 𰭧	FkeXi	209098
 𲂉	FeLeSu	209097
 𲃕	FlrXu	209096
-𰶏	FeMqo	209095
+𰶏	FeCjoKdiFhr	209095
 𰵊	FeMsi	209094
 𱌬	FmeVi	209093
 𱌪	FmeXo	209092
@@ -89972,7 +89980,7 @@
 𰗄	GmeCu	209053
 𱮶	GuMfu	209052
 𱮿	GuMvuLw	209051
-𰢙	GuMqo	209050
+𰢙	GuCjoKdiFhr	209050
 𱮷	GuSjw	209049
 𰡺	GuSko	209048
 𰢉	GuVheMw	209047
@@ -90127,7 +90135,7 @@
 𱜊	MgiNw	208898
 𲉨	MrHqo	208897
 𱼶	MoKvi	208896
-𱰓	MqoPr	208895
+𱰓	CjoKdiLfuPr	208895
 𰢨	MtoCu	208894
 𱃦	NaiGo	208893
 䶿	NaiLr	208892
@@ -90532,7 +90540,7 @@
 𱕭	AkrKdiJgiJgi	208493
 𱍨	AkrKdiJgiLe	208492
 𱊴	AkrKdiShrJbo	208491
-𱍥	AkrKdiShrLe	208490
+𱍥	ClrLeKdiLe	208490
 𱍓	AkwKsuSiNr	208489
 𱬯	AkrMeCmeVke	208488
 𰝸	AkwSiCme	208487
@@ -92996,7 +93004,7 @@
 𰛏	HsuAuAu	206029
 𱨦	HsuAkwBkrHqo	206028
 𰛍	HsuAkwBu	206027
-𱦶	HsuAheClr	206026
+𱦶	HsuAheAkwXi	206026
 𰛻	HsuAlrCme	206025
 𱥲	HsuAkwDjr	206024
 𰛬	HsuAkwDjrYdi	206023
@@ -93250,7 +93258,7 @@
 𱧛	HsuJdoYdiLw	205775
 𱨞	HsuJdoYdiPdi	205774
 𱘙	HsuJsiZkrPsu	205773
-𱪕	HsuJvuZeSjw	205772
+𱪕	HsuJvuLfuSjw	205772
 𰝔	HsuKsuAuKdi	205771
 𱨭	HsuKdiAkwKdi	205770
 𰛓	HsuKsuBkr	205769
@@ -93292,7 +93300,7 @@
 𱪌	HsuKaiZheKai	205733
 𰜻	HsuLquAkrVo	205732
 𱩲	HsuLeCuBkr	205731
-𱧌	HsuLeClrCo	205730
+𱧌	HsuLeAkrTlr	205730
 𱦾	HsuLsiCme	205729
 𰛺	HsuLwCu	205728
 𱧊	HsuLeDleFlr	205727
@@ -94962,7 +94970,7 @@
 𱻱	LsiLeGo	204064
 𰣱	LeShrLto	204063
 𰤊	LeShrNwTo	204062
-𱮡	LsiSuAkwNr	204061
+𱮡	LeMfuSuNr	204061
 𰤁	LeShrClrZhe	204060
 𱟥	LsiYdoVoVke	204059
 𲂩	LsiZye	204058
@@ -95232,8 +95240,8 @@
 𱟦	MwMvuNduHfo	203794
 𰞓	MwPsuCme	203793
 𱼼	MoPsuJgo	203792
-𱊵	MqoJbo	203791
-𱍉	MqoMdi	203790
+𱊵	CjoKdiLfuJbo	203791
+𱍉	CjoKdiLfuMdi	203790
 𱜘	MqoPgoPgo	203789
 𱍊	CjoLfuFhrJw	203788
 𱶬	MsuAheAje	203787
@@ -96160,7 +96168,7 @@
 𰣵	QkrMgiGo	202866
 𱱙	QkrMvuKdiDjr	202865
 𰣼	QkrMsuKdiJdo	202864
-𱱰	QkrMqo	202863
+𱱰	QkrCjoKdiFhr	202863
 𰣦	QkrNrSleNr	202862
 𱱧	QkrPsuYo	202861
 𱱊	QkrQlr	202860
@@ -96382,7 +96390,7 @@
 𱵌	SjwBkrLeYdi	202644
 𱵶	SjwCmeCmeNr	202643
 𰧮	SjwClr	202642
-𰨙	SjwClrMqo	202641
+𰨙	SjwClrCjoFhr	202641
 𱵖	SjwDiDi	202640
 𰨍	SjwDoHr	202639
 𱵘	SjwDleLeGhw	202638
@@ -98080,7 +98088,7 @@
 ⿒	Gyw	200947
 ⿓	JsiCuKqi	200946
 ⿔	Mdi	200945
-⿕	Mqo	200944
+⿕	CjoKdiLfuFhr	200944
 豈	MgiKqo	200943
 更	FkwSo	200942
 車	Qne	200941
@@ -98360,7 +98368,7 @@
 﨔	TlrHsuJdoKsu	200667
 凞	GhwQheMfoCme	200666
 猪	LquFkeVoNr	200665
-益	JdoLeJdoPdi	200664
+益	JdoJdoPdi	200664
 礼	SjwXi	200663
 神	SjwVoFu	200662
 祥	SjwTo	200661
@@ -98829,7 +98837,7 @@
 𣽞	HsuVoMwKdi	200199
 𣾎	HsuLeXiCme	200198
 濆	HsuAkwClrZye	200197
-瀹	HsuMqo	200196
+瀹	HsuCjoKdiFhr	200196
 瀞	HsuMvuCuDo	200195
 瀛	HsuAiGle	200194
 㶖	HsuJoFuMau	200193
@@ -100478,7 +100486,7 @@
 𲤍	GiMw	198551
 𲤎	GiGiVoLe	198550
 𲤏	VoPsu	198549
-𲤐	VoJdoLeXi	198548
+𲤐	VoJdoXi	198548
 𲤑	VoMfuNr	198547
 𲤒	VoPr	198546
 𲤓	KgiFkw	198545
@@ -100602,7 +100610,7 @@
 𲦉	ZheTlrXo	198427
 𲦊	TlrDkwXiXi	198426
 𲦋	TlrCuFyr	198425
-𲦌	TlrAlrFuFu	198424
+𲦌	TlrFuAlrZo	198424
 𲦍	TlrPgoYdiAu	198423
 𲦎	TlrAkrJdoKvi	198422
 𲦏	TlrKgiJfu	198421
@@ -100643,7 +100651,7 @@
 𲦲	NdoHfiTlr	198386
 𲦳	TlrKdiLfuXi	198385
 𲦴	TlrLquJsiSke	198384
-𲦵	SiKaiAkrCo	198383
+𲦵	SiKaiLfoCo	198383
 𲦶	TlrHfuKqo	198382
 𲦷	TlrFmiFmrKsu	198381
 𲦸	TlrHfiPsuTo	198380
@@ -101262,7 +101270,7 @@
 𲰜	PrAuHw	197768
 𲰝	PrSkrLr	197767
 𲰞	HoQiPr	197766
-𲰟	LeMeBkrPr	197765
+𲰟	AkwZheBkrPr	197765
 𲰠	JdoJgiLgiPr	197764
 𲰡	PrPgoKdiLfu	197763
 𲰢	PuAmrPr	197762

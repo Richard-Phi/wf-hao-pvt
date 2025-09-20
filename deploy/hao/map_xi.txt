@@ -85,7 +85,6 @@ Fk	戸
 Fk	
 Fm	卯
 Fm	
-Fm	
 Fn	饣
 Fn	瓦
 Fq	气
@@ -184,6 +183,7 @@ Jv	
 Jv	
 Jv	〣
 Jw	虫
+Jw	𠀐
 Jx	未
 Jz	册
 Jz	冊
@@ -422,7 +422,6 @@ Sn	勹
 St	甲
 Sv	夫
 Sy	侖
-Sy	龠
 Te	𣄼
 Tf	雨
 Tf	⻗
