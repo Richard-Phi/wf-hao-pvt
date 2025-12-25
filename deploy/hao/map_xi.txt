@@ -4,6 +4,7 @@ Ae	斉
 Ah	儿
 Aj	木
 Aj	朩
+Aj	𣎳
 Am	两
 Ar	音
 Au	力
@@ -70,6 +71,7 @@ Er	宀
 Er	冖
 Eu	矢
 Ew	巴
+Ew	{反巴}
 Ff	乡
 Fh	一
 Fh	㇀
@@ -167,7 +169,6 @@ Je	⺜
 Je	𫩏
 Jf	麥
 Jg	乙
-Jg	𠃉
 Jh	龙
 Jh	竜
 Ji	五
@@ -228,6 +229,7 @@ Lr	
 Lt	辶
 Lt	⻍
 Lv	⺀
+Lv	{丶丶}
 Lv	冫
 Lv	
 Lw	龱
@@ -286,6 +288,7 @@ Od	{反弓}
 Oe	丶
 Oe	㇏
 Oe	乀
+Oe	乁
 On	麻
 Oq	业
 Or	𣎆
@@ -329,6 +332,7 @@ Pu	
 Pv	乛
 Pv	⺃
 Pv	⺄
+Pv	𠃉
 Pv	フ
 Pv	レ
 Pv	ヿ
@@ -344,7 +348,6 @@ Pv	㇎
 Pv	㇗
 Pv	㇞
 Pv	㇢
-Pv	乁
 Pv	乚
 Pv	𠃌
 Pv	ㄣ
@@ -422,6 +425,7 @@ Sn	勹
 St	甲
 Sv	夫
 Sy	侖
+Sy	龠
 Te	𣄼
 Tf	雨
 Tf	⻗
@@ -465,10 +469,12 @@ Uc	黒
 Ud	囗
 Ue	无
 Ue	旡
+Ue	兂
 Ue	亠
 Ue	丁
 Uh	束
 Us	缶
+Us	
 Us	𦈢
 Us	㠯
 Us	𤕪
@@ -512,7 +518,6 @@ Wi	又
 Wi	ス
 Wi	ㄡ
 Wi	臼
-Wi	{臼变}
 Wi	{臼框}
 Wi	⺽
 Wi	
@@ -590,6 +595,7 @@ Zi	
 Zi	
 Zj	可
 Zp	禾
+Zp	
 Zv	冂
 Zv	⺆
 Zv	凵

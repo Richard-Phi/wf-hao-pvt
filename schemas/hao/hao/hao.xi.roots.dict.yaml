@@ -16,6 +16,7 @@ columns:
 儿	/rah
 木	/raj
 朩	/raj
+𣎳	/raj
 两	/ram
 音	/rar
 力	/rau
@@ -82,6 +83,7 @@ columns:
 冖	/rer
 矢	/reu
 巴	/rew
+{反巴}	/rew
 乡	/rff
 一	/rfh
 ㇀	/rfh
@@ -179,7 +181,6 @@ columns:
 𫩏	/rje
 麥	/rjf
 乙	/rjg
-𠃉	/rjg
 龙	/rjh
 竜	/rjh
 五	/rji
@@ -240,6 +241,7 @@ columns:
 辶	/rlt
 ⻍	/rlt
 ⺀	/rlv
+{丶丶}	/rlv
 冫	/rlv
 	/rlv
 龱	/rlw
@@ -298,6 +300,7 @@ columns:
 丶	/roe
 ㇏	/roe
 乀	/roe
+乁	/roe
 麻	/ron
 业	/roq
 𣎆	/ror
@@ -341,6 +344,7 @@ columns:
 乛	/rpv
 ⺃	/rpv
 ⺄	/rpv
+𠃉	/rpv
 フ	/rpv
 レ	/rpv
 ヿ	/rpv
@@ -356,7 +360,6 @@ columns:
 ㇗	/rpv
 ㇞	/rpv
 ㇢	/rpv
-乁	/rpv
 乚	/rpv
 𠃌	/rpv
 ㄣ	/rpv
@@ -434,6 +437,7 @@ columns:
 甲	/rst
 夫	/rsv
 侖	/rsy
+龠	/rsy
 𣄼	/rte
 雨	/rtf
 ⻗	/rtf
@@ -477,10 +481,12 @@ columns:
 囗	/rud
 无	/rue
 旡	/rue
+兂	/rue
 亠	/rue
 丁	/rue
 束	/ruh
 缶	/rus
+	/rus
 𦈢	/rus
 㠯	/rus
 𤕪	/rus
@@ -524,7 +530,6 @@ columns:
 ス	/rwi
 ㄡ	/rwi
 臼	/rwi
-{臼变}	/rwi
 {臼框}	/rwi
 ⺽	/rwi
 	/rwi
@@ -602,6 +607,7 @@ columns:
 	/rzi
 可	/rzj
 禾	/rzp
+	/rzp
 冂	/rzv
 ⺆	/rzv
 凵	/rzv

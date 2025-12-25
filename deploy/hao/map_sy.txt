@@ -4,6 +4,7 @@ Mdu	斉
 Lr	儿
 Tlr	木
 Tlr	朩
+Tlr	𣎳
 Kso	两
 Sr	音
 Sle	力
@@ -70,6 +71,7 @@ Gke	宀
 Gke	冖
 Hfu	矢
 Fyr	巴
+Fyr	{反巴}
 Dnw	乡
 Le	一
 Le	㇀
@@ -228,6 +230,7 @@ Lvu	
 Ndu	辶
 Ndu	⻍
 Ghw	⺀
+Ghw	{丶丶}
 Ghw	冫
 Ghw	
 Nfo	龱
@@ -286,6 +289,7 @@ Nsi	{反弓}
 Nr	丶
 Nr	㇏
 Nr	乀
+Nr	乁
 Hau	麻
 Su	业
 Ai	𣎆
@@ -329,6 +333,7 @@ Fmw	
 Xi	乛
 Xi	⺃
 Xi	⺄
+Xi	𠃉
 Xi	フ
 Xi	レ
 Xi	ヿ
@@ -344,7 +349,6 @@ Xi	㇎
 Xi	㇗
 Xi	㇞
 Xi	㇢
-Xi	乁
 Xi	乚
 Xi	𠃌
 Xi	ㄣ
@@ -422,6 +426,7 @@ Sli	勹
 Ysu	甲
 Jgi	夫
 Mqo	侖
+Mqo	龠
 Fkw	𣄼
 Ko	雨
 Ko	⻗
@@ -465,10 +470,12 @@ Mau	黒
 Ze	囗
 Gi	无
 Gi	旡
+Gi	兂
 Jvu	亠
 Lfi	丁
 Nsu	束
 Ayr	缶
+Ayr	
 Ayr	𦈢
 Nw	㠯
 Nw	𤕪
@@ -512,7 +519,6 @@ Bu	又
 Bu	ス
 Bu	ㄡ
 Jzi	臼
-Jzi	{臼变}
 Jzi	{臼框}
 Jzi	⺽
 Jzi	
@@ -590,6 +596,7 @@ Pu	
 Pu	
 Ske	可
 Msu	禾
+Msu	
 Djr	冂
 Djr	⺆
 Djr	凵

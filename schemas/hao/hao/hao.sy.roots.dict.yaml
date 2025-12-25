@@ -16,6 +16,7 @@ columns:
 儿	/rlr
 木	/rtlr
 朩	/rtlr
+𣎳	/rtlr
 两	/rkso
 音	/rsr
 力	/rsle
@@ -82,6 +83,7 @@ columns:
 冖	/rgke
 矢	/rhfu
 巴	/rfyr
+{反巴}	/rfyr
 乡	/rdnw
 一	/rle
 ㇀	/rle
@@ -240,6 +242,7 @@ columns:
 辶	/rndu
 ⻍	/rndu
 ⺀	/rghw
+{丶丶}	/rghw
 冫	/rghw
 	/rghw
 龱	/rnfo
@@ -298,6 +301,7 @@ columns:
 丶	/rnr
 ㇏	/rnr
 乀	/rnr
+乁	/rnr
 麻	/rhau
 业	/rsu
 𣎆	/rai
@@ -341,6 +345,7 @@ columns:
 乛	/rxi
 ⺃	/rxi
 ⺄	/rxi
+𠃉	/rxi
 フ	/rxi
 レ	/rxi
 ヿ	/rxi
@@ -356,7 +361,6 @@ columns:
 ㇗	/rxi
 ㇞	/rxi
 ㇢	/rxi
-乁	/rxi
 乚	/rxi
 𠃌	/rxi
 ㄣ	/rxi
@@ -434,6 +438,7 @@ columns:
 甲	/rysu
 夫	/rjgi
 侖	/rmqo
+龠	/rmqo
 𣄼	/rfkw
 雨	/rko
 ⻗	/rko
@@ -477,10 +482,12 @@ columns:
 囗	/rze
 无	/rgi
 旡	/rgi
+兂	/rgi
 亠	/rjvu
 丁	/rlfi
 束	/rnsu
 缶	/rayr
+	/rayr
 𦈢	/rayr
 㠯	/rnw
 𤕪	/rnw
@@ -524,7 +531,6 @@ columns:
 ス	/rbu
 ㄡ	/rbu
 臼	/rjzi
-{臼变}	/rjzi
 {臼框}	/rjzi
 ⺽	/rjzi
 	/rjzi
@@ -602,6 +608,7 @@ columns:
 	/rpu
 可	/rske
 禾	/rmsu
+	/rmsu
 冂	/rdjr
 ⺆	/rdjr
 凵	/rdjr
